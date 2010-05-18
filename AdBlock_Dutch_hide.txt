@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 11 May 2010
+! Last modified: 17 May 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -10,19 +10,22 @@
 
 !-----Algemene blokkeerregels-----!
 *advertentie.gif
+*clicktag=http://ad.doubleclick.net/*
 /adverteerders/*
 /advertentie/*
 /advertenties/*
+/BannerLookup.asp?*
 /images/banners/
 /reklame/*
+/show_ads.js$domain=~gratiswebsitepromotie.nl
 
 !-----Advertentieservers-----!
-||promotools.*.nl^$third-party
 ||atemda.com^$third-party
 ||ds1.nl^$third-party
 ||europacams.nl^$third-party
 ||geoaddicted.net^$third-party
 ||k1s.nl^$third-party
+||site-id.nl^$third-party
 ||pool.sanoma.adhese.com^$third-party
 ||tel.adversitement.nl^$third-party
 ||ad.doubleclick.net^$third-party,object_subrequest
@@ -34,6 +37,7 @@
 ||pics.obedo.nl^$third-party
 ||yellowlemontree.nl.site-id.nl^$third-party
 ||banners.vip.nl^$third-party
+||advertentie.zien.info^$~third-party
 
 !-----Site-specifieke blokkeerregels------!
 9292ov.nl/images/9292-banner.gif
@@ -48,43 +52,57 @@ belastingdienst.nl/common/images/campagnes/*$image
 biertijd.com/ad_peel/*
 media*.biertijd.com/galleries/*/banners/*
 biertijd.com/media/banners/*
+biologiepagina.nl/Images/mijndomeingroen.jpg
 buienradar.nl/adbron.aspx?*
 buienradar.nl/ads/
 buienradar.nl/shop/images/*$domain=~shop.buienradar.nl
 cameranu.nl/images/banner_zoom.gif$domain=zoom.nl
+deboswachter.nl/dysbanner.gif
 de-keizer.nl/tassen/tas-online/banner.gif$domain=tassen.startpagina.nl
 statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
 statisch.detelefoongids.nl/*_advertorial_*
 statisch.detelefoongids.nl/dms/images/*/ad_*.png
 statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
+dierenbescherming.nl/imgupload/banners/*
 dutchleader.*/php/banex/*$third-party
 dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 easylist.nl/125x125.swf
 easylist.nl/ads_loader.swf
+eenhuiszoeken.nl/banner/*
+eigenstart.nl/modules/banners/*
+eurobellen.nl/belspel/?pid=*
 examen.nl/banners/*
+frankrijk.nl/flash/banner_*
 funnygames.nl/scripts/ad_utils/*
 havovwo.nl/pics/gsmweb.jpg
 havovwo.nl/pics/openu2.swf
 havovwo.nl/pics/wolf.gif
 hdci.nl/soo/energie.html?*
 hetnieuwerijden.nl/content/banners/*
+hln.be/static/nmc/adv/*
 htforum.nl/yabbse/Banners/*
 htforum.nl/yabbse/topframe_v3.php
 images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
 images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 internetbode.nl/banner*
 internetbode.nl/images/*_banner.gif
+jouwpage.nl/images/banner*
 kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?*
 kimhollandpartners.nl/livecams/*
+klimaatinfo.nl/images/banner.gif
 laagstehypotheekofferte.nl/widget/*/*
 leerlingen.com/content_images/*_banner.jpg
+leerwiki.nl/leerwiki-doemee.swf?*$~third-party
+leerwiki.nl/test/promobanner.swf
 linex-be-nl.be/BANNER*.gif
 linkstartje.be/banners/*
+localfm.nl/images/assets/banner-groot-*.png
 maffiawars.nl/top.php?*$subdocument
 statisch.marktplaats.com/images/bg_ad_list.jpg
 google.marktplaats.nl/adsenseGoogle.php?*
 images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
 misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg*
+mollie.nl/partners/microads/*
 morren-consultancy.nl/pin.jpg$domain=rijden-op-aardgas.startkabel.nl
 nederland.fm/i/banner_*.gif
 nederland.fm/i/restaurantantoine120x60.gif
@@ -92,18 +110,29 @@ nu.nl/images/advertorial_*
 nuwerk.nl/groepenimages_users/*banner.png
 onderweg.nl/assets/templates/modxhost/flash/banners/*
 ontwerpen-voor-geld.nl/grafix/banner*$domain=html-site.nl
+onzetaal.nl/banners/*
+links.overzicht.nl/links/position.php?*
+users.pandora.be/gad/*$third-party
 pd5hw.nl/images/banner_*.jpg
+pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_*
+pinkribbon.nl/_files-cms/Image/slideshows/actieBanners/*
+accounts.pkr.com/ServeMarketingTool.aspx?*
 powerhits.be/bnr_show.php?*
 powerhits.be/nuro-staff/banners/*
+profina.nl/banner.php?*
 psonly.nl/campagnes/*_background_go.jpg$background
 red.nl/images/banner_*
-site-id.nl/servlet/*$~third-party
 sochicken.nl/images/*_banner.jpg
 home.solcon.nl/amorren/beamer/beamer_info_*.gif$domain=rijden-op-aardgas.startkabel.nl
 spelletjes.nl/cimg/promothumbnails/*
 starthosting.nl/banners/*$domain=mijnhomepage.nl
 startkabel.nl/*/adver/
+startpagina.nl/ov/sponsor/comlinks.js
+jezus.startpagina.nl/spimg/banner.gif
 static-webregio.nl/content/banners/*$domain=noordhollandsdagblad.nl
+stemwijzer.nl/*/images/*/IslaBanner.swf
+surprisetickets.nl/ads/*
+users.telenet.be/gad/*$third-party
 tvgidsassets.nl/graphics/ad*.gif
 tvgidsassets.nl/graphics/bg_teaserlnk.gif
 unimaas.nl/mkbportal/images/*anner*
@@ -115,7 +144,9 @@ vliegtickets.nl/includes/flash/banner.swf
 voetbalshop.nl/upload/Image/Voorpagina/vi_banners/*
 volkskrant.nl/multimedia/*/Lekker-Single_Blond_*.gif
 home.wanadoo.nl/~jroks/dreddezewir/images/reparateurke_banner.jpg
+weer.nl/fileadmin/filemounts/nederlands/commercial/*
 weeronline.nl/Go/Banner/Index?*
+j-apps.wegenerweb.nl/banners/*
 whatismyip.nl/images/vista_sky2.gif
 winkelbee.nl/banner.php$domain=marktplaats.nl
 cdn.media.zylom.com/images/site/zylom/promo/*
@@ -132,6 +163,8 @@ cdn.media.zylom.com/images/site/zylom/promo/*
 
 !-----Site-specifieke verbergregels-----!
 belastingdienst.nl##div[id="divSWFBanner"]
+hyves.nl##div[id^="adsense_"]
+localfm.nl##div.adsmall
 kopen.marktplaats.nl##div.adMinisContainer
 marktplaats.nl##div.divHomeWidgetBannerMiddle
 marktplaats.nl##div.divHomeWidgetGroups
@@ -142,6 +175,7 @@ sbs6.nl##div#g-leaderboard
 sbs6.nl##div#g-skyscraper
 spele.nl##div#game_ban_2
 startpagina.nl##div[id$="erbanner_pagina"]
+stemwijzer.nl##div.ad
 telegraaf.nl##div#etalage
 tvgids.nl##div.teaserLinks
 tvgids.nl##div[class*="bannerBox"]
@@ -149,4 +183,4 @@ uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 130
+! Aantal filters: 164
