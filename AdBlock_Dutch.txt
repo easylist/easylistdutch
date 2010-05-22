@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 17 May 2010
+! Last modified: 20 May 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -26,17 +26,25 @@
 ||geoaddicted.net^$third-party
 ||k1s.nl^$third-party
 ||site-id.nl^$third-party
+||vippromos.nl^$third-party
 ||pool.sanoma.adhese.com^$third-party
+||system.adquick.nl^$third-party
 ||tel.adversitement.nl^$third-party
+||ad.be.doubleclick.net^$third-party
 ||ad.doubleclick.net^$third-party,object_subrequest
 ||banners.helpmij.nl^$~third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
+||promo.hollandcash.nl^$third-party
 ||images.islive.nl^$third-party
+||promotools.islive.nl^$third-party
+||promotools.langesexvideos.nl^$~third-party
 ||api.admarkt.marktplaats.nl^$~third-party
 ||partnerwebsites.mistermedia.nl^$third-party
 ||pics.obedo.nl^$third-party
+||promotools2.sexdatingcash.nl^$third-party
 ||yellowlemontree.nl.site-id.nl^$third-party
 ||banners.vip.nl^$third-party
+||promotools.vpscash.nl^$third-party
 ||advertentie.zien.info^$~third-party
 
 !-----Site-specifieke blokkeerregels------!
@@ -45,7 +53,9 @@ ad.nl/static/nmc/adv/*
 ad.nl/static/nmc/nmc/*p/nav/poker_*
 ad.nl/static/nmc/nmc/teasers/dos/dos_poker*
 ad.nl/static/nmc/prm/box/home_*.swf
+adpeople.nl/advertentie.php?*
 adslwinkel.nl/Templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
+ajax.nl/web/banner/*
 autozine.nl/promo/banner.jpg
 beekje.nl/*/bannerindex.html
 belastingdienst.nl/common/images/campagnes/*$image
@@ -57,6 +67,8 @@ buienradar.nl/adbron.aspx?*
 buienradar.nl/ads/
 buienradar.nl/shop/images/*$domain=~shop.buienradar.nl
 cameranu.nl/images/banner_zoom.gif$domain=zoom.nl
+clippagina.nl/blue/bggoogle*.jpg
+clippagina.nl/jaahdenieuwestart.jpg
 deboswachter.nl/dysbanner.gif
 de-keizer.nl/tassen/tas-online/banner.gif$domain=tassen.startpagina.nl
 statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
@@ -74,6 +86,9 @@ eurobellen.nl/belspel/?pid=*
 examen.nl/banners/*
 frankrijk.nl/flash/banner_*
 funnygames.nl/scripts/ad_utils/*
+goedbegin.nl/linkex/?*
+goedbegin.nl/pics/banners/*
+goldcash.nl/banners/*
 havovwo.nl/pics/gsmweb.jpg
 havovwo.nl/pics/openu2.swf
 havovwo.nl/pics/wolf.gif
@@ -120,6 +135,7 @@ accounts.pkr.com/ServeMarketingTool.aspx?*
 powerhits.be/bnr_show.php?*
 powerhits.be/nuro-staff/banners/*
 profina.nl/banner.php?*
+promootjesite.nl/banex/*
 psonly.nl/campagnes/*_background_go.jpg$background
 red.nl/images/banner_*
 sochicken.nl/images/*_banner.jpg
@@ -151,4 +167,4 @@ whatismyip.nl/images/vista_sky2.gif
 winkelbee.nl/banner.php$domain=marktplaats.nl
 cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 137
+! Aantal filters: 153
