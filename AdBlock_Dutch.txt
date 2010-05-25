@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 20 May 2010
+! Last modified: 25 May 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -30,22 +30,18 @@
 ||pool.sanoma.adhese.com^$third-party
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^$third-party
+||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
-||ad.doubleclick.net^$third-party,object_subrequest
-||banners.helpmij.nl^$~third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
 ||promo.hollandcash.nl^$third-party
 ||images.islive.nl^$third-party
 ||promotools.islive.nl^$third-party
-||promotools.langesexvideos.nl^$~third-party
-||api.admarkt.marktplaats.nl^$~third-party
 ||partnerwebsites.mistermedia.nl^$third-party
 ||pics.obedo.nl^$third-party
 ||promotools2.sexdatingcash.nl^$third-party
 ||yellowlemontree.nl.site-id.nl^$third-party
 ||banners.vip.nl^$third-party
 ||promotools.vpscash.nl^$third-party
-||advertentie.zien.info^$~third-party
 
 !-----Site-specifieke blokkeerregels------!
 9292ov.nl/images/9292-banner.gif
@@ -63,6 +59,7 @@ biertijd.com/ad_peel/*
 media*.biertijd.com/galleries/*/banners/*
 biertijd.com/media/banners/*
 biologiepagina.nl/Images/mijndomeingroen.jpg
+bndestem-pzc.net/externeurl/hypothekenfeed.html
 buienradar.nl/adbron.aspx?*
 buienradar.nl/ads/
 buienradar.nl/shop/images/*$domain=~shop.buienradar.nl
@@ -93,7 +90,9 @@ havovwo.nl/pics/gsmweb.jpg
 havovwo.nl/pics/openu2.swf
 havovwo.nl/pics/wolf.gif
 hdci.nl/soo/energie.html?*
+banners.helpmij.nl/*
 hetnieuwerijden.nl/content/banners/*
+hln.be/hln/images/general/you_teaserbox_head.gif
 hln.be/static/nmc/adv/*
 htforum.nl/yabbse/Banners/*
 htforum.nl/yabbse/topframe_v3.php
@@ -119,6 +118,7 @@ images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
 misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg*
 mollie.nl/partners/microads/*
 morren-consultancy.nl/pin.jpg$domain=rijden-op-aardgas.startkabel.nl
+neckermann.be/~/media/images/staticpart/instroom/448-60hlnNL.ashx
 nederland.fm/i/banner_*.gif
 nederland.fm/i/restaurantantoine120x60.gif
 nu.nl/images/advertorial_*
