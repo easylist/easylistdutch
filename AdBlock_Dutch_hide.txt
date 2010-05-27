@@ -155,7 +155,6 @@
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||jezus.startpagina.nl/spimg/banner.gif
 ||static-webregio.nl/content/banners/*
-||static-webregio.nl/content/banners/*$domain=noordhollandsdagblad.nl
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||surprisetickets.nl/ads/*
 ||users.telenet.be/gad/*$third-party
@@ -211,4 +210,4 @@ uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 192
+! Aantal filters: 191
