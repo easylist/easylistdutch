@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 26 May 2010
+! Last modified: 27 May 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -23,6 +23,7 @@
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^$third-party
 ||atemda.com^$third-party
+||camz.nl^$third-party
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
 ||ds1.nl^$third-party
@@ -33,10 +34,13 @@
 ||images.islive.nl^$third-party
 ||promotools.islive.nl^$third-party
 ||k1s.nl^$third-party
+||views.m4n.nl^$third-party
 ||partnerwebsites.mistermedia.nl^$third-party
 ||pics.obedo.nl^$third-party
 ||promotools2.sexdatingcash.nl^$third-party
 ||site-id.nl^$third-party
+||ti.tradetracker.net^$third-party
+||ti.tradetracker.nl^$third-party
 ||banners.vip.nl^$third-party
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
@@ -93,6 +97,7 @@
 ||hetnieuwerijden.nl/content/banners/*
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hln.be/static/nmc/adv/*
+||hoefijzers.nl/banner/*
 ||htforum.nl/yabbse/Banners/*
 ||htforum.nl/yabbse/topframe_v3.php
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
@@ -110,10 +115,13 @@
 ||linex-be-nl.be/BANNER*.gif
 ||linkstartje.be/banners/*
 ||localfm.nl/images/assets/banner-groot-*.png
+||lustcash.nl/images-lustcash-footer/*
+||lustcash.nl/promo/cams/?*
 ||maffiawars.nl/top.php?*$subdocument
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
 ||google.marktplaats.nl/adsenseGoogle.php?*
 ||images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
+||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg*
 ||mollie.nl/partners/microads/*
 ||morren-consultancy.nl/pin.jpg$domain=rijden-op-aardgas.startkabel.nl
@@ -126,6 +134,8 @@
 ||ontwerpen-voor-geld.nl/grafix/banner*$domain=html-site.nl
 ||onzetaal.nl/banners/*
 ||links.overzicht.nl/links/position.php?*
+||pagina.nl/ads/*
+||pagina.nl/linkerbanneriframe_version2.htm?*
 ||users.pandora.be/gad/*$third-party
 ||pd5hw.nl/images/banner_*.jpg
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_*
@@ -144,6 +154,7 @@
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||jezus.startpagina.nl/spimg/banner.gif
+||static-webregio.nl/content/banners/*
 ||static-webregio.nl/content/banners/*$domain=noordhollandsdagblad.nl
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||surprisetickets.nl/ads/*
@@ -192,7 +203,6 @@ sbs6.nl##div#g-leaderboard
 sbs6.nl##div#g-skyscraper
 spele.nl##div#game_ban_2
 sporza.be##div#skyscraper
-startpagina.nl##div[id$="erbanner_pagina"]
 stemwijzer.nl##div.ad
 telegraaf.nl##div#etalage
 tvgids.nl##div.teaserLinks
@@ -201,4 +211,4 @@ uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 182
+! Aantal filters: 192
