@@ -15,7 +15,8 @@
 /advertentie/*
 /advertenties/*
 /BannerLookup.asp?*
-/images/banners/
+/images/banners/*
+/img/banners/*
 /reklame/*
 
 !-----Advertentieservers-----!
@@ -82,8 +83,11 @@
 ||easylist.nl/ads_loader.swf
 ||eenhuiszoeken.nl/banner/*
 ||eigenstart.nl/modules/banners/*
+||elektronicaforum.nl/goedkope-leds-buy.gif
+||endless.nl/banner/*
 ||eurobellen.nl/belspel/?pid=*
 ||examen.nl/banners/*
+||farmdate.nl/banner/*
 ||frankrijk.nl/flash/banner_*
 ||funnygames.nl/scripts/ad_utils/*
 ||goedbegin.nl/linkex/?*
@@ -121,6 +125,7 @@
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
 ||google.marktplaats.nl/adsenseGoogle.php?*
 ||images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
+||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg*
 ||mollie.nl/partners/microads/*
@@ -147,12 +152,14 @@
 ||promootjesite.nl/banex/*
 ||psonly.nl/campagnes/*_background_go.jpg$background
 ||red.nl/images/banner_*
+||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
 ||home.solcon.nl/amorren/beamer/beamer_info_*.gif$domain=rijden-op-aardgas.startkabel.nl
 ||spelletjes.nl/cimg/promothumbnails/*
 ||starthosting.nl/banners/*$domain=mijnhomepage.nl
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
+||chemie.startpagina.nl/spimg/234x60-10jaar.gif
 ||jezus.startpagina.nl/spimg/banner.gif
 ||static-webregio.nl/content/banners/*
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
@@ -160,6 +167,7 @@
 ||users.telenet.be/gad/*$third-party
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
+||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_*
 ||unimaas.nl/mkbportal/images/*anner*
 ||unimaas.nl/mkbportal/images/student_nl.gif
 ||static.vergelijk.nl/data/nl_NL/promos/*
@@ -204,10 +212,12 @@ spele.nl##div#game_ban_2
 sporza.be##div#skyscraper
 stemwijzer.nl##div.ad
 telegraaf.nl##div#etalage
+telegraaf.nl##div#rightbar
 tvgids.nl##div.teaserLinks
 tvgids.nl##div[class*="bannerBox"]
 uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
+waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 191
+! Aantal filters: 201
