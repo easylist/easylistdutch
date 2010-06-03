@@ -82,6 +82,7 @@
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
 ||easylist.nl/ads_loader.swf
+||editiepajot.com/big_reclames/*
 ||editiepajot.com/small_reclames/*
 ||eenhuiszoeken.nl/banner/*
 ||eigenstart.nl/modules/banners/*
@@ -188,4 +189,4 @@
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 174
+! Aantal filters: 175

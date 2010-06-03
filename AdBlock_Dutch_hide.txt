@@ -82,6 +82,7 @@
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
 ||easylist.nl/ads_loader.swf
+||editiepajot.com/big_reclames/*
 ||editiepajot.com/small_reclames/*
 ||eenhuiszoeken.nl/banner/*
 ||eigenstart.nl/modules/banners/*
@@ -227,4 +228,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 208
+! Aantal filters: 209
