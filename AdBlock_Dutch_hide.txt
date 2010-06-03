@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 31 May 2010
+! Last modified: 3 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -82,6 +82,7 @@
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
 ||easylist.nl/ads_loader.swf
+||editiepajot.com/small_reclames/*
 ||eenhuiszoeken.nl/banner/*
 ||eigenstart.nl/modules/banners/*
 ||elektronicaforum.nl/goedkope-leds-buy.gif
@@ -164,6 +165,7 @@
 ||jezus.startpagina.nl/spimg/banner.gif
 ||static-webregio.nl/content/banners/*
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
+||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/*$third-party
 ||surprisetickets.nl/ads/*
 ||users.telenet.be/gad/*$third-party
 ||tvgidsassets.nl/graphics/ad*.gif
@@ -190,6 +192,7 @@
 !-----Algemene verbergregels-----!
 ###adblock_v
 ###Advertisement
+##.reclame
 ##[class*="advertentie"]
 ##[class*="advertorial"]
 ##[class^="adsense_"]
@@ -224,4 +227,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 205
+! Aantal filters: 208
