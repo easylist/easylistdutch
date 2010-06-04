@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 3 Jun 2010
+! Last modified: 4 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -204,6 +204,7 @@
 
 !-----Site-specifieke verbergregels-----!
 een.be##div#adColumn
+fam-roos.com##div.ad
 hyves.nl##div[id^="adsense_"]
 localfm.nl##div.adsmall
 marktplaats.nl##div.divHomeWidgetBannerMiddle
@@ -222,10 +223,10 @@ telegraaf.nl##div#etalage
 telegraaf.nl##div#rightbar
 tvgids.nl##div.teaserLinks
 tvgids.nl##div[class*="bannerBox"]
-tweakers.net##div[id="headerReplacement"]
+tweakers.net##div#headerReplacement
 uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 209
+! Aantal filters: 210
