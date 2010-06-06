@@ -39,6 +39,7 @@
 ||views.m4n.nl^
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
+||logolinks.reedbusiness.nl^
 ||promotools2.sexdatingcash.nl^$third-party
 ||site-id.nl^
 ||ti.tradetracker.net^
@@ -107,6 +108,7 @@
 ||hoefijzers.nl/banner/*
 ||htforum.nl/yabbse/Banners/*
 ||htforum.nl/yabbse/topframe_v3.php
+||huizenhype.nl/banner/*
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 ||internetbode.nl/banner*
@@ -182,6 +184,7 @@
 ||voetbalshop.nl/upload/Image/Voorpagina/vi_banners/*
 ||volkskrant.nl/multimedia/*/Lekker-Single_Blond_*.gif
 ||home.wanadoo.nl/~jroks/dreddezewir/images/reparateurke_banner.jpg
+||websitegids.nl/banners/*
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/*
 ||weeronline.nl/Go/Banner/Index?*
 ||j-apps.wegenerweb.nl/banners/*
@@ -228,4 +231,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 209
+! Aantal filters: 212
