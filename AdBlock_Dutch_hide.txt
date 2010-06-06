@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 4 Jun 2010
+! Last modified: 6 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -22,27 +22,28 @@
 !-----Advertentieservers-----!
 ||pool.sanoma.adhese.com^$third-party
 ||system.adquick.nl^$third-party
-||tel.adversitement.nl^$third-party
-||atemda.com^$third-party
+||tel.adversitement.nl^
+||atemda.com^
 ||camz.nl^$third-party
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
-||ds1.nl^$third-party
+||ds1.nl^
 ||europacams.nl^$third-party
-||geoaddicted.net^$third-party
-||ehg-advertisementbv.hitbox.com^$third-party
-||promo.hollandcash.nl^$third-party
+||geoaddicted.net^
+||banners.helpmij.nl^
+||ehg-advertisementbv.hitbox.com^
+||promo.hollandcash.nl^
+||promotools.islive.nl^
 ||images.islive.nl^$third-party
-||promotools.islive.nl^$third-party
-||k1s.nl^$third-party
-||views.m4n.nl^$third-party
-||partnerwebsites.mistermedia.nl^$third-party
-||pics.obedo.nl^$third-party
+||k1s.nl^
+||views.m4n.nl^
+||partnerwebsites.mistermedia.nl^
+||pics.obedo.nl^
 ||promotools2.sexdatingcash.nl^$third-party
-||site-id.nl^$third-party
-||ti.tradetracker.net^$third-party
-||ti.tradetracker.nl^$third-party
-||banners.vip.nl^$third-party
+||site-id.nl^
+||ti.tradetracker.net^
+||ti.tradetracker.nl^
+||banners.vip.nl^
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
 
@@ -100,7 +101,6 @@
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?*
-||banners.helpmij.nl/*
 ||hetnieuwerijden.nl/content/banners/*
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hln.be/static/nmc/adv/*
@@ -191,7 +191,6 @@
 
 
 !-----Algemene verbergregels-----!
-###adblock_v
 ###Advertisement
 ##.reclame
 ##[class*="advertentie"]
@@ -229,4 +228,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 210
+! Aantal filters: 209
