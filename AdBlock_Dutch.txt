@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 8 Jun 2010
+! Last modified: 12 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -24,6 +24,7 @@
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^
 ||atemda.com^
+||campromos.nl^
 ||camz.nl^$third-party
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
@@ -47,6 +48,7 @@
 ||banners.vip.nl^
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
+||promo1.webcams.nl^
 
 !-----Site-specifieke blokkeerregels------!
 ||9292ov.nl/images/9292-banner.gif
@@ -191,4 +193,4 @@
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 177
+! Aantal filters: 179
