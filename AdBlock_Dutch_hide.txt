@@ -216,6 +216,7 @@ marktplaats.nl##div.divHomeWidgetGroups
 kopen.marktplaats.nl##div[class*="adMinis"]
 mijnhomepage.nl##div.ad
 nl.msn.com##div#dating
+nederland.fm##div.banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 sbs6.nl##div#g-leaderboard
@@ -233,4 +234,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 214
+! Aantal filters: 215
