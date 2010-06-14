@@ -171,6 +171,7 @@
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/*$third-party
 ||surprisetickets.nl/ads/*
+||tastelikepizza.com/media/*-banner.swf
 ||users.telenet.be/gad/*$third-party
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
@@ -191,6 +192,7 @@
 ||j-apps.wegenerweb.nl/banners/*
 ||whatismyip.nl/images/vista_sky2.gif
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
+||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
 
@@ -220,6 +222,8 @@ nl.msn.com##div#dating
 nederland.fm##div.banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
+nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
+nu.nl##div#adblocksmall
 sbs6.nl##div#g-leaderboard
 sbs6.nl##div#g-skyscraper
 spele.nl##div#game_ban_2
@@ -235,4 +239,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 216
+! Aantal filters: 220
