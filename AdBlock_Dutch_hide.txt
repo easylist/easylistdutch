@@ -237,10 +237,11 @@ telegraaf.nl##div#etalage
 telegraaf.nl##div#rightbar
 tvgids.nl##div.teaserLinks
 tvgids.nl##div[class*="bannerBox"]
+tweakers.net##div#b_re
 tweakers.net##div#headerReplacement
 uitburo.nl##div.cultural-add-frontpage
 uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 224
+! Aantal filters: 225
