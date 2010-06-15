@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 14 Jun 2010
+! Last modified: 15 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -37,6 +37,7 @@
 ||promotools.islive.nl^
 ||images.islive.nl^$third-party
 ||k1s.nl^
+||admeta.vo.llnwd.net^
 ||views.m4n.nl^
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
@@ -140,6 +141,7 @@
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||nu.nl/images/advertorial_*
+||nu.nl/scripts/dart/*
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/*
 ||ontwerpen-voor-geld.nl/grafix/banner*$domain=html-site.nl
@@ -178,6 +180,7 @@
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_*
 ||unimaas.nl/mkbportal/images/*anner*
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
 ||static.vergelijk.nl/data/nl_NL/promos/*
 ||verkoopmenu.nl/show2.php$domain=watismijnip.nl
 ||vi.nl/files/commercie/4buttons/*
@@ -195,4 +198,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 181
+! Aantal filters: 184

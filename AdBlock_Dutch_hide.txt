@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 14 Jun 2010
+! Last modified: 15 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -37,6 +37,7 @@
 ||promotools.islive.nl^
 ||images.islive.nl^$third-party
 ||k1s.nl^
+||admeta.vo.llnwd.net^
 ||views.m4n.nl^
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
@@ -140,6 +141,7 @@
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||nu.nl/images/advertorial_*
+||nu.nl/scripts/dart/*
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/*
 ||ontwerpen-voor-geld.nl/grafix/banner*$domain=html-site.nl
@@ -178,6 +180,7 @@
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_*
 ||unimaas.nl/mkbportal/images/*anner*
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
 ||static.vergelijk.nl/data/nl_NL/promos/*
 ||verkoopmenu.nl/show2.php$domain=watismijnip.nl
 ||vi.nl/files/commercie/4buttons/*
@@ -224,6 +227,7 @@ nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##div#adblocksmall
+nu.nl##div[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
 sbs6.nl##div#g-leaderboard
 sbs6.nl##div#g-skyscraper
 spele.nl##div#game_ban_2
@@ -239,4 +243,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 220
+! Aantal filters: 224
