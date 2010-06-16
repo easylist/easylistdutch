@@ -47,6 +47,7 @@
 ||banners.toeto.com^
 ||ti.tradetracker.net^
 ||ti.tradetracker.nl^
+||banners.utilo.nl^
 ||banners.vip.nl^
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
@@ -199,4 +200,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 185
+! Aantal filters: 186
