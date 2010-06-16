@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 15 Jun 2010
+! Last modified: 16 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -42,8 +42,9 @@
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
 ||logolinks.reedbusiness.nl^
-||promotools2.sexdatingcash.nl^$third-party
+||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
+||banners.toeto.com^
 ||ti.tradetracker.net^
 ||ti.tradetracker.nl^
 ||banners.vip.nl^
@@ -198,4 +199,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 184
+! Aantal filters: 185

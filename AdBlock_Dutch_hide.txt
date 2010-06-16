@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 15 Jun 2010
+! Last modified: 16 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -42,8 +42,9 @@
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
 ||logolinks.reedbusiness.nl^
-||promotools2.sexdatingcash.nl^$third-party
+||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
+||banners.toeto.com^
 ||ti.tradetracker.net^
 ||ti.tradetracker.nl^
 ||banners.vip.nl^
@@ -235,6 +236,7 @@ sporza.be##div#skyscraper
 stemwijzer.nl##div.ad
 telegraaf.nl##div#etalage
 telegraaf.nl##div#rightbar
+toeto.com##div.banner
 tvgids.nl##div.teaserLinks
 tvgids.nl##div[class*="bannerBox"]
 tweakers.net##div#b_re
@@ -244,4 +246,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 225
+! Aantal filters: 227
