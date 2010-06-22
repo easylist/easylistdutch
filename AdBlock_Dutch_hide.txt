@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 21 Jun 2010
+! Last modified: 22 Jun 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -133,7 +133,7 @@
 ||lustcash.nl/promo/cams/?*
 ||maffiawars.nl/top.php?*$subdocument
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
-||google.marktplaats.nl/adsenseGoogle.php?*
+||google.marktplaats.nl/adsenseGoogle.php*
 ||images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
@@ -223,10 +223,13 @@ fam-roos.com##div.ad
 hyves.nl##div[id^="adsense_"]
 ifanzy.nl##div[id="banner-right"]
 localfm.nl##div.adsmall
+kopen.marktplaats.nl##[onclick*="AdmarktClick"]
 marktplaats.nl##div#vipAdmarktBannerBlock
 marktplaats.nl##div.divHomeWidgetBannerMiddle
 marktplaats.nl##div.divHomeWidgetGroups
 kopen.marktplaats.nl##div[class*="adMinis"]
+kopen.marktplaats.nl##td.admarkt_bottom_list_header
+kopen.marktplaats.nl##td[class^="ad_list_row_normal"]
 mijnhomepage.nl##div.ad
 nl.msn.com##div#dating
 nederland.fm##div.banner
@@ -252,4 +255,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 233
+! Aantal filters: 236
