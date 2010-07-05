@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 1 Jul 2010
+! Last modified: 5 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -74,7 +74,6 @@
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
 ||buienradar.nl/adbron.aspx?*
 ||buienradar.nl/ads/
-||buienradar.nl/shop/images/*$domain=~shop.buienradar.nl
 ||cameranu.nl/images/banner_zoom.gif$domain=zoom.nl
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
@@ -201,4 +200,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 187
+! Aantal filters: 186
