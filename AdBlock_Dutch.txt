@@ -29,6 +29,7 @@
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
 ||ds1.nl^
+||euroclix.nl^$third-party
 ||europacams.nl^$third-party
 ||geoaddicted.net^
 ||banners.helpmij.nl^
@@ -200,4 +201,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 186
+! Aantal filters: 187

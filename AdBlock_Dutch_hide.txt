@@ -29,6 +29,7 @@
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
 ||ds1.nl^
+||euroclix.nl^$third-party
 ||europacams.nl^$third-party
 ||geoaddicted.net^
 ||banners.helpmij.nl^
@@ -256,4 +257,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 237
+! Aantal filters: 238
