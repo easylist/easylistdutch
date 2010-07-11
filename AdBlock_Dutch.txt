@@ -39,8 +39,8 @@
 ||images.islive.nl^$third-party
 ||k1s.nl^
 ||admeta.vo.llnwd.net^
-||views.m4n.nl^
-||mbuyu.nl^
+||views.m4n.nl^$third-party
+||mbuyu.nl^$domain=~m4n.nl
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
 ||logolinks.reedbusiness.nl^

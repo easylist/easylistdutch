@@ -39,8 +39,8 @@
 ||images.islive.nl^$third-party
 ||k1s.nl^
 ||admeta.vo.llnwd.net^
-||views.m4n.nl^
-||mbuyu.nl^
+||views.m4n.nl^$third-party
+||mbuyu.nl^$domain=~m4n.nl
 ||partnerwebsites.mistermedia.nl^
 ||pics.obedo.nl^
 ||logolinks.reedbusiness.nl^
@@ -215,6 +215,7 @@
 ##[id*="advertorial"]
 ##[id^="adv_"]
 ##[name*="advertentie"]
+##a[href^="http://clicks.m4n.nl/"]
 
 !-----Site-specifieke verbergregels-----!
 9292ov.nl##div.leaderboard
@@ -259,4 +260,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 240
+! Aantal filters: 241
