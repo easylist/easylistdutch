@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 10 Jul 2010
+! Last modified: 11 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -117,6 +117,7 @@
 ||huizenhype.nl/banner/*
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
+||infopagina.nl/startpagina/banner/*
 ||internetbode.nl/banner*
 ||internetbode.nl/images/*_banner.gif
 ||jouwpage.nl/images/banner*
@@ -202,4 +203,4 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
-! Aantal filters: 188
+! Aantal filters: 189
