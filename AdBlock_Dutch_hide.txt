@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 11 Jul 2010
+! Last modified: 12 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -42,6 +42,7 @@
 ||views.m4n.nl^$third-party
 ||mbuyu.nl^$domain=~m4n.nl
 ||partnerwebsites.mistermedia.nl^
+||netdirect.nl^
 ||pics.obedo.nl^
 ||logolinks.reedbusiness.nl^
 ||promotools*.sexdatingcash.nl^$third-party
@@ -203,6 +204,9 @@
 ||xmissymedia.com/galleries/*/banners/*
 ||cdn.media.zylom.com/images/site/zylom/promo/*
 
+!-----Uitzonderingen-----!
+@@.nl/*$domain=kiosk.nl
+
 
 !-----Algemene verbergregels-----!
 ###Advertisement
@@ -216,6 +220,7 @@
 ##[id^="adv_"]
 ##[name*="advertentie"]
 ##a[href^="http://clicks.m4n.nl/"]
+~kiosk.nl##a[href^="http://www.site-id.nl/servlet/___?"]
 
 !-----Site-specifieke verbergregels-----!
 9292ov.nl##div.leaderboard
@@ -260,4 +265,4 @@ uitburo.nl##div.uitmail_banner_block
 waarbenjij.nu##a#spanEbookersContainer
 whatismyip.nl##td.reclamekop
 
-! Aantal filters: 241
+! Aantal filters: 244
