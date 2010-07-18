@@ -9,13 +9,13 @@
 ! http://code.google.com/p/dutchadblockfilters/issues/list
 
 !-----Algemene blokkeerregels-----!
-/adverteerders/
-/advertentie/
-/advertenties/
+/adverteerders/*
+/advertentie/*
+/advertenties/*
 /BannerLookup.asp?
-/images/banners/
-/img/banners/
-/reklame/
+/images/banners/*
+/img/banners/*
+/reklame/*
 advertentie.gif
 clicktag=http://ad.doubleclick.net/
 
@@ -58,6 +58,7 @@ clicktag=http://ad.doubleclick.net/
 ||promo1.webcams.nl^
 
 !-----Site-specifieke blokkeerregels------!
+||2link.be/*/dochterbanner.php?
 ||9292ov.nl/images/9292-banner.gif
 ||ad.nl/static/nmc/adv/
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
@@ -158,6 +159,7 @@ clicktag=http://ad.doubleclick.net/
 ||pagina.nl/ads/
 ||pagina.nl/linkerbanneriframe_version2.htm?
 ||users.pandora.be/gad/$third-party
+||partyzone.be/rotatingBanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/Image/slideshows/actieBanners/
@@ -168,6 +170,7 @@ clicktag=http://ad.doubleclick.net/
 ||promootjesite.nl/banex/
 ||psonly.nl/campagnes/*_background_go.jpg$background
 ||red.nl/images/banner_
+||relatieplanet.be/2linkbe/iframesearch.asp
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
 ||home.solcon.nl/amorren/beamer/beamer_info_*.gif$domain=rijden-op-aardgas.startkabel.nl
@@ -175,8 +178,7 @@ clicktag=http://ad.doubleclick.net/
 ||starthosting.nl/banners/$domain=mijnhomepage.nl
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
-||chemie.startpagina.nl/spimg/234x60-10jaar.gif
-||jezus.startpagina.nl/spimg/banner.gif
+||startpagina.nl/spimg/banner.gif
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
@@ -210,4 +212,4 @@ clicktag=http://ad.doubleclick.net/
 @@*$domain=kiosk.nl
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 194
+! Aantal filters: 196

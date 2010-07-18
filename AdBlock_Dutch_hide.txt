@@ -9,13 +9,13 @@
 ! http://code.google.com/p/dutchadblockfilters/issues/list
 
 !-----Algemene blokkeerregels-----!
-/adverteerders/
-/advertentie/
-/advertenties/
+/adverteerders/*
+/advertentie/*
+/advertenties/*
 /BannerLookup.asp?
-/images/banners/
-/img/banners/
-/reklame/
+/images/banners/*
+/img/banners/*
+/reklame/*
 advertentie.gif
 clicktag=http://ad.doubleclick.net/
 
@@ -58,6 +58,7 @@ clicktag=http://ad.doubleclick.net/
 ||promo1.webcams.nl^
 
 !-----Site-specifieke blokkeerregels------!
+||2link.be/*/dochterbanner.php?
 ||9292ov.nl/images/9292-banner.gif
 ||ad.nl/static/nmc/adv/
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
@@ -158,6 +159,7 @@ clicktag=http://ad.doubleclick.net/
 ||pagina.nl/ads/
 ||pagina.nl/linkerbanneriframe_version2.htm?
 ||users.pandora.be/gad/$third-party
+||partyzone.be/rotatingBanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/Image/slideshows/actieBanners/
@@ -168,6 +170,7 @@ clicktag=http://ad.doubleclick.net/
 ||promootjesite.nl/banex/
 ||psonly.nl/campagnes/*_background_go.jpg$background
 ||red.nl/images/banner_
+||relatieplanet.be/2linkbe/iframesearch.asp
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
 ||home.solcon.nl/amorren/beamer/beamer_info_*.gif$domain=rijden-op-aardgas.startkabel.nl
@@ -175,8 +178,7 @@ clicktag=http://ad.doubleclick.net/
 ||starthosting.nl/banners/$domain=mijnhomepage.nl
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
-||chemie.startpagina.nl/spimg/234x60-10jaar.gif
-||jezus.startpagina.nl/spimg/banner.gif
+||startpagina.nl/spimg/banner.gif
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
@@ -216,6 +218,7 @@ clicktag=http://ad.doubleclick.net/
 ###Advertisement
 ###advertorial_red_listblock
 ###bottomads
+###rightbanner_adbest
 ###vipAdmarktBannerBlock
 ##.ad_list_row_normal1
 ##.ad_list_row_normal1_no_border
@@ -239,6 +242,7 @@ clicktag=http://ad.doubleclick.net/
 9292ov.nl##.rectangle
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##[id^="text-"].widget
+dumpert.nl###banner_fullsize
 fam-roos.com##.ad
 hyves.nl##[id^="adsense_"]
 localfm.nl##.adsmall
@@ -254,12 +258,12 @@ nu.nl###adblocksmall
 nu.nl##[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
+paginamarkt.nl###banner
 pathe.nl##.homepageBanner
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###game_ban_2
 sporza.be###skyscraper
-bordeauxdog.startpagina.nl###o
 stemwijzer.nl##.ad
 techzine.nl###vs_a2s_tag_fullsize
 telegraaf.nl###etalage
@@ -275,4 +279,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 254
+! Aantal filters: 258
