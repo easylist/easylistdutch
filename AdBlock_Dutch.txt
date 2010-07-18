@@ -208,5 +208,6 @@ clicktag=http://ad.doubleclick.net/
 
 !-----Uitzonderingen-----!
 @@*$domain=kiosk.nl
+@@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 193
+! Aantal filters: 194

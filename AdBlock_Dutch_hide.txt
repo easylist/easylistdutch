@@ -208,6 +208,7 @@ clicktag=http://ad.doubleclick.net/
 
 !-----Uitzonderingen-----!
 @@*$domain=kiosk.nl
+@@||ajax.googleapis.com/ajax/services/search/news?
 
 
 !-----Algemene verbergregels-----!
@@ -232,6 +233,8 @@ clicktag=http://ad.doubleclick.net/
 ~kiosk.nl##[href^="http://www.site-id.nl/servlet/___?"]
 
 !-----Site-specifieke verbergregels-----!
+2xklikken.nl##.banner
+2xklikken.nl##.linksall:first-child
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
 biertijd.com##.advertorialtitle ~ *
@@ -251,6 +254,7 @@ nu.nl###adblocksmall
 nu.nl##[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
+pathe.nl##.homepageBanner
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###game_ban_2
@@ -268,5 +272,7 @@ tweakers.net###headerReplacement
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
 waarbenjij.nu###spanEbookersContainer
+weeronline.nl##.specialBlockDiv
+weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 248
+! Aantal filters: 254
