@@ -9,13 +9,25 @@
 ! http://code.google.com/p/dutchadblockfilters/issues/list
 
 !-----Algemene blokkeerregels-----!
+.nl/ads/
+/adbron.aspx?
+/ads_loader.swf
+/adsenseGoogle.php?
 /adverteerders/*
+/advertentie.php?
 /advertentie/*
 /advertenties/*
+/advertorial_
 /BannerLookup.asp?
 /images/banners/*
 /img/banners/*
+/imgupload/banners/*
+/microads/*
+/nmc/adv/*
+/pics/banners/*
 /reklame/*
+/scripts/ad_utils/*
+_advertorial_
 advertentie.gif
 clicktag=http://ad.doubleclick.net/
 
@@ -26,6 +38,7 @@ clicktag=http://ad.doubleclick.net/
 ||atemda.com^
 ||campromos.nl^
 ||camz.nl^$third-party
+||conversive.nl^$third-party
 ||ad.doubleclick.net^$third-party
 ||ad.be.doubleclick.net^$third-party
 ||ds1.nl^
@@ -60,11 +73,9 @@ clicktag=http://ad.doubleclick.net/
 !-----Site-specifieke blokkeerregels------!
 ||2link.be/*/dochterbanner.php?
 ||9292ov.nl/images/9292-banner.gif
-||ad.nl/static/nmc/adv/
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/home_*.swf
-||adpeople.nl/advertentie.php?
 ||adslwinkel.nl/Templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||ajax.nl/web/banner/
 ||anwb.nl/binaries/swf/banners/
@@ -76,22 +87,17 @@ clicktag=http://ad.doubleclick.net/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/Images/mijndomeingroen.jpg
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
-||buienradar.nl/adbron.aspx?
-||buienradar.nl/ads/
 ||cameranu.nl/images/banner_zoom.gif$domain=zoom.nl
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
 ||deboswachter.nl/dysbanner.gif
 ||de-keizer.nl/tassen/tas-online/banner.gif$domain=tassen.startpagina.nl
 ||statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
-||statisch.detelefoongids.nl/*_advertorial_
 ||statisch.detelefoongids.nl/dms/images/*/ad_*.png
 ||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
-||dierenbescherming.nl/imgupload/banners/
 ||dutchleader.*/php/banex/$third-party
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
-||easylist.nl/ads_loader.swf
 ||editiepajot.com/big_reclames/
 ||editiepajot.com/small_reclames/
 ||eenhuiszoeken.nl/banner/
@@ -102,9 +108,7 @@ clicktag=http://ad.doubleclick.net/
 ||examen.nl/banners/
 ||farmdate.nl/banner/
 ||frankrijk.nl/flash/banner_
-||funnygames.nl/scripts/ad_utils/
 ||goedbegin.nl/linkex/?
-||goedbegin.nl/pics/banners/
 ||goldcash.nl/banners/
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
@@ -112,7 +116,6 @@ clicktag=http://ad.doubleclick.net/
 ||hdci.nl/soo/energie.html?
 ||hetnieuwerijden.nl/content/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
-||hln.be/static/nmc/adv/
 ||hoefijzers.nl/banner/
 ||htforum.nl/yabbse/Banners/
 ||htforum.nl/yabbse/topframe_v3.php
@@ -138,25 +141,20 @@ clicktag=http://ad.doubleclick.net/
 ||maffiawars.nl/top.php?$subdocument
 ||marktplaats.com/css/adminis-min.css
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
-||google.marktplaats.nl/adsenseGoogle.php?
-||images.mbuyu.nl/Ibood/*banners*/$domain=top100nl.net
 ||metliefs.nl/banner_
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
-||mollie.nl/partners/microads/
 ||morren-consultancy.nl/pin.jpg$domain=rijden-op-aardgas.startkabel.nl
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnNL.ashx
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
-||nu.nl/images/advertorial_
 ||nu.nl/scripts/dart/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||ontwerpen-voor-geld.nl/grafix/banner$domain=html-site.nl
 ||onzetaal.nl/banners/
 ||links.overzicht.nl/links/position.php?
-||pagina.nl/ads/
 ||pagina.nl/linkerbanneriframe_version2.htm?
 ||users.pandora.be/gad/$third-party
 ||partyzone.be/rotatingBanner.php?
@@ -178,11 +176,10 @@ clicktag=http://ad.doubleclick.net/
 ||starthosting.nl/banners/$domain=mijnhomepage.nl
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
-||startpagina.nl/spimg/banner.gif
+||startpagina.nl/spimg/
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
-||surprisetickets.nl/ads/
 ||tastelikepizza.com/media/*-banner.swf
 ||users.telenet.be/gad/$third-party
 ||tvgidsassets.nl/graphics/ad*.gif
@@ -212,4 +209,4 @@ clicktag=http://ad.doubleclick.net/
 @@*$domain=kiosk.nl
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 196
+! Aantal filters: 193
