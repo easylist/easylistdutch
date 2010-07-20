@@ -19,7 +19,7 @@
 /advertorial_
 /BannerLookup.asp?
 /images/banners/*
-/img/banners/*
+/img/banners/*$domain=nl|be
 /imgupload/banners/*
 /microads/*
 /nmc/adv/*
