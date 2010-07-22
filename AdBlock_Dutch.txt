@@ -45,6 +45,7 @@ clicktag=http://ad.doubleclick.net/
 ||ds1.nl^
 ||euroclix.nl^$third-party
 ||europacams.nl^$third-party
+||promotie.gamecoll.com^
 ||geoaddicted.net^
 ||banners.helpmij.nl^
 ||ehg-advertisementbv.hitbox.com^
@@ -209,4 +210,4 @@ clicktag=http://ad.doubleclick.net/
 @@*$domain=kiosk.nl
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 193
+! Aantal filters: 194
