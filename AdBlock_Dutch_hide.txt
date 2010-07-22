@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 21 Jul 2010
+! Last modified: 22 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -18,6 +18,7 @@
 /advertenties/*
 /advertorial_
 /BannerLookup.asp?
+/big_reclames/*
 /images/banners/*
 /img/banners/*$domain=nl|be
 /imgupload/banners/*
@@ -26,6 +27,7 @@
 /pics/banners/*
 /reklame/*
 /scripts/ad_utils/*
+/small_reclames/*
 _advertorial_
 advertentie.gif
 clicktag=http://ad.doubleclick.net/
@@ -95,11 +97,9 @@ clicktag=http://ad.doubleclick.net/
 ||statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
 ||statisch.detelefoongids.nl/dms/images/*/ad_*.png
 ||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
-||dutchleader.*/php/banex/$third-party
+||dutchleader.nl/php/banex/$third-party
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
-||editiepajot.com/big_reclames/
-||editiepajot.com/small_reclames/
 ||eenhuiszoeken.nl/banner/
 ||eigenstart.nl/modules/banners/
 ||elektronicaforum.nl/goedkope-leds-buy.gif
@@ -120,6 +120,7 @@ clicktag=http://ad.doubleclick.net/
 ||htforum.nl/yabbse/Banners/
 ||htforum.nl/yabbse/topframe_v3.php
 ||huizenhype.nl/banner/
+||ifanzy.nl/flash/banner-
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 ||infopagina.nl/startpagina/banner/
@@ -202,7 +203,7 @@ clicktag=http://ad.doubleclick.net/
 ||whatismyip.nl/images/vista_sky2.gif
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
-||cdn.media.zylom.com/images/site/zylom/promo/
+||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
 !-----Uitzonderingen-----!
 @@*$domain=kiosk.nl
@@ -239,7 +240,6 @@ clicktag=http://ad.doubleclick.net/
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##[id^="text-"].widget
 dumpert.nl###banner_fullsize
-fam-roos.com##.ad
 hyves.nl##[id^="adsense_"]
 localfm.nl##.adsmall
 marktplaats.nl##.divHomeWidgetBannerMiddle
