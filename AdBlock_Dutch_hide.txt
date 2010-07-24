@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 22 Jul 2010
+! Last modified: 24 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -59,6 +59,8 @@ clicktag=http://ad.doubleclick.net/
 ||partnerwebsites.mistermedia.nl^
 ||netdirect.nl^
 ||pics.obedo.nl^
+||banners.plein.nl^$third-party
+||privatecams.nl^$third-party
 ||logolinks.reedbusiness.nl^
 ||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
@@ -90,14 +92,15 @@ clicktag=http://ad.doubleclick.net/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/Images/mijndomeingroen.jpg
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
-||cameranu.nl/images/banner_zoom.gif$domain=zoom.nl
+||cameranu.nl/images/banner_zoom.gif
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
 ||deboswachter.nl/dysbanner.gif
-||de-keizer.nl/tassen/tas-online/banner.gif$domain=tassen.startpagina.nl
+||de-keizer.nl/tassen/*/banner
 ||statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
 ||statisch.detelefoongids.nl/dms/images/*/ad_*.png
 ||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
+||dutchleader.com/php/banex/
 ||dutchleader.nl/php/banex/$third-party
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
@@ -133,9 +136,10 @@ clicktag=http://ad.doubleclick.net/
 ||klimaatinfo.nl/images/banner.gif
 ||laagstehypotheekofferte.nl/widget/*/
 ||leerlingen.com/content_images/*_banner.jpg
-||leerwiki.nl/leerwiki-doemee.swf?$~third-party
+||leerwiki.nl/leerwiki-doemee.swf?
 ||leerwiki.nl/test/promobanner.swf
 ||linex-be-nl.be/BANNER*.gif
+||linkruiler.nl/links_js.php?
 ||linkstartje.be/banners/
 ||localfm.nl/images/assets/banner-groot-*.png
 ||lustcash.nl/images-lustcash-footer/
@@ -147,14 +151,17 @@ clicktag=http://ad.doubleclick.net/
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
-||morren-consultancy.nl/pin.jpg$domain=rijden-op-aardgas.startkabel.nl
+||moneymiljonair.nl/*ban
+||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnNL.ashx
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||nu.nl/scripts/dart/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
-||ontwerpen-voor-geld.nl/grafix/banner$domain=html-site.nl
+||onestat.com/app/BannerIframe.aspx?
+||onestat.com/banners/adone-NL.jpg
+||ontwerpen-voor-geld.nl/grafix/banner
 ||onzetaal.nl/banners/
 ||links.overzicht.nl/links/position.php?
 ||pagina.nl/linkerbanneriframe_version2.htm?
@@ -173,9 +180,8 @@ clicktag=http://ad.doubleclick.net/
 ||relatieplanet.be/2linkbe/iframesearch.asp
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
-||home.solcon.nl/amorren/beamer/beamer_info_*.gif$domain=rijden-op-aardgas.startkabel.nl
 ||spelletjes.nl/cimg/promothumbnails/
-||starthosting.nl/banners/$domain=mijnhomepage.nl
+||starthosting.nl/banners/
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||startpagina.nl/spimg/
@@ -197,17 +203,20 @@ clicktag=http://ad.doubleclick.net/
 ||voetbalshop.nl/upload/Image/Voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/Lekker-Single_Blond_*.gif
 ||home.wanadoo.nl/~jroks/dreddezewir/images/reparateurke_banner.jpg
+||webaapje.nl/*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
 ||weeronline.nl/Go/Banner/Index?
 ||j-apps.wegenerweb.nl/banners/
 ||whatismyip.nl/images/vista_sky2.gif
+||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
 !-----Uitzonderingen-----!
 @@*$domain=kiosk.nl
+@@||adverteer-gratis.nl/ads/$~third-party
 @@||ajax.googleapis.com/ajax/services/search/news?
 
 
@@ -277,4 +286,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 256
+! Aantal filters: 265
