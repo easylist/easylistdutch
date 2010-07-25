@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 24 Jul 2010
+! Last modified: 25 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -38,6 +38,7 @@ clicktag=http://ad.doubleclick.net/
 ||tel.adversitement.nl^
 ||atemda.com^
 ||campromos.nl^
+||camsholland.nl^$third-party
 ||camz.nl^$third-party
 ||conversive.nl^$third-party
 ||ad.doubleclick.net^$third-party
@@ -160,7 +161,7 @@ clicktag=http://ad.doubleclick.net/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/BannerIframe.aspx?
-||onestat.com/banners/adone-NL.jpg
+||onestat.com/banners/adone-*
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||onzetaal.nl/banners/
 ||links.overzicht.nl/links/position.php?
@@ -178,6 +179,7 @@ clicktag=http://ad.doubleclick.net/
 ||psonly.nl/campagnes/*_background_go.jpg$background
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
+||s69.nl/banners/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
 ||spelletjes.nl/cimg/promothumbnails/
@@ -219,4 +221,4 @@ clicktag=http://ad.doubleclick.net/
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 203
+! Aantal filters: 205
