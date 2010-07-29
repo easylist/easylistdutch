@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 25 Jul 2010
+! Last modified: 29 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -41,8 +41,7 @@ clicktag=http://ad.doubleclick.net/
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
 ||conversive.nl^$third-party
-||ad.doubleclick.net^$third-party
-||ad.be.doubleclick.net^$third-party
+||doubleclick.net^$object_subrequest,domain=rtl.nl
 ||ds1.nl^
 ||euroclix.nl^$third-party
 ||europacams.nl^$third-party
@@ -221,4 +220,4 @@ clicktag=http://ad.doubleclick.net/
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 205
+! Aantal filters: 204
