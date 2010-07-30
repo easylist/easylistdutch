@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 29 Jul 2010
+! Last modified: 30 Jul 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -227,8 +227,8 @@ clicktag=http://ad.doubleclick.net/
 ###advertorial_red_listblock
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
-##.ad_list_row_normal1
-##.ad_list_row_normal1_no_border
+~koopjes.marktplaats.nl##.ad_list_row_normal1
+~koopjes.marktplaats.nl##.ad_list_row_normal1_no_border
 ##.ad_list_row_normal2
 ##.ad_list_row_normal2_no_border
 ##.admarkt_bottom_list_header
