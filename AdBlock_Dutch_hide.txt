@@ -70,6 +70,7 @@ clicktag=http://ad.doubleclick.net/
 ||banners.utilo.nl^
 ||verkoopmenu.nl^$third-party
 ||admatcher.videostrip.com^
+||videostrip.com^$object_subrequest,domain=zideo.nl
 ||banners.vip.nl^
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
@@ -287,4 +288,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 266
+! Aantal filters: 267
