@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 1 Aug 2010
+! Last modified: 5 Aug 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -119,6 +119,7 @@ clicktag=http://ad.doubleclick.net/
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
+||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
 ||hetnieuwerijden.nl/content/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hoefijzers.nl/banner/
@@ -155,6 +156,7 @@ clicktag=http://ad.doubleclick.net/
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
 ||moneymiljonair.nl/*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
+||ndss.nl/static/ak.gif
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnNL.ashx
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
@@ -193,6 +195,7 @@ clicktag=http://ad.doubleclick.net/
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
 ||tastelikepizza.com/media/*-banner.swf
 ||users.telenet.be/gad/$third-party
+||images.textopus.nl/*/css_img/adflabel.png
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
@@ -222,4 +225,4 @@ clicktag=http://ad.doubleclick.net/
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 206
+! Aantal filters: 209
