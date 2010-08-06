@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 5 Aug 2010
+! Last modified: 6 Aug 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -19,12 +19,8 @@
 /advertorial_
 /BannerLookup.asp?
 /big_reclames/*
-/images/banners/*
-/img/banners/*$domain=nl|be
-/imgupload/banners/*
 /microads/*
 /nmc/adv/*
-/pics/banners/*
 /reklame/*
 /scripts/ad_utils/*
 /small_reclames/*
@@ -133,6 +129,7 @@ clicktag=http://ad.doubleclick.net/
 ||infopagina.nl/startpagina/banner/
 ||internetbode.nl/banner
 ||internetbode.nl/images/*_banner.gif
+||jarasoft.org/images/banners/
 ||jouwpage.nl/images/banner
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kimhollandpartners.nl/livecams/
@@ -154,6 +151,7 @@ clicktag=http://ad.doubleclick.net/
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
+||moerstaal.nl/banner
 ||moneymiljonair.nl/*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||ndss.nl/static/ak.gif
@@ -164,7 +162,7 @@ clicktag=http://ad.doubleclick.net/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/BannerIframe.aspx?
-||onestat.com/banners/adone-*
+||onestat.com/banners/adone-
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||onzetaal.nl/banners/
 ||links.overzicht.nl/links/position.php?
@@ -225,4 +223,4 @@ clicktag=http://ad.doubleclick.net/
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 209
+! Aantal filters: 207
