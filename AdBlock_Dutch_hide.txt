@@ -288,6 +288,10 @@ telegraaf.nl###etalage
 telegraaf.nl###rightbar
 toeto.com##.banner
 tvgids.nl##.bannerBox
+tvgids.nl##.banner-custom
+tvgids.nl##.banner-rectangle
+tvgids.nl##.banner-skyscraper
+tvgids.nl##.banner-top
 tvgids.nl##.teaserLinks
 tweakers.net###b_re
 tweakers.net###headerReplacement
@@ -297,4 +301,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 276
+! Aantal filters: 280
