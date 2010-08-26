@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 25 Aug 2010
+! Last modified: 26 Aug 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -267,6 +267,7 @@ marktplaats.nl##.divHomeWidgetBannerMiddle
 marktplaats.nl##.divHomeWidgetGroups
 kopen.marktplaats.nl##[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
 kopen.marktplaats.nl##[onclick*="AdmarktClick"]
+mensenlinq.nl##.banner
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
 mijnhomepage.nl##.ad
@@ -304,4 +305,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 283
+! Aantal filters: 284
