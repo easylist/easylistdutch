@@ -80,6 +80,7 @@ clicktag=http://ad.doubleclick.net/
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/home_*.swf
 ||adslwinkel.nl/Templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
+||amerika.nl/*/banners/
 ||anwb.nl/binaries/swf/banners/
 ||autozine.nl/promo/banner.jpg
 ||beekje.nl/*/bannerindex.html
@@ -111,6 +112,7 @@ clicktag=http://ad.doubleclick.net/
 ||farmdate.nl/banner/
 ||fiets.nl/uploads/banners/$~background
 ||frankrijk.nl/flash/banner_
+||goamerika.nl/pictures/SITE_BANNER
 ||goedbegin.nl/linkex/?
 ||goldcash.nl/banners/
 ||havovwo.nl/pics/gsmweb.jpg
@@ -182,7 +184,7 @@ clicktag=http://ad.doubleclick.net/
 ||psonly.nl/campagnes/*_background_go.jpg$background
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
-||ru.nl/web/upload/banner/BannerBanner*
+||ru.nl/web/upload/banner/BannerBanner
 ||s69.nl/banners/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
@@ -227,4 +229,4 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 211
+! Aantal filters: 213
