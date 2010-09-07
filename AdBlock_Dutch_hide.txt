@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 5 Sep 2010
+! Last modified: 7 Sep 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -137,6 +137,7 @@ clicktag=http://ad.doubleclick.net/
 ||jouwpage.nl/images/banner
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kimhollandpartners.nl/livecams/
+||kindertv.net/images/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||laagstehypotheekofferte.nl/widget/*/
 ||leerlingen.com/content_images/*_banner.jpg
@@ -189,7 +190,7 @@ clicktag=http://ad.doubleclick.net/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
 ||spelletjes.nl/cimg/promothumbnails/
-||startbewijs.nl/banners/
+||startbewijs.nl/js/banner_
 ||starthosting.nl/banners/
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
@@ -310,4 +311,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 289
+! Aantal filters: 290
