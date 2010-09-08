@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 7 Sep 2010
+! Last modified: 8 Sep 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -292,6 +292,7 @@ sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###game_ban_2
 sporza.be###skyscraper
+startkabel.nl##.banners
 stemwijzer.nl##.ad
 techzine.nl###vs_a2s_tag_fullsize
 telegraaf.nl###etalage
@@ -311,4 +312,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 290
+! Aantal filters: 291
