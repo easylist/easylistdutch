@@ -207,6 +207,7 @@ clicktag=http://ad.doubleclick.net/
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
 ||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
+||vcmw-sigma.nl/uploads/banners/
 ||static.vergelijk.nl/data/nl_NL/promos/
 ||vi.nl/files/commercie/4buttons/
 ||vid.nl/images/DE_filmpje.swf
@@ -309,8 +310,9 @@ tweakers.net###b_re
 tweakers.net###headerReplacement
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
+vcmw-sigma.nl###banner
 waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 292
+! Aantal filters: 294
