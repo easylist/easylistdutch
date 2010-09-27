@@ -268,6 +268,7 @@ clicktag=http://ad.doubleclick.net/
 9292ov.nl##.rectangle
 9lives.be###SKIN
 androidplanet.nl##.ad
+autojunk.nl##[onclick*="_trackPageview(\"/outgoing/"]
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##[id^="text-"].widget
 dumpert.nl###banner_fullsize
@@ -323,4 +324,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 302
+! Aantal filters: 303
