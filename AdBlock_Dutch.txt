@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 16 Sep 2010
+! Last modified: 27 Sep 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -114,6 +114,7 @@ clicktag=http://ad.doubleclick.net/
 ||frankrijk.nl/flash/banner_
 ||goamerika.nl/pictures/SITE_BANNER
 ||goedbegin.nl/linkex/?
+||goedbegin.nl/pics/banners/banner.php?
 ||goldcash.nl/banners/
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
@@ -143,6 +144,7 @@ clicktag=http://ad.doubleclick.net/
 ||leerlingen.com/content_images/*_banner.jpg
 ||leerwiki.nl/leerwiki-doemee.swf?
 ||leerwiki.nl/test/promobanner.swf
+||leukstespel.nl/pop$script
 ||linex-be-nl.be/BANNER*.gif
 ||linkruiler.nl/links_js.php?
 ||linkstartje.be/banners/
@@ -189,6 +191,7 @@ clicktag=http://ad.doubleclick.net/
 ||s69.nl/banners/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sochicken.nl/images/*_banner.jpg
+||speedtest.nl/images/banner/
 ||spelletjes.nl/cimg/promothumbnails/
 ||startbewijs.nl/js/banner_
 ||starthosting.nl/banners/
@@ -232,4 +235,4 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||ajax.googleapis.com/ajax/services/search/news?
 
-! Aantal filters: 216
+! Aantal filters: 219
