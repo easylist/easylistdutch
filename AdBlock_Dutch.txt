@@ -25,7 +25,6 @@
 /scripts/ad_utils/*
 /small_reclames/*
 _advertorial_
-advertentie.gif
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
@@ -240,4 +239,4 @@ clicktag=http://ad.doubleclick.net/
 @@||sogeti.nl/Advertenties/
 @@||webads.nl^$~third-party
 
-! Aantal filters: 224
+! Aantal filters: 223

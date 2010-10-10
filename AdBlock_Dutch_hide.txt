@@ -25,7 +25,6 @@
 /scripts/ad_utils/*
 /small_reclames/*
 _advertorial_
-advertentie.gif
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
@@ -329,4 +328,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 308
+! Aantal filters: 307
