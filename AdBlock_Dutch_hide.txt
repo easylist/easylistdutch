@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 10 Oct 2010
+! Last modified: 2 Nov 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -112,6 +112,7 @@ clicktag=http://ad.doubleclick.net/
 ||farmdate.nl/banner/
 ||fiets.nl/uploads/banners/$~background
 ||frankrijk.nl/flash/banner_
+||static.gay.*/img2/
 ||goamerika.nl/pictures/SITE_BANNER
 ||goedbegin.nl/linkex/?
 ||goedbegin.nl/pics/banners/banner.php?
@@ -235,6 +236,7 @@ clicktag=http://ad.doubleclick.net/
 @@*$domain=kiosk.nl
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||bittads.com^$domain=bittads.nl
+@@||gay.*/img2/variabel_opmaak.jpg
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||sogeti.nl/Advertenties/
 @@||webads.nl^$~third-party
@@ -276,6 +278,9 @@ autojunk.nl##[onclick*="_trackPageview(\"/outgoing/"]
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##[id^="text-"].widget
 dumpert.nl###banner_fullsize
+gay.eu,gay.nl###bannerLeft1
+gay.eu,gay.nl##.bannerTopBox
+gay.eu,gay.nl##.skyscraperParentBox
 forum.fiets.nl##[width="468"][height="60"]
 gentsefeesten.be###partner-logos
 hyves.nl##[id^="adsense_"]
@@ -328,4 +333,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 307
+! Aantal filters: 312
