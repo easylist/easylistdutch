@@ -236,7 +236,7 @@ clicktag=http://ad.doubleclick.net/
 @@*$domain=kiosk.nl
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||bittads.com^$domain=bittads.nl
-@@||gay.*/img2/variabel_opmaak.jpg
+@@||gay.*/img2/variabel_
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||sogeti.nl/Advertenties/
 @@||webads.nl^$~third-party
