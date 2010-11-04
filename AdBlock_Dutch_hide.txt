@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 2 Nov 2010
+! Last modified: 4 Nov 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -32,6 +32,7 @@ clicktag=http://ad.doubleclick.net/
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^
 ||atemda.com^
+||bannerwerving.nl^
 ||campromos.nl^
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
@@ -329,8 +330,10 @@ tweakers.net###headerReplacement
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
 vcmw-sigma.nl###banner
+vitesse.org##.banners
+vitesse.org##.center_banner
 waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 312
+! Aantal filters: 315
