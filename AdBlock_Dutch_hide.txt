@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 17 Nov 2010
+! Last modified: 21 Nov 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -81,6 +81,7 @@ clicktag=http://ad.doubleclick.net/
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/home_*.swf
 ||adslwinkel.nl/Templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
+||allebedrijveninnederland.nl/ad/
 ||amerika.nl/*/banners/
 ||anwb.nl/binaries/swf/banners/
 ||autozine.nl/promo/banner.jpg
@@ -286,6 +287,8 @@ gay.eu,gay.nl##.bannerTopBox
 gay.eu,gay.nl##.skyscraperParentBox
 forum.fiets.nl##[width="468"][height="60"]
 gentsefeesten.be###partner-logos
+hyves.nl###skyscraper
+hyves.nl###tidalboard-google-ad
 hyves.nl##[id^="adsense_"]
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
@@ -339,4 +342,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 318
+! Aantal filters: 321
