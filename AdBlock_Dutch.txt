@@ -240,12 +240,12 @@ clicktag=http://ad.doubleclick.net/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
 !-----Uitzonderingen-----!
-@@*$domain=kiosk.nl
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||bittads.com^$domain=bittads.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
 @@||gay.*/img2/variabel_
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
+@@||kiosk.nl^$document
 @@||sogeti.nl/Advertenties/
 @@||webads.nl^$~third-party
 
