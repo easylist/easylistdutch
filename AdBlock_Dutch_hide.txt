@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 6 Dec 2010
+! Last modified: 11 Dec 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -157,7 +157,7 @@ clicktag=http://ad.doubleclick.net/
 ||linex-be-nl.be/BANNER*.gif
 ||linkruiler.nl/links_js.php?
 ||linkstartje.be/banners/
-||localfm.nl/images/assets/banner-groot-*.png
+||localfm.nl/images/assets/banner-
 ||lustcash.nl/images-lustcash-footer/
 ||lustcash.nl/promo/cams/?
 ||maffiawars.nl/top.php?$subdocument
