@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 11 Dec 2010
+! Last modified: 21 Dec 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -276,8 +276,8 @@ clicktag=http://ad.doubleclick.net/
 ##.aw_url_admarkt_bottom
 ##.reclame
 ##.reclamekop
-##[href^="http://clicks.m4n.nl/"]
-##[href^="http://www.site-id.nl/servlet/___?"]
+##a[href^="http://clicks.m4n.nl/"]
+##a[href^="http://www.site-id.nl/servlet/___?"]
 
 !-----Site-specifieke verbergregels-----!
 2xklikken.nl##.banner
@@ -286,15 +286,15 @@ clicktag=http://ad.doubleclick.net/
 9292ov.nl##.rectangle
 9lives.be###SKIN
 androidplanet.nl##.ad
-autojunk.nl##[onclick*="_trackPageview(\"/outgoing/"]
+autojunk.nl##a[onclick*="/outgoing/"]
 biertijd.com##.advertorialtitle ~ *
-carriere.blog.nl##[id^="text-"].widget
+carriere.blog.nl##.widget[id^="text-"]
 deloads.nl###leaderboard
 dumpert.nl###banner_fullsize
 gay.eu,gay.nl###bannerLeft1
 gay.eu,gay.nl##.bannerTopBox
 gay.eu,gay.nl##.skyscraperParentBox
-forum.fiets.nl##[width="468"][height="60"]
+forum.fiets.nl##img[width="468"][height="60"]
 fok.nl###skyscraper
 gentsefeesten.be###partner-logos
 hyves.nl###skyscraper
@@ -304,13 +304,13 @@ ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kilroynews.net##TABLE[width="760"][height="2001"][align="center"]
 kilroynews.net##TABLE[width="792"]
-landenweb.net##[href="_hPromotionADLW.htm"]
-leukstespel.nl##[target="_blank"] > img
+landenweb.net##a[href="_hPromotionADLW.htm"]
+leukstespel.nl##a[target="_blank"] > img
 localfm.nl##.adsmall
 marktplaats.nl##.divHomeWidgetBannerMiddle
 marktplaats.nl##.divHomeWidgetGroups
-kopen.marktplaats.nl##[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
-kopen.marktplaats.nl##[onclick*="AdmarktClick"]
+kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
+kopen.marktplaats.nl##div[onclick*="AdmarktClick"]
 mensenlinq.nl##.banner
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
@@ -319,14 +319,15 @@ nl.msn.com###dating
 nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
 nos.nl###banner
-nrc.nl##[href^="http://altfarm.mediaplex.com/ad/"]
+nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl###adblocksmall
-nu.nl##[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
-nu.nl##[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
-nu.nl##[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
+nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
+nu.nl##div[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
+nu.nl##table[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
-pollennieuws.nl##[height="90"][width="728"]
+pollennieuws.nl##img[height="90"][width="728"]
+pollennieuws.nl##IMG[width="730"][height="92"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###game_ban_2
@@ -354,4 +355,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 333
+! Aantal filters: 334
