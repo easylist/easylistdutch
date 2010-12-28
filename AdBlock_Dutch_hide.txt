@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 21 Dec 2010
+! Last modified: 28 Dec 2010
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -9,22 +9,17 @@
 ! http://code.google.com/p/dutchadblockfilters/issues/list
 
 !-----Algemene blokkeerregels-----!
-.nl/ads/
 /adbron.aspx?
 /ads_loader.swf
 /adverteerders/*
 /advertentie.php?
 /advertentie/*
 /advertenties/*
-/advertorial_
 /BannerLookup.asp?
 /big_reclames/*
-/microads/*
 /nmc/adv/*
 /reklame/*
-/scripts/ad_utils/*
 /small_reclames/*
-_advertorial_
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
@@ -240,6 +235,7 @@ clicktag=http://ad.doubleclick.net/
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
+||zoomin.tv/uploaded/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
 !-----Uitzonderingen-----!
@@ -251,28 +247,24 @@ clicktag=http://ad.doubleclick.net/
 @@||kiosk.nl^$document
 @@||sogeti.nl/Advertenties/
 @@||webads.nl^$~third-party
+@@||blackbird.zoomin.tv/adhandler/
 
 
 !-----Algemene verbergregels-----!
-###adColumn
 ###advertentie
 ###advertentieblokjeid
 ###advertorial_red_listblock
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
-##.ad_headline
 ##.ad_line
-##.ad_link
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2_no_border
-##.adfieldbg
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
 ##.adMinisLR
 ##.advertorial_red
-##.advertorialtitle
 ##.aw_url_admarkt_bottom
 ##.reclame
 ##.reclamekop
@@ -302,8 +294,8 @@ hyves.nl###tidalboard-google-ad
 hyves.nl##[id^="adsense_"]
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
-kilroynews.net##TABLE[width="760"][height="2001"][align="center"]
-kilroynews.net##TABLE[width="792"]
+kilroynews.net##table[width="760"][height="2001"][align="center"]
+kilroynews.net##table[width="792"]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 leukstespel.nl##a[target="_blank"] > img
 localfm.nl##.adsmall
@@ -327,7 +319,7 @@ nu.nl##table[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campag
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
 pollennieuws.nl##img[height="90"][width="728"]
-pollennieuws.nl##IMG[width="730"][height="92"]
+pollennieuws.nl##img[width="730"][height="92"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###game_ban_2
@@ -355,4 +347,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 334
+! Aantal filters: 326
