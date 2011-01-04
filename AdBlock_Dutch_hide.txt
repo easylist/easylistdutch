@@ -294,7 +294,7 @@ fok.nl###skyscraper
 gentsefeesten.be###partner-logos
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
-hyves.nl##[id^="adsense_"]
+hyves.nl##div[id^="adsense_"]
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kilroynews.net##table[width="760"][height="2001"][align="center"]
