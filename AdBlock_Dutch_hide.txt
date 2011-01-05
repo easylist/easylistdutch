@@ -28,6 +28,7 @@ clicktag=http://ad.doubleclick.net/
 ||tel.adversitement.nl^
 ||atemda.com^
 ||bannerwerving.nl^
+||webvertising-img.bencom.net^
 ||campromos.nl^
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
@@ -345,6 +346,7 @@ tweakers.net###b_re
 tweakers.net###headerReplacement
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
+vakantiebellen.com###skyscraper
 vcmw-sigma.nl###banner
 vitesse.org##.banners
 vitesse.org##.center_banner
@@ -352,4 +354,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 331
+! Aantal filters: 333
