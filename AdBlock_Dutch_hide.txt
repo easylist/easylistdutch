@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 4 Jan 2011
+! Last modified: 5 Jan 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -292,6 +292,8 @@ gay.eu,gay.nl##.skyscraperParentBox
 forum.fiets.nl##img[width="468"][height="60"]
 fok.nl###skyscraper
 gentsefeesten.be###partner-logos
+hiphopinjesmoel.com###header_banner
+hiphopinjesmoel.com##div[style="text-align: center; background-color: rgb(255, 255, 255); padding: 5px 0pt 0pt; color: rgb(17, 17, 17);"]
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
@@ -350,4 +352,4 @@ waarbenjij.nu###spanEbookersContainer
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 
-! Aantal filters: 329
+! Aantal filters: 331
