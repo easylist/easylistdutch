@@ -57,6 +57,7 @@ clicktag=http://ad.doubleclick.net/
 ||banners.portaalweb.nl^$third-party
 ||privatecams.nl^$third-party
 ||logolinks.reedbusiness.nl^
+||semilo.com^$third-party
 ||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
 ||banners.toeto.com^
@@ -241,6 +242,7 @@ clicktag=http://ad.doubleclick.net/
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
+||zideo.nl/scripts/banner/
 ||zoomin.tv/uploaded/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
@@ -262,6 +264,7 @@ clicktag=http://ad.doubleclick.net/
 ###advertorial_red_listblock
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
+###vs_a2s_tag_fullsize
 ##.ad_line
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
@@ -335,7 +338,6 @@ spele.nl###game_ban_2
 sporza.be###skyscraper
 startkabel.nl##.banners
 stemwijzer.nl##.ad
-techzine.nl###vs_a2s_tag_fullsize
 telegraaf.nl###etalage
 telegraaf.nl###rightbar
 toeto.com##.banner
@@ -358,4 +360,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 337
+! Aantal filters: 339

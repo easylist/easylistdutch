@@ -57,6 +57,7 @@ clicktag=http://ad.doubleclick.net/
 ||banners.portaalweb.nl^$third-party
 ||privatecams.nl^$third-party
 ||logolinks.reedbusiness.nl^
+||semilo.com^$third-party
 ||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
 ||banners.toeto.com^
@@ -241,6 +242,7 @@ clicktag=http://ad.doubleclick.net/
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
+||zideo.nl/scripts/banner/
 ||zoomin.tv/uploaded/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
@@ -255,4 +257,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 239
+! Aantal filters: 241
