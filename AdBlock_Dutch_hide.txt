@@ -72,6 +72,8 @@ clicktag=http://ad.doubleclick.net/
 ||promo1.webcams.nl^
 
 !-----Site-specifieke blokkeerregels------!
+||123video.nl/alternate
+||123video.nl/img/banners/
 ||2link.be/*/dochterbanner.php?
 ||9292ov.nl/images/9292-banner.gif
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
@@ -356,4 +358,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 335
+! Aantal filters: 337
