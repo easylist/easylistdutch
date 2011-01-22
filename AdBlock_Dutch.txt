@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 12 Jan 2011
+! Last modified: 20 Jan 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -76,6 +76,7 @@ clicktag=http://ad.doubleclick.net/
 ||123video.nl/alternate
 ||123video.nl/img/banners/
 ||2link.be/*/dochterbanner.php?
+||337.com/*/zhuguan1.html?
 ||9292ov.nl/images/9292-banner.gif
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
@@ -132,6 +133,8 @@ clicktag=http://ad.doubleclick.net/
 ||htforum.nl/yabbse/Banners/
 ||htforum.nl/yabbse/topframe_v3.php
 ||huizenhype.nl/banner/
+||hyves.nl/*/adHeseController.js
+||hyves.nl/*/lookyconnect.js
 ||hyves-static.net/*/adHeseController.
 ||hyves-static.net/*/hyvesense/
 ||hyves-static.net/*/lookyconnect.
@@ -148,6 +151,7 @@ clicktag=http://ad.doubleclick.net/
 ||kilroynews.net/Verkoophuis-
 ||kimhollandpartners.nl/livecams/
 ||kindertv.net/images/banners/
+||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||laagstehypotheekofferte.nl/widget/*/
 ||landenportal.nl/banners/
@@ -193,6 +197,7 @@ clicktag=http://ad.doubleclick.net/
 ||accounts.pkr.com/ServeMarketingTool.aspx?
 ||powerhits.be/bnr_show.php?
 ||powerhits.be/nuro-staff/banners/
+||privespot.nl/img/banners/
 ||profina.nl/banner.php?
 ||promootjesite.nl/banex/
 ||psonly.nl/campagnes/*_background_go.jpg$background
@@ -202,6 +207,7 @@ clicktag=http://ad.doubleclick.net/
 ||ru.nl/web/upload/banner/BannerBanner
 ||s69.nl/banners/
 ||schakelingenonline.nl/algemeen/elektuur.gif
+||sexdumpert.nl/banners/
 ||sochicken.nl/images/*_banner.jpg
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
@@ -217,6 +223,7 @@ clicktag=http://ad.doubleclick.net/
 ||tastelikepizza.com/media/*-banner.swf
 ||users.telenet.be/gad/$third-party
 ||images.textopus.nl/*/css_img/adflabel.png
+||tienertube.nl/banners/
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
@@ -248,6 +255,7 @@ clicktag=http://ad.doubleclick.net/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 
 !-----Uitzonderingen-----!
+@@|http://banner$domain=kinderpretpagina.nl
 @@||adverteer-gratis.nl/ads/$~third-party
 @@||bittads.com^$domain=bittads.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
@@ -258,4 +266,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 242
+! Aantal filters: 250
