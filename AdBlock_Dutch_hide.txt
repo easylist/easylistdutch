@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 20 Jan 2011
+! Last modified: 26 Jan 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -220,6 +220,8 @@ clicktag=http://ad.doubleclick.net/
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
+||studenten.nl/upload/banners/
+||studenten.nl/upload/Flash/Banner
 ||tastelikepizza.com/media/*-banner.swf
 ||users.telenet.be/gad/$third-party
 ||images.textopus.nl/*/css_img/adflabel.png
@@ -263,6 +265,7 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||kiosk.nl^$document
 @@||sogeti.nl/Advertenties/
+@@||studenten.nl/content/partners$document
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
@@ -332,6 +335,7 @@ mensenlinq.nl##.banner
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
 mijnhomepage.nl##.ad
+mistermoney.nl###theLayer
 nl.msn.com###dating
 nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
@@ -352,6 +356,7 @@ spele.nl###game_ban_2
 sporza.be###skyscraper
 startkabel.nl##.banners
 stemwijzer.nl##.ad
+studenten.nl##.banner
 telegraaf.nl###etalage
 telegraaf.nl###rightbar
 toeto.com##.banner
@@ -374,4 +379,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 353
+! Aantal filters: 358
