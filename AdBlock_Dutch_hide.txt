@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 1 Feb 2011
+! Last modified: 4 Feb 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -180,7 +180,6 @@ clicktag=http://ad.doubleclick.net/
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||images.nickelodeon.nl/ad_
-infonu.nl##.banner250
 ||nu.nl/scripts/dart/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
@@ -213,6 +212,7 @@ infonu.nl##.banner250
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
+||speurders.nl/*doubleclick.net/adj/
 ||startbewijs.nl/js/banner_
 ||starthosting.nl/banners/
 ||startkabel.nl/*/adver/
@@ -227,6 +227,7 @@ infonu.nl##.banner250
 ||users.telenet.be/gad/$third-party
 ||images.textopus.nl/*/css_img/adflabel.png
 ||tienertube.nl/banners/
+||tvgidsassets.nl/*/img/ad*_gray.gif
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
@@ -272,9 +273,10 @@ infonu.nl##.banner250
 
 
 !-----Algemene verbergregels-----!
-###advertentie
+~speurders.nl###advertentie
 ###advertentieblokjeid
 ###advertorial_red_listblock
+###prog-sponsorlinks
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
@@ -321,6 +323,7 @@ hiphopinjesmoel.com##div[style="text-align: center; background-color: rgb(255, 2
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
+infonu.nl##.banner250
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kilroynews.net##table[width="760"][height="2001"][align="center"]
@@ -366,6 +369,7 @@ tvgids.nl##.banner-custom
 tvgids.nl##.banner-rectangle
 tvgids.nl##.banner-skyscraper
 tvgids.nl##.banner-top
+tvgids.nl##.leaderboard
 tvgids.nl##.teaserLinks
 tweakers.net###b_re
 tweakers.net###headerReplacement
@@ -380,4 +384,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 359
+! Aantal filters: 363
