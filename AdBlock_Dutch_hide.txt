@@ -210,6 +210,7 @@ clicktag=http://ad.doubleclick.net/
 ||s69.nl/banners/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sexdumpert.nl/banners/
+||sexgamer.nl/banners/
 ||sochicken.nl/images/*_banner.jpg
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
@@ -396,4 +397,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 375
+! Aantal filters: 376
