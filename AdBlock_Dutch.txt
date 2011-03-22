@@ -24,7 +24,6 @@ clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
 ||adhese.com^$third-party
-||admeld.com^$third-party
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^
 ||atemda.com^
@@ -66,7 +65,6 @@ clicktag=http://ad.doubleclick.net/
 ||promotools*.sexdatingcash.nl^$third-party
 ||site-id.nl^
 ||banners.toeto.com^
-||ti.tradetracker.net^
 ||ti.tradetracker.nl^
 ||banners.utilo.nl^
 ||verkoopmenu.nl^$third-party
@@ -152,7 +150,6 @@ clicktag=http://ad.doubleclick.net/
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kilroynews.net/*banner
 ||kilroynews.net/Verkoophuis-
-||kimhollandpartners.nl/livecams/
 ||kindertv.net/images/banners/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
@@ -278,4 +275,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 262
+! Aantal filters: 259
