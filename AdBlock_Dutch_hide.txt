@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 8 Apr 2011
+! Last modified: 12 Apr 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -29,6 +29,7 @@ clicktag=http://ad.doubleclick.net/
 ||atemda.com^
 ||bannerwerving.nl^
 ||webvertising-img.bencom.net^
+||partnerprogramma.bol.com^$third-party
 ||campromos.nl^
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
@@ -130,6 +131,7 @@ clicktag=http://ad.doubleclick.net/
 ||hdci.nl/soo/energie.html?
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
 ||hetnieuwerijden.nl/content/banners/
+||historiek.net/images/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hoefijzers.nl/banner/
 ||htforum.nl/yabbse/*-banner2.gif
@@ -331,6 +333,7 @@ geenstijl.nl###doubleclick-ads-iframe-5
 gentsefeesten.be###partner-logos
 hiphopinjesmoel.com###header_banner
 hiphopinjesmoel.com##div[style="text-align: center; background-color: rgb(255, 255, 255); padding: 5px 0pt 0pt; color: rgb(17, 17, 17);"]
+historiek.net##a[href="http://historiek.net/1/click"]
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
@@ -403,4 +406,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 382
+! Aantal filters: 385
