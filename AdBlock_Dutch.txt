@@ -118,6 +118,7 @@ clicktag=http://ad.doubleclick.net/
 ||eurobellen.nl/belspel/?pid=
 ||examen.nl/banners/
 ||farmdate.nl/banner/
+||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/$~background
 ||frankrijk.nl/flash/banner_
 ||static.gay.*/img2/
@@ -282,4 +283,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 266
+! Aantal filters: 267
