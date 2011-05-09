@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 9 May 2011
+! Last modified: 10 May 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -405,8 +405,9 @@ vcmw-sigma.nl##.sponsor
 vitesse.org##.banners
 vitesse.org##.center_banner
 waarbenjij.nu###spanEbookersContainer
+weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 388
+! Aantal filters: 389
