@@ -25,7 +25,9 @@ clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
 ||adhese.com^$third-party
 ||system.adquick.nl^$third-party
+||adrcdn.com^$third-party
 ||tel.adversitement.nl^
+||affiliate4you.nl^$third-party
 ||atemda.com^
 ||bannerwerving.nl^
 ||webvertising-img.bencom.net^
@@ -284,4 +286,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 268
+! Aantal filters: 270
