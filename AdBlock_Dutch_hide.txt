@@ -292,6 +292,8 @@ clicktag=http://ad.doubleclick.net/
 ~speurders.nl###advertentie
 ###advertentieblokjeid
 ###advertorial_red_listblock
+###news_advertorial_inhoud
+###news_advertorial_top
 ###prog-sponsorlinks
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
@@ -413,4 +415,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 392
+! Aantal filters: 394
