@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 11 May 2011
+! Last modified: 12 May 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -10,7 +10,6 @@
 
 !-----Algemene blokkeerregels-----!
 /adbron.aspx?
-/ads_loader.swf
 /adverteerders/*
 /advertentie.php?
 /advertentie/*
@@ -23,12 +22,10 @@
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
-||adhese.com^$third-party
 ||system.adquick.nl^$third-party
 ||adrcdn.com^$third-party
 ||tel.adversitement.nl^
 ||affiliate4you.nl^$third-party
-||atemda.com^
 ||bannerwerving.nl^
 ||webvertising-img.bencom.net^
 ||partnerprogramma.bol.com^$third-party
@@ -53,7 +50,6 @@ clicktag=http://ad.doubleclick.net/
 ||images.islive.nl^$third-party
 ||k1s.nl^
 ||kimhollandpartners.nl^$third-party
-||admeta.vo.llnwd.net^
 ||views.m4n.nl^$third-party
 ||mbuyu.nl^$domain=~m4n.nl
 ||partnerwebsites.mistermedia.nl^
@@ -291,9 +287,6 @@ clicktag=http://ad.doubleclick.net/
 ###adfactor-label
 ~speurders.nl###advertentie
 ###advertentieblokjeid
-###advertorial_red_listblock
-###news_advertorial_inhoud
-###news_advertorial_top
 ###prog-sponsorlinks
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
@@ -305,9 +298,7 @@ clicktag=http://ad.doubleclick.net/
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2_no_border
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
-##.adMinisLR
 ##.adstekst
-##.advertorial_red
 ##.aw_url_admarkt_bottom
 ##.reclame
 ##.reclameIndex
@@ -415,4 +406,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 394
+! Aantal filters: 385
