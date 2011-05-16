@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 16 May 2011
+! Last modified: 17 May 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -321,12 +321,14 @@ checkcams.com##.ab
 checkcams.com##.mfoot
 deloads.nl###leaderboard
 dumpert.nl###banner_fullsize
-gay.eu,gay.nl###bannerLeft1
-gay.eu,gay.nl##.bannerTopBox
-gay.eu,gay.nl##.skyscraperParentBox
+eindexamen.nu,eindexamens.nu###leaderboard
+eindexamen.nu,eindexamens.nu###mrectangle
 forum.fiets.nl##img[width="468"][height="60"]
 flabber.nl###bannerMIDDLE-teaser
 fok.nl###skyscraper
+gay.eu,gay.nl###bannerLeft1
+gay.eu,gay.nl##.bannerTopBox
+gay.eu,gay.nl##.skyscraperParentBox
 geenstijl.nl###doubleclick-ads-iframe-5
 gentsefeesten.be###partner-logos
 hiphopinjesmoel.com###header_banner
@@ -357,8 +359,6 @@ nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
 nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
-eindexamen.nu,eindexamens.nu###leaderboard
-eindexamen.nu,eindexamens.nu###mrectangle
 nu.nl###adblocksmall
 nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##div[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
