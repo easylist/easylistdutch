@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 12 May 2011
+! Last modified: 17 May 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -106,6 +106,7 @@ clicktag=http://ad.doubleclick.net/
 ||statisch.detelefoongids.nl/*/1888_Logo-met-payoff*.jpg
 ||statisch.detelefoongids.nl/dms/images/*/ad_*.png
 ||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
+||dreddezewir.nl/images/reparateurke_banner.jpg
 ||dutchleader.com/php/banex/
 ||dutchleader.nl/php/banex/$third-party
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
@@ -253,7 +254,6 @@ clicktag=http://ad.doubleclick.net/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/upload/Image/Voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/Lekker-Single_Blond_*.gif
-||home.wanadoo.nl/~jroks/dreddezewir/images/reparateurke_banner.jpg
 ||webaapje.nl/*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
