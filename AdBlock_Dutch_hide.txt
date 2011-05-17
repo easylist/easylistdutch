@@ -40,6 +40,7 @@ clicktag=http://ad.doubleclick.net/
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
+||partnerwebsites.financereview.nl^
 ||promotie.gamecoll.com^
 ||schoorsteen.geenstijl.nl^$third-party
 ||geoaddicted.net^
@@ -51,6 +52,7 @@ clicktag=http://ad.doubleclick.net/
 ||k1s.nl^
 ||kimhollandpartners.nl^$third-party
 ||views.m4n.nl^$third-party
+||maakmedia.nl^$third-party
 ||mbuyu.nl^$domain=~m4n.nl
 ||partnerwebsites.mistermedia.nl^
 ||netdirect.nl^
@@ -408,4 +410,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 387
+! Aantal filters: 389
