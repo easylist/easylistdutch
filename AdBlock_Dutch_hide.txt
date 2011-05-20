@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 19 May 2011
+! Last modified: 20 May 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -260,6 +260,7 @@ clicktag=http://ad.doubleclick.net/
 ||webaapje.nl/*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
+||weeronline.nl/*/HotelDeals/
 ||weeronline.nl/Go/Banner/Index?
 ||j-apps.wegenerweb.nl/banners/
 ||wetenschapsforum.nl/bnr/skyscraper.html
@@ -319,6 +320,7 @@ androidplanet.nl##.ad
 autojunk.nl##a[onclick*="/outgoing/"]
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##.widget[id^="text-"]
+bnr.nl##.commercialLinks
 checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
@@ -411,4 +413,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 390
+! Aantal filters: 392
