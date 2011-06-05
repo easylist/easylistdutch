@@ -22,6 +22,7 @@
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
+||2mdn.net^$object-subrequest,domain=garagetv.be
 ||system.adquick.nl^$third-party
 ||adrcdn.com^$third-party
 ||tel.adversitement.nl^
@@ -286,4 +287,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 270
+! Aantal filters: 271
