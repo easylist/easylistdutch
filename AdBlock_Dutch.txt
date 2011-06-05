@@ -22,7 +22,6 @@
 clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
-||2mdn.net^$domain=garagetv.be
 ||system.adquick.nl^$third-party
 ||adrcdn.com^$third-party
 ||tel.adversitement.nl^
@@ -36,7 +35,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=rtl.nl|tmf.nl|2be.be
+||doubleclick.net^$object_subrequest,domain=rtl.nl|tmf.nl|2be.be|garagetv.be
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -287,4 +286,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 271
+! Aantal filters: 270
