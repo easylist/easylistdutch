@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 5 Jun 2011
+! Last modified: 6 Jun 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -69,6 +69,7 @@ clicktag=http://ad.doubleclick.net/
 ||site-id.nl^$third-party
 ||banners.toeto.com^
 ||ti.tradetracker.nl^
+||asp.unitedconsumers.com^$third-party
 ||banners.utilo.nl^
 ||verkoopmenu.nl^$third-party
 ||admatcher.videostrip.com^
@@ -254,6 +255,7 @@ clicktag=http://ad.doubleclick.net/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl/*/sponsors.js
 ||vid.nl/images/DE_filmpje.swf
+||videostrip.com/js/videostrip/admatcher.js
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/upload/Image/Voorpagina/vi_banners/
@@ -370,6 +372,7 @@ nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
 nu.nl##div[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
 nu.nl##table[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 onemorething.nl##.advert
+ongein.nl##div[id$="_divAdNL"]
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
 pollennieuws.nl##img[height="90"][width="728"]
@@ -415,4 +418,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 394
+! Aantal filters: 397
