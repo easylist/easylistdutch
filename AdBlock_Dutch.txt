@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 6 Jun 2011
+! Last modified: 7 Jun 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -192,7 +192,6 @@ clicktag=http://ad.doubleclick.net/
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||images.nickelodeon.nl/ad_
 ||nolensplein.nl/banners/
-||nu.nl/scripts/dart/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/BannerIframe.aspx?
@@ -289,4 +288,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 273
+! Aantal filters: 272

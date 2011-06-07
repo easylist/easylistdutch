@@ -192,7 +192,6 @@ clicktag=http://ad.doubleclick.net/
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||images.nickelodeon.nl/ad_
 ||nolensplein.nl/banners/
-||nu.nl/scripts/dart/
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/BannerIframe.aspx?
@@ -367,11 +366,7 @@ nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
 nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
-nu.nl###adblocksmall
 nu.nl##.adblock_border
-nu.nl##a[href^="http://www.laagstehypotheekofferte.nl/campagnes/"]
-nu.nl##div[style="border: 1px solid rgb(221, 230, 247); margin: 3px 0pt 0pt; padding: 0pt; overflow: hidden; width: 118px; line-height: normal;"]
-nu.nl##table[onclick^="window.open('http://www.laagstehypotheekofferte.nl/campagnes/"]
 onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
 paginamarkt.nl###banner
@@ -419,4 +414,4 @@ weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 zappsite.nl##.banner
 
-! Aantal filters: 398
+! Aantal filters: 393
