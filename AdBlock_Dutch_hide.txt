@@ -94,6 +94,7 @@ clicktag=http://ad.doubleclick.net/
 ||allebedrijveninnederland.nl/ad/
 ||amerika.nl/*/banners/
 ||anwb.nl/binaries/swf/banners/
+||automatiseringgids.nl/*/Marketing/blokje_
 ||autozine.nl/promo/banner.jpg
 ||beekje.nl/*/bannerindex.html
 ||media*.biertijd.com/galleries/*/banners/
@@ -271,6 +272,8 @@ clicktag=http://ad.doubleclick.net/
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xmissymedia.com/galleries/*/banners/
+||z24.nl/*/ad_panel.css
+||z24.nl/*/ads.css
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/uploaded/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
@@ -321,6 +324,7 @@ clicktag=http://ad.doubleclick.net/
 9lives.be###SKIN
 androidplanet.nl##.ad
 autojunk.nl##a[onclick*="/outgoing/"]
+automatiseringgids.nl##.bannercontainer
 biertijd.com##.advertorialtitle ~ *
 carriere.blog.nl##.widget[id^="text-"]
 bnr.nl##.commercialLinks
@@ -415,6 +419,7 @@ weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 z24.nl##.ad
+z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 396
+! Aantal filters: 401
