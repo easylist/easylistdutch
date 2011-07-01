@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 26 Jun 2011
+! Last modified: 1 Jul 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -126,6 +126,7 @@ clicktag=http://ad.doubleclick.net/
 ||eurobellen.nl/belspel/?pid=
 ||examen.nl/banners/
 ||farmdate.nl/banner/
+||fcupdate.net/banners/
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
 ||frankrijk.nl/flash/banner_
@@ -289,6 +290,7 @@ clicktag=http://ad.doubleclick.net/
 @@||gay.*/img2/variabel_
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||kiosk.nl^$document
+@@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/Advertenties/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$~third-party
@@ -337,6 +339,7 @@ deloads.nl###leaderboard
 dumpert.nl###banner_fullsize
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
+fcupdate.nl##.advert
 forum.fiets.nl##img[width="468"][height="60"]
 flabber.nl###bannerMIDDLE-teaser
 fok.nl###skyscraper
@@ -373,6 +376,7 @@ nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
 nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
+nu.nl##.ad
 nu.nl##.adblock_border
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
 onemorething.nl##.advert
@@ -424,4 +428,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 403
+! Aantal filters: 407
