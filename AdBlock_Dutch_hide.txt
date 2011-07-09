@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 4 Jul 2011
+! Last modified: 9 Jul 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -89,6 +89,7 @@ clicktag=http://ad.doubleclick.net/
 ||337.com/*/zhuguan1.html?
 ||9292ov.nl/images/9292-banner.gif
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
+||ad.nl/static/nmc/nmc/mid/*_banner.swf
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/home_*.swf
 ||adslwinkel.nl/Templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
@@ -161,6 +162,7 @@ clicktag=http://ad.doubleclick.net/
 ||internetbode.nl/images/*_banner.gif
 ||jarasoft.org/images/banners/
 ||jouwpage.nl/images/banner
+||jouwtomtom.nl/*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kilroynews.net/*banner
 ||kilroynews.net/Verkoophuis-
@@ -403,7 +405,7 @@ studenten.nl##.banner
 synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
 telegraaf.nl###etalage
-telegraaf.nl###rightbar
+telegraaf.nl###rightbar > .artspacer
 toeto.com##.banner
 tvgids.nl##.bannerBox
 tvgids.nl##.banner-custom
@@ -429,4 +431,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 408
+! Aantal filters: 410
