@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 18 Jul 2011
+! Last modified: 22 Jul 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -23,6 +23,7 @@ clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
 ||2mdn.net^$object-subrequest,domain=garagetv.be
+||ib.adnxs.com^$third-party,domain=~appnexus.com
 ||system.adquick.nl^$third-party
 ||adrcdn.com^$third-party
 ||tel.adversitement.nl^
@@ -38,7 +39,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=rtl.nl|tmf.nl|2be.be|garagetv.be|zie.nl
+||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -137,6 +138,7 @@ clicktag=http://ad.doubleclick.net/
 ||goedbegin.nl/linkex/?
 ||goedbegin.nl/pics/banners/banner.php?
 ||goldcash.nl/banners/
+||hardwarewoensdag.tv/*/HWW_bg_
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
@@ -165,6 +167,7 @@ clicktag=http://ad.doubleclick.net/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl/*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
+||kieskeurig.nl/rectangle?
 ||kilroynews.net/*banner
 ||kilroynews.net/Verkoophuis-
 ||kindertv.net/images/banners/
@@ -194,6 +197,7 @@ clicktag=http://ad.doubleclick.net/
 ||moneymiljonair.nl/*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||mrstiff.nl/view/context/spot/
+||musicmeter.nl/merchandise.php?
 ||ndss.nl/static/ak.gif
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnNL.ashx
 ||nederland.fm/i/banner_*.gif
@@ -240,6 +244,7 @@ clicktag=http://ad.doubleclick.net/
 ||startkabel.nl/*/adver/
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||startpagina.nl/spimg/
+||static-voetbalzone.nl/images/banners/
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
 ||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
@@ -294,10 +299,11 @@ clicktag=http://ad.doubleclick.net/
 @@||gay.*/img2/variabel_
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||kiosk.nl^$document
+@@||images.marktnet.eu/adimg/
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/Advertenties/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 284
+! Aantal filters: 290
