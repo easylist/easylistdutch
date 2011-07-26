@@ -106,6 +106,7 @@ clicktag=http://ad.doubleclick.net/
 ||biologiepagina.nl/Images/mijndomeingroen.jpg
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
 ||bol.com/nl/upload/banners/
+||bouwmachineforum.nl/banner/
 ||brandweerspotters.nl/modules/banners/bannerimages/
 ||cameranu.nl/images/banner_zoom.gif
 ||clippagina.nl/blue/bggoogle*.jpg
@@ -453,4 +454,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 432
+! Aantal filters: 433
