@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 22 Jul 2011
+! Last modified: 26 Jul 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -349,6 +349,7 @@ checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
 deloads.nl###leaderboard
+digitallife.nl###partner_block
 dumpert.nl###banner_fullsize
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
@@ -452,4 +453,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 431
+! Aantal filters: 432
