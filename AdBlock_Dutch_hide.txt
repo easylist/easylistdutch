@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 3 Aug 2011
+! Last modified: 6 Aug 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -40,7 +40,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl
+||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl|outmusic.nl
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -221,6 +221,7 @@ clicktag=http://ad.doubleclick.net/
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/Image/slideshows/actieBanners/
 ||accounts.pkr.com/ServeMarketingTool.aspx?
+||pokernet.nl/images/Banners/
 ||powerhits.be/bnr_show.php?
 ||powerhits.be/nuro-staff/banners/
 ||privespot.nl/img/banners/
@@ -410,6 +411,7 @@ onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
+pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
@@ -455,4 +457,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 434
+! Aantal filters: 436

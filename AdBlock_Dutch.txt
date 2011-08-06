@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 3 Aug 2011
+! Last modified: 6 Aug 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -40,7 +40,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl
+||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl|outmusic.nl
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -221,6 +221,7 @@ clicktag=http://ad.doubleclick.net/
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/Image/slideshows/actieBanners/
 ||accounts.pkr.com/ServeMarketingTool.aspx?
+||pokernet.nl/images/Banners/
 ||powerhits.be/bnr_show.php?
 ||powerhits.be/nuro-staff/banners/
 ||privespot.nl/img/banners/
@@ -308,4 +309,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 292
+! Aantal filters: 293
