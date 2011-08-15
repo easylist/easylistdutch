@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 14 Aug 2011
+! Last modified: 15 Aug 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -407,6 +407,7 @@ nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##.ad
 nu.nl##.adblock_border
+nu.nl##.adblue
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
 onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
@@ -458,4 +459,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 437
+! Aantal filters: 438
