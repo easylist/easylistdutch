@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 16 Aug 2011
+! Last modified: 19 Aug 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -103,6 +103,7 @@ clicktag=http://ad.doubleclick.net/
 ||automatiseringgids.nl/*/Marketing/blokje_
 ||autozine.nl/promo/banner.jpg
 ||beekje.nl/*/bannerindex.html
+||berekenhet.nl/*?c=ads
 ||media*.biertijd.com/galleries/*/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/Images/mijndomeingroen.jpg
@@ -297,6 +298,7 @@ clicktag=http://ad.doubleclick.net/
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||adverteer-gratis.nl/ads/$~third-party
+@@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||bittads.com^$domain=bittads.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
 @@||fotoapparatuur.nl/Advertenties/
@@ -304,6 +306,7 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||kiosk.nl^$document
 @@||images.marktnet.eu/adimg/
+@@||webads.nl^$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/Advertenties/
 @@||studenten.nl/content/partners$document
@@ -402,6 +405,7 @@ moviemeter.nl##.sponsored
 nl.msn.com###dating
 musicmeter.nl##.banner_h
 musicmeter.nl##.sponsored
+ncrv.nl##.add-disclaimer
 nederland.fm##.banner
 nickelodeon.nl###leaderboard_container
 nos.nl###banner
@@ -460,4 +464,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 439
+! Aantal filters: 443
