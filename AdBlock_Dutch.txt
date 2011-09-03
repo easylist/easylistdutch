@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 28 Aug 2011
+! Last modified: 3 Sep 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -23,7 +23,7 @@ clicktag=http://ad.doubleclick.net/
 
 !-----Advertentieservers-----!
 ||2mdn.net^$object-subrequest,domain=garagetv.be
-||ib.adnxs.com^$third-party,domain=~appnexus.com
+||adnxs.com^$third-party,domain=~appnexus.com
 ||system.adquick.nl^$third-party
 ||adrcdn.com^$third-party
 ||tel.adversitement.nl^
@@ -40,7 +40,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl|outmusic.nl
+||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl|outmusic.nl|nl.msn.com
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -195,6 +195,7 @@ clicktag=http://ad.doubleclick.net/
 ||marktplaats.com/css/adminis-min.css
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
 ||metliefs.nl/banner_
+||mijnalbum.nl/afbeeldingen/overlays/
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
@@ -253,7 +254,6 @@ clicktag=http://ad.doubleclick.net/
 ||static-voetbalzone.nl/images/banners/
 ||static-webregio.nl/content/banners/
 ||stemwijzer.nl/*/images/*/IslaBanner.swf
-||shop.strato.com/WebRoot/StoreLNL/Shops/62031440/MediaGallery/$third-party
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/Flash/Banner
 ||sunjets.be/banners/
@@ -282,6 +282,7 @@ clicktag=http://ad.doubleclick.net/
 ||webaapje.nl/*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
+||weer.nl/fileadmin/filemounts/nederlands/images/pietzoomers_wide_2010.swf
 ||weeronline.nl/*/HotelDeals/
 ||weeronline.nl/Go/Banner/Index?
 ||j-apps.wegenerweb.nl/banners/
@@ -314,4 +315,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$~third-party
 @@||blackbird.zoomin.tv/adhandler/
 
-! Aantal filters: 298
+! Aantal filters: 299
