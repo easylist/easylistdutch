@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 3 Sep 2011
+! Last modified: 6 Sep 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -143,6 +143,7 @@ clicktag=http://ad.doubleclick.net/
 ||goedbegin.nl/linkex/?
 ||goedbegin.nl/pics/banners/banner.php?
 ||goldcash.nl/banners/
+||gpupdate.net/if/advertsub/
 ||hardwarewoensdag.tv/*/HWW_bg_
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
@@ -338,6 +339,7 @@ clicktag=http://ad.doubleclick.net/
 ##.reclamekop
 ##.sponsorbalk
 ##a[href^="http://clicks.m4n.nl/"]
+##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
 ##a[href^="http://www.site-id.nl/servlet/___?"]
 
 !-----Site-specifieke verbergregels-----!
@@ -373,9 +375,9 @@ gay.eu,gay.nl##.bannerTopBox
 gay.eu,gay.nl##.skyscraperParentBox
 geenstijl.nl###doubleclick-ads-iframe-5
 gentsefeesten.be###partner-logos
+gpupdate.net##DIV[style="margin: 0px; background-color: #BDCDE4;"]
 hardwarewoensdag.tv##.banner
 hiphopinjesmoel.com###header_banner
-hiphopinjesmoel.com##div[style="text-align: center; background-color: rgb(255, 255, 255); padding: 5px 0pt 0pt; color: rgb(17, 17, 17);"]
 historiek.net##a[href="http://historiek.net/1/click"]
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
@@ -429,7 +431,6 @@ rijnmond.nl###banner_a
 rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner_html
-routenet.nl##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###adClose
@@ -467,4 +468,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 446
+! Aantal filters: 447
