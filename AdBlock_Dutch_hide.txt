@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 7 Sep 2011
+! Last modified: 8 Sep 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -428,10 +428,10 @@ pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
-rijnmond.nl###banner_a
 rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
-rijnmond.nl##.half_banner_html
+rijnmond.nl##.half_banner
+rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###adClose
