@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 6 Sep 2011
+! Last modified: 7 Sep 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -40,7 +40,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||doubleclick.net^$object_subrequest,domain=tmf.nl|2be.be|garagetv.be|zie.nl|outmusic.nl|nl.msn.com
+||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|outmusic.nl|tmf.nl|zie.nl
 ||ds1.nl^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
@@ -80,7 +80,7 @@ clicktag=http://ad.doubleclick.net/
 ||banners.utilo.nl^
 ||verkoopmenu.nl^$third-party
 ||admatcher.videostrip.com^
-||videostrip.com^$object_subrequest,domain=zideo.nl
+||videostrip.com^$object-subrequest,domain=zideo.nl
 ||banners.vip.nl^
 ||vippromos.nl^$third-party
 ||promotools.vpscash.nl^$third-party
@@ -235,6 +235,7 @@ clicktag=http://ad.doubleclick.net/
 ||recreatief.nl/kerstarrangementen.gif
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
+||media.rtl.nl/web/components/service/streamspots/$object-subrequest
 ||ru.nl/web/upload/banner/BannerBanner
 ||s69.nl/banners/
 ||sbsnet.nl/sl3/cfg/?*&t=ads&
@@ -468,4 +469,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 447
+! Aantal filters: 448
