@@ -339,6 +339,7 @@ clicktag=http://ad.doubleclick.net/
 ##.reclame
 ##.reclameIndex
 ##.reclamekop
+##.reclamelogos
 ##.sponsorbalk
 ##a[href^="http://clicks.m4n.nl/"]
 ##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
@@ -352,6 +353,8 @@ clicktag=http://ad.doubleclick.net/
 9lives.be###SKIN
 ad.nl###adv_sky
 androidplanet.nl##.ad
+at5.nl##.banner
+at5.nl##.banner-300-100
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
 biertijd.com##.advertorialtitle ~ *
@@ -421,6 +424,7 @@ nu.nl##.ad
 nu.nl##.adblock_border
 nu.nl##.adblue
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
+omroepbrabant.nl###promoimg
 onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
 paginamarkt.nl###banner
@@ -470,4 +474,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 
-! Aantal filters: 449
+! Aantal filters: 453
