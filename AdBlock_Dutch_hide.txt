@@ -326,7 +326,6 @@ clicktag=http://ad.doubleclick.net/
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
-##.ad_line
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2
@@ -474,4 +473,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 461
+! Aantal filters: 460
