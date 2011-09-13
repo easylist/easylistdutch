@@ -355,6 +355,8 @@ at5.nl##.banner
 at5.nl##.banner-300-100
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
+belgium4x4.be###ad_global_above_footer
+belgium4x4.be###ad_thread_last_post_content
 biertijd.com##.advertorialtitle ~ *
 bnr.nl##.commercialLinks
 boekmeter.nl##.sponsored
@@ -472,4 +474,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 459
+! Aantal filters: 461
