@@ -303,7 +303,7 @@ clicktag=http://ad.doubleclick.net/
 ||zoomin.tv/uploaded/banners/
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
-@@||adverteer-gratis.nl/ads/$~third-party
+@@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||bittads.com^$domain=bittads.nl
 @@||blackbird.zoomin.tv/adhandler/
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
@@ -318,6 +318,6 @@ clicktag=http://ad.doubleclick.net/
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
 @@||studenten.nl/content/partners$document
+@@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
-@@||webads.nl^$~third-party
 ! Aantal filters: 309
