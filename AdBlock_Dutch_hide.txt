@@ -323,16 +323,11 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$script,domain=vi.nl
 !-----Algemene verbergregels-----!
 ###adfactor-label
-~speurders.nl###advertentie
 ###advertentieblokjeid
 ###prog-sponsorlinks
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2_no_border
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
 ##.adstekst
@@ -345,13 +340,17 @@ clicktag=http://ad.doubleclick.net/
 ##a[href^="http://clicks.m4n.nl/"]
 ##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
 ##a[href^="http://www.site-id.nl/servlet/___?"]
+~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
+~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
+~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2
+~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2_no_border
+~speurders.nl###advertentie
 !-----Site-specifieke verbergregels-----!
 2xklikken.nl##.banner
 2xklikken.nl##.linksall:first-child
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
 9lives.be###SKIN
-ad.nl###adv_sky
 androidplanet.nl##.ad
 at5.nl##.banner
 at5.nl##.banner-300-100
@@ -476,4 +475,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 463
+! Aantal filters: 462
