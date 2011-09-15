@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 14 Sep 2011
+! Last modified: 15 Sep 2011
 ! Expires: 14 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -312,6 +312,7 @@ clicktag=http://ad.doubleclick.net/
 @@||gay.*/img2/variabel_
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||images.marktnet.eu/adimg/
+@@||kapaza.be/*/ad_view_$script,stylesheet
 @@||kiosk.nl^$document
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
@@ -320,4 +321,4 @@ clicktag=http://ad.doubleclick.net/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
-! Aantal filters: 309
+! Aantal filters: 310
