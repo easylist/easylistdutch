@@ -308,6 +308,7 @@ clicktag=http://ad.doubleclick.net/
 @@||bittads.com^$domain=bittads.nl
 @@||blackbird.zoomin.tv/adhandler/
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
+@@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
 @@||fotoapparatuur.nl/advertenties/
 @@||gay.*/img2/variabel_
@@ -477,4 +478,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 464
+! Aantal filters: 465

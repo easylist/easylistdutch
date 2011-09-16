@@ -308,6 +308,7 @@ clicktag=http://ad.doubleclick.net/
 @@||bittads.com^$domain=bittads.nl
 @@||blackbird.zoomin.tv/adhandler/
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
+@@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
 @@||fotoapparatuur.nl/advertenties/
 @@||gay.*/img2/variabel_
@@ -322,4 +323,4 @@ clicktag=http://ad.doubleclick.net/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
-! Aantal filters: 311
+! Aantal filters: 312
