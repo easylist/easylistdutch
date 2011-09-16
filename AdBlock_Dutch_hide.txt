@@ -319,6 +319,7 @@ clicktag=http://ad.doubleclick.net/
 @@||kiosk.nl^$document
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
+@@||showmodeluitverkoop.nl/upload/advertentie/
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
 @@||studenten.nl/content/partners$document
@@ -480,4 +481,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 467
+! Aantal filters: 468

@@ -319,9 +319,10 @@ clicktag=http://ad.doubleclick.net/
 @@||kiosk.nl^$document
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
+@@||showmodeluitverkoop.nl/upload/advertentie/
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
-! Aantal filters: 313
+! Aantal filters: 314
