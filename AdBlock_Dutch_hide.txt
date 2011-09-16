@@ -326,7 +326,7 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$script,domain=vi.nl
 !-----Algemene verbergregels-----!
 ###adfactor-label
-~speurders.nl###advertentie
+~autodealers.nl,~speurders.nl###advertentie
 ###advertentieblokjeid
 ###prog-sponsorlinks
 ###rightbanner_adbest
