@@ -279,6 +279,7 @@ clicktag=http://ad.doubleclick.net/
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
 ||vcmw-sigma.nl/uploads/banners/
+||vdab.be/indekijker/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl/*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
@@ -469,6 +470,7 @@ uitburo.nl##.uitmail_banner_block
 vakantiebellen.com###skyscraper
 vcmw-sigma.nl###banner
 vcmw-sigma.nl##.sponsor
+vdab.be###sky
 vitesse.org##.banners
 vitesse.org##.center_banner
 waarbenjij.nu###spanEbookersContainer
@@ -478,4 +480,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 465
+! Aantal filters: 467
