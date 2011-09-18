@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 17 Sep 2011
+! Last modified: 18 Sep 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -76,7 +76,6 @@ clicktag=http://ad.doubleclick.net/
 ||servedby.keygamesnetwork.com^
 ||site-id.nl^$third-party
 ||snmmd.nl^$third-party
-||softsign.be^$third-party
 ||sxad.nl^
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^
@@ -246,6 +245,7 @@ clicktag=http://ad.doubleclick.net/
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
 ||sochicken.nl/images/*_banner.jpg
+||softsign.be/banners/
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
@@ -394,6 +394,7 @@ hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
 infonu.nl##.banner250
+infotalia.com###flashcontain
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kieskeurig.nl###rightBanner
@@ -482,4 +483,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 469
+! Aantal filters: 470
