@@ -320,6 +320,7 @@ clicktag=http://ad.doubleclick.net/
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be/*/ad_view_$script,stylesheet
 @@||kiosk.nl^$document
+@@||milkinc.be/ad.php$subdocument
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
 @@||showmodeluitverkoop.nl/upload/advertentie/
@@ -485,4 +486,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 472
+! Aantal filters: 473
