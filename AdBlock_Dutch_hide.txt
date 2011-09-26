@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! http://sites.google.com/site/dutchadblockfilters/
-! Last modified: 23 Sep 2011
+! Last modified: 26 Sep 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -20,7 +20,7 @@
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
-||2mdn.net^$object-subrequest,domain=garagetv.be
+||2mdn.net^$object-subrequest,domain=eredivisielive.nl|garagetv.be
 ||admatcher.videostrip.com^
 ||adnxs.com^$third-party,domain=~appnexus.com
 ||adrcdn.com^$third-party
