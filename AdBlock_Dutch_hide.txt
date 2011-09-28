@@ -330,6 +330,7 @@ clicktag=http://ad.doubleclick.net/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
+@@||zomoto.nl/js/advertisement.js?
 !-----Algemene verbergregels-----!
 ###adfactor-label
 ~autodealers.nl,~speurders.nl###advertentie
@@ -487,4 +488,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 474
+! Aantal filters: 475

@@ -330,4 +330,5 @@ clicktag=http://ad.doubleclick.net/
 @@||studenten.nl/content/partners$document
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
-! Aantal filters: 319
+@@||zomoto.nl/js/advertisement.js?
+! Aantal filters: 320
