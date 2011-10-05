@@ -73,7 +73,6 @@ clicktag=http://ad.doubleclick.net/
 ||promotools.vpscash.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
-||servedby.keygamesnetwork.com^
 ||site-id.nl^$third-party
 ||snmmd.nl^$third-party
 ||sxad.nl^
@@ -491,4 +490,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 478
+! Aantal filters: 477

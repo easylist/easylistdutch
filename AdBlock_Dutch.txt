@@ -73,7 +73,6 @@ clicktag=http://ad.doubleclick.net/
 ||promotools.vpscash.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
-||servedby.keygamesnetwork.com^
 ||site-id.nl^$third-party
 ||snmmd.nl^$third-party
 ||sxad.nl^
@@ -333,4 +332,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 322
+! Aantal filters: 321
