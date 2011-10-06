@@ -1,12 +1,12 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
-! http://code.google.com/p/dutchadblockfilters/
+! https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 6 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten hier:
-! http://code.google.com/p/dutchadblockfilters/issues/list
+! https://code.google.com/p/dutchadblockfilters/issues/list
 !-----Algemene blokkeerregels-----!
 /adbron.aspx?
 /adverteerders/*
