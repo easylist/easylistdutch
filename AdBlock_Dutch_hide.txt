@@ -420,6 +420,7 @@ metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
 mijnhomepage.nl##.ad
 mistermoney.nl###theLayer
+mokkels.nl##a[onclick*="/extern/affiliates/sponsored-posts/"]
 moviemeter.nl##.banner_bol
 moviemeter.nl##.banner_h
 moviemeter.nl##.banner_header
@@ -490,4 +491,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 477
+! Aantal filters: 478
