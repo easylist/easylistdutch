@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
-! http://sites.google.com/site/dutchadblockfilters/
+! http://code.google.com/p/dutchadblockfilters/
 ! Last modified: 6 Oct 2011
 ! Expires: 7 days
 !
