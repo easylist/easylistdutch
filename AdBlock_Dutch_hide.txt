@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! https://code.google.com/p/dutchadblockfilters/
-! Last modified: 6 Oct 2011
+! Last modified: 7 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -71,6 +71,7 @@ clicktag=http://ad.doubleclick.net/
 ||promotools*.sexdatingcash.nl^$third-party
 ||promotools.islive.nl^
 ||promotools.vpscash.nl^$third-party
+||radiocoupon.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
 ||site-id.nl^$third-party
@@ -454,6 +455,7 @@ rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
+rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 spele.nl###adClose
@@ -491,4 +493,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 478
+! Aantal filters: 480
