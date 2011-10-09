@@ -333,7 +333,6 @@ clicktag=http://ad.doubleclick.net/
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
 @@||studenten.nl/content/partners$document
-@@||viamichelin.nl/static/advert/afsquery/afsquery.js
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
@@ -498,4 +497,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 485
+! Aantal filters: 484
