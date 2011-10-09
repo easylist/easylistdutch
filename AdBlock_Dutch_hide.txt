@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 9 Oct 2011
+! Last modified: 10 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -406,6 +406,7 @@ hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
 infonu.nl##.banner250
 infotalia.com###flashcontain
+ipadclub.nl##.ad
 ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kieskeurig.nl###rightBanner
@@ -497,4 +498,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 484
+! Aantal filters: 485
