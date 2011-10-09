@@ -43,7 +43,7 @@ clicktag=http://ad.doubleclick.net/
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
-||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tmf.nl|tweakers.net|zie.nl
+||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|southpark.nl|tmf.nl|tweakers.net|zie.nl
 ||doubleclick.net^*;sz=$object-subrequest,domain=vara.nl
 ||ds1.nl^
 ||ehg-advertisementbv.hitbox.com^
