@@ -50,6 +50,7 @@ clicktag=http://ad.doubleclick.net/
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
+||fiets.nl^*-banner-
 ||geoaddicted.net^
 ||images.islive.nl^$third-party
 ||k1s.nl^
@@ -498,4 +499,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 485
+! Aantal filters: 486

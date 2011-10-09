@@ -50,6 +50,7 @@ clicktag=http://ad.doubleclick.net/
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
+||fiets.nl^*-banner-
 ||geoaddicted.net^
 ||images.islive.nl^$third-party
 ||k1s.nl^
@@ -337,4 +338,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 326
+! Aantal filters: 327
