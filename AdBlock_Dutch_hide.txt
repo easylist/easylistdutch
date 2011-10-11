@@ -44,7 +44,6 @@ clicktag=http://ad.doubleclick.net/
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
 ||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tmf.nl|tweakers.net|zie.nl
-||doubleclick.net^*;sz=$object-subrequest,domain=vara.nl
 ||ds1.nl^
 ||ehg-advertisementbv.hitbox.com^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
@@ -124,6 +123,7 @@ clicktag=http://ad.doubleclick.net/
 ||deloads.nl/js/mtvi_admanager.js
 ||doubleclick.net/pfadx/homepage.nos.nl/$object-subrequest
 ||doubleclick.net/pfadx/mediaplayer.nl/$object-subrequest
+||doubleclick.net/pfadx/vara.homepage.nl/$object-subrequest
 ||dreddezewir.nl/images/reparateurke_banner.jpg
 ||dutchleader.com/php/banex/
 ||dutchleader.nl/php/banex/$third-party
