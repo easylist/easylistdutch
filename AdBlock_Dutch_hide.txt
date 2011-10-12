@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 12 Oct 2011
+! Last modified: 13 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -394,7 +394,6 @@ f1today.nl###fanfashion
 fcupdate.nl##.advert
 flabber.nl###bannerMIDDLE-teaser
 fok.nl###skyscraper
-forum.fiets.nl##img[width="468"][height="60"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
 gay.eu,gay.nl##.bannerTopBox
@@ -411,7 +410,6 @@ hyves.nl##div[id^="adsense_"]
 infonu.nl##.banner250
 infotalia.com###flashcontain
 ipadclub.nl##.ad
-ipadplanet.nl##.ad
 iphoneclub.nl##.ad
 kieskeurig.nl###rightBanner
 kilroynews.net##table[width="760"][height="2001"][align="center"]
@@ -428,7 +426,6 @@ marktplaats.nl##.divHomeWidgetGroups
 mensenlinq.nl##.banner
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
-mijnhomepage.nl##.ad
 mistermoney.nl###theLayer
 mokkels.nl##a[onclick*="/extern/affiliates/sponsored-posts/"]
 moviemeter.nl##.banner_bol
@@ -502,4 +499,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 489
+! Aantal filters: 486
