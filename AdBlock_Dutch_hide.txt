@@ -106,6 +106,7 @@ clicktag=http://ad.doubleclick.net/
 ||autozine.nl/promo/banner.jpg
 ||beekje.nl/*/bannerindex.html
 ||berekenhet.nl/*?c=ads
+||bestbekeken.nl/images/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
 ||blog.nl/wp-content/daisy.js?
@@ -501,4 +502,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 488
+! Aantal filters: 489
