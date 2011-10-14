@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 13 Oct 2011
+! Last modified: 14 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -401,6 +401,8 @@ gay.eu,gay.nl##.skyscraperParentBox
 geenstijl.nl###doubleclick-ads-iframe-5
 gentsefeesten.be###partner-logos
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
+hardware.info###banner_right_bottom
+hardware.info###banner_right_top
 hardwarewoensdag.tv##.banner
 hiphopinjesmoel.com###header_banner
 historiek.net##a[href="http://historiek.net/1/click"]
@@ -499,4 +501,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 486
+! Aantal filters: 488
