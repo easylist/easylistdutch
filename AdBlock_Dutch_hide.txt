@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 14 Oct 2011
+! Last modified: 15 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -464,6 +464,7 @@ rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
+rtl.nl##.extra_info_banner_container
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
@@ -502,4 +503,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 489
+! Aantal filters: 490
