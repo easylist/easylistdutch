@@ -39,6 +39,7 @@ clicktag=http://ad.doubleclick.net/
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
+||christelijkvakantieplein.nl^*-banner.
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
@@ -342,4 +343,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 331
+! Aantal filters: 332

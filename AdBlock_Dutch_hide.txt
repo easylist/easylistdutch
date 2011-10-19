@@ -39,6 +39,7 @@ clicktag=http://ad.doubleclick.net/
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
+||christelijkvakantieplein.nl^*-banner.
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
@@ -387,6 +388,7 @@ boekmeter.nl##.sponsored
 checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
+christelijkvakantieplein.nl###hoofdsponsors
 deloads.nl###leaderboard
 digitallife.nl###partner_block
 dumpert.nl###banner_fullsize
@@ -505,4 +507,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 492
+! Aantal filters: 494
