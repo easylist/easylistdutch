@@ -294,6 +294,7 @@ clicktag=http://ad.doubleclick.net/
 ||videostrip.com/js/videostrip/admatcher.js
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
+||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
 ||webaapje.nl/*bannerexchange/
@@ -331,6 +332,7 @@ clicktag=http://ad.doubleclick.net/
 @@||kapaza.be/*/ad_view_$script,stylesheet
 @@||kiosk.nl^$document
 @@||milkinc.be/ad.php$subdocument
+@@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
 @@||showmodeluitverkoop.nl/upload/advertentie/
@@ -505,4 +507,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 492
+! Aantal filters: 494
