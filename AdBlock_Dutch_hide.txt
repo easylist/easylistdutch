@@ -29,7 +29,6 @@ clicktag=http://ad.doubleclick.net/
 ||banners.affiliate4you.nl^$third-party
 ||banners.helpmij.nl^
 ||banners.plein.nl^$third-party
-||banners.portaalweb.nl^$third-party
 ||banners.toeto.com^
 ||banners.utilo.nl^
 ||banners.vip.nl^
@@ -506,4 +505,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 493
+! Aantal filters: 492
