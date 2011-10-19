@@ -26,9 +26,7 @@ clicktag=http://ad.doubleclick.net/
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
-||banners.affiliate4you.nl^$third-party
 ||banners.helpmij.nl^
-||banners.plein.nl^$third-party
 ||banners.toeto.com^
 ||banners.utilo.nl^
 ||banners.vip.nl^
@@ -343,4 +341,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 332
+! Aantal filters: 330
