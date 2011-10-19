@@ -332,6 +332,8 @@ clicktag=http://ad.doubleclick.net/
 @@||kapaza.be/*/ad_view_$script,stylesheet
 @@||kiosk.nl^$document
 @@||milkinc.be/ad.php$subdocument
+@@||otto.nl/assets/general/images/ads2_
+@@||otto.nl/assets/ishop/gen/i-ads.js
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
@@ -343,4 +345,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 332
+! Aantal filters: 334
