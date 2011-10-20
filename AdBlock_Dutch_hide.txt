@@ -36,7 +36,6 @@ clicktag=http://ad.doubleclick.net/
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
-||christelijkvakantieplein.nl^*-banner.
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
@@ -46,7 +45,6 @@ clicktag=http://ad.doubleclick.net/
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
-||fiets.nl^*-banner-
 ||geoaddicted.net^
 ||images.islive.nl^$third-party
 ||k1s.nl^
@@ -113,6 +111,7 @@ clicktag=http://ad.doubleclick.net/
 ||cameranu.nl/images/banner_zoom.gif
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
+||christelijkvakantieplein.nl^*-banner.
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
 ||culemborgsecourant.nl/*/bdu_banners/
@@ -138,6 +137,7 @@ clicktag=http://ad.doubleclick.net/
 ||fcupdate.net/banners/
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
+||fiets.nl^*-banner-
 ||frankrijk.nl/flash/banner_
 ||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
 ||goamerika.nl/pictures/site_banner
