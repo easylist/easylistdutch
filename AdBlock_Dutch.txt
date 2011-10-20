@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 19 Oct 2011
+! Last modified: 20 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -322,7 +322,7 @@ clicktag=http://ad.doubleclick.net/
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
-@@||doubleclick.net^*;tile=1$domain=stadion.vtm.be
+@@||doubleclick.net^*;tile=$domain=stadion.vtm.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||fokzine.net/templates/*/forum_min.js?*/advertisers
 @@||fotoapparatuur.nl/advertenties/
