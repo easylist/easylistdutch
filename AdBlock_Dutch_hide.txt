@@ -374,6 +374,7 @@ clicktag=http://ad.doubleclick.net/
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
 9lives.be###SKIN
+allradio.nl##.adv
 androidplanet.nl##.ad
 at5.nl##.banner
 at5.nl##.banner-300-100
@@ -509,4 +510,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 496
+! Aantal filters: 497
