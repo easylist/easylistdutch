@@ -248,6 +248,7 @@ clicktag=http://ad.doubleclick.net/
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
+||sexverhalen.com/banners/
 ||sochicken.nl/images/*_banner.jpg
 ||softsign.be/banners/
 ||speedtest.nl/images/banner/
@@ -508,4 +509,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 495
+! Aantal filters: 496
