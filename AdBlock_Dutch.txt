@@ -286,6 +286,7 @@ clicktag=http://ad.doubleclick.net/
 ||unimaas.nl/mkbportal/images/student_nl.gif
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
+||uu.nl/proton/*/akzonobel_masters_
 ||vcmw-sigma.nl/uploads/banners/
 ||vdab.be/indekijker/
 ||vi.nl/files/commercie/4buttons/
@@ -345,4 +346,4 @@ clicktag=http://ad.doubleclick.net/
 @@||webads.nl^$domain=webads.nl
 @@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 334
+! Aantal filters: 335
