@@ -290,7 +290,7 @@ clicktag=http://ad.doubleclick.net/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl/*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
-||videostrip.com/serve_cad.php?
+||videostrip.com/serve_cad.php?$domain=~solomio.nl
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/banner_
