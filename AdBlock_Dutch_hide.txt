@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 25 Oct 2011
+! Last modified: 26 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -39,7 +39,7 @@ clicktag=http://ad.doubleclick.net/
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
-||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tmf.nl|tweakers.net|zie.nl
+||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tmf.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^
 ||ehg-advertisementbv.hitbox.com^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
@@ -340,12 +340,12 @@ clicktag=http://ad.doubleclick.net/
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
 @@||showmodeluitverkoop.nl/upload/advertentie/
+@@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
 @@||studenten.nl/content/partners$document
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
-@@||webads.nl^$script,domain=vi.nl
 @@||zomoto.nl/js/advertisement.js?
 !-----Algemene verbergregels-----!
 ###adfactor-label
