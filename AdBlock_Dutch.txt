@@ -108,6 +108,7 @@ clicktag=http://ad.doubleclick.net/
 ||bol.com/nl/upload/banners/
 ||bouwmachineforum.nl/banner/
 ||brandweerspotters.nl/modules/banners/bannerimages/
+||brittdekker.nl/wp-content/plugins/banner-manager/
 ||cameranu.nl/images/banner_zoom.gif
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
@@ -346,4 +347,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 335
+! Aantal filters: 336
