@@ -321,7 +321,7 @@ clicktag=http://ad.doubleclick.net/
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||bittads.com^$domain=bittads.nl
-@@||blackbird.zoomin.tv/adhandler/
+@@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
