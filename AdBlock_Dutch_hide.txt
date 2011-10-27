@@ -38,7 +38,7 @@ clicktag=http://ad.doubleclick.net/
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||delivery.at5.nl^
-||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tmf.nl|tweakers.net|vi.nl|zie.nl
+||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|mtv.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^
 ||ehg-advertisementbv.hitbox.com^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
