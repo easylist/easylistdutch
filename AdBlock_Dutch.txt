@@ -21,7 +21,6 @@
 clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
 ||2mdn.net^$object-subrequest,domain=eredivisielive.nl|garagetv.be
-||adnxs.com^$third-party,domain=~appnexus.com
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
@@ -123,8 +122,8 @@ clicktag=http://ad.doubleclick.net/
 ||doubleclick.net/pfadx/mediaplayer.nl/$object-subrequest
 ||doubleclick.net/pfadx/vara.homepage.nl/$object-subrequest
 ||dreddezewir.nl/images/reparateurke_banner.jpg
-||dutchleader.com/php/banex/
 ||dutchleader.nl/php/banex/$third-party
+||dutchleader.nl/php/popex/
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
 ||eenhuiszoeken.nl/banner/
@@ -203,9 +202,9 @@ clicktag=http://ad.doubleclick.net/
 ||media.rtl.nl/web/components/service/streamspots/$object-subrequest
 ||media.zie.nl/e/?v=*&ad=false$subdocument,domain=nubijlage.nl
 ||metliefs.nl/banner_
+||mijnafbeeldingen.net^*/banners/
 ||mijnalbum.nl/afbeeldingen/overlays/
 ||mijnbericht.nl/gfx/esmart.swf
-||mijnhomepage.nl/clipart/moerstaal*.gif
 ||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
 ||moerstaal.nl/banner
 ||moneymiljonair.nl/*ban
@@ -235,11 +234,10 @@ clicktag=http://ad.doubleclick.net/
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/image/slideshows/actiebanners/
 ||pokernet.nl/images/banners/
-||powerhits.be/bnr_show.php?
-||powerhits.be/nuro-staff/banners/
 ||privespot.nl/img/banners/
 ||profina.nl/banner.php?
 ||promootjesite.nl/banex/
+||promootjesite.nl/popups/
 ||recreatief.nl/kerstarrangementen.gif
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
@@ -348,4 +346,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 337
+! Aantal filters: 335
