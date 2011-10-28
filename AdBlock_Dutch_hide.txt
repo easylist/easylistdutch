@@ -501,6 +501,7 @@ tvgids.nl##.banner-skyscraper
 tvgids.nl##.banner-top
 tvgids.nl##.bannerBox
 tvgids.nl##.leaderboard
+tvgids.nl##.sponsored
 tvgids.nl##.teaserLinks
 tweakers.net###b_re
 tweakers.net###headerReplacement
@@ -520,4 +521,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 507
+! Aantal filters: 508
