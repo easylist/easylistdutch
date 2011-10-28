@@ -99,7 +99,7 @@ clicktag=http://ad.doubleclick.net/
 ||automatiseringgids.nl^*/marketing/blokje_
 ||autozine.nl/promo/banner.jpg
 ||beekje.nl^*/bannerindex.html
-||berekenhet.nl/*?c=ads
+||berekenhet.nl^*?c=ads
 ||bestbekeken.nl/images/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
@@ -177,8 +177,8 @@ clicktag=http://ad.doubleclick.net/
 ||jouwtomtom.nl^*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kieskeurig.nl/rectangle?
-||kilroynews.net/*banner
 ||kilroynews.net/verkoophuis-
+||kilroynews.net^*banner
 ||kindertv.net/images/banners/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
@@ -205,9 +205,9 @@ clicktag=http://ad.doubleclick.net/
 ||mijnafbeeldingen.net^*/banners/
 ||mijnalbum.nl/afbeeldingen/overlays/
 ||mijnbericht.nl/gfx/esmart.swf
-||misdaadkaart.nl/*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
+||misdaadkaart.nl^*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
 ||moerstaal.nl/banner
-||moneymiljonair.nl/*ban
+||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||mrstiff.nl/view/context/spot/
 ||musicmeter.nl/merchandise.php?
@@ -256,7 +256,7 @@ clicktag=http://ad.doubleclick.net/
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
-||speurders.nl/*doubleclick.net/adj/
+||speurders.nl^*doubleclick.net/adj/
 ||speursex.nl/images/banners/
 ||startbewijs.nl/js/banner_
 ||starthosting.nl/banners/
@@ -300,7 +300,7 @@ clicktag=http://ad.doubleclick.net/
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
-||webaapje.nl/*bannerexchange/
+||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
 ||weer.nl/fileadmin/filemounts/nederlands/images/pietzoomers_wide_2010.swf
