@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 27 Oct 2011
+! Last modified: 28 Oct 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -277,6 +277,7 @@ clicktag=http://ad.doubleclick.net/
 ||studenten.nl/upload/flash/banner
 ||sunjets.be/banners/
 ||tastelikepizza.com/media/*-banner.swf
+||telegraaf.nl^*/templates/banner
 ||tienertube.nl/banners/
 ||tvgids.nl/banner/
 ||tvgidsassets.nl/graphics/ad*.gif
@@ -489,6 +490,7 @@ synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
 telegraaf.nl###etalage
 telegraaf.nl###rightbar > .artspacer
+telegraaf.nl###vsl_banner
 toeto.com##.banner
 tvgids.nl##.banner-custom
 tvgids.nl##.banner-rectangle
@@ -515,4 +517,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 502
+! Aantal filters: 504
