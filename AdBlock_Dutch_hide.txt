@@ -247,6 +247,7 @@ clicktag=http://ad.doubleclick.net/
 ||s69.nl/banners/
 ||sbsnet.nl/sl3/cfg/?*&t=ads&
 ||schakelingenonline.nl/algemeen/elektuur.gif
+||scholieren.com/assets/images/*.jpg
 ||search-result.com^*/klokad2.js
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
@@ -370,6 +371,7 @@ clicktag=http://ad.doubleclick.net/
 ##.reclamekop
 ##.reclamelogos
 ##.sponsorbalk
+##a[href^="http://adserver.webads.nl/adclick/"]
 ##a[href^="http://clicks.m4n.nl/"]
 ##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
 ##a[href^="http://www.site-id.nl/servlet/___?"]
@@ -480,6 +482,7 @@ rtl.nl##.extra_info_banner_container
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
+scholieren.com###top
 spele.nl###adClose
 spele.nl###game_ban_2
 sporza.be###skyscraper
@@ -517,4 +520,4 @@ weeronline.nl##.specialBlockSmall
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 504
+! Aantal filters: 507

@@ -247,6 +247,7 @@ clicktag=http://ad.doubleclick.net/
 ||s69.nl/banners/
 ||sbsnet.nl/sl3/cfg/?*&t=ads&
 ||schakelingenonline.nl/algemeen/elektuur.gif
+||scholieren.com/assets/images/*.jpg
 ||search-result.com^*/klokad2.js
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
@@ -348,4 +349,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 337
+! Aantal filters: 338
