@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 1 Nov 2011
+! Last modified: 2 Nov 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -293,6 +293,7 @@ clicktag=http://ad.doubleclick.net/
 ||uu.nl/proton/*/akzonobel_masters_
 ||vcmw-sigma.nl/uploads/banners/
 ||vdab.be/indekijker/
+||versio.nl/banners/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
@@ -423,6 +424,7 @@ hardware.info###banner_right_top
 hardwarewoensdag.tv##.banner
 hiphopinjesmoel.com###header_banner
 historiek.net##a[href="http://historiek.net/1/click"]
+html-site.nl##.cursus
 hyves.nl###skyscraper
 hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
@@ -525,4 +527,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 512
+! Aantal filters: 514
