@@ -338,7 +338,6 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be^*/ad_view_$script,stylesheet
-@@||kiosk.nl^$document
 @@||milkinc.be/ad.php$subdocument
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/gen/i-ads.js
@@ -379,7 +378,6 @@ clicktag=http://ad.doubleclick.net/
 ##.reclamelogos
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
-##a[href^="http://clicks.m4n.nl/"]
 ##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
 ##a[href^="http://www.site-id.nl/servlet/___?"]
 !-----Site-specifieke verbergregels-----!
@@ -531,4 +529,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 518
+! Aantal filters: 516

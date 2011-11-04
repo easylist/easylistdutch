@@ -338,7 +338,6 @@ clicktag=http://ad.doubleclick.net/
 @@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be^*/ad_view_$script,stylesheet
-@@||kiosk.nl^$document
 @@||milkinc.be/ad.php$subdocument
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/gen/i-ads.js
@@ -353,4 +352,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 342
+! Aantal filters: 341
