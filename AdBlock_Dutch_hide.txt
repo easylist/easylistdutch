@@ -359,6 +359,7 @@ clicktag=http://ad.doubleclick.net/
 ###advertentieblokjeid
 ###prog-sponsorlinks
 ###reclame_rechts
+###reclamediv
 ###rightbanner_adbest
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
@@ -441,6 +442,7 @@ kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="n
 kopen.marktplaats.nl##div[onclick*="AdmarktClick"]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 leukstespel.nl##a[target="_blank"] > img
+livep2000.nl###tekstlinkrow
 localfm.nl##.adsmall
 marktnet.nl##.ThumbGoogle
 marktnet.nl##.textlink.snap_noshots
@@ -529,4 +531,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 516
+! Aantal filters: 518
