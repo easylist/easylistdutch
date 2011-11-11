@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 10 Nov 2011
+! Last modified: 11 Nov 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -262,6 +262,7 @@ clicktag=http://ad.doubleclick.net/
 ||spelletjes.nl/cimg/promothumbnails/
 ||speurders.nl^*doubleclick.net/adj/
 ||speursex.nl/images/banners/
+||startbewijs.nl/banners/
 ||startbewijs.nl/js/banner_
 ||starthosting.nl/banners/
 ||startkabel.nl^*/adver/
@@ -495,6 +496,7 @@ scholieren.com###top
 spele.nl###adClose
 spele.nl###game_ban_2
 sporza.be###skyscraper
+startbewijs.nl##.banner
 startkabel.nl##.banners
 stemwijzer.nl##.ad
 studenten.nl##.banner
@@ -531,4 +533,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 518
+! Aantal filters: 520
