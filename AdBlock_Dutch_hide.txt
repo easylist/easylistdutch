@@ -161,7 +161,9 @@ clicktag=http://ad.doubleclick.net/
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
 ||huizenhype.nl/banner/
+||hyves-static.net^*/footerad.
 ||hyves-static.net^*/hyvesense/
+||hyves-static.net^*/overlay_ad.
 ||hyves.nl^*/adhesecontroller.js
 ||hyves.nl^*/lookyconnect.js
 ||ifanzy.nl/flash/banner-
@@ -532,4 +534,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 519
+! Aantal filters: 521
