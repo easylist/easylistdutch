@@ -16,6 +16,8 @@
 /bannerlookup.asp?
 /big_reclames/*
 /nmc/adv/*
+/reclame-extra.
+/reclame-nieuws.
 /reklame/*
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
@@ -185,6 +187,7 @@ clicktag=http://ad.doubleclick.net/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||koopon.nl/banners/
+||l1.nl/mmbase/*banner
 ||laagstehypotheekofferte.nl/widget/*/
 ||landenportal.nl/banners/
 ||lauwebut.nl/webcams.php?
@@ -353,4 +356,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 342
+! Aantal filters: 345

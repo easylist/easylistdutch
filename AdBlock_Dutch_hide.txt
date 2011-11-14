@@ -16,6 +16,8 @@
 /bannerlookup.asp?
 /big_reclames/*
 /nmc/adv/*
+/reclame-extra.
+/reclame-nieuws.
 /reklame/*
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
@@ -185,6 +187,7 @@ clicktag=http://ad.doubleclick.net/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||koopon.nl/banners/
+||l1.nl/mmbase/*banner
 ||laagstehypotheekofferte.nl/widget/*/
 ||landenportal.nl/banners/
 ||lauwebut.nl/webcams.php?
@@ -441,6 +444,7 @@ kilroynews.net##table[width="760"][height="2001"][align="center"]
 kilroynews.net##table[width="792"]
 kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
 kopen.marktplaats.nl##div[onclick*="AdmarktClick"]
+l1.nl##.banner1
 landenweb.net##a[href="_hPromotionADLW.htm"]
 leukstespel.nl##a[target="_blank"] > img
 livep2000.nl###tekstlinkrow
@@ -533,4 +537,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 520
+! Aantal filters: 524
