@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 26 Nov 2011
+! Last modified: 29 Nov 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -443,6 +443,7 @@ infonu.nl##.banner250
 infotalia.com###flashcontain
 ipadclub.nl##.ad
 iphoneclub.nl##.ad
+joubuis.nl##.banner468x60
 kieskeurig.nl###rightBanner
 kilroynews.net##table[width="760"][height="2001"][align="center"]
 kilroynews.net##table[width="792"]
@@ -541,4 +542,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 527
+! Aantal filters: 528
