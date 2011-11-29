@@ -404,6 +404,9 @@ automatiseringgids.nl##.bannercontainer
 belgium4x4.be###ad_global_above_footer
 belgium4x4.be###ad_thread_last_post_content
 biertijd.com##.advertorialtitle ~ *
+binaries4all.nl###gright
+binaries4all.nl###payserver
+binaries4all.nl###payserver2
 blog.nl##.ADV
 blog.nl##.widget[id^="text-"]
 bnr.nl##.commercialLinks
@@ -543,4 +546,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 529
+! Aantal filters: 532
