@@ -108,6 +108,7 @@ clicktag=http://ad.doubleclick.net/
 ||bestbekeken.nl/images/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
+||blog.nl/recente_links.js
 ||blog.nl/wp-content/daisy.js?
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
 ||bol.com/nl/upload/banners/
@@ -542,4 +543,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 528
+! Aantal filters: 529
