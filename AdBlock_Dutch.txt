@@ -228,6 +228,7 @@ clicktag=http://ad.doubleclick.net/
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
+||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
 ||nieuws-2.nl/lokaal/banner/
 ||nieuws-3.nl^*/images/banner_
@@ -363,4 +364,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 351
+! Aantal filters: 352

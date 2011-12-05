@@ -228,6 +228,7 @@ clicktag=http://ad.doubleclick.net/
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
 ||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
+||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
 ||nieuws-2.nl/lokaal/banner/
 ||nieuws-3.nl^*/images/banner_
@@ -477,6 +478,8 @@ musicmeter.nl##.sponsored
 ncrv.nl##.add-disclaimer
 nederland.fm##.banner
 netonline.be###flashcontain
+netonline.be##a[href^="http://clk.tradedoubler.com/click?p="]
+netonline.be##table[width="250"][cellspacing="2"][cellpadding="5"][border="0"]
 nickelodeon.nl###leaderboard_container
 nieuws.nl##.lokaal_banner_right
 nieuws.nl##span[onclick^="banner_clicked('"]
@@ -546,4 +549,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 532
+! Aantal filters: 535
