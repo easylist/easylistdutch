@@ -479,7 +479,7 @@ ncrv.nl##.add-disclaimer
 nederland.fm##.banner
 netonline.be###flashcontain
 netonline.be##a[href^="http://clk.tradedoubler.com/click?p="]
-netonline.be##table[width="250"][cellspacing="2"][cellpadding="5"][border="0"]
+netonline.be##table[width="250"][cellspacing="2"][cellpadding][border="0"][bgcolor]
 nickelodeon.nl###leaderboard_container
 nieuws.nl##.lokaal_banner_right
 nieuws.nl##span[onclick^="banner_clicked('"]
