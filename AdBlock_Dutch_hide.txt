@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 5 Dec 2011
+! Last modified: 8 Dec 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -292,6 +292,7 @@ clicktag=http://ad.doubleclick.net/
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
 ||sunjets.be/banners/
+||symbolic.be/_uploads/dbsbanners/
 ||tastelikepizza.com/media/*-banner.swf
 ||telegraaf.nl^*/templates/banner
 ||tienertube.nl/banners/
@@ -549,4 +550,4 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 535
+! Aantal filters: 536
