@@ -96,6 +96,7 @@ clicktag=http://ad.doubleclick.net/
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
 ||ad.nl/static/nmc/nmc/mid/*_banner.swf
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
+||ad.nl/static/nmc/prm/box/*_promoblok.swf
 ||ad.nl/static/nmc/prm/box/home_*.swf
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||allebedrijveninnederland.nl/ad/
@@ -552,4 +553,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 538
+! Aantal filters: 539
