@@ -18,6 +18,7 @@
 /nmc/adv/*
 /reclame-extra.
 /reclame-nieuws.
+/reclame2.
 /reklame/*
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
@@ -238,6 +239,7 @@ clicktag=http://ad.doubleclick.net/
 ||nubijlage.nl/files/nubijlage/staatsloterij_336x500.swf
 ||nudeal.nl/static/swf/banner_
 ||nuwerk.nl/groepenimages_users/*banner.png
+||omroep.nl/b/player/banner/
 ||omroepflevoland.nl/sitefiles/banners/
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/banneriframe.aspx?
@@ -495,6 +497,7 @@ nu.nl##.adblock_border
 nu.nl##.adblue
 nu.nl##.adsilver
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
+omroep.nl##.promo
 omroepbrabant.nl###promoimg
 onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
@@ -555,4 +558,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 541
+! Aantal filters: 544

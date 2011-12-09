@@ -18,6 +18,7 @@
 /nmc/adv/*
 /reclame-extra.
 /reclame-nieuws.
+/reclame2.
 /reklame/*
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
@@ -238,6 +239,7 @@ clicktag=http://ad.doubleclick.net/
 ||nubijlage.nl/files/nubijlage/staatsloterij_336x500.swf
 ||nudeal.nl/static/swf/banner_
 ||nuwerk.nl/groepenimages_users/*banner.png
+||omroep.nl/b/player/banner/
 ||omroepflevoland.nl/sitefiles/banners/
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/banneriframe.aspx?
@@ -368,4 +370,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 356
+! Aantal filters: 358
