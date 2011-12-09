@@ -57,6 +57,7 @@ clicktag=http://ad.doubleclick.net/
 ||netdirect.nl^
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
+||ox-d.hdcmedia.nl^
 ||partnerprogramma.bol.com^$third-party
 ||partnerwebsites.financereview.nl^
 ||partnerwebsites.mistermedia.nl^
@@ -281,6 +282,7 @@ clicktag=http://ad.doubleclick.net/
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||startpagina.nl/spimg/
 ||static-voetbalzone.nl/images/banners/
+||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
 ||static.digitallife.nl/uploads/*/*/*.jpg
 ||static.gay.*/img2/
@@ -553,4 +555,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 539
+! Aantal filters: 541
