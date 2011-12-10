@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 9 Dec 2011
+! Last modified: 10 Dec 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -284,6 +284,7 @@ clicktag=http://ad.doubleclick.net/
 ||startpagina.nl/ov/sponsor/comlinks.js
 ||startpagina.nl/spimg/
 ||static-voetbalzone.nl/images/banners/
+||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
 ||static.digitallife.nl/uploads/*/*/*.jpg
@@ -548,6 +549,8 @@ vcmw-sigma.nl##.sponsor
 vdab.be###sky
 vitesse.org##.banners
 vitesse.org##.center_banner
+voetbalzone.nl##.uniClick
+voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
 waarbenjij.nu###spanEbookersContainer
 weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl##.banner + .specialBlockDiv
@@ -558,4 +561,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 544
+! Aantal filters: 547
