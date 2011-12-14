@@ -95,6 +95,7 @@ clicktag=http://ad.doubleclick.net/
 ||337.com^*/zhuguan1.html?
 ||9292ov.nl/images/9292-banner.gif
 ||accounts.pkr.com/servemarketingtool.aspx?
+||acom.nl/bannerticker.htm?
 ||ad.nl/static/nmc/nmc/*p/nav/poker_
 ||ad.nl/static/nmc/nmc/mid/*_banner.swf
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
@@ -408,6 +409,7 @@ clicktag=http://ad.doubleclick.net/
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
 9lives.be###SKIN
+acom.nl###divBanner
 allradio.nl##.adv
 androidplanet.nl##.ad
 at5.nl##.banner
@@ -566,4 +568,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 552
+! Aantal filters: 554
