@@ -126,6 +126,9 @@ clicktag=http://ad.doubleclick.net/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
 ||christelijkvakantieplein.nl^*-banner.
+||cip.nl/asp_includes/site_topbanners.
+||cip.nl/images/banners/
+||cip.nl^*banner468x120
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
 ||culemborgsecourant.nl^*/bdu_banners/
@@ -179,6 +182,7 @@ clicktag=http://ad.doubleclick.net/
 ||hyves.nl^*/adhesecontroller.js
 ||hyves.nl^*/lookyconnect.js
 ||ifanzy.nl/flash/banner-
+||images.m4n.nl^*/hosting/
 ||images.nickelodeon.nl/ad_
 ||images.textopus.nl^*/css_img/adflabel.png
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
@@ -376,4 +380,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 364
+! Aantal filters: 368
