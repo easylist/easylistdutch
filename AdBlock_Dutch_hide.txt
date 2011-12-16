@@ -89,6 +89,7 @@ clicktag=http://ad.doubleclick.net/
 !-----Popups-----!
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !-----Site-specifieke blokkeerregels------!
+||109.70.1.61/bannersystem/
 ||112groningen.nl/120-120
 ||112groningen.nl/autohuis.swf
 ||123video.nl/alternate
@@ -576,4 +577,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 562
+! Aantal filters: 563

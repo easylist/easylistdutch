@@ -89,6 +89,7 @@ clicktag=http://ad.doubleclick.net/
 !-----Popups-----!
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !-----Site-specifieke blokkeerregels------!
+||109.70.1.61/bannersystem/
 ||112groningen.nl/120-120
 ||112groningen.nl/autohuis.swf
 ||123video.nl/alternate
@@ -380,4 +381,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 368
+! Aantal filters: 369
