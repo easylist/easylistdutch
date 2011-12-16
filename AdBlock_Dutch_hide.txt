@@ -549,6 +549,7 @@ tvgids.nl##.sponsored
 tvgids.nl##.teaserLinks
 tweakers.net###b_re
 tweakers.net###headerReplacement
+tweakers.net###relatedJobs
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
 uu.nl###sponsor_rotating_block
@@ -570,4 +571,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 556
+! Aantal filters: 557
