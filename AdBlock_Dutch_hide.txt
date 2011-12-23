@@ -9,9 +9,11 @@
 ! https://code.google.com/p/dutchadblockfilters/issues/list
 !-----Algemene blokkeerregels-----!
 /adbron.aspx?
+/adtwee/*
 /adverteerders/*
 /advertentie.php?
 /advertentie/*
+/advertentie2/*
 /advertenties/*
 /bannerlookup.asp?
 /big_reclames/*
@@ -579,4 +581,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 565
+! Aantal filters: 567
