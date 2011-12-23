@@ -352,6 +352,7 @@ clicktag=http://ad.doubleclick.net/
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/uploaded/banners/
+||zoomin.tv/video/590x332_
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
@@ -384,4 +385,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 372
+! Aantal filters: 373

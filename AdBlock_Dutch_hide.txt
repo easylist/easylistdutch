@@ -352,6 +352,7 @@ clicktag=http://ad.doubleclick.net/
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/uploaded/banners/
+||zoomin.tv/video/590x332_
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
@@ -582,4 +583,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 568
+! Aantal filters: 569
