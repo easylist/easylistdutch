@@ -138,6 +138,8 @@ clicktag=http://ad.doubleclick.net/
 ||de-keizer.nl/tassen/*/banner
 ||deboswachter.nl/dysbanner.gif
 ||deloads.nl/js/mtvi_admanager.js
+||djbroadcast.nl/banner/
+||djbroadcast.nl/banners/
 ||doubleclick.net/pfadx/homepage.nos.nl/$object-subrequest
 ||doubleclick.net/pfadx/mediaplayer.nl/$object-subrequest
 ||doubleclick.net/pfadx/vara.homepage.nl/$object-subrequest
@@ -385,4 +387,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 373
+! Aantal filters: 375
