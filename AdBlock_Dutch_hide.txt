@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 17 Dec 2011
+! Last modified: 23 Dec 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -564,6 +564,7 @@ vakantiebellen.com###skyscraper
 vcmw-sigma.nl###banner
 vcmw-sigma.nl##.sponsor
 vdab.be###sky
+vinden.nl###zoektip
 vitesse.org##.banners
 vitesse.org##.center_banner
 voetbalzone.nl##.uniClick
@@ -578,4 +579,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 564
+! Aantal filters: 565
