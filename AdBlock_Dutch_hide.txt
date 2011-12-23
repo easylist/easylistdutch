@@ -405,7 +405,7 @@ clicktag=http://ad.doubleclick.net/
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
 ##.adstekst
-##.advertentie
+~marktplaza.nl##.advertentie
 ##.advertenties
 ##.aw_url_admarkt_bottom
 ##.reclame
