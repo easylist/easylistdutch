@@ -320,6 +320,7 @@ clicktag=http://ad.doubleclick.net/
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||usenetxl.nl/campagne/
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
 ||uu.nl/proton/*/akzonobel_masters_
@@ -383,4 +384,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 371
+! Aantal filters: 372

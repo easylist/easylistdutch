@@ -320,6 +320,7 @@ clicktag=http://ad.doubleclick.net/
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||usenetxl.nl/campagne/
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
 ||uu.nl/proton/*/akzonobel_masters_
@@ -581,4 +582,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 567
+! Aantal filters: 568
