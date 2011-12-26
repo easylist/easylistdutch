@@ -507,6 +507,7 @@ musicmeter.nl##.banner_h
 musicmeter.nl##.sponsored
 ncrv.nl##.add-disclaimer
 nederland.fm##.banner
+nederlandmobiel.nl##.banner
 netonline.be###flashcontain
 netonline.be##a[href^="http://clk.tradedoubler.com/click?p="]
 netonline.be##table[width="250"][cellspacing="2"][cellpadding][border="0"][bgcolor]
@@ -586,4 +587,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 572
+! Aantal filters: 573
