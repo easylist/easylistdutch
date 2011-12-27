@@ -274,6 +274,7 @@ clicktag=http://ad.doubleclick.net/
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
 ||rolhockey.be/sponsoring/
+||rondomvoetbal.nl/images/uploads/frontpage_banners/
 ||rtvutrecht.nl/data/img/reclame_
 ||ru.nl/web/upload/banner/bannerbanner
 ||s69.nl/banners/
@@ -388,4 +389,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 376
+! Aantal filters: 377

@@ -274,6 +274,7 @@ clicktag=http://ad.doubleclick.net/
 ||red.nl/images/banner_
 ||relatieplanet.be/2linkbe/iframesearch.asp
 ||rolhockey.be/sponsoring/
+||rondomvoetbal.nl/images/uploads/frontpage_banners/
 ||rtvutrecht.nl/data/img/reclame_
 ||ru.nl/web/upload/banner/bannerbanner
 ||s69.nl/banners/
@@ -588,4 +589,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 574
+! Aantal filters: 575
