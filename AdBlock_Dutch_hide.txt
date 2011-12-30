@@ -341,6 +341,7 @@ clicktag=http://ad.doubleclick.net/
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
+||vtm.be^*/images/footer-samsung_2.jpg
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
@@ -590,4 +591,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 576
+! Aantal filters: 577
