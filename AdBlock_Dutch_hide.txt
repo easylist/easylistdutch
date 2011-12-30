@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 27 Dec 2011
+! Last modified: 30 Dec 2011
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -43,6 +43,7 @@ clicktag=http://ad.doubleclick.net/
 ||camz.nl^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
+||coolconcepts.nl^$third-party
 ||cts.snmmd.nl^$third-party
 ||delivery.at5.nl^
 ||doubleclick.net^$object-subrequest,domain=2be.be|garagetv.be|mtv.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|radio.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
@@ -589,4 +590,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 575
+! Aantal filters: 576
