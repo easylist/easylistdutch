@@ -238,6 +238,7 @@ clicktag=http://ad.doubleclick.net/
 ||moerstaal.nl/banner
 ||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
+||mrstiff.nl/view/adx/
 ||mrstiff.nl/view/context/spot/
 ||musicmeter.nl/merchandise.php?
 ||nbs.nl/resources/banner_
@@ -393,4 +394,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 381
+! Aantal filters: 382
