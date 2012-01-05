@@ -319,7 +319,7 @@ clicktag=http://ad.doubleclick.net/
 ||tastelikepizza.com/media/*-banner.swf
 ||telegraaf.nl^*/templates/banner
 ||tienertube.nl/banners/
-||top40.nl/images/banner-
+||top40.nl/images/*banner
 ||tvgids.nl/banner/
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif

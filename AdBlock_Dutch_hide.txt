@@ -319,7 +319,7 @@ clicktag=http://ad.doubleclick.net/
 ||tastelikepizza.com/media/*-banner.swf
 ||telegraaf.nl^*/templates/banner
 ||tienertube.nl/banners/
-||top40.nl/images/banner-
+||top40.nl/images/*banner
 ||tvgids.nl/banner/
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
@@ -560,6 +560,7 @@ telegraaf.nl###etalage
 telegraaf.nl###rightbar > .artspacer
 telegraaf.nl###vsl_banner
 toeto.com##.banner
+top40.nl##.left-banner
 tvgids.nl##.banner-custom
 tvgids.nl##.banner-rectangle
 tvgids.nl##.banner-skyscraper
@@ -593,4 +594,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 579
+! Aantal filters: 580
