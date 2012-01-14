@@ -417,7 +417,7 @@ clicktag=http://ad.doubleclick.net/
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
 ##.adstekst
-~marktplaza.nl,~nederlandmobiel.nl##.advertentie
+~drenthemobiel.nl,~flevolandmobiel.nl,~gelderlandmobiel.nl,~groningenmobiel.nl,~limburgmobiel.nl,~marktplaza.nl,~nederlandmobiel.nl,~noord-brabantmobiel.nl,~noord-hollandmobiel.nl,~overijsselmobiel.nl,~utrechtmobiel.nl,~zeelandmobiel.nl,~zuid-hollandmobiel.nl##.advertentie
 ##.advertenties
 ##.aw_url_admarkt_bottom
 ##.banner_advertentie_footer
