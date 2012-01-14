@@ -341,7 +341,7 @@ clicktag=http://ad.doubleclick.net/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
-||videostrip.com/serve_cad.php?$domain=~ad.nl|~ongein.nl|~solomio.nl
+||videostrip.com/serve_cad.php?$domain=~ad.nl|~herhaling.nl|~ongein.nl|~solomio.nl
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/banner_
@@ -368,6 +368,7 @@ clicktag=http://ad.doubleclick.net/
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
+@@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
 @@||bittads.com^$domain=bittads.nl
@@ -398,4 +399,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 386
+! Aantal filters: 387
