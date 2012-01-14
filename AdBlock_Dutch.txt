@@ -273,6 +273,7 @@ clicktag=http://ad.doubleclick.net/
 ||profina.nl/banner.php?
 ||promootjesite.nl/banex/
 ||promootjesite.nl/popups/
+||psv.nl/web/banner/
 ||quotenet.nl/images/banners/
 ||recreatief.nl/kerstarrangementen.gif
 ||red.nl/images/banner_
@@ -396,4 +397,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 384
+! Aantal filters: 385
