@@ -206,6 +206,7 @@ clicktag=http://ad.doubleclick.net/
 ||kieskeurig.nl/rectangle?
 ||kilroynews.net/verkoophuis-
 ||kilroynews.net^*banner
+||kinderspelletjes.nl/ad/
 ||kindertv.net/images/banners/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
@@ -397,4 +398,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 385
+! Aantal filters: 386

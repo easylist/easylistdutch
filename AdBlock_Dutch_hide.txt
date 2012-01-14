@@ -206,6 +206,7 @@ clicktag=http://ad.doubleclick.net/
 ||kieskeurig.nl/rectangle?
 ||kilroynews.net/verkoophuis-
 ||kilroynews.net^*banner
+||kinderspelletjes.nl/ad/
 ||kindertv.net/images/banners/
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
@@ -598,4 +599,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 584
+! Aantal filters: 585
