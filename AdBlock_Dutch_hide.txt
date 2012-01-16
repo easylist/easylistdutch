@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 14 Jan 2012
+! Last modified: 16 Jan 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -183,6 +183,7 @@ clicktag=http://ad.doubleclick.net/
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
+||html-site.nl/swf/bannerfinal.swf
 ||huizenhype.nl/banner/
 ||hyves-static.net^*/footerad.
 ||hyves-static.net^*/hyvesense/
@@ -600,4 +601,4 @@ wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
-! Aantal filters: 586
+! Aantal filters: 587
