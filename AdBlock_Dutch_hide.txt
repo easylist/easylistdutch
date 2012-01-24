@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 22 Jan 2012
+! Last modified: 24 Jan 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -10,6 +10,7 @@
 !-----Algemene blokkeerregels-----!
 /adbron.aspx?
 /adtwee/*
+/adv_tekstlinks.
 /adverteerders/*
 /advertentie.php?
 /advertentie/*
@@ -410,6 +411,7 @@ clicktag=http://ad.doubleclick.net/
 ###reclame_rechts
 ###reclamediv
 ###rightbanner_adbest
+###semilo-lrectangle
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
 ~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
@@ -557,6 +559,7 @@ rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
 scholieren.com###top
+smulweb.nl##.winestein
 spele.nl###adClose
 spele.nl###game_ban_2
 sporza.be###skyscraper
@@ -605,4 +608,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 591
+! Aantal filters: 594
