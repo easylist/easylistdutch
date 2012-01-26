@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 24 Jan 2012
+! Last modified: 26 Jan 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -164,6 +164,7 @@ clicktag=http://ad.doubleclick.net/
 ||fiets.nl/uploads/banners/
 ||fiets.nl^*-banner-
 ||flirtfair.de^*/dppop.js
+||fokzine.net/forumheaders/new/830x140_header_
 ||frankrijk.nl/flash/banner_
 ||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
 ||goamerika.nl/pictures/site_banner
@@ -402,4 +403,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 390
+! Aantal filters: 391
