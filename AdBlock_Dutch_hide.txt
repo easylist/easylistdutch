@@ -557,6 +557,8 @@ rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 rtl.nl##.extra_info_banner_container
+rtvoost.nl##.bannerLink[href^="http://"]
+rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 sbs6.nl###g-leaderboard
 sbs6.nl###g-skyscraper
@@ -610,4 +612,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 596
+! Aantal filters: 598
