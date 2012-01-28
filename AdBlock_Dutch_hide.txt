@@ -464,6 +464,7 @@ cip.nl###banners_zijkant
 deloads.nl###leaderboard
 digitallife.nl###partner_block
 dumpert.nl###banner_fullsize
+dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
 f1today.nl###fanfashion
@@ -612,4 +613,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 598
+! Aantal filters: 599
