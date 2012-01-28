@@ -171,6 +171,7 @@ clicktag=http://ad.doubleclick.net/
 ||goedbegin.com/linkex/
 ||goedbegin.nl/linkex/?
 ||goedbegin.nl/pics/banners/banner.php?
+||goedkoop.info/lastminutebanner.php
 ||goldcash.nl/banners/
 ||gpupdate.net/if/advertsub/
 ||hardwarewoensdag.tv^*/hww_bg_
@@ -404,4 +405,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 392
+! Aantal filters: 393

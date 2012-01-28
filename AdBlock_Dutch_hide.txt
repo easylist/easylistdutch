@@ -171,6 +171,7 @@ clicktag=http://ad.doubleclick.net/
 ||goedbegin.com/linkex/
 ||goedbegin.nl/linkex/?
 ||goedbegin.nl/pics/banners/banner.php?
+||goedkoop.info/lastminutebanner.php
 ||goldcash.nl/banners/
 ||gpupdate.net/if/advertsub/
 ||hardwarewoensdag.tv^*/hww_bg_
@@ -613,4 +614,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 599
+! Aantal filters: 600
