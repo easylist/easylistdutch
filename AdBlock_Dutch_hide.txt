@@ -179,6 +179,7 @@ clicktag=http://ad.doubleclick.net/
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
+||hetgoedeleven.com/portals/*/banners/
 ||hetnieuwerijden.nl/content/banners/
 ||historiek.net/images/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
@@ -616,4 +617,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 602
+! Aantal filters: 603
