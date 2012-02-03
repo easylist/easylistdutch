@@ -301,6 +301,7 @@ clicktag=http://ad.doubleclick.net/
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
+||spelpunt.nl/scripts/delivery/gpspcjs.php?
 ||speurders.nl^*doubleclick.net/adj/
 ||speursex.nl/images/banners/
 ||startbewijs.nl/banners/
@@ -405,4 +406,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 393
+! Aantal filters: 394

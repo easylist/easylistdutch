@@ -301,6 +301,7 @@ clicktag=http://ad.doubleclick.net/
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
+||spelpunt.nl/scripts/delivery/gpspcjs.php?
 ||speurders.nl^*doubleclick.net/adj/
 ||speursex.nl/images/banners/
 ||startbewijs.nl/banners/
@@ -615,4 +616,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 601
+! Aantal filters: 602
