@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 28 Jan 2012
+! Last modified: 3 Feb 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -395,8 +395,8 @@ clicktag=http://ad.doubleclick.net/
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/gen/i-ads.js
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
-@@||partner.googleadservices.com/gampad/$domain=jaggle.nl
-@@||pubads.g.doubleclick.net/gampad/ads?$domain=jaggle.nl
+@@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
+@@||pubads.g.doubleclick.net/gampad/ads?$domain=beta.flabber.nl|jaggle.nl
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
