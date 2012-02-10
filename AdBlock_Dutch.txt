@@ -163,6 +163,7 @@ clicktag=http://ad.doubleclick.net/
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
 ||fiets.nl^*-banner-
+||flabber.net/files/fl_durex_wallpaper_
 ||flirtfair.de^*/dppop.js
 ||fokzine.net/forumheaders/new/830x140_header_
 ||frankrijk.nl/flash/banner_
@@ -412,4 +413,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 400
+! Aantal filters: 401

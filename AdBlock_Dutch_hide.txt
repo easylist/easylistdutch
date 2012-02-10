@@ -163,6 +163,7 @@ clicktag=http://ad.doubleclick.net/
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
 ||fiets.nl^*-banner-
+||flabber.net/files/fl_durex_wallpaper_
 ||flirtfair.de^*/dppop.js
 ||fokzine.net/forumheaders/new/830x140_header_
 ||frankrijk.nl/flash/banner_
@@ -480,6 +481,7 @@ fcupdate.nl##.advert
 filmtotaal.nl###header_banner_area
 filmtotaal.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?"]
 flabber.nl###bannerMIDDLE-teaser
+flabber.nl###site_takeover
 flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
@@ -623,4 +625,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 609
+! Aantal filters: 611
