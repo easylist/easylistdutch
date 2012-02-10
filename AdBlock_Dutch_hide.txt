@@ -387,6 +387,7 @@ clicktag=http://ad.doubleclick.net/
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||data.panachetech.com/$object-subrequest
+@@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
 @@||doubleclick.net^*;tile=$domain=vtm.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
@@ -622,4 +623,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 608
+! Aantal filters: 609
