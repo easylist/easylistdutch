@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 15 Feb 2012
+! Last modified: 16 Feb 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -38,7 +38,6 @@ clicktag=http://ad.doubleclick.net/
 ||banners.vip.nl^
 ||bannerwerving.nl^
 ||cambonus.com^$third-party
-||campagne.zichtbaaronline.nl^$third-party
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
 ||camz.nl^$third-party
@@ -166,7 +165,6 @@ clicktag=http://ad.doubleclick.net/
 ||flirtfair.de^*/dppop.js
 ||fokzine.net/forumheaders/new/830x140_header_
 ||frankrijk.nl/flash/banner_
-||ftpdump.vakantie.nl/zoekbanners/*_adv.swf
 ||gamerabbit.com/scripts/banner.php?
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
@@ -394,7 +392,6 @@ clicktag=http://ad.doubleclick.net/
 @@||fokzine.net/templates/*/forum_min.js?
 @@||fotoapparatuur.nl/advertenties/
 @@||gay.*/img2/variabel_
-@@||geenstijl.nl/b/ss/*&ce=iso-8859-1&
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||milkinc.be/ad.php$subdocument
@@ -448,7 +445,6 @@ clicktag=http://ad.doubleclick.net/
 2xklikken.nl##.linksall:first-child
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
-9lives.be###SKIN
 acom.nl###divBanner
 allradio.nl##.adv
 androidplanet.nl##.ad
@@ -471,7 +467,6 @@ christelijkvakantieplein.nl###hoofdsponsors
 cip.nl###banners_zijkant
 deloads.nl###leaderboard
 digitallife.nl###partner_block
-dumpert.nl###banner_fullsize
 dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
@@ -488,7 +483,6 @@ gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
 gay.eu,gay.nl##.bannerTopBox
 gay.eu,gay.nl##.skyscraperParentBox
-geenstijl.nl###doubleclick-ads-iframe-5
 gentsefeesten.be###partner-logos
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 hardware.info###banner_right_bottom
@@ -500,8 +494,6 @@ hitradioveronica.nl###rectanglebanner
 html-site.nl##.cursus
 humo.be###notify
 humo.be###notify_overlay
-hyves.nl###skyscraper
-hyves.nl###tidalboard-google-ad
 hyves.nl##div[id^="adsense_"]
 infonu.nl##.banner250
 infotalia.com###flashcontain
@@ -572,13 +564,10 @@ rtl.nl##.extra_info_banner_container
 rtvoost.nl##.bannerLink[href^="http://"]
 rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
-sbs6.nl###g-leaderboard
-sbs6.nl###g-skyscraper
 scholieren.com###top
 smulweb.nl##.winestein
 spele.nl###adClose
 spele.nl###game_ban_2
-sporza.be###skyscraper
 startbewijs.nl##.banner
 startkabel.nl##.banners
 stemwijzer.nl##.ad
@@ -600,7 +589,6 @@ tvgids.nl##.sponsored
 tvgids.nl##.teaserLinks
 tvgids.nl##.tips
 tweakers.net###b_re
-tweakers.net###headerReplacement
 tweakers.net###relatedJobs
 uitburo.nl##.cultural-add-frontpage
 uitburo.nl##.uitmail_banner_block
@@ -625,4 +613,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 611
+! Aantal filters: 599
