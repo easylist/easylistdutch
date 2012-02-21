@@ -61,6 +61,7 @@ clicktag=http://ad.doubleclick.net/
 ||maakmedia.nl^$third-party
 ||mbuyu.nl^$domain=~m4n.nl
 ||mm1x.nl^$third-party
+||mooieplaatjes.bierdopje.com^
 ||netdirect.nl^
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
@@ -432,6 +433,7 @@ clicktag=http://ad.doubleclick.net/
 ##.advertenties
 ##.aw_url_admarkt_bottom
 ##.banner_advertentie_footer
+##.content-rechts-ad
 ##.reclame
 ##.reclameIndex
 ##.reclamekop
@@ -615,4 +617,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 601
+! Aantal filters: 603
