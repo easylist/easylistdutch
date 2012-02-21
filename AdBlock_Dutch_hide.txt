@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 16 Feb 2012
+! Last modified: 21 Feb 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -602,6 +602,7 @@ vitesse.org##.banners
 vitesse.org##.center_banner
 voetbalzone.nl##.uniClick
 voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
+voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
 waarbenjij.nu###spanEbookersContainer
 weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl##.banner + .specialBlockDiv
@@ -613,4 +614,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 599
+! Aantal filters: 600
