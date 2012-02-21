@@ -495,6 +495,7 @@ html-site.nl##.cursus
 humo.be###notify
 humo.be###notify_overlay
 hyves.nl##div[id^="adsense_"]
+indeed.nl##.sjl.sjas3
 infonu.nl##.banner250
 infotalia.com###flashcontain
 ipadclub.nl##.ad
@@ -614,4 +615,4 @@ z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
-! Aantal filters: 600
+! Aantal filters: 601
