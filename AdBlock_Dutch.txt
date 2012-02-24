@@ -330,6 +330,7 @@ clicktag=http://ad.doubleclick.net/
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
 ||tastelikepizza.com/media/*-banner.swf
+||telegraaf.nl/swf/webshop/heimweewinkel_actie_
 ||telegraaf.nl^*/templates/banner
 ||tienertube.nl/banners/
 ||top40.nl/images/*banner
@@ -409,4 +410,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 397
+! Aantal filters: 398
