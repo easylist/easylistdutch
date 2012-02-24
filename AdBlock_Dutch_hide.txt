@@ -28,7 +28,7 @@
 /small_reclames/*
 clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
-||2mdn.net^$object-subrequest,domain=eredivisielive.nl|garagetv.be
+||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
