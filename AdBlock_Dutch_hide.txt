@@ -380,6 +380,7 @@ clicktag=http://ad.doubleclick.net/
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
+@@||ad.be.doubleclick.net/crossdomain.xml$object-subrequest,domain=zita.be
 @@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
@@ -390,6 +391,7 @@ clicktag=http://ad.doubleclick.net/
 @@||data.panachetech.com/$object-subrequest
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
+@@||doubleclick.net/pfadx/zitanl/preroll;$object-subrequest
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||fokzine.net/templates/*/forum_min.js?
@@ -623,4 +625,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 609
+! Aantal filters: 611
