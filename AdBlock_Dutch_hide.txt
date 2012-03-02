@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 28 Feb 2012
+! Last modified: 2 Mar 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -526,7 +526,7 @@ mensenlinq.nl##.banner
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
 mistermoney.nl###theLayer
-mokkels.nl##a[onclick*="/extern/affiliates/sponsored-posts/"]
+mokkels.nl##a[onclick*="extern/affiliates/"]
 moviemeter.nl##.banner_bol
 moviemeter.nl##.banner_h
 moviemeter.nl##.banner_header
