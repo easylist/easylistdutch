@@ -26,7 +26,6 @@
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
-clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
 ||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be
 ||adrcdn.com^$third-party
@@ -412,4 +411,4 @@ clicktag=http://ad.doubleclick.net/
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 400
+! Aantal filters: 399

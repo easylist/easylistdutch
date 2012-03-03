@@ -26,7 +26,6 @@
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
-clicktag=http://ad.doubleclick.net/
 !-----Advertentieservers-----!
 ||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be
 ||adrcdn.com^$third-party
@@ -623,4 +622,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 609
+! Aantal filters: 608
