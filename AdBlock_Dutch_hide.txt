@@ -318,7 +318,6 @@
 ||static-webregio.nl/content/banners/
 ||static.computertotaal.nl/uploads/m/7/$image
 ||static.digitallife.nl/uploads/*/*/*.jpg
-||static.gay.*/img2/
 ||static.vergelijk.nl/data/nl_nl/promos/
 ||statisch.detelefoongids.nl/dms/images/*/ad_*.png
 ||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
@@ -393,7 +392,6 @@
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||fokzine.net/templates/*/forum_min.js?
 @@||fotoapparatuur.nl/advertenties/
-@@||gay.*/img2/variabel_
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||milkinc.be/ad.php$subdocument
@@ -622,4 +620,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 608
+! Aantal filters: 606
