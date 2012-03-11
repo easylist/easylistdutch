@@ -115,6 +115,7 @@
 ||at5.nl/uploads/$image
 ||automatiseringgids.nl^*/marketing/blokje_
 ||autozine.nl/promo/banner.jpg
+||beautylab.nl/wp-content/uploads/*banner
 ||beekje.nl^*/bannerindex.html
 ||berekenhet.nl^*?c=ads
 ||bestbekeken.nl/images/banners/
@@ -369,6 +370,7 @@
 ||whatismyip.nl/images/vista_sky2.gif
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
+||xlshosting.net/wp-content/uploads/idwbanner.png
 ||xmissymedia.com/galleries/*/banners/
 ||z24.nl^*/ad_panel.css
 ||z24.nl^*/ads.css
@@ -454,6 +456,7 @@ at5.nl##.banner
 at5.nl##.banner-300-100
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
+beautylab.nl###sidebar .textwidget > a[target="_blank"]
 belgium4x4.be###ad_thread_last_post_content
 biertijd.com##.advertorialtitle ~ *
 binaries4all.nl###gright
@@ -622,4 +625,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 608
+! Aantal filters: 611
