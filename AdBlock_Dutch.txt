@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Mar 2012
+! Last modified: 15 Mar 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -89,6 +89,7 @@
 ||views.m4n.nl^$third-party
 ||vippromos.nl^$third-party
 ||webvertising-img.bencom.net^
+||widget.pixspree.com^$third-party
 !-----Popups-----!
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !-----Site-specifieke blokkeerregels------!
@@ -412,4 +413,4 @@
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 400
+! Aantal filters: 401
