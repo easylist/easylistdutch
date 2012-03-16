@@ -394,6 +394,7 @@
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
+@@||ebayrtm.com^$domain=ebay.nl
 @@||fokzine.net/templates/*/forum_min.js?
 @@||fotoapparatuur.nl/advertenties/
 @@||images.marktnet.eu/adimg/
@@ -628,4 +629,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 614
+! Aantal filters: 615
