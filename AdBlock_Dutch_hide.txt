@@ -535,6 +535,7 @@ moviemeter.nl##.banner_bol
 moviemeter.nl##.banner_h
 moviemeter.nl##.banner_header
 moviemeter.nl##.compare_banner_outer
+moviemeter.nl##.price_compare
 moviemeter.nl##.sponsored
 musicmeter.nl##.banner_h
 musicmeter.nl##.sponsored
@@ -627,4 +628,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 613
+! Aantal filters: 614
