@@ -624,9 +624,10 @@ wetenschapsforum.nl##.bannercontainer-carrousel
 wiebetaaltwat.nl###banner-panel-right
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 xboxworld.nl###background
+yasni.nl##.offerbox
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 615
+! Aantal filters: 616
