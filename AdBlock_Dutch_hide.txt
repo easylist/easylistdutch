@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 23 Mar 2012
+! Last modified: 24 Mar 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -463,7 +463,6 @@ at5.nl##.banner-300-100
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
-belgium4x4.be###ad_thread_last_post_content
 biertijd.com##.advertorialtitle ~ *
 binaries4all.nl###gright
 blog.nl##.ADV
@@ -633,4 +632,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 619
+! Aantal filters: 618
