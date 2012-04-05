@@ -355,6 +355,7 @@
 ||uu.nl/proton/*/akzonobel_masters_
 ||vcmw-sigma.nl/uploads/banners/
 ||vdab.be/indekijker/
+||verenigingautovandezaak.nl/img/banners/
 ||versio.nl/banners/
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl^*/sponsors.js
@@ -419,4 +420,4 @@
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 407
+! Aantal filters: 408
