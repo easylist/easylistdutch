@@ -437,7 +437,7 @@
 ##.admarkt_gallery_info
 ##.adstekst
 ~drenthemobiel.nl,~flevolandmobiel.nl,~gelderlandmobiel.nl,~groningenmobiel.nl,~limburgmobiel.nl,~marktplaza.nl,~nederlandmobiel.nl,~noord-brabantmobiel.nl,~noord-hollandmobiel.nl,~overijsselmobiel.nl,~utrechtmobiel.nl,~zeelandmobiel.nl,~zuid-hollandmobiel.nl##.advertentie
-##.advertenties
+~zeelandnet.nl##.advertenties
 ##.aw_url_admarkt_bottom
 ##.banner_advertentie_footer
 ##.bericht_adv1
