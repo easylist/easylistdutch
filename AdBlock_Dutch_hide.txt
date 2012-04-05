@@ -170,6 +170,7 @@
 ||fiets.nl^*-banner-
 ||flirtfair.de^*/dppop.js
 ||fokzine.net/forumheaders/new/830x140_header_
+||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
 ||gamerabbit.com/scripts/banner.php?
 ||goamerika.nl/pictures/site_banner
@@ -633,4 +634,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 619
+! Aantal filters: 620
