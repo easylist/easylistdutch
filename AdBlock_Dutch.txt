@@ -144,6 +144,7 @@
 ||de-keizer.nl/tassen/*/banner
 ||deboswachter.nl/dysbanner.gif
 ||deloads.nl/js/mtvi_admanager.js
+||devegetarier.nl^*/vegapolis_banner.
 ||djbroadcast.nl/banner/
 ||djbroadcast.nl/banners/
 ||doubleclick.net/pfadx/homepage.nos.nl/$object-subrequest
@@ -427,4 +428,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 415
+! Aantal filters: 416
