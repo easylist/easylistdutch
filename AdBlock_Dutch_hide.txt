@@ -31,6 +31,7 @@
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
+||autotekoop.nl^$third-party
 ||banners.helpmij.nl^
 ||banners.toeto.com^
 ||banners.utilo.nl^
@@ -638,4 +639,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 624
+! Aantal filters: 625
