@@ -594,6 +594,7 @@ synoniemen.net##a[href^="http://ds1.nl/c/?"]
 telegraaf.nl###etalage
 telegraaf.nl###rightbar > .artspacer
 telegraaf.nl###vsl_banner
+telegraaf.nl##.addiv > a[target="_new"]
 toeto.com##.banner
 top40.nl##.left-banner
 tvgids.nl##.banner-custom
@@ -637,4 +638,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 623
+! Aantal filters: 624
