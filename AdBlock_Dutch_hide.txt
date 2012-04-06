@@ -390,9 +390,9 @@
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
-@@||ad.360yield.com/adj?$script,domain=spel.nl
+@@||ad.360yield.com/adj?$script,domain=spel.nl|spelletjes.nl
 @@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
-@@||adserver.adtech.de/multiad/$script,domain=spel.nl
+@@||adserver.adtech.de/multiad/$script,domain=spel.nl|spelletjes.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
 @@||bittads.com^$domain=bittads.nl
@@ -414,13 +414,14 @@
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/gen/i-ads.js
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=beta.flabber.nl|jaggle.nl
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
-@@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=spel.nl
+@@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=spel.nl|spelletjes.nl
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
@@ -644,4 +645,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 630
+! Aantal filters: 631
