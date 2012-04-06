@@ -425,6 +425,7 @@
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
+@@||zuka.nl/images/ad_*.png|
 !-----Algemene verbergregels-----!
 ###adfactor-label
 ###adsense_artikel_4
@@ -643,4 +644,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 629
+! Aantal filters: 630

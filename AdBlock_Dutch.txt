@@ -425,4 +425,5 @@
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
-! Aantal filters: 413
+@@||zuka.nl/images/ad_*.png|
+! Aantal filters: 414
