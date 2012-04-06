@@ -390,7 +390,9 @@
 !-----Uitzonderingen-----!
 @@|http://banner$domain=kinderpretpagina.nl
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
+@@||ad.360yield.com/adj?$script,domain=spel.nl
 @@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
+@@||adserver.adtech.de/multiad/$script,domain=spel.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
 @@||bittads.com^$domain=bittads.nl
@@ -418,6 +420,7 @@
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
 @@||sogeti.nl/advertenties/
+@@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=spel.nl
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
 @@||viamichelin.nl^*/rentacar.js
 @@||webads.nl^$domain=webads.nl
@@ -639,4 +642,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 625
+! Aantal filters: 628
