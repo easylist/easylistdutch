@@ -362,7 +362,7 @@
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
-||videostrip.com/serve_cad.php?$domain=nederland.fm|skyradio.nl
+||videostrip.com/serve_cad.php?$domain=nederland.fm|skyradio.nl|zuka.nl
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/banner_
