@@ -625,6 +625,7 @@ vitesse.org##.banners
 vitesse.org##.center_banner
 viva.nl##.banner_sidebar
 viva.nl##.teasers_sidebar
+vmma.be###syndicatedPlayer_staybehind
 voetbalzone.nl##.uniClick
 voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
@@ -642,4 +643,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 628
+! Aantal filters: 629
