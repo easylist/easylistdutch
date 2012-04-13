@@ -207,6 +207,7 @@
 ||images.nickelodeon.nl/ad_
 ||images.textopus.nl^*/css_img/adflabel.png
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
+||images2-telegraaf.nl/multimedia/archive/*/fx_widget_
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 ||images2-telegraaf.nl/multimedia/archive/*/scrollbanner
 ||infopagina.nl/startpagina/banner/
@@ -648,4 +649,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 634
+! Aantal filters: 635

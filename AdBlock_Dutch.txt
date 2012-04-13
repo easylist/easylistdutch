@@ -207,6 +207,7 @@
 ||images.nickelodeon.nl/ad_
 ||images.textopus.nl^*/css_img/adflabel.png
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
+||images2-telegraaf.nl/multimedia/archive/*/fx_widget_
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 ||images2-telegraaf.nl/multimedia/archive/*/scrollbanner
 ||infopagina.nl/startpagina/banner/
@@ -429,4 +430,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 417
+! Aantal filters: 418
