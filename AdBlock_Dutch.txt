@@ -389,6 +389,7 @@
 ||z24.nl^*/ads.css
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zideo.nl/scripts/banner/
+||zoomin.tv/decagonhandler/.adm?
 ||zoomin.tv/uploaded/banners/
 ||zoomin.tv/video/590x332_
 !-----Uitzonderingen-----!
@@ -431,4 +432,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 419
+! Aantal filters: 420

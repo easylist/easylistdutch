@@ -389,6 +389,7 @@
 ||z24.nl^*/ads.css
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zideo.nl/scripts/banner/
+||zoomin.tv/decagonhandler/.adm?
 ||zoomin.tv/uploaded/banners/
 ||zoomin.tv/video/590x332_
 !-----Uitzonderingen-----!
@@ -650,4 +651,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 636
+! Aantal filters: 637
