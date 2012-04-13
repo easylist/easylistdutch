@@ -372,6 +372,7 @@
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
 ||vtm.be^*/images/footer-samsung_2.jpg
+||vvzigo.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
@@ -430,4 +431,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 418
+! Aantal filters: 419

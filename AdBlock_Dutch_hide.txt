@@ -372,6 +372,7 @@
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
 ||vtm.be^*/images/footer-samsung_2.jpg
+||vvzigo.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
@@ -649,4 +650,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 635
+! Aantal filters: 636
