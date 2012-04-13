@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Apr 2012
+! Last modified: 13 Apr 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -239,6 +239,7 @@
 ||links.overzicht.nl/links/position.php?
 ||linkstartje.be/banners/
 ||localfm.nl/images/assets/banner-
+||longtailvideo.com^*/ova/ova-jw.swf
 ||lustcash.nl/images-lustcash-footer/
 ||lustcash.nl/promo/cams/?
 ||maffiawars.nl/top.php?$subdocument
@@ -428,4 +429,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 416
+! Aantal filters: 417
