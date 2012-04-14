@@ -604,6 +604,7 @@ stemwijzer.nl##.ad
 studenten.nl##.banner
 synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
+telegraaf.nl###bvacontainer
 telegraaf.nl###etalage
 telegraaf.nl###rightbar > .artspacer
 telegraaf.nl###vsl_banner
@@ -652,4 +653,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 638
+! Aantal filters: 639
