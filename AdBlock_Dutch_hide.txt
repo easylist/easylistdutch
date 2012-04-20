@@ -123,6 +123,8 @@
 ||beekje.nl^*/bannerindex.html
 ||berekenhet.nl^*?c=ads
 ||bestbekeken.nl/images/banners/
+||bet.nl/banners/
+||bet.nl/images/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
 ||blog.nl/recente_links.js
@@ -483,6 +485,7 @@ at5.nl##.banner-300-100
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
+bet.nl##a[href^="http://vergelijkdata.com/"]
 biertijd.com##.advertorialtitle ~ *
 binaries4all.nl###gright
 blog.nl##.ADV
@@ -658,4 +661,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 644
+! Aantal filters: 647

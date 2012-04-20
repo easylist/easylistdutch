@@ -123,6 +123,8 @@
 ||beekje.nl^*/bannerindex.html
 ||berekenhet.nl^*?c=ads
 ||bestbekeken.nl/images/banners/
+||bet.nl/banners/
+||bet.nl/images/banners/
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
 ||blog.nl/recente_links.js
@@ -437,4 +439,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 425
+! Aantal filters: 427
