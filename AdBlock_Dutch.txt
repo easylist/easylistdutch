@@ -417,6 +417,7 @@
 @@||ib.adnxs.com/ttj?$script,domain=girlsgogames.nl
 @@||images.marktnet.eu/adimg/
 @@||kapaza.be^*/ad_view_$script,stylesheet
+@@||manners.nl/wp-content/uploads/*-300x250.$image
 @@||milkinc.be/ad.php$subdocument
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||otto.nl/assets/general/images/ads2_
@@ -436,4 +437,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 424
+! Aantal filters: 425
