@@ -63,6 +63,7 @@
 ||mm1x.nl^$third-party
 ||mooieplaatjes.bierdopje.com^
 ||netdirect.nl^
+||netmng.com^
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
 ||ox-d.hdcmedia.nl^
@@ -662,4 +663,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 648
+! Aantal filters: 649

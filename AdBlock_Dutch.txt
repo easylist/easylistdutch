@@ -63,6 +63,7 @@
 ||mm1x.nl^$third-party
 ||mooieplaatjes.bierdopje.com^
 ||netdirect.nl^
+||netmng.com^
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
 ||ox-d.hdcmedia.nl^
@@ -440,4 +441,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 428
+! Aantal filters: 429
