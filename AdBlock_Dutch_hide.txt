@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 21 Apr 2012
+! Last modified: 22 Apr 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -30,6 +30,7 @@
 ||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
+||advertentie.dichtbij.nl^
 ||asp.unitedconsumers.com^$third-party
 ||autotekoop.nl^$third-party
 ||banners.helpmij.nl^
@@ -502,6 +503,7 @@ checkcams.com##.mfoot
 christelijkvakantieplein.nl###hoofdsponsors
 cip.nl###banners_zijkant
 deloads.nl###leaderboard
+dichtbij.nl##.widgetbanner
 digitallife.nl###partner_block
 dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
 ed.nl##.banner
@@ -663,4 +665,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 649
+! Aantal filters: 651
