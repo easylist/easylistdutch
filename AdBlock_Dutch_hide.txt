@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 22 Apr 2012
+! Last modified: 27 Apr 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -198,6 +198,7 @@
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hln.be/static/nmc/nmc/rp/nav/
 ||hoefijzers.nl/banner/
+||honig.nl/extern/honig-commercial-videobanner-
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
@@ -588,6 +589,7 @@ nu.nl##.adblock_border
 nu.nl##.adblue
 nu.nl##.adsilver
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
+okokorecepten.nl##.bnr_hd_rightcol
 omroep.nl##.promo
 omroepbrabant.nl###promoimg
 onemorething.nl##.advert
@@ -665,4 +667,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 651
+! Aantal filters: 653
