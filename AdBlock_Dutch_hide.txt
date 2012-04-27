@@ -387,6 +387,7 @@
 ||weeronline.nl/go/banner/index?
 ||weeronline.nl^*/hoteldeals/
 ||wegenerweb.nl/sponsors/
+||welingelichtekringen.nl/images/overgangster2.gif
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||willie.nl/promotools/
@@ -667,4 +668,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 653
+! Aantal filters: 654

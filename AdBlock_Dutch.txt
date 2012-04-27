@@ -387,6 +387,7 @@
 ||weeronline.nl/go/banner/index?
 ||weeronline.nl^*/hoteldeals/
 ||wegenerweb.nl/sponsors/
+||welingelichtekringen.nl/images/overgangster2.gif
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||willie.nl/promotools/
@@ -443,4 +444,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 431
+! Aantal filters: 432
