@@ -413,7 +413,6 @@
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
-@@||cts.snmmd.nl/service/js/gamer-nl-gam/$script,domain=gamer.nl
 @@||data.panachetech.com/$object-subrequest
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
@@ -437,6 +436,7 @@
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||snmmd.nl/service/js/autoweek-nl/autoweektv/
+@@||snmmd.nl/service/js/gamer-nl-gam/$script,domain=gamer.nl
 @@||sogeti.nl/advertenties/
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
