@@ -47,7 +47,7 @@
 ||coolconcepts.nl^$third-party
 ||cts.snmmd.nl^$third-party
 ||delivery.at5.nl^
-||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|radio.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
+||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^
 ||ehg-advertisementbv.hitbox.com^
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
@@ -372,7 +372,7 @@
 ||vi.nl/files/commercie/4buttons/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
-||videostrip.com/serve_cad.php?$domain=nederland.fm|skyradio.nl|zuka.nl
+||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|radioveronica.nl|skyradio.nl|zuka.nl
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||voetbalshop.nl/banner_
