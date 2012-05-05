@@ -38,6 +38,7 @@
 ||banners.utilo.nl^
 ||banners.vip.nl^
 ||bannerwerving.nl^
+||bva-auctions.com^$domain=z24.nl
 ||cambonus.com^$third-party
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
@@ -447,4 +448,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 435
+! Aantal filters: 436

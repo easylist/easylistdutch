@@ -38,6 +38,7 @@
 ||banners.utilo.nl^
 ||banners.vip.nl^
 ||bannerwerving.nl^
+||bva-auctions.com^$domain=z24.nl
 ||cambonus.com^$third-party
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
@@ -666,9 +667,10 @@ wiebetaaltwat.nl###banner-panel-right
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 xboxworld.nl###background
 yasni.nl##.offerbox
+z24.nl###bva336x280container
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 657
+! Aantal filters: 659
