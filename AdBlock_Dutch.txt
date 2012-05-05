@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 30 Apr 2012
+! Last modified: 5 May 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -406,6 +406,8 @@
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
 @@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
+@@||ads.spilgames.com/ad/pb/1/2/25?$script,domain=spel.nl
+@@||ads.spilgames.com/vendor/flowplayer/flowplayer$object,script,domain=spel.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
@@ -445,4 +447,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 433
+! Aantal filters: 435
