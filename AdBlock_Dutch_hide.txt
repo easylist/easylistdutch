@@ -356,6 +356,7 @@
 ||top40.nl/images/*banner
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
+||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
 ||tvgids.nl/banner/
 ||tvgidsassets.nl/graphics/ad*.gif
@@ -678,4 +679,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 664
+! Aantal filters: 665

@@ -356,6 +356,7 @@
 ||top40.nl/images/*banner
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
+||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
 ||tvgids.nl/banner/
 ||tvgidsassets.nl/graphics/ad*.gif
@@ -450,4 +451,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 438
+! Aantal filters: 439
