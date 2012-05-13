@@ -338,6 +338,7 @@
 ||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
+||static.computertotaal.nl/uploads/e/v/$image
 ||static.computertotaal.nl/uploads/m/7/$image
 ||static.digitallife.nl/uploads/*/*/*.jpg
 ||static.macworld.nl/uploads/*/*/*.jpg
@@ -454,4 +455,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 441
+! Aantal filters: 442

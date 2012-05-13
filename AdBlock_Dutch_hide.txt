@@ -338,6 +338,7 @@
 ||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
+||static.computertotaal.nl/uploads/e/v/$image
 ||static.computertotaal.nl/uploads/m/7/$image
 ||static.digitallife.nl/uploads/*/*/*.jpg
 ||static.macworld.nl/uploads/*/*/*.jpg
@@ -684,4 +685,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 669
+! Aantal filters: 670
