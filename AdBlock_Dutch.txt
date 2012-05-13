@@ -229,6 +229,7 @@
 ||jouwtomtom.nl^*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kieskeurig.nl/rectangle?
+||kijkshop.nl/flash/vanvoordeel.swf
 ||kilroynews.net/verkoophuis-
 ||kilroynews.net^*banner
 ||kinderspelletjes.nl/ad/
@@ -453,4 +454,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 440
+! Aantal filters: 441

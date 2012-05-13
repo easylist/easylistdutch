@@ -229,6 +229,7 @@
 ||jouwtomtom.nl^*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kieskeurig.nl/rectangle?
+||kijkshop.nl/flash/vanvoordeel.swf
 ||kilroynews.net/verkoophuis-
 ||kilroynews.net^*banner
 ||kinderspelletjes.nl/ad/
@@ -557,6 +558,7 @@ ipadclub.nl##.ad
 iphoneclub.nl##.ad
 joubuis.nl##.banner468x60
 kieskeurig.nl###rightBanner
+kijkshop.nl##.rechterkolom-banner
 kilroynews.net##table[width="760"][height="2001"][align="center"]
 kilroynews.net##table[width="792"]
 kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
@@ -682,4 +684,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 667
+! Aantal filters: 669
