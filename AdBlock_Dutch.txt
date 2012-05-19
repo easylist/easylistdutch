@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 16 May 2012
+! Last modified: 19 May 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -35,7 +35,7 @@
 ||autotekoop.nl^$third-party
 ||banners.vip.nl^
 ||bannerwerving.nl^
-||bva-auctions.com^$domain=z24.nl
+||bva-auctions.com^$domain=telegraaf.nl|z24.nl
 ||cambonus.com^$third-party
 ||camsholland.eu^$third-party
 ||camsholland.nl^$third-party
@@ -43,6 +43,7 @@
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||coolconcepts.nl^$third-party
+||csmcampagne.consumind.nl^
 ||cts.snmmd.nl^$third-party
 ||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^
@@ -375,6 +376,7 @@
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
 ||tastelikepizza.com/media/*-banner.swf
+||telegraaf.nl/static/corendon/
 ||telegraaf.nl/swf/webshop/heimweewinkel_actie_
 ||telegraaf.nl^*/templates/banner
 ||top40.nl/images/*banner
@@ -457,4 +459,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 441
+! Aantal filters: 443
