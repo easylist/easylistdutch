@@ -486,7 +486,7 @@
 ##.banner_advertentie_footer
 ##.bericht_adv1
 ##.content-rechts-ad
-##.reclame
+~computeridee.nl##.reclame
 ##.reclameIndex
 ##.reclamekop
 ##.reclamelogos
