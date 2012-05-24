@@ -98,6 +98,7 @@
 ||banners.helpmij.nl^
 ||banners.toeto.com^
 ||banners.utilo.nl^
+||bnr.agf.nl^
 ||delivery.at5.nl^
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
@@ -200,6 +201,11 @@
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/*_promoblok.swf
 ||ad.nl/static/nmc/prm/box/home_*.swf
+||agf.nl/asp_includes/site_topbanners.
+||agf.nl/nieuws/gif-jpg/hercuton2010.swf
+||agf.nl/nieuws/gif-jpg/redstarcupido.swf
+||agf.nl/nieuws/swf/groot3.swf
+||agf.nl/nieuws/swf/jvdo_
 ||agfservice.nl^*/banner-468.gif
 ||allebedrijveninnederland.nl/ad/
 ||amerika.nl^*/banners/
@@ -461,4 +467,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 445
+! Aantal filters: 451
