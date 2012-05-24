@@ -200,6 +200,7 @@
 ||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
 ||ad.nl/static/nmc/prm/box/*_promoblok.swf
 ||ad.nl/static/nmc/prm/box/home_*.swf
+||agfservice.nl^*/banner-468.gif
 ||allebedrijveninnederland.nl/ad/
 ||amerika.nl^*/banners/
 ||anwb.nl/binaries/swf/banners/
@@ -460,4 +461,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 444
+! Aantal filters: 445
