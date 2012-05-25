@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 24 May 2012
+! Last modified: 25 May 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -141,6 +141,7 @@
 ||longtailvideo.com^*/ova/ova-jw.swf
 ||media.zie.nl/e/?v=*&ad=false$subdocument,domain=nubijlage.nl
 ||mijnafbeeldingen.net^*/banners/
+||mijnautobedrijf.nl/nieuwsbanner/$~stylesheet
 ||mobqo.nl^*/banner
 ||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
@@ -511,6 +512,7 @@ allradio.nl##.adv
 androidplanet.nl##.ad
 at5.nl##.banner
 at5.nl##.banner-300-100
+autohunsel.nl##table[style="WIDTH: 144px; height: 948px"]
 autojunk.nl##a[onclick*="/outgoing/"]
 automatiseringgids.nl##.bannercontainer
 bbb-carrierebeurs.nl##.bannergroup
@@ -699,4 +701,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 681
+! Aantal filters: 683
