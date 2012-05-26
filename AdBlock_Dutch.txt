@@ -310,6 +310,7 @@
 ||linex-be-nl.be/banner*.gif
 ||linkstartje.be/banners/
 ||localfm.nl/images/assets/banner-
+||losseveter.nl^*/saucony_kinvara_
 ||maffiawars.nl/top.php?$subdocument
 ||marktplaats.com/css/adminis-min.css
 ||media*.biertijd.com/galleries/*/banners/
@@ -469,4 +470,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 453
+! Aantal filters: 454
