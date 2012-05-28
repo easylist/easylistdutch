@@ -636,6 +636,7 @@ pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
+retecool.com###goldmemberad
 rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner
@@ -706,4 +707,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 688
+! Aantal filters: 689
