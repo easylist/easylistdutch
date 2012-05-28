@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 26 May 2012
+! Last modified: 28 May 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -177,6 +177,7 @@
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
 ||uu.nl/proton/*/akzonobel_masters_
+||vegadates.com^*468x60wb7x.gif
 ||versio.nl/banners/
 ||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|radioveronica.nl|skyradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
@@ -470,4 +471,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 454
+! Aantal filters: 455
