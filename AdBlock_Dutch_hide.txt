@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 28 May 2012
+! Last modified: 29 May 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -542,6 +542,7 @@ dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
 ed.nl##.banner
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
+elkspel.nl##.banner
 f1today.nl###fanfashion
 fcupdate.nl##.advert
 filmtotaal.nl###header_banner_area
@@ -707,4 +708,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 689
+! Aantal filters: 690
