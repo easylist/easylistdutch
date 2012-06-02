@@ -623,6 +623,8 @@ nickelodeon.nl###leaderboard_container
 nieuws.nl##.lokaal_banner_right
 nieuws.nl##span[onclick^="banner_clicked('"]
 nl.msn.com###dating
+noordhollandsdagblad.nl##.fullSizeBanner
+noordhollandsdagblad.nl##.textLinksPlus
 nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##.ad
@@ -713,4 +715,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 695
+! Aantal filters: 697
