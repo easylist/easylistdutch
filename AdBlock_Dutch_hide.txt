@@ -302,6 +302,7 @@
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||l1.nl/mmbase/*banner
+||landbouwagenda.nl/include/filters/banners/
 ||landenportal.nl/banners/
 ||lcd-info.nl/images/stories/banners/
 ||leerlingen.com/content_images/*_banner.jpg
@@ -585,6 +586,9 @@ kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="n
 kopen.marktplaats.nl##div[onclick*="AdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
 l1.nl##.banner1
+landbouwagenda.nl###banner
+landbouwagenda.nl###leftBottom > div > a[target="_blank"]
+landbouwagenda.nl###rightBottom > div > a[target="_blank"]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 leukstespel.nl##a[target="_blank"] > img
 livep2000.nl###tekstlinkrow
@@ -709,4 +713,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 691
+! Aantal filters: 695

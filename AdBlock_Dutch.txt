@@ -302,6 +302,7 @@
 ||kinderwereld.nl/banners/
 ||klimaatinfo.nl/images/banner.gif
 ||l1.nl/mmbase/*banner
+||landbouwagenda.nl/include/filters/banners/
 ||landenportal.nl/banners/
 ||lcd-info.nl/images/stories/banners/
 ||leerlingen.com/content_images/*_banner.jpg
@@ -471,4 +472,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 455
+! Aantal filters: 456
