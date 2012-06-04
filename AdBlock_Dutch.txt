@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 2 Jun 2012
+! Last modified: 4 Jun 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -179,7 +179,7 @@
 ||uu.nl/proton/*/akzonobel_masters_
 ||vegadates.com^*468x60wb7x.gif
 ||versio.nl/banners/
-||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|radioveronica.nl|skyradio.nl|zuka.nl
+||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|skyradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||wegenerweb.nl/sponsors/
@@ -429,11 +429,13 @@
 !--------Uitzonderingen (derden)--------!
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
 @@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
-@@||admatcher.videostrip.com^$object-subrequest,domain=herhaling.nl
+@@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|radioveronica.nl
+@@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|radioveronica.nl
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
 @@||ads.spilgames.com/vendor/flowplayer/flowplayer$object,script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
+@@||cdn.eyewonder.com/*/video/$object-subrequest,domain=radioveronica.nl
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||data.panachetech.com/$object-subrequest
 @@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
@@ -443,6 +445,8 @@
 @@||fokzine.net/templates/*/forum_min.js$domain=fok.nl
 @@||ib.adnxs.com/ttj?$script,domain=girlsgogames.nl
 @@||images.marktnet.eu/adimg/
+@@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
+@@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
 @@||pubads.g.doubleclick.net/gampad/ads?$domain=beta.flabber.nl|jaggle.nl
@@ -472,4 +476,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 456
+! Aantal filters: 460
