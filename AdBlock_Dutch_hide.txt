@@ -157,6 +157,7 @@
 ||promootjesite.nl/banex/
 ||recreatief.nl/kerstarrangementen.gif
 ||relatieplanet.be/2linkbe/iframesearch.asp
+||resources.greau.nl/resources/
 ||s69.nl/banners/
 ||sbsnet.nl/sl3/cfg/?*&t=ads&
 ||schakelingenonline.nl/algemeen/elektuur.gif
@@ -182,6 +183,7 @@
 ||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|skyradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
+||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
 ||willie.nl/promotools/
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
@@ -720,4 +722,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 702
+! Aantal filters: 704
