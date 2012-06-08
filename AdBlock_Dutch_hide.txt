@@ -292,7 +292,6 @@
 ||images.nickelodeon.nl/ad_
 ||internetbode.nl/banner
 ||internetbode.nl/images/*_banner.gif
-||j-apps.wegenerweb.nl/banners/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
@@ -724,4 +723,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 706
+! Aantal filters: 705

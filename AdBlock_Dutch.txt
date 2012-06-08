@@ -292,7 +292,6 @@
 ||images.nickelodeon.nl/ad_
 ||internetbode.nl/banner
 ||internetbode.nl/images/*_banner.gif
-||j-apps.wegenerweb.nl/banners/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
@@ -479,4 +478,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 463
+! Aantal filters: 462
