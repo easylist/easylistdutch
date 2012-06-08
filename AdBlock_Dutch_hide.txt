@@ -163,6 +163,7 @@
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||search-result.com^*/klokad2.js
 ||softsign.be/banners/
+||static-voetbalzone.nl/images/adfactor/
 ||static-voetbalzone.nl/images/banners/
 ||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
@@ -705,6 +706,7 @@ vmma.be###syndicatedPlayer_staybehind
 voetbalzone.nl##.uniClick
 voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
 voetbalzone.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?bannerid="]
+voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
 vrouwonline.nl###ad
 waarbenjij.nu###spanEbookersContainer
@@ -722,4 +724,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 704
+! Aantal filters: 706

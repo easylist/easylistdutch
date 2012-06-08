@@ -163,6 +163,7 @@
 ||schakelingenonline.nl/algemeen/elektuur.gif
 ||search-result.com^*/klokad2.js
 ||softsign.be/banners/
+||static-voetbalzone.nl/images/adfactor/
 ||static-voetbalzone.nl/images/banners/
 ||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
@@ -478,4 +479,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 462
+! Aantal filters: 463
