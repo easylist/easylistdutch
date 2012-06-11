@@ -629,6 +629,7 @@ nickelodeon.nl###leaderboard_container
 nieuws.nl##.lokaal_banner_right
 nieuws.nl##span[onclick^="banner_clicked('"]
 nl.msn.com###dating
+nl.msn.com###gesponsorde
 noordhollandsdagblad.nl##.fullSizeBanner
 noordhollandsdagblad.nl##.textLinksPlus
 nos.nl###banner
@@ -724,4 +725,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 706
+! Aantal filters: 707
