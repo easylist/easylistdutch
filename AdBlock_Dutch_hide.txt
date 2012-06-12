@@ -406,6 +406,7 @@
 ||vdab.be/indekijker/
 ||verenigingautovandezaak.nl/img/banners/
 ||vi.nl/files/commercie/4buttons/
+||vi.nl/files/commercie/takeover/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
 ||virusalert.nl/img/banners/
@@ -726,4 +727,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 708
+! Aantal filters: 709
