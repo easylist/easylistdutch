@@ -587,6 +587,7 @@ infonu.nl##.banner250
 infotalia.com###flashcontain
 ipadclub.nl##.ad
 iphoneclub.nl##.ad
+israeltoday.nl###add-sidebar-default
 joubuis.nl##.banner468x60
 kieskeurig.nl###rightBanner
 kijkshop.nl##.rechterkolom-banner
@@ -729,4 +730,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 711
+! Aantal filters: 712
