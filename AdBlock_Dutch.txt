@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 17 Jun 2012
+! Last modified: 18 Jun 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -364,6 +364,7 @@
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
 ||sexverhalen.com/banners/
+||soccernews.nl/templates/javascript/front/facebox.js
 ||sochicken.nl/images/*_banner.jpg
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
@@ -482,4 +483,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 466
+! Aantal filters: 467
