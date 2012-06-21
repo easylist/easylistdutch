@@ -721,6 +721,7 @@ waarbenjij.nu###spanEbookersContainer
 weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
+welingelichtekringen.nl##.artblok:nth-child(-2n+6)
 wetenschapsforum.nl##.bannercontainer-carrousel
 wetenschapsforum.nl##.top_banner
 wiebetaaltwat.nl###banner-panel-right
@@ -733,4 +734,4 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 715
+! Aantal filters: 716
