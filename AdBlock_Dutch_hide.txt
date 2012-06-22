@@ -736,4 +736,5 @@ z24.nl##.teaser
 zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
-! Aantal filters: 718
+zoover.nl##.header-banner
+! Aantal filters: 719
