@@ -536,7 +536,9 @@ automatiseringgids.nl##.bannercontainer
 bbb-carrierebeurs.nl##.bannergroup
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
 bet.nl##a[href^="http://vergelijkdata.com/"]
+biertijd.com###TopBanner
 biertijd.com##.advertorialtitle ~ *
+biertijd.com##.blogrollAanraders
 binaries4all.nl###gright
 blog.nl##.ADV
 blog.nl##.widget[id^="text-"]
@@ -738,4 +740,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 720
+! Aantal filters: 722
