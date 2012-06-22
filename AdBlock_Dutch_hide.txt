@@ -192,6 +192,7 @@
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xlshosting.net/wp-content/uploads/idwbanner.png
 ||zideo.nl/player/plugins/ova/ova.swf
+||zimmo.be/api2/ticker_h.php?
 ||zoomin.tv/decagonhandler/.adm?
 ||zoomin.tv/uploaded/banners/
 !--------Specifieke blokkeerregels--------!
@@ -737,4 +738,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 719
+! Aantal filters: 720

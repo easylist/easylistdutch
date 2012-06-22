@@ -192,6 +192,7 @@
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||xlshosting.net/wp-content/uploads/idwbanner.png
 ||zideo.nl/player/plugins/ova/ova.swf
+||zimmo.be/api2/ticker_h.php?
 ||zoomin.tv/decagonhandler/.adm?
 ||zoomin.tv/uploaded/banners/
 !--------Specifieke blokkeerregels--------!
@@ -485,4 +486,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 469
+! Aantal filters: 470
