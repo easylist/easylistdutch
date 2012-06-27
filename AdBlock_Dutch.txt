@@ -9,15 +9,15 @@
 ! Rapporteer gevonden advertenties of fouten hier:
 ! https://code.google.com/p/dutchadblockfilters/issues/list
 !--------Algemene blokkeerregels--------!
-/adbron.aspx?
+/adbron.
 /adtwee/*
 /adv_tekstlinks.
 /adverteerders/*
-/advertentie.php?
+/advertentie.
 /advertentie/*
 /advertentie2/*
 /advertenties/*
-/bannerlookup.asp?
+/bannerlookup.
 /big_reclames/*
 /nmc/adv/*
 /reclame-extra.
