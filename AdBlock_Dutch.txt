@@ -28,7 +28,7 @@
 /scripts/edoris/shared/*$object
 /small_reclames/*
 !--------Advertentieservers (derden)--------!
-||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be
+||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
@@ -93,6 +93,7 @@
 ||webvertising-img.bencom.net^
 ||widget.pixspree.com^$third-party
 !--------Advertentieservers--------!
+||adsdelivery.l1.nl^
 ||advertentie.dichtbij.nl^
 ||banners.helpmij.nl^
 ||banners.toeto.com^
@@ -485,4 +486,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 469
+! Aantal filters: 470
