@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 22 Jun 2012
+! Last modified: 28 Jun 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -72,7 +72,6 @@
 ||pics.obedo.nl^
 ||privatecams.nl^$third-party
 ||promo.hollandcash.nl^
-||promo1.webcams.nl^
 ||promotie.gamecoll.com^
 ||promotools*.sexdatingcash.nl^$third-party
 ||promotools.islive.nl^
@@ -740,4 +739,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 722
+! Aantal filters: 721
