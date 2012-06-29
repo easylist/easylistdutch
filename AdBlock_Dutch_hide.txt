@@ -547,6 +547,8 @@ bnr.nl##.commercialLinks
 boekmeter.nl##.sponsored
 bokt.be##.PopupDiv
 bokt.be##.PopupScreen
+buienradar.be###banner-a
+buienradar.be###banner-b
 checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
@@ -741,4 +743,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 723
+! Aantal filters: 725
