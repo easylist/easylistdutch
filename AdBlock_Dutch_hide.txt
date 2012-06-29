@@ -65,7 +65,6 @@
 ||netmng.com^$third-party
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
-||ox-d.hdcmedia.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
 ||partnerwebsites.financereview.nl^$third-party
 ||partnerwebsites.mistermedia.nl^$third-party
@@ -743,4 +742,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 725
+! Aantal filters: 724
