@@ -197,6 +197,8 @@
 !--------Specifieke blokkeerregels--------!
 ||112groningen.nl/120-120
 ||112groningen.nl/autohuis.swf
+||123beoordeling.nl/images/top5_
+||123beoordeling.nl^*/banner
 ||123video.nl/alternate
 ||123video.nl/img/banners/
 ||2link.be^*/dochterbanner.php?
@@ -751,4 +753,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 733
+! Aantal filters: 735
