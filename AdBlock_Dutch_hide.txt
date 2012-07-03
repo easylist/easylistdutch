@@ -512,6 +512,7 @@
 ##.aw_url_admarkt_bottom
 ##.banner_advertentie_footer
 ##.bericht_adv1
+##.bovenadvertentiediv
 ##.content-rechts-ad
 ~computeridee.nl##.reclame
 ##.reclameIndex
@@ -662,6 +663,9 @@ onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
+pen.nl###kolomlinksdiv > a[target="_blank"]
+pen.nl###kolomlinksdiv > a[target="_self"]
+pen.nl###kolomrechtsdiv
 pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
 pollennieuws.nl##img[width="575"][height="63"]
@@ -744,4 +748,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 726
+! Aantal filters: 730
