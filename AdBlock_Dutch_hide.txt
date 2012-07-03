@@ -698,6 +698,7 @@ telegraaf.nl###vsl_banner
 telegraaf.nl##.addiv > a[target="_new"]
 toeto.com##.banner
 top40.nl##.left-banner
+tvgids.nl##.ad
 tvgids.nl##.banner-custom
 tvgids.nl##.banner-rectangle
 tvgids.nl##.banner-skyscraper
@@ -749,4 +750,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 731
+! Aantal filters: 732
