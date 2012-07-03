@@ -348,6 +348,7 @@
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
 ||onzetaal.nl/banners/
+||optimalegezondheid.com/wp-content/plugins/mowpop/
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pdd-nos.nl/footer.html
@@ -487,4 +488,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 471
+! Aantal filters: 472

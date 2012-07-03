@@ -348,6 +348,7 @@
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
 ||onzetaal.nl/banners/
+||optimalegezondheid.com/wp-content/plugins/mowpop/
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pdd-nos.nl/footer.html
@@ -750,4 +751,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 732
+! Aantal filters: 733
