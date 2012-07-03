@@ -668,6 +668,7 @@ pen.nl###kolomlinksdiv > a[target="_self"]
 pen.nl###kolomrechtsdiv
 pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
+pollennieuws.nl##img[width="543"][height="86"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
 retecool.com###goldmemberad
@@ -748,4 +749,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 730
+! Aantal filters: 731
