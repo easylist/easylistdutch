@@ -260,7 +260,6 @@
 ||eetlijst.nl/banner_
 ||eigenstart.nl/modules/banners/
 ||elektronicaforum.nl/goedkope-leds-buy.gif
-||endless.nl/banner/
 ||eurobellen.nl/belspel/?pid=
 ||examen.nl/banners/
 ||farmdate.nl/banner/
@@ -755,4 +754,4 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 737
+! Aantal filters: 736
