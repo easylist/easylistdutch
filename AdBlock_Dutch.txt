@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 4 Jul 2012
+! Last modified: 7 Jul 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -59,6 +59,7 @@
 ||logolinks.reedbusiness.nl^$third-party
 ||lustcash.nl^$third-party
 ||maakmedia.nl^$third-party
+||mbs.midhold.nl^$third-party
 ||mbuyu.nl^$third-party,domain=~m4n.nl
 ||mm1x.nl^$third-party
 ||netdirect.nl^$third-party
@@ -489,4 +490,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 473
+! Aantal filters: 474
