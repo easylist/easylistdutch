@@ -514,6 +514,7 @@
 ~drenthemobiel.nl,~flevolandmobiel.nl,~gelderlandmobiel.nl,~groningenmobiel.nl,~limburgmobiel.nl,~marktplaza.nl,~nederlandmobiel.nl,~noord-brabantmobiel.nl,~noord-hollandmobiel.nl,~overijsselmobiel.nl,~utrechtmobiel.nl,~zeelandmobiel.nl,~zuid-hollandmobiel.nl##.advertentie
 ~zeelandnet.nl##.advertenties
 ##.aw_url_admarkt_bottom
+##.banner_advert6blok
 ##.banner_advertentie_footer
 ##.bericht_adv1
 ##.bovenadvertentiediv
@@ -690,6 +691,7 @@ scholieren.com###top
 smulweb.nl##.winestein
 spele.nl###adClose
 spele.nl###game_ban_2
+speurders.nl###rectbanner
 speurders.nl###rectbanner_detail
 startbewijs.nl##.banner
 startkabel.nl##.banners
@@ -773,4 +775,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 754
+! Aantal filters: 756
