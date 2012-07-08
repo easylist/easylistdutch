@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 8 Jul 2012
+! Last modified: 9 Jul 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -756,4 +756,20 @@ zappsite.nl##.banner
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
-! Aantal filters: 738
+!--------Uitzonderingen (verbergregels)--------!
+amonis.be#@#.text-ad
+autoroden.nl,henkheikamp.nl#@##ad_wrap
+autoroden.nl,henkheikamp.nl#@#.ad_background
+autotekoop.nl#@#.advert-title
+comedycentral.nl#@##bannerad
+demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
+jazznieuws.dds.nl#@##adBox
+jazznieuws.dds.nl#@##adbox
+kinderspelletjes.nl#@##adframe:not(frameset)
+lekkerflesjewijn.nl,lektuinmaterialen.nl#@#.ad-container
+marktplaats.nl#@#.adSummary
+speurders.nl#@#.ad_header
+telegraaf.nl#@#.addiv
+telegraaf.nl#@#.imgad
+zuka.nl#@#.advtitle
+! Aantal filters: 753
