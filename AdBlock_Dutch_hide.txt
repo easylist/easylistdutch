@@ -104,6 +104,7 @@
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ||109.70.1.61/bannersystem/
+||247teencash.net/banner/
 ||337.com^*/zhuguan1.html?
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||antares.fm/banners/
@@ -135,6 +136,7 @@
 ||images2-telegraaf.nl/multimedia/archive/*/scrollbanner
 ||infopagina.nl/startpagina/banner/
 ||jarasoft.org/images/banners/
+||just-nude.com/images/ban_
 ||koopon.nl/banners/
 ||laagstehypotheekofferte.nl/widget/*/
 ||lauwebut.nl/webcams.php?
@@ -171,6 +173,7 @@
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
 ||sunjets.be/banners/
+||thaigirltia.com/banners/
 ||tienertube.nl/banners/
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
@@ -690,6 +693,7 @@ rtvoost.nl##.bannerLink[href^="http://"]
 rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 scholieren.com###top
+small-breasted-teens.com##a[href*="refer.ccbill.com/cgi-bin/clicks.cgi?"]
 smulweb.nl##.winestein
 spele.nl###adClose
 spele.nl###game_ban_2
@@ -777,4 +781,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 758
+! Aantal filters: 762
