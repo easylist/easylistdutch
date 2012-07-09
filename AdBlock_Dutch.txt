@@ -104,7 +104,6 @@
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ||109.70.1.61/bannersystem/
-||247teencash.net/banner/
 ||337.com^*/zhuguan1.html?
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||antares.fm/banners/
@@ -136,7 +135,6 @@
 ||images2-telegraaf.nl/multimedia/archive/*/scrollbanner
 ||infopagina.nl/startpagina/banner/
 ||jarasoft.org/images/banners/
-||just-nude.com/images/ban_
 ||koopon.nl/banners/
 ||laagstehypotheekofferte.nl/widget/*/
 ||lauwebut.nl/webcams.php?
@@ -173,7 +171,6 @@
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
 ||sunjets.be/banners/
-||thaigirltia.com/banners/
 ||tienertube.nl/banners/
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
@@ -495,4 +492,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 479
+! Aantal filters: 476
