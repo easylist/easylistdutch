@@ -434,6 +434,7 @@
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||xmissymedia.com/galleries/*/banners/
+||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
 ||z24.nl^*/ads.css
 ||zideo.nl/scripts/banner/
@@ -777,4 +778,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 758
+! Aantal filters: 759
