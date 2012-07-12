@@ -349,6 +349,7 @@
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||omroep.nl/b/player/banner/
 ||omroepflevoland.nl/sitefiles/banners/
+||ondertitel.com/popup.js
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
@@ -495,4 +496,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 479
+! Aantal filters: 480

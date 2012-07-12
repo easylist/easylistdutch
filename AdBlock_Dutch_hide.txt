@@ -349,6 +349,7 @@
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||omroep.nl/b/player/banner/
 ||omroepflevoland.nl/sitefiles/banners/
+||ondertitel.com/popup.js
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
@@ -780,4 +781,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 761
+! Aantal filters: 762
