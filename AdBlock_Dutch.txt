@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 10 Jul 2012
+! Last modified: 12 Jul 2012
 ! Expires: 7 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -31,6 +31,7 @@
 ||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
+||affiliatepartners.com^$third-party
 ||asp.unitedconsumers.com^$third-party
 ||autotekoop.nl^$third-party
 ||banners.vip.nl^$third-party
@@ -398,6 +399,7 @@
 ||stemwijzer.nl^*/images/*/islabanner.swf
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
+||subtitlesnl.com/popup.js
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
 ||tastelikepizza.com/media/*-banner.swf
@@ -493,4 +495,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 477
+! Aantal filters: 479
