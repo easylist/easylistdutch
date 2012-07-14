@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 13 Jul 2012
+! Last modified: 14 Jul 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -750,6 +750,7 @@ voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bann
 vrouwonline.nl###ad
 waarbenjij.nu###spanEbookersContainer
 weer.nl##.one_mega_big_row_html_teaser
+weeronline.nl###suppliersContainer
 weeronline.nl##.banner + .specialBlockDiv
 weeronline.nl##.specialBlockSmall
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
@@ -782,4 +783,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 763
+! Aantal filters: 764
