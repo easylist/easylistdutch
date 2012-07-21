@@ -771,8 +771,8 @@ zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
 amonis.be#@#.text-ad
-autoroden.nl,henkheikamp.nl#@##ad_wrap
-autoroden.nl,henkheikamp.nl#@#.ad_background
+autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
+autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
 autotekoop.nl#@#.advert-title
 comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
