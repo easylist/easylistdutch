@@ -663,6 +663,7 @@ nl.msn.com###dating
 nl.msn.com###gesponsorde
 noordhollandsdagblad.nl##.fullSizeBanner
 noordhollandsdagblad.nl##.textLinksPlus
+noordhollandsdagblad.nl##.x728x222.headerRow
 nos.nl###banner
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 nu.nl##.ad
@@ -784,4 +785,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 765
+! Aantal filters: 766
