@@ -222,6 +222,7 @@
 ||allebedrijveninnederland.nl/ad/
 ||amerika.nl^*/banners/
 ||anwb.nl/binaries/swf/banners/
+||arrow.nl/banner/
 ||at5.nl/uploads/$image
 ||autoedizione.nl/wp-content/uploads/*/ae-sponsor
 ||automatiseringgids.nl^*/marketing/blokje_
@@ -786,4 +787,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 767
+! Aantal filters: 768
