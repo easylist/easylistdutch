@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 21 Jul 2012
+! Last modified: 24 Jul 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -693,6 +693,7 @@ rijnmond.nl##.full_banner
 rijnmond.nl##.half_banner
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 rtl.nl##.extra_info_banner_container
+rtl.nl##.player-companion
 rtvoost.nl##.bannerLink[href^="http://"]
 rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
@@ -785,4 +786,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 766
+! Aantal filters: 767
