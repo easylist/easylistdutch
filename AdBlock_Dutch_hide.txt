@@ -571,6 +571,7 @@ checkcams.com##.mfoot
 christelijkvakantieplein.nl###hoofdsponsors
 cip.nl###banners_zijkant
 deloads.nl###leaderboard
+dewereldmorgen.be##.ad
 dichtbij.nl##.widgetbanner
 digitallife.nl###partner_block
 dumpert.nl##.promo
@@ -788,4 +789,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 769
+! Aantal filters: 770
