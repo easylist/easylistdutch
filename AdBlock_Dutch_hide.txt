@@ -580,6 +580,7 @@ ed.nl##.banner
 eindexamen.nu,eindexamens.nu###leaderboard
 eindexamen.nu,eindexamens.nu###mrectangle
 elkspel.nl##.banner
+express.be##.banner
 f1today.nl###fanfashion
 fcupdate.nl##.advert
 filmtotaal.nl###header_banner_area
@@ -789,4 +790,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 770
+! Aantal filters: 771
