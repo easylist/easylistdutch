@@ -385,7 +385,7 @@
 ||speedtest.nl/images/banner/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
-||spelletjesbox.nl/images/banner_
+||spelletjesbox.nl/images/banner
 ||spelpunt.nl/scripts/delivery/gpspcjs.php?
 ||speurders.nl^*doubleclick.net/adj/
 ||speursex.nl/images/banners/
