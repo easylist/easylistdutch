@@ -155,6 +155,7 @@
 ||nudeal.nl/static/swf/banner_
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
+||paypro.nl/payproads/
 ||pokernet.nl/images/banners/
 ||prepaidhosted.nl/images/banners/
 ||privespot.nl/img/banners/
@@ -796,4 +797,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 777
+! Aantal filters: 778
