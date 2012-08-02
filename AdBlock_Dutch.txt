@@ -150,6 +150,7 @@
 ||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
+||newkit.info^*/banner
 ||nieuws-2.nl/lokaal/banner/
 ||nieuws-3.nl^*/images/banner_
 ||nudeal.nl/static/swf/banner_
@@ -505,4 +506,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 489
+! Aantal filters: 490

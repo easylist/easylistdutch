@@ -150,6 +150,7 @@
 ||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
+||newkit.info^*/banner
 ||nieuws-2.nl/lokaal/banner/
 ||nieuws-3.nl^*/images/banner_
 ||nudeal.nl/static/swf/banner_
@@ -797,4 +798,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 778
+! Aantal filters: 779
