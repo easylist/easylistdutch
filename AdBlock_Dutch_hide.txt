@@ -118,6 +118,7 @@
 ||doubleclick.net/pfadx/vara.homepage.nl/$object-subrequest
 ||dutchleader.nl/php/banex/$third-party
 ||dutchleader.nl/php/popex/
+||ecoweb.pro/4ucampus/express/
 ||flirtfair.de^*/dppop.js
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
@@ -264,7 +265,6 @@
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
-||ecoweb.pro/4ucampus/express/
 ||eenhuiszoeken.nl/banner/
 ||eetlijst.nl/banner_
 ||eigenstart.nl/modules/banners/
