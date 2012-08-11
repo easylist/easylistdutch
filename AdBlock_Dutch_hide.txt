@@ -452,6 +452,7 @@
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/video/590x332_
 !--------Popups (derden)--------!
+||nuvreemdgaan.nl^$image,~image,popup,third-party
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !--------Uitzonderingen (derden)--------!
 @@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
@@ -801,4 +802,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 782
+! Aantal filters: 783
