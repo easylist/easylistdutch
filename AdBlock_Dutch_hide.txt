@@ -119,6 +119,7 @@
 ||dutchleader.nl/php/banex/$third-party
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
+||enjoy.be/promo/banner/
 ||flirtfair.de^*/dppop.js
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
@@ -802,4 +803,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 783
+! Aantal filters: 784

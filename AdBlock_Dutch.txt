@@ -119,6 +119,7 @@
 ||dutchleader.nl/php/banex/$third-party
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
+||enjoy.be/promo/banner/
 ||flirtfair.de^*/dppop.js
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
@@ -508,4 +509,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 492
+! Aantal filters: 493
