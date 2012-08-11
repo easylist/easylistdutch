@@ -436,6 +436,7 @@
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
+||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
@@ -510,4 +511,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 494
+! Aantal filters: 495

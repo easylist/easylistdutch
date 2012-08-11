@@ -436,6 +436,7 @@
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
+||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
@@ -772,6 +773,7 @@ voetbalzone.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?bannerid="
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
 vrouwonline.nl###ad
+vt4.be##.adl_medium_rectangle
 waarbenjij.nu###spanEbookersContainer
 weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl###suppliersContainer
@@ -807,4 +809,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 788
+! Aantal filters: 790
