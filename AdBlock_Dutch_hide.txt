@@ -537,6 +537,7 @@
 ##.banner_advertentie_footer
 ##.bericht_adv1
 ##.bovenadvertentiediv
+##.category-advertentie
 ##.content-rechts-ad
 ##.justLease_ad
 ~computeridee.nl##.reclame
@@ -806,4 +807,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 787
+! Aantal filters: 788
