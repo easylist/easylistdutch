@@ -375,6 +375,8 @@
 ||promootjesite.nl/popups/
 ||psv.nl/web/banner/
 ||quotenet.nl/images/banners/
+||racesport.nl^*/flash/shoptk.swf
+||racesport.nl^*/ibanner/
 ||red.nl/images/banner_
 ||rolhockey.be/sponsoring/
 ||rondomvoetbal.nl/images/uploads/frontpage_banners/
@@ -811,4 +813,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 792
+! Aantal filters: 794
