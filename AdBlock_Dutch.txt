@@ -146,6 +146,7 @@
 ||longtailvideo.com^*/ova/ova-jw.swf
 ||maffiagame.nl/banner$third-party
 ||media.zie.nl/e/?v=*&ad=false$subdocument,domain=nubijlage.nl
+||members.home.nl/ajaxf-side/banners/
 ||mijnafbeeldingen.net^*/banners/
 ||mijnautobedrijf.nl/nieuwsbanner/$~stylesheet
 ||mobqo.nl^*/banner
@@ -224,6 +225,7 @@
 ||agf.nl/nieuws/swf/groot3.swf
 ||agf.nl/nieuws/swf/jvdo_
 ||agfservice.nl^*/banner-468.gif
+||ajaxf-side.nl/banners/
 ||allebedrijveninnederland.nl/ad/
 ||amerika.nl^*/banners/
 ||anwb.nl/binaries/swf/banners/
@@ -511,4 +513,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 495
+! Aantal filters: 497
