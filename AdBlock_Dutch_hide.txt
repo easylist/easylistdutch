@@ -504,6 +504,8 @@
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||manners.nl/wp-content/uploads/*-300x250.$image
 @@||milkinc.be/ad.php$subdocument
+@@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
+@@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/gen/i-ads.js
@@ -814,4 +816,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 795
+! Aantal filters: 797
