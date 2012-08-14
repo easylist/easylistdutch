@@ -296,6 +296,7 @@
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
+||hdtvnieuws.nl/hdtv/wp-content/plugins/no-adblock/
 ||hetgoedeleven.com/portals/*/banners/
 ||hetnieuwerijden.nl/content/banners/
 ||historiek.net/images/banners/
@@ -817,4 +818,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 798
+! Aantal filters: 799
