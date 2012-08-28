@@ -295,6 +295,7 @@
 ||goedbegin.nl/linkex/?
 ||goldcash.nl/banners/
 ||gpupdate.net/if/advertsub/
+||gratispuzzelen.nl^*-banner-255.swf
 ||hardwarewoensdag.tv^*/hww_bg_
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
@@ -828,4 +829,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 809
+! Aantal filters: 810
