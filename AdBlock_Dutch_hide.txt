@@ -817,8 +817,9 @@ zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
 amonis.be#@#.text-ad
-autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
-autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
+autodealers.nl#@#.ad-btn
+autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
+autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
 autotekoop.nl#@#.advert-title
 comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
@@ -831,4 +832,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 812
+! Aantal filters: 813
