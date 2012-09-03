@@ -347,6 +347,7 @@
 ||marktplaats.com/css/adminis-min.css
 ||media*.biertijd.com/galleries/*/banners/
 ||media.rtl.nl/web/components/service/streamspots/$object-subrequest
+||meteovista.be/go/banner/
 ||metliefs.nl/banner_
 ||mijnalbum.nl/afbeeldingen/overlays/
 ||mijnbericht.nl/gfx/esmart.swf
@@ -833,4 +834,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 814
+! Aantal filters: 815
