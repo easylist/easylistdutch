@@ -744,6 +744,7 @@ scholieren.com###top
 smulweb.nl##.winestein
 spele.nl###adClose
 spele.nl###game_ban_2
+spelle.nl###banner_side2
 speurders.nl###rectbanner
 speurders.nl###rectbanner_detail
 startbewijs.nl##.banner
@@ -835,4 +836,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 816
+! Aantal filters: 817
