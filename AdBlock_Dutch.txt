@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 3 Sep 2012
+! Last modified: 4 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -480,6 +480,7 @@
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
 @@||ads.spilgames.com/vendor/flowplayer/flowplayer$object,script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||arval.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?$image,domain=arval.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
 @@||cdn.eyewonder.com/*/video/$object-subrequest,domain=radioveronica.nl
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
@@ -528,4 +529,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 512
+! Aantal filters: 513
