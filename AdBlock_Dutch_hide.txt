@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 4 Sep 2012
+! Last modified: 5 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -166,6 +166,7 @@
 ||prepaidhosted.nl/images/banners/
 ||privespot.nl/img/banners/
 ||promootjesite.nl/banex/
+||quality-control-centre.com/commercial/
 ||recreatief.nl/kerstarrangementen.gif
 ||relatieplanet.be/2linkbe/iframesearch.asp
 ||resources.greau.nl/resources/
@@ -203,6 +204,7 @@
 ||winkelbee.nl/banner.php$domain=marktplaats.nl
 ||x0.nl/banners/
 ||xlshosting.net/wp-content/uploads/idwbanner.png
+||xxxsmsjes.nl/banners/
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
 ||zoomin.tv/decagonhandler/.adm?
@@ -784,6 +786,7 @@ vcmw-sigma.nl###banner
 vcmw-sigma.nl##.sponsor
 vdab.be###sky
 verenigingautovandezaak.nl##.flash_banner_wrapper
+verhalenlezen.nl###headerBanner
 vinden.nl###zoektip
 vitesse.org##.banners
 vitesse.org##.center_banner
@@ -836,4 +839,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 817
+! Aantal filters: 820
