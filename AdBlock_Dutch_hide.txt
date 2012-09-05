@@ -661,6 +661,7 @@ kilroynews.net##table[width="792"]
 kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
 kopen.marktplaats.nl##div[onclick*="AdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
+kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
 l1.nl##.banner1
 landbouwagenda.nl###banner
 landbouwagenda.nl###leftBottom > div > a[target="_blank"]
@@ -839,4 +840,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 820
+! Aantal filters: 821
