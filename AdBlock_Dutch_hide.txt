@@ -380,6 +380,7 @@
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pdd-nos.nl/footer.html
+||pen.nl/sites/all/modules/curlypage/
 ||pen.nl/sites/default/files/*0x$image
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/image/slideshows/actiebanners/
@@ -841,4 +842,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 822
+! Aantal filters: 823

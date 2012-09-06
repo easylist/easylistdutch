@@ -380,6 +380,7 @@
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pdd-nos.nl/footer.html
+||pen.nl/sites/all/modules/curlypage/
 ||pen.nl/sites/default/files/*0x$image
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/image/slideshows/actiebanners/
@@ -532,4 +533,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 516
+! Aantal filters: 517
