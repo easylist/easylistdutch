@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Sep 2012
+! Last modified: 14 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -601,6 +601,7 @@ bokt.be##.PopupDiv
 bokt.be##.PopupScreen
 buienradar.be###banner-a
 buienradar.be###banner-b
+bullchat.eu###ad
 checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
@@ -843,4 +844,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 824
+! Aantal filters: 825
