@@ -382,6 +382,7 @@
 ||pdd-nos.nl/footer.html
 ||pen.nl/sites/all/modules/curlypage/
 ||pen.nl/sites/default/files/*0x$image
+||pi4raz.nl/images/banners/
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/image/slideshows/actiebanners/
 ||profina.nl/banner.php?
@@ -845,4 +846,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 826
+! Aantal filters: 827
