@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 14 Sep 2012
+! Last modified: 16 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -768,6 +768,7 @@ telegraaf.nl##.addiv > a[target="_new"]
 telegraaf.nl##table[width][border="0"][style="border:1px solid #e0e0e0;padding-left:5px;padding-right:5px;"]
 toeto.com##.banner
 top40.nl##.left-banner
+tvgids.nl###flashTeaser a[rel="external"]
 tvgids.nl###simplemodal-container
 tvgids.nl###simplemodal-overlay
 tvgids.nl##.ad
@@ -844,4 +845,4 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 825
+! Aantal filters: 826
