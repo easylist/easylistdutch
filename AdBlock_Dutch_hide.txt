@@ -835,6 +835,7 @@ zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
+! EasyList
 amonis.be#@#.text-ad
 autodealers.nl#@#.ad-btn
 autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
@@ -851,4 +852,6 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Aantal filters: 832
+! Fanboy
+marktplaats.nl#@#.adTop
+! Aantal filters: 835
