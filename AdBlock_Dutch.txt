@@ -164,6 +164,7 @@
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
 ||paypro.nl/payproads/
+||pd5hw.eu/banners/
 ||player.videostrip.com/serve_cad.php?$domain=radioveronica.nl
 ||pokernet.nl/images/banners/
 ||prepaidhosted.nl/images/banners/
@@ -540,4 +541,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 524
+! Aantal filters: 525
