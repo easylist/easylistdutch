@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 20 Sep 2012
+! Last modified: 25 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -109,6 +109,7 @@
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||antares.fm/banners/
+||babysitster.nl/banners/
 ||bol.com/nl/upload/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
@@ -150,6 +151,7 @@
 ||members.home.nl/ajaxf-side/banners/
 ||mijnafbeeldingen.net^*/banners/
 ||mijnautobedrijf.nl/nieuwsbanner/$~stylesheet
+||mijnzusje.nl/banners/
 ||mobqo.nl^*/banner
 ||moneymiljonair.nl^*ban
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
@@ -174,13 +176,16 @@
 ||s69.nl/banners/
 ||sbsnet.nl/sl3/cfg/?*&t=ads&
 ||schakelingenonline.nl/algemeen/elektuur.gif
+||schooltieners.nl/banners/
 ||search-result.com^*/klokad2.js
+||sexamateurtjes.nl/banners/
 ||softsign.be/banners/
 ||static-voetbalzone.nl/images/adfactor/
 ||static-voetbalzone.nl/images/banners/
 ||static-voetbalzone.nl/images/unibet/
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
+||strandmeisjes.nl/banners/
 ||sunjets.be/banners/
 ||thisislive.com/promo/
 ||tienertube.nl/banners/
@@ -535,4 +540,4 @@
 @@||webads.nl^$domain=webads.nl
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_*.png|
-! Aantal filters: 519
+! Aantal filters: 524
