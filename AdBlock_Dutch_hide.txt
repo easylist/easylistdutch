@@ -847,6 +847,7 @@ telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
 ! Uitzonderingen voor Fanboy
+jazznieuws.dds.nl#@##AdBox
 marktplaats.nl#@#.adTop
 zeelandnet.nl#@##ads
-! Aantal filters: 825
+! Aantal filters: 826
