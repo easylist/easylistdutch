@@ -513,6 +513,7 @@
 @@||fotoapparatuur.nl/advertenties/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
+@@||zeelandnet.nl/prikbord/assets/js/advertentie.js
 ! Uitzonderingen voor EasyList
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
@@ -532,4 +533,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 513
+! Aantal filters: 514

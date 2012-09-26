@@ -513,6 +513,7 @@
 @@||fotoapparatuur.nl/advertenties/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
+@@||zeelandnet.nl/prikbord/assets/js/advertentie.js
 ! Uitzonderingen voor EasyList
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
@@ -847,4 +848,4 @@ telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
 ! Uitzonderingen voor Fanboy
 marktplaats.nl#@#.adTop
-! Aantal filters: 823
+! Aantal filters: 824
