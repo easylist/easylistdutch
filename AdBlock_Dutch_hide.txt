@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 25 Sep 2012
+! Last modified: 26 Sep 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -486,62 +486,52 @@
 ||nuvreemdgaan.nl^$image,~image,popup,third-party
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !--------Uitzonderingen (derden)--------!
-@@||2mdn.net^*/emptyspot_def.swf$domain=cinema.nl
-@@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
+! Uitzonderingen voor EasyList
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|radioveronica.nl
 @@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|radioveronica.nl
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
-@@||ads.spilgames.com/vendor/flowplayer/flowplayer$object,script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||arval.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?$image,domain=arval.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
 @@||cdn.eyewonder.com/*/video/$object-subrequest,domain=radioveronica.nl
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
-@@||data.panachetech.com/$object-subrequest
-@@||doubleclick.net/adj/zoover_nl/spanje;tile=$domain=zoover.nl
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||ebayrtm.com^$domain=ebay.nl
-@@||fokzine.net/templates/*/forum_min.js$domain=fok.nl
-@@||ib.adnxs.com/ttj?$script,domain=girlsgogames.nl
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
-@@||pubads.g.doubleclick.net/gampad/ads?$domain=beta.flabber.nl|jaggle.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
-@@||snmmd.nl/service/js/autoweek-nl/autoweektv/
-@@||snmmd.nl/service/js/gamer-nl-gam/$script,domain=gamer.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
 !--------Uitzonderingen--------!
 @@||2cv.nl/markt/advertenties/$image,subdocument
+@@||fotoapparatuur.nl/advertenties/
+@@||showmodeluitverkoop.nl/upload/advertentie/
+@@||sogeti.nl/advertenties/
+! Uitzonderingen voor EasyList
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
-@@||at5.nl/flash/jwplayer/player.swf?$object-subrequest
-@@||bittads.com^$domain=bittads.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||dumpert.nl^*/admatcher.doubleclick.net
-@@||fotoapparatuur.nl/advertenties/
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||manners.nl/wp-content/uploads/*-300x250.$image
-@@||milkinc.be/ad.php$subdocument
+@@||milkinc.be/ad.php|$subdocument
 @@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
 @@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||otto.nl/assets/general/images/ads2_
-@@||otto.nl/assets/ishop/gen/i-ads.js
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
 @@||schwalbeunited.nl/wp-content/uploads/*-300x250.
-@@||showmodeluitverkoop.nl/upload/advertentie/
-@@||sogeti.nl/advertenties/
-@@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-@@||viamichelin.nl^*/rentacar.js
-@@||webads.nl^$domain=webads.nl
+@@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
 @@||zomoto.nl/js/advertisement.js?
-@@||zuka.nl/images/ad_*.png|
+@@||zuka.nl/images/ad_$image
+! Uitzonderingen voor Fanboy
+@@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
 !--------Algemene verbergregels--------!
 ###adfactor-label
 ###adsense_artikel_4
@@ -838,7 +828,7 @@ zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
-! EasyList
+! Uitzonderingen voor EasyList
 amonis.be#@#.text-ad
 autodealers.nl#@#.ad-btn
 autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
@@ -855,6 +845,6 @@ speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
-! Fanboy
+! Uitzonderingen voor Fanboy
 marktplaats.nl#@#.adTop
-! Aantal filters: 838
+! Aantal filters: 823
