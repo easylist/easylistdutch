@@ -848,4 +848,5 @@ telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
 ! Uitzonderingen voor Fanboy
 marktplaats.nl#@#.adTop
-! Aantal filters: 824
+zeelandnet.nl#@##ads
+! Aantal filters: 825
