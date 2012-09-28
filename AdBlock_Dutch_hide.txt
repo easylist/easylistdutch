@@ -577,6 +577,7 @@
 9292ov.nl##.leaderboard
 9292ov.nl##.rectangle
 acom.nl###divBanner
+ajaxcafe.nl##.leaderBoard
 allradio.nl##.adv
 androidplanet.nl##.ad
 at5.nl##.banner
@@ -849,4 +850,4 @@ zuka.nl#@#.advtitle
 jazznieuws.dds.nl#@##AdBox
 marktplaats.nl#@#.adTop
 zeelandnet.nl#@##ads
-! Aantal filters: 825
+! Aantal filters: 826
