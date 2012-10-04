@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 3 Oct 2012
+! Last modified: 4 Oct 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -833,9 +833,9 @@ zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
 ! Uitzonderingen voor EasyList
 amonis.be#@#.text-ad
+autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
+autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
 autodealers.nl#@#.ad-btn
-autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
-autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
 autotekoop.nl#@#.advert-title
 comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
