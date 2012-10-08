@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 7 Oct 2012
+! Last modified: 8 Oct 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -214,7 +214,6 @@
 ||xxxsmsjes.nl/banners/
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
-||zoomin.tv/decagonhandler/.adm?
 ||zoomin.tv/uploaded/banners/
 !--------Specifieke blokkeerregels--------!
 ||112groningen.nl/120-120
@@ -642,7 +641,6 @@ gentsefeesten.be###partner-logos
 girlsgogames.nl##.categoryBanner
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 hardware.info###banner_right_bottom
-hardware.info###banner_right_top
 hardwarewoensdag.tv##.banner
 hbvl.be##.w-doubleclick
 hiphopinjesmoel.com###header_banner
@@ -855,4 +853,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 831
+! Aantal filters: 829
