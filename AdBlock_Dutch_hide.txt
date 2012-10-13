@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 12 Oct 2012
+! Last modified: 13 Oct 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -840,6 +840,11 @@ autodealers.nl#@#.ad-btn
 autotekoop.nl#@#.advert-title
 comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
+innerlijk-besef.nl#@#.ad-block
+innerlijk-besef.nl#@#.ad-button
+innerlijk-besef.nl#@#.ad-content
+innerlijk-besef.nl#@#.ad-footer
+innerlijk-besef.nl#@#.ad-header
 jazznieuws.dds.nl#@##adBox
 jazznieuws.dds.nl#@##adbox
 kinderspelletjes.nl#@##adframe:not(frameset)
@@ -850,9 +855,10 @@ telegraaf.nl#@#.addiv
 telegraaf.nl#@#.imgad
 zuka.nl#@#.advtitle
 ! Uitzonderingen voor Fanboy
+innerlijk-besef.nl#@##ad-main
 jazznieuws.dds.nl#@##AdBox
 marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 831
+! Aantal filters: 837
