@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 13 Oct 2012
+! Last modified: 14 Oct 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -642,6 +642,8 @@ gay.eu,gay.nl##.skyscraperParentBox
 gentsefeesten.be###partner-logos
 girlsgogames.nl##.categoryBanner
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
+haarlemsdagblad.nl##.fullSizeBanner
+haarlemsdagblad.nl##.x728x222.headerRow
 hardware.info###banner_right_bottom
 hardwarewoensdag.tv##.banner
 hbvl.be##.w-doubleclick
@@ -861,4 +863,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 837
+! Aantal filters: 839
