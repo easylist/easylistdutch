@@ -46,7 +46,7 @@
 ||coolconcepts.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
 ||cts.snmmd.nl^$third-party
-||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
+||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^$third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
