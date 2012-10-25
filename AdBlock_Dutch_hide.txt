@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 24 Oct 2012
+! Last modified: 25 Oct 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -378,6 +378,7 @@
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
 ||nolensplein.nl/banners/
+||nu.nl/files/peilnl/
 ||nubijlage.nl/files/nubijlage/staatsloterij_336x500.swf
 ||nuwerk.nl/groepenimages_users/*banner.png
 ||omroep.nl/b/player/banner/
@@ -874,4 +875,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 850
+! Aantal filters: 851
