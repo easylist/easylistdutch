@@ -29,6 +29,7 @@
 /small_reclames/*
 !--------Advertentieservers (derden)--------!
 ||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
+||ad-serverparc.nl^$third-party
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
 ||affiliatepartners.com^$third-party
@@ -546,4 +547,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 527
+! Aantal filters: 528
