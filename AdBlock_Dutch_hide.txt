@@ -450,6 +450,7 @@
 ||top40.nl/images/*banner
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
+||transport-online.nl/site/banners/
 ||trouw.nl^*_nvb_300x300.gif
 ||tvgids.nl/banner/
 ||tvgids.nl/lightview/interstitial/
@@ -876,4 +877,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 852
+! Aantal filters: 853
