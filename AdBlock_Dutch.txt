@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 31 Oct 2012
+! Last modified: 2 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -16,6 +16,7 @@
 /advertentie.
 /advertentie/*
 /advertentie2/*
+/advertenties.
 /advertenties/*
 /bannerlookup.
 /big_reclames/*
@@ -408,6 +409,7 @@
 ||rolhockey.be/sponsoring/
 ||rondomvoetbal.nl/images/uploads/frontpage_banners/
 ||rookmelden.nl/images/stories/banner-
+||rtv-arnhem.nl^*/fm/userfiles/banner/
 ||rtvutrecht.nl/data/img/reclame_
 ||ru.nl/web/upload/banner/bannerbanner
 ||scholieren.com/assets/images/*.jpg
@@ -547,4 +549,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 528
+! Aantal filters: 530
