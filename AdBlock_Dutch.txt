@@ -304,6 +304,7 @@
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
 ||froot.nl^*/campagnes/$script
+||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
 ||goedbegin.nl/linkex/?
@@ -550,4 +551,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 531
+! Aantal filters: 532

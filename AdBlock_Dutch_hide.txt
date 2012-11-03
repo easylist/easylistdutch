@@ -304,6 +304,7 @@
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
 ||froot.nl^*/campagnes/$script
+||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
 ||goedbegin.nl/linkex/?
@@ -883,4 +884,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 859
+! Aantal filters: 860
