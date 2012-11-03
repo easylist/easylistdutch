@@ -420,6 +420,7 @@
 ||soccernews.nl/templates/javascript/front/facebox.js
 ||sochicken.nl/images/*_banner.jpg
 ||speedtest.nl/images/banner/
+||spel.nl/vda/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
 ||spelletjes.nl/vda/
@@ -884,4 +885,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 860
+! Aantal filters: 861

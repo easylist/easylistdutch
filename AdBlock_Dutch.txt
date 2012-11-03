@@ -420,6 +420,7 @@
 ||soccernews.nl/templates/javascript/front/facebox.js
 ||sochicken.nl/images/*_banner.jpg
 ||speedtest.nl/images/banner/
+||spel.nl/vda/
 ||spele.nl/js/ad.js
 ||spelletjes.nl/cimg/promothumbnails/
 ||spelletjes.nl/vda/
@@ -551,4 +552,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 532
+! Aantal filters: 533
