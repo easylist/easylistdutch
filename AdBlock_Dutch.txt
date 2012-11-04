@@ -463,6 +463,7 @@
 ||totaalwijzer.nl/iframe-topbanner.
 ||transport-online.nl/site/banners/
 ||trouw.nl^*_nvb_300x300.gif
+||tube.nl/img/banner/
 ||tvgids.nl/banner/
 ||tvgids.nl/lightview/interstitial/
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
@@ -557,4 +558,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 538
+! Aantal filters: 539
