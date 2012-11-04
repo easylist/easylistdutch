@@ -55,6 +55,7 @@
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
 ||geoaddicted.net^$third-party
+||gratis-neuken.com^$third-party
 ||images.islive.nl^$third-party
 ||inviteonly.nl^$third-party
 ||jobat.be^$third-party
@@ -385,6 +386,7 @@
 ||nu.nl/files/peilnl/
 ||nubijlage.nl/files/nubijlage/staatsloterij_336x500.swf
 ||nuwerk.nl/groepenimages_users/*banner.png
+||omejoop.be/pop.js
 ||omroep.nl/b/player/banner/
 ||omroepflevoland.nl/sitefiles/banners/
 ||ondertitel.com/popup.js
@@ -886,4 +888,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 862
+! Aantal filters: 864
