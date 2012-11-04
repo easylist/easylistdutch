@@ -168,6 +168,7 @@
 ||nudeal.nl/static/swf/banner_
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
+||partnerclicks.nl/content/msnbanner/
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
 ||player.videostrip.com/serve_cad.php?$domain=radioveronica.nl
@@ -892,4 +893,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 868
+! Aantal filters: 869

@@ -168,6 +168,7 @@
 ||nudeal.nl/static/swf/banner_
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
+||partnerclicks.nl/content/msnbanner/
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
 ||player.videostrip.com/serve_cad.php?$domain=radioveronica.nl
@@ -558,4 +559,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 539
+! Aantal filters: 540
