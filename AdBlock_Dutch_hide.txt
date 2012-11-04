@@ -127,6 +127,7 @@
 ||ecoweb.pro/4ucampus/express/
 ||enjoy.be/promo/banner/
 ||flirtfair.de^*/dppop.js
+||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
 ||gamerabbit.com/scripts/banner.php?
@@ -456,6 +457,7 @@
 ||telegraaf.nl/static/corendon/
 ||telegraaf.nl/swf/webshop/heimweewinkel_actie_
 ||telegraaf.nl^*/templates/banner
+||tienersletjes.eu/frame1.html
 ||top40.nl/images/*banner
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
@@ -888,4 +890,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 864
+! Aantal filters: 866
