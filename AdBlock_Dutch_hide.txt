@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 4 Nov 2012
+! Last modified: 5 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -769,6 +769,7 @@ pollennieuws.nl##img[width="543"][height="86"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
 porntubexl.nl##.ads
+psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 retecool.com###goldmemberad
 rijnmond.nl###banner_c
 rijnmond.nl##.full_banner
@@ -893,4 +894,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 869
+! Aantal filters: 870
