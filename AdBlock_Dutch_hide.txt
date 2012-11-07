@@ -551,6 +551,7 @@
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
+@@||sbat.be/pages/banner.php
 @@||schwalbeunited.nl/wp-content/uploads/*-300x250.
 @@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
 @@||zomoto.nl/js/advertisement.js?
@@ -893,4 +894,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 869
+! Aantal filters: 870
