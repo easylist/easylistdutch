@@ -130,6 +130,7 @@
 ||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
+||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||honig.nl/extern/honig-commercial-videobanner-
 ||hyves-static.net^*/footerad.
@@ -766,6 +767,7 @@ pollennieuws.nl##img[width="543"][height="86"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
 porntubexl.nl##.ads
+promootjesite.nl##iframe[width="728"][height="90"] + style + script + div[id]
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 retecool.com###goldmemberad
 rijnmond.nl###banner_c
@@ -891,4 +893,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 867
+! Aantal filters: 869

@@ -130,6 +130,7 @@
 ||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
+||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||honig.nl/extern/honig-commercial-videobanner-
 ||hyves-static.net^*/footerad.
@@ -556,4 +557,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 537
+! Aantal filters: 538
