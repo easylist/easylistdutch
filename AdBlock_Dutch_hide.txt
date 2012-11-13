@@ -98,6 +98,7 @@
 ||webflitser.nl^$third-party
 ||webvertising-img.bencom.net^$third-party
 ||widget.pixspree.com^$third-party
+||www2.beekje.nl^$third-party
 !--------Advertentieservers--------!
 ||adsdelivery.l1.nl^
 ||advertentie.dichtbij.nl^
@@ -253,7 +254,6 @@
 ||automatiseringgids.nl^*/marketing/blokje_
 ||autozine.nl/promo/banner.jpg
 ||beautylab.nl/wp-content/uploads/*banner
-||beekje.nl^*/bannerindex.html
 ||berekenhet.nl^*?c=ads
 ||bestbekeken.nl/images/banners/
 ||bet.nl/banners/
