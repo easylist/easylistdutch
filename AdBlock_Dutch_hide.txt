@@ -482,6 +482,7 @@
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
+||wassenaarders.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
 ||weer.nl/fileadmin/filemounts/nederlands/commercial/
@@ -845,6 +846,7 @@ voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bann
 vrouwonline.nl###ad
 vt4.be##.adl_medium_rectangle
 waarbenjij.nu###spanEbookersContainer
+wassenaarders.nl##.bannergroup
 weer.nl##.one_mega_big_row_html_teaser
 weeronline.nl###suppliersContainer
 weeronline.nl##.banner + .specialBlockDiv
@@ -896,4 +898,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 872
+! Aantal filters: 874
