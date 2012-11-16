@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 14 Nov 2012
+! Last modified: 16 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -29,7 +29,7 @@
 /scripts/edoris/shared/*$object
 /small_reclames/*
 !--------Advertentieservers (derden)--------!
-||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
+||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||ad-serverparc.nl^$third-party
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
@@ -48,7 +48,7 @@
 ||coolconcepts.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
 ||cts.snmmd.nl^$third-party
-||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
+||doubleclick.net^$domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^$third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl

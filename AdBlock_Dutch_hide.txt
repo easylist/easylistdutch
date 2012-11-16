@@ -29,7 +29,7 @@
 /scripts/edoris/shared/*$object
 /small_reclames/*
 !--------Advertentieservers (derden)--------!
-||2mdn.net^$object-subrequest,domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
+||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||ad-serverparc.nl^$third-party
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
@@ -48,7 +48,7 @@
 ||coolconcepts.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
 ||cts.snmmd.nl^$third-party
-||doubleclick.net^$object-subrequest,domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
+||doubleclick.net^$domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tweakers.net|vi.nl|zie.nl
 ||ds1.nl^$third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
@@ -565,7 +565,7 @@
 !--------Algemene verbergregels--------!
 ###adfactor-label
 ###adsense_artikel_4
-~autodealers.nl,~speurders.nl###advertentie
+###advertentie
 ###advertentieblokjeid
 ###prog-sponsorlinks
 ###reclame_rechts
@@ -575,15 +575,15 @@
 ###sidereclame
 ###vipAdmarktBannerBlock
 ###vs_a2s_tag_fullsize
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal1_no_border
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2
-~koopjes.marktplaats.nl,~verkopen.marktplaats.nl##.ad_list_row_normal2_no_border
+##.ad_list_row_normal1
+##.ad_list_row_normal1_no_border
+##.ad_list_row_normal2
+##.ad_list_row_normal2_no_border
 ##.admarkt_bottom_list_header
 ##.admarkt_gallery_info
 ##.adstekst
-~drenthemobiel.nl,~flevolandmobiel.nl,~gelderlandmobiel.nl,~groningenmobiel.nl,~limburgmobiel.nl,~marktplaza.nl,~nederlandmobiel.nl,~noord-brabantmobiel.nl,~noord-hollandmobiel.nl,~overijsselmobiel.nl,~utrechtmobiel.nl,~zeelandmobiel.nl,~zuid-hollandmobiel.nl##.advertentie
-~zeelandnet.nl##.advertenties
+##.advertentie
+##.advertenties
 ##.aw_url_admarkt_bottom
 ##.banner_advert6blok
 ##.banner_advertentie_footer
@@ -592,7 +592,7 @@
 ##.category-advertentie
 ##.content-rechts-ad
 ##.justLease_ad
-~computeridee.nl##.reclame
+##.reclame
 ##.reclameIndex
 ##.reclamekop
 ##.reclamelogos
@@ -870,6 +870,14 @@ zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
+autodealers.nl,speurders.nl#@##advertentie
+computeridee.nl#@#.reclame
+drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
+koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
+koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1_no_border
+koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2
+koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2_no_border
+zeelandnet.nl#@#.advertenties
 ! Uitzonderingen voor EasyList
 amonis.be#@#.text-ad
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
@@ -901,4 +909,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 877
+! Aantal filters: 885
