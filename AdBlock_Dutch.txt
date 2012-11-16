@@ -468,6 +468,7 @@
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||ussproton.nl/pictures/Sponsoren/
 ||vastgoedjournaal.nl/banners/
 ||vcmw-sigma.nl/uploads/banners/
 ||vdab.be/indekijker/
@@ -562,4 +563,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 543
+! Aantal filters: 544

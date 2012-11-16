@@ -468,6 +468,7 @@
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
+||ussproton.nl/pictures/Sponsoren/
 ||vastgoedjournaal.nl/banners/
 ||vcmw-sigma.nl/uploads/banners/
 ||vdab.be/indekijker/
@@ -909,4 +910,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 885
+! Aantal filters: 886
