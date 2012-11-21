@@ -132,6 +132,7 @@
 ||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
+||fokzine.net/upload/*_BG_HiActie_
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||honig.nl/extern/honig-commercial-videobanner-
@@ -670,6 +671,7 @@ flabber.nl###site_takeover
 flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
+frontpage.fok.nl###background[title="klik"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
 gay.eu,gay.nl##.bannerTopBox
@@ -915,4 +917,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 891
+! Aantal filters: 893
