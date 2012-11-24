@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 23 Nov 2012
+! Last modified: 24 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -533,9 +533,10 @@
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.fok.nl
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=forum.fok.nl|spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
@@ -672,6 +673,7 @@ flabber.nl###site_takeover
 flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
+forum.fok.nl##div[style="float:right;margin:8px 8px 12px 12px;padding:6px; border:1px dotted #ccc;"]
 frontpage.fok.nl###background[title="klik"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
@@ -897,6 +899,7 @@ comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 digitekst.com#@#.adTitle
 digitekst.com#@#.adtitle
+forum.fok.nl#@#.adfieldbg
 innerlijk-besef.nl#@#.ad-block
 innerlijk-besef.nl#@#.ad-button
 innerlijk-besef.nl#@#.ad-content
@@ -918,4 +921,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 894
+! Aantal filters: 897
