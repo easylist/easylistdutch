@@ -92,6 +92,7 @@
 ||tel.adversitement.nl^$third-party
 ||ti.tradetracker.nl^$third-party
 ||topsiteguide.com^$third-party
+||topzorgverzekeringvergelijken.nl^$third-party
 ||verkoopmenu.nl^$third-party
 ||views.affiliate4you.nl^$third-party
 ||views.m4n.nl^$third-party
@@ -571,4 +572,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 552
+! Aantal filters: 553
