@@ -272,6 +272,7 @@
 ||brandweerspotters.nl/modules/banners/bannerimages/
 ||buienradar.nl/bannerdetails.aspx?
 ||cameranu.nl/images/banner_zoom.gif
+||camping-frankrijk.nl/Graphics/yelloh2011.swf
 ||camping-frankrijk.nl/hoofdpaginabanners.asp
 ||chatgirl.nl^*/dlf468.
 ||christelijkvakantieplein.nl^*-banner.
@@ -578,6 +579,7 @@
 ###adsense_artikel_4
 ###advertentie
 ###advertentieblokjeid
+###gesponsordelink
 ###prog-sponsorlinks
 ###reclame_rechts
 ###reclamediv
@@ -923,4 +925,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 899
+! Aantal filters: 901

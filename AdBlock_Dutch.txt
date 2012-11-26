@@ -272,6 +272,7 @@
 ||brandweerspotters.nl/modules/banners/bannerimages/
 ||buienradar.nl/bannerdetails.aspx?
 ||cameranu.nl/images/banner_zoom.gif
+||camping-frankrijk.nl/Graphics/yelloh2011.swf
 ||camping-frankrijk.nl/hoofdpaginabanners.asp
 ||chatgirl.nl^*/dlf468.
 ||christelijkvakantieplein.nl^*-banner.
@@ -573,4 +574,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 554
+! Aantal filters: 555
