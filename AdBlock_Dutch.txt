@@ -28,6 +28,7 @@
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
+/topadvertentie.
 !--------Advertentieservers (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||ad-serverparc.nl^$third-party
@@ -574,4 +575,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 555
+! Aantal filters: 556

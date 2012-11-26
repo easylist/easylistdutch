@@ -28,6 +28,7 @@
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
+/topadvertentie.
 !--------Advertentieservers (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||ad-serverparc.nl^$third-party
@@ -604,6 +605,7 @@
 ##.bovenadvertentiediv
 ##.category-advertentie
 ##.content-rechts-ad
+##.gesponsordelink
 ##.justLease_ad
 ##.reclame
 ##.reclameIndex
@@ -925,4 +927,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 901
+! Aantal filters: 903
