@@ -636,6 +636,8 @@ bbb-carrierebeurs.nl##.bannergroup
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
 belgie.fm##.banner
 bet.nl##a[href^="http://vergelijkdata.com/"]
+beursgorilla.nl###layer
+beursgorilla.nl###rectangle2
 biertijd.com###TopBanner
 biertijd.com##.advertorialtitle ~ *
 biertijd.com##.blogrollAanraders
@@ -928,4 +930,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 904
+! Aantal filters: 906
