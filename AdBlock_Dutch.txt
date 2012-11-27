@@ -30,7 +30,7 @@
 /small_reclames/*
 /topadvertentie.
 !--------Advertentieservers (derden)--------!
-||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
+||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
 ||ad-serverparc.nl^$third-party
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
