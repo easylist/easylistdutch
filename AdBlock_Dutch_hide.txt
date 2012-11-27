@@ -649,6 +649,7 @@ bokt.be##.PopupScreen
 buienradar.be###banner-a
 buienradar.be###banner-b
 bullchat.eu###ad
+camping-frankrijk.nl##.banner
 checkcams.com###acmain
 checkcams.com##.ab
 checkcams.com##.mfoot
@@ -927,4 +928,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 903
+! Aantal filters: 904
