@@ -508,6 +508,7 @@
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||wiebetaaltwat.nl/includes/mr.miller/$image,object
+||woningnetgroningen.nl^*/Images/banner/
 ||xmissymedia.com/galleries/*/banners/
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
@@ -934,4 +935,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 910
+! Aantal filters: 911
