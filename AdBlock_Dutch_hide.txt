@@ -920,6 +920,7 @@ jazznieuws.dds.nl#@##adBox
 jazznieuws.dds.nl#@##adbox
 kinderspelletjes.nl#@##adframe:not(frameset)
 lekkerflesjewijn.nl,lektuinmaterialen.nl#@#.ad-container
+losseveter.nl#@##mainAd
 marktplaats.nl#@#.adSummary
 speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
@@ -932,4 +933,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 908
+! Aantal filters: 909
