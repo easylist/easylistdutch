@@ -812,6 +812,7 @@ rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 scholieren.com###top
 smulweb.nl##.winestein
+speeleiland.nl##.game-side-banner-wrap
 spele.nl###adClose
 spele.nl###game_ban_2
 spelle.nl###banner_side2
@@ -935,4 +936,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 911
+! Aantal filters: 912
