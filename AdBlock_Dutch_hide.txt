@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 27 Nov 2012
+! Last modified: 29 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -910,6 +910,7 @@ demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 digitekst.com#@#.adTitle
 digitekst.com#@#.adtitle
 forum.fok.nl#@#.adfieldbg
+gelderlander.nl#@#.ad-spacer
 innerlijk-besef.nl#@#.ad-block
 innerlijk-besef.nl#@#.ad-button
 innerlijk-besef.nl#@#.ad-content
@@ -931,4 +932,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 907
+! Aantal filters: 908
