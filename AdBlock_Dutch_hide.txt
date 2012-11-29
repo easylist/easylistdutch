@@ -176,6 +176,7 @@
 ||partnerclicks.nl/content/msnbanner/
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
+||pizzaonline.nl/wp-content/uploads/*/banner-
 ||player.videostrip.com/serve_cad.php?$domain=radioveronica.nl
 ||pokernet.nl/images/banners/
 ||prepaidhosted.nl/images/banners/
@@ -933,4 +934,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 909
+! Aantal filters: 910

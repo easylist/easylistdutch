@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 27 Nov 2012
+! Last modified: 29 Nov 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -176,6 +176,7 @@
 ||partnerclicks.nl/content/msnbanner/
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
+||pizzaonline.nl/wp-content/uploads/*/banner-
 ||player.videostrip.com/serve_cad.php?$domain=radioveronica.nl
 ||pokernet.nl/images/banners/
 ||prepaidhosted.nl/images/banners/
@@ -575,4 +576,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 556
+! Aantal filters: 557
