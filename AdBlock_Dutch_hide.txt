@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 2 Dec 2012
+! Last modified: 3 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -909,7 +909,7 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
 autodealers.nl#@#.ad-btn
 autotekoop.nl#@#.advert-title
-bd.nl,bndestem.nl,ed.nl,gelderlander.nl#@#.ad-spacer
+bd.nl,bndestem.nl,ed.nl,gelderlander.nl,tubantia.nl#@#.ad-spacer
 comedycentral.nl#@##bannerad
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 digitekst.com#@#.adTitle
