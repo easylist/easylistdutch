@@ -827,6 +827,8 @@ studenten.nl##.banner
 synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
 techzine.nl##.sidebar_rect
+techzine.nl##a[href="/advertorial"]
+techzine.nl##a[href="/advertorial"] ~ *
 telegraaf.nl###bvacontainer
 telegraaf.nl###etalage
 telegraaf.nl###rightbar > .artspacer
@@ -938,4 +940,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 914
+! Aantal filters: 916
