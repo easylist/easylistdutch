@@ -514,6 +514,7 @@
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
 ||z24.nl^*/ads.css
+||zdnet.be/css/1/wallpaper_style_
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/video/590x332_
 !--------Popups (derden)--------!
@@ -895,6 +896,9 @@ z24.nl###bva336x280container
 z24.nl##.ad
 z24.nl##.teaser
 zappsite.nl##.banner
+zdnet.be###leftwallpaper
+zdnet.be###rightwallpaper
+zdnet.be##a[href*="_redirect.cfm?ad_id="]
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
@@ -941,4 +945,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 917
+! Aantal filters: 921

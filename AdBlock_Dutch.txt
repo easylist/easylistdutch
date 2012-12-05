@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 1 Dec 2012
+! Last modified: 5 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -514,6 +514,7 @@
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
 ||z24.nl^*/ads.css
+||zdnet.be/css/1/wallpaper_style_
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/video/590x332_
 !--------Popups (derden)--------!
@@ -578,4 +579,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 559
+! Aantal filters: 560
