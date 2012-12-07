@@ -571,6 +571,7 @@
 @@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
 @@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
 @@||nu.nl/images/advertorial_backgrounds.png
+@@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
 @@||sbat.be/pages/banner.php
@@ -947,4 +948,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 923
+! Aantal filters: 924
