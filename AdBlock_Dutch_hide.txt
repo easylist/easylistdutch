@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 7 Dec 2012
+! Last modified: 8 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -832,6 +832,8 @@ studenten.nl##.banner
 synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
 techzine.nl##.sidebar_rect
+techzine.nl##a[href*="/advertorial-"]
+techzine.nl##a[href*="/advertorial-"] ~ *
 techzine.nl##a[href="/advertorial"]
 techzine.nl##a[href="/advertorial"] ~ *
 telegraaf.nl###bvacontainer
@@ -948,4 +950,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 924
+! Aantal filters: 926
