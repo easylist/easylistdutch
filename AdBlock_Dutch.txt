@@ -462,6 +462,7 @@
 ||stemwijzer.nl^*/images/*/islabanner.swf
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
+||studentenwoningweb.nl^*/banner/
 ||subtitlesnl.com/popup.js
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
@@ -582,4 +583,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 563
+! Aantal filters: 564

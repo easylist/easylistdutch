@@ -462,6 +462,7 @@
 ||stemwijzer.nl^*/images/*/islabanner.swf
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
+||studentenwoningweb.nl^*/banner/
 ||subtitlesnl.com/popup.js
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
@@ -951,4 +952,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 927
+! Aantal filters: 928
