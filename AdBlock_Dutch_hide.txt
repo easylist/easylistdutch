@@ -195,6 +195,7 @@
 ||sexamateurtjes.nl/banners/
 ||sinclub.nl/banners/
 ||softsign.be/banners/
+||startpagina.nl^*/dochters/*/banners/
 ||static-voetbalzone.nl/images/adfactor/
 ||static-voetbalzone.nl/images/banners/
 ||static-voetbalzone.nl/images/unibet/
@@ -952,4 +953,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 928
+! Aantal filters: 929
