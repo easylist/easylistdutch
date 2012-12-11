@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Dec 2012
+! Last modified: 12 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -74,6 +74,7 @@
 ||netmng.com^$third-party
 ||neukjezuster.com^$third-party
 ||online-banners.nl^$third-party
+||partnerclicks.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
 ||partnerwebsites.financereview.nl^$third-party
 ||partnerwebsites.mistermedia.nl^$third-party
@@ -122,6 +123,7 @@
 ||bol.com/nl/upload/banners/
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
+||cupaa.nl/banners/
 ||de-keizer.nl/tassen/*/banner
 ||deloads.nl/js/mtvi_admanager.js
 ||doubleclick.net/pfadx/homepage.nos.nl/$object-subrequest
@@ -174,7 +176,6 @@
 ||nudeal.nl/static/swf/banner_
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
-||partnerclicks.nl/content/msnbanner/
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
 ||pizzaonline.nl/wp-content/uploads/*/banner-
@@ -205,6 +206,7 @@
 ||strandmeisjes.nl/banners/
 ||sunjets.be/banners/
 ||thisislive.com/promo/
+||tienerorgies.be/promo/
 ||tienertube.nl/banners/
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
@@ -953,4 +955,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 929
+! Aantal filters: 931
