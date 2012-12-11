@@ -56,6 +56,7 @@
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
 ||geoaddicted.net^$third-party
+||gocams.nl^$third-party
 ||gratis-neuken.com^$third-party
 ||images.islive.nl^$third-party
 ||inviteonly.nl^$third-party
@@ -586,4 +587,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 567
+! Aantal filters: 568

@@ -56,6 +56,7 @@
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
 ||geoaddicted.net^$third-party
+||gocams.nl^$third-party
 ||gratis-neuken.com^$third-party
 ||images.islive.nl^$third-party
 ||inviteonly.nl^$third-party
@@ -955,4 +956,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 931
+! Aantal filters: 932
