@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 13 Dec 2012
+! Last modified: 15 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -729,6 +729,7 @@ ipadclub.nl##.ad
 iphoneclub.nl##.ad
 israeltoday.nl###add-sidebar-default
 janvissersweer.nl##a[id^="bannerclient"]
+joostdevree.nl##table[width="1000"] td[width="200"]:last-child > table[width="100%"]
 joubuis.nl##.banner468x60
 kieskeurig.nl###rightBanner
 kijkshop.nl##.rechterkolom-banner
@@ -960,4 +961,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 936
+! Aantal filters: 937
