@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 15 Dec 2012
+! Last modified: 17 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -921,7 +921,7 @@ zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
 autodealers.nl,speurders.nl#@##advertentie
 computeridee.nl#@#.reclame
-drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
+drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,gratisoptehalen.org,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1_no_border
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2
