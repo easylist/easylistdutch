@@ -534,6 +534,7 @@
 !--------Uitzonderingen (derden)--------!
 @@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl
+@@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
 @@||360yield.com/adj?p=*&w=336&h=280&$script,domain=spelletjes.nl
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|radioveronica.nl
@@ -970,4 +971,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 946
+! Aantal filters: 947
