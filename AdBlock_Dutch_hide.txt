@@ -932,7 +932,7 @@ zoover.nl##.header-banner
 !--------Uitzonderingen (verbergregels)--------!
 autodealers.nl,speurders.nl#@##advertentie
 computeridee.nl#@#.reclame
-drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,gratisaftehalen.org,gratisoptehalen.org,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
+drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,gratisaftehalen.org,gratisoptehalen.org,gratistehalen.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1_no_border
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2
