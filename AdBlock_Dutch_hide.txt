@@ -2,12 +2,13 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 26 Dec 2012
+! Last modified: 27 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten hier:
 ! https://code.google.com/p/dutchadblockfilters/issues/list
+!
 !--------Algemene blokkeerregels--------!
 /adbron.
 /adtwee/*
@@ -939,6 +940,8 @@ koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2_no_border
 zeelandnet.nl#@#.advertenties
 ! Uitzonderingen voor EasyList
+ad.nl#@#.ad_bg
+ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
@@ -972,4 +975,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.HeaderAd
 schaatsen.nl#@#.advertisement-header
 zeelandnet.nl#@##ads
-! Aantal filters: 948
+! Aantal filters: 950
