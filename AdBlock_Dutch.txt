@@ -2,12 +2,13 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 24 Dec 2012
+! Last modified: 28 Dec 2012
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten hier:
 ! https://code.google.com/p/dutchadblockfilters/issues/list
+!
 !--------Algemene blokkeerregels--------!
 /adbron.
 /adtwee/*
@@ -351,6 +352,7 @@
 ||internetbode.nl/banner
 ||internetbode.nl/images/*_banner.gif
 ||ishotmyself.nl/include/xhtml/promo/
+||israeltoday.nl/_static/israeltoday.nl/img/banners/
 ||janvissersweer.nl/images/banners/
 ||janvissersweer.nl^*/banner-
 ||jouwpage.nl/images/banner
@@ -595,4 +597,4 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
-! Aantal filters: 576
+! Aantal filters: 577
