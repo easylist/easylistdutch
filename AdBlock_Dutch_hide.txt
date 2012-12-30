@@ -824,6 +824,8 @@ pollennieuws.nl##img[width="543"][height="86"]
 pollennieuws.nl##img[width="575"][height="63"]
 pollennieuws.nl##img[width="730"][height="92"]
 porntubexl.nl##.ads
+pp2g.com##div[id$="_Rectangle"]
+pp2g.com##div[id*="_Leaderboard_"]
 promootjesite.nl##iframe[width="728"][height="90"] + style + script + div[id]
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 retailnews.nl##.banner_button
@@ -978,4 +980,4 @@ zeelandnet.nl#@##ads
 schaatsen.nl#@#.HeaderAd
 marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
-! Aantal filters: 953
+! Aantal filters: 955
