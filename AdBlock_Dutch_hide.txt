@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 31 Dec 2012
+! Last modified: 3 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -813,7 +813,7 @@ onemorething.nl##.advert
 ongein.nl##div[id$="_divAdNL"]
 oops.nl###dropinboxv2cover
 oops.nl##table[width][cellspacing="30"][align="center"]
-opwindend.net##div[style="Height: 50Px; width: 600Px;"]
+opwindend.net##div[style="Height: 50Px; Width: 600Px;"]
 paginamarkt.nl###banner
 pathe.nl##.homepageBanner
 pen.nl###contentdiv a[target="_blank"] > img[style="border:1px solid black"]
