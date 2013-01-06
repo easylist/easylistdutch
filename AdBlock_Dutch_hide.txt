@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 5 Jan 2013
+! Last modified: 6 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -336,7 +336,6 @@
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
-||hdtvnieuws.nl/hdtv/wp-content/plugins/no-adblock/
 ||hetgoedeleven.com/portals/*/banners/
 ||hetnieuwerijden.nl/content/banners/
 ||historiek.net/images/banners/
@@ -559,18 +558,19 @@
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.fok.nl
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=forum.fok.nl|spelletjes.nl
-@@||partner.googleadservices.com/gampad/$domain=beta.flabber.nl|jaggle.nl
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
+@@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
+! Anti-Adblock
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.fok.nl
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=forum.fok.nl
 !--------Uitzonderingen--------!
 @@||2cv.nl/markt/advertenties/$image,subdocument
 @@||fotoapparatuur.nl/advertenties/
-@@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
 @@||te-les-koop.nl/advertenties.php
@@ -579,7 +579,6 @@
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
-@@||dumpert.nl^*/admatcher.doubleclick.net
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||leukespellen.be/ads_loader.$script,stylesheet
 @@||leukespellen.be/n/js/ads_hider.js
@@ -601,6 +600,9 @@
 @@||zuka.nl/images/ad_$image
 ! Uitzonderingen voor Fanboy
 @@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
+! Anti-Adblock
+@@||dumpert.nl^*/admatcher.doubleclick.net
+@@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
 !--------Algemene verbergregels--------!
 ###adfactor-label
 ###adsense_artikel_4
@@ -711,7 +713,6 @@ flabber.nl###site_takeover
 flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
-forum.fok.nl##div[style="float:right;margin:8px 8px 12px 12px;padding:6px; border:1px dotted #ccc;"]
 frontpage.fok.nl###background[title="klik"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
@@ -938,6 +939,8 @@ zdnet.be##a[href*="_redirect.cfm?ad_id="]
 zeilen.nl##.partnerBox
 zie.nl##div[id^="advertisement_"]
 zoover.nl##.header-banner
+! Anti-Adblock
+forum.fok.nl##div[style="float:right;margin:8px 8px 12px 12px;padding:6px; border:1px dotted #ccc;"]
 !--------Uitzonderingen (verbergregels)--------!
 autodealers.nl,speurders.nl#@##advertentie
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
@@ -969,7 +972,6 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.
 ad.nl#@#.ad_bg
 speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
-forum.fok.nl#@#.adfieldbg
 digitekst.com#@#.adtitle
 autotekoop.nl#@#.advert-title
 zuka.nl#@#.advtitle
@@ -983,4 +985,6 @@ zeelandnet.nl#@##ads
 schaatsen.nl#@#.HeaderAd
 marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
+! Anti-Adblock
+forum.fok.nl#@#.adfieldbg
 ! Aantal filters: 958
