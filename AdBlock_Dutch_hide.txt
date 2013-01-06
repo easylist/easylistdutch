@@ -243,6 +243,7 @@
 ||123beoordeling.nl^*/banner
 ||123video.nl/alternate
 ||123video.nl/img/banners/
+||2cv.nl/sponsor/banners/
 ||2link.be^*/dochterbanner.php?
 ||538.nl/banners/
 ||9292ov.nl/images/9292-banner.gif
@@ -987,4 +988,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 958
+! Aantal filters: 959

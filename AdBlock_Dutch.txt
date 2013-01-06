@@ -243,6 +243,7 @@
 ||123beoordeling.nl^*/banner
 ||123video.nl/alternate
 ||123video.nl/img/banners/
+||2cv.nl/sponsor/banners/
 ||2link.be^*/dochterbanner.php?
 ||538.nl/banners/
 ||9292ov.nl/images/9292-banner.gif
@@ -603,4 +604,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 581
+! Aantal filters: 582
