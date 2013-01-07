@@ -32,7 +32,6 @@
 /topadvertentie.
 !--------Advertentieservers (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
-||ad-serverparc.nl^$third-party
 ||ad-skills-copy.nl^$third-party
 ||adrcdn.com^$third-party
 ||adverteerdirect.nl^$third-party
@@ -57,7 +56,6 @@
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||europacams.nl^$third-party
 ||extremecash.nl^$third-party
-||geoaddicted.net^$third-party
 ||gocams.nl^$third-party
 ||gratis-neuken.com^$third-party
 ||hotlinkie.com^$third-party
@@ -87,11 +85,7 @@
 ||privatecams.nl^$third-party
 ||promo.hollandcash.nl^$third-party
 ||promotie.gamecoll.com^$third-party
-||promotools*.sexdatingcash.nl^$third-party
-||promotools.islive.nl^$third-party
-||promotools.vpscash.nl^$third-party
 ||radiocoupon.nl^$third-party
-||readserver.net^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
 ||site-id.nl^$third-party
@@ -146,7 +140,6 @@
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||honig.nl/extern/honig-commercial-videobanner-
-||hyves-static.net^*/footerad.
 ||hyves-static.net^*/hyvesense/
 ||hyves-static.net^*/overlay_ad.
 ||images.m4n.nl^*/hosting/
@@ -230,7 +223,6 @@
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
-||willie.nl/promotools/
 ||x0.nl/banners/
 ||xlshosting.net/wp-content/uploads/idwbanner.png
 ||xxxsmsjes.nl/banners/
@@ -560,8 +552,6 @@
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
-@@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
-@@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
@@ -606,7 +596,6 @@
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
 !--------Algemene verbergregels--------!
-###adfactor-label
 ###adsense_artikel_4
 ###advertentie
 ###advertentieblokjeid
@@ -725,7 +714,6 @@ girlsgogames.nl##.categoryBanner
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 haarlemsdagblad.nl##.fullSizeBanner
 haarlemsdagblad.nl##.x728x222.headerRow
-hardware.info###banner_right_bottom
 hardwarewoensdag.tv##.banner
 hbvl.be##.w-doubleclick
 hiphopinjesmoel.com###header_banner
@@ -762,7 +750,6 @@ landbouwagenda.nl###rightBottom > div > a[target="_blank"]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 leukstespel.nl##a[target="_blank"] > img
 livep2000.nl###tekstlinkrow
-localfm.nl##.adsmall
 losseveter.nl##.bannerContainer
 marktnet.nl##.ThumbGoogle
 marktnet.nl##.textlink.snap_noshots
@@ -990,4 +977,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 961
+! Aantal filters: 948
