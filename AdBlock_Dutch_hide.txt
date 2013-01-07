@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 6 Jan 2013
+! Last modified: 7 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -77,6 +77,7 @@
 ||netdirect.nl^$third-party
 ||netmng.com^$third-party
 ||neukjezuster.com^$third-party
+||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
 ||partnerclicks.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
@@ -956,6 +957,7 @@ jazznieuws.dds.nl#@##adBox
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
 jazznieuws.dds.nl#@##adbox
 kinderspelletjes.nl#@##adframe:not(frameset)
+homesearch.nu#@##adsense
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 comedycentral.nl#@##bannerad
 losseveter.nl#@##mainAd
@@ -988,4 +990,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 959
+! Aantal filters: 961
