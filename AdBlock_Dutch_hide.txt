@@ -139,6 +139,7 @@
 ||fokzine.net/upload/*_BG_HiActie_
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
+||goldenpalaceaffiliates.com/marketing_tools/
 ||honig.nl/extern/honig-commercial-videobanner-
 ||hyves-static.net^*/hyvesense/
 ||hyves-static.net^*/overlay_ad.
@@ -840,6 +841,7 @@ rtvoost.nl##.bannerLink[href^="http://"]
 rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 scholieren.com###top
+seks-verhalen.nl###banner-blok-vier
 smulweb.nl##.winestein
 speeleiland.nl##.game-side-banner-wrap
 spele.nl###adClose
@@ -981,4 +983,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 952
+! Aantal filters: 954

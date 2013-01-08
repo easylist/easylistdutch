@@ -139,6 +139,7 @@
 ||fokzine.net/upload/*_BG_HiActie_
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
+||goldenpalaceaffiliates.com/marketing_tools/
 ||honig.nl/extern/honig-commercial-videobanner-
 ||hyves-static.net^*/hyvesense/
 ||hyves-static.net^*/overlay_ad.
@@ -596,4 +597,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 574
+! Aantal filters: 575
