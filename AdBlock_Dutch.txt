@@ -111,6 +111,7 @@
 ||banners.utilo.nl^
 ||bnr.agf.nl^
 ||delivery.at5.nl^
+||ganaar.gertibaldi.com^
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ||109.70.1.61/bannersystem/
@@ -597,4 +598,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 575
+! Aantal filters: 576

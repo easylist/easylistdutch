@@ -111,6 +111,7 @@
 ||banners.utilo.nl^
 ||bnr.agf.nl^
 ||delivery.at5.nl^
+||ganaar.gertibaldi.com^
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ||109.70.1.61/bannersystem/
@@ -983,4 +984,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 954
+! Aantal filters: 955
