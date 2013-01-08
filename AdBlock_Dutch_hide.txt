@@ -331,6 +331,7 @@
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
 ||hetgoedeleven.com/portals/*/banners/
+||hetkrantje-online.nl/images/media/banner/
 ||hetnieuwerijden.nl/content/banners/
 ||historiek.net/images/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
@@ -716,6 +717,7 @@ haarlemsdagblad.nl##.fullSizeBanner
 haarlemsdagblad.nl##.x728x222.headerRow
 hardwarewoensdag.tv##.banner
 hbvl.be##.w-doubleclick
+hetkrantje-online.nl##.banner
 hiphopinjesmoel.com###header_banner
 historiek.net##a[href="http://historiek.net/1/click"]
 hitradioveronica.nl###rectanglebanner
@@ -979,4 +981,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 950
+! Aantal filters: 952

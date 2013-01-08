@@ -331,6 +331,7 @@
 ||havovwo.nl/pics/wolf.gif
 ||hdci.nl/soo/energie.html?
 ||hetgoedeleven.com/portals/*/banners/
+||hetkrantje-online.nl/images/media/banner/
 ||hetnieuwerijden.nl/content/banners/
 ||historiek.net/images/banners/
 ||hln.be/hln/images/general/you_teaserbox_head.gif
@@ -595,4 +596,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 573
+! Aantal filters: 574
