@@ -762,6 +762,7 @@ mensenlinq.nl##.banner
 meteovista.be###suppliersContainer
 metronieuws.nl##.ad
 metronieuws.nl##.teaser-component-inner
+mijnleeuwarden.nl###right_container .bannergroup
 mistermoney.nl###theLayer
 mokkels.nl###skyscraper
 mokkels.nl##a[onclick*="extern/affiliates/"]
@@ -978,4 +979,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 949
+! Aantal filters: 950
