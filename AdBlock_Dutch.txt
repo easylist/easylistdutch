@@ -30,6 +30,7 @@
 /scripts/edoris/shared/*$object
 /small_reclames/*
 /topadvertentie.
+://promotie.$third-party
 !--------Advertentieservers (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
 ||ad-skills-copy.nl^$third-party
@@ -83,8 +84,6 @@
 ||partnerwebsites.mistermedia.nl^$third-party
 ||pics.obedo.nl^$third-party
 ||privatecams.nl^$third-party
-||promo.hollandcash.nl^$third-party
-||promotie.gamecoll.com^$third-party
 ||radiocoupon.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
@@ -600,4 +599,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 578
+! Aantal filters: 577
