@@ -504,8 +504,7 @@
 ||vid.nl/images/de_filmpje.swf
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
-||volkskrant.nl/multimedia/*/lekker-single_blond_*.gif
-||volkskrant.nl/static/nmc/prm/*_intermediair.gif
+||volkskrant.nl/static/nmc/prm/box/images/20
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
@@ -987,4 +986,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 958
+! Aantal filters: 957
