@@ -482,6 +482,7 @@
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
 ||transport-online.nl/site/banners/
+||trouw.nl/static/nmc/prm/box/images/201*_intermediair_
 ||trouw.nl^*_nvb_300x300.gif
 ||tube.nl/img/banner/
 ||tvgids.nl/banner/
@@ -596,4 +597,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 574
+! Aantal filters: 575

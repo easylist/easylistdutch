@@ -482,6 +482,7 @@
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
 ||transport-online.nl/site/banners/
+||trouw.nl/static/nmc/prm/box/images/201*_intermediair_
 ||trouw.nl^*_nvb_300x300.gif
 ||tube.nl/img/banner/
 ||tvgids.nl/banner/
@@ -983,4 +984,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 954
+! Aantal filters: 955
