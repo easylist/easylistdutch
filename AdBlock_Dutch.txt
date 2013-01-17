@@ -243,11 +243,8 @@
 ||9292ov.nl/images/9292-banner.gif
 ||accounts.pkr.com/servemarketingtool.aspx?
 ||acom.nl/bannerticker.htm?
-||ad.nl/static/nmc/nmc/*p/nav/poker_
-||ad.nl/static/nmc/nmc/mid/*_banner.swf
-||ad.nl/static/nmc/nmc/teasers/dos/dos_poker
-||ad.nl/static/nmc/prm/box/*_promoblok.swf
-||ad.nl/static/nmc/prm/box/home_*.swf
+||ad.nl/static/nmc/prm/box/201
+||ad.nl/static/nmc/prm/box/images/201
 ||agf.nl/asp_includes/site_topbanners.
 ||agf.nl/nieuws/gif-jpg/hercuton2010.swf
 ||agf.nl/nieuws/gif-jpg/redstarcupido.swf
@@ -504,7 +501,7 @@
 ||vid.nl/images/de_filmpje.swf
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
-||volkskrant.nl/static/nmc/prm/box/images/20
+||volkskrant.nl/static/nmc/prm/box/images/201
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
@@ -599,4 +596,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 577
+! Aantal filters: 574
