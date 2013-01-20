@@ -770,7 +770,7 @@ mijnleeuwarden.nl###right_container .bannergroup
 mistermoney.nl###theLayer
 mokkels.nl###skyscraper
 mokkels.nl##a[onclick*="extern/affiliates/"]
-motor-forum.nl##div[id$="_messages_banner"]
+motor-forum.nl##div[id$="_banner"]
 moviemeter.nl##.banner_bol
 moviemeter.nl##.banner_h
 moviemeter.nl##.banner_header
