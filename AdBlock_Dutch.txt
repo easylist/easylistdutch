@@ -536,11 +536,14 @@
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
-@@||360yield.com/adj?$script,domain=girlsgogames.nl|spelletjes.nl
+@@||360yield.com/adj?$script,domain=
+@@||360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||adform.net/banners/scripts/bootstrap/Adform.Bootstrap.js?$domain=spel.nl
+@@||adform.net/Banners/scripts/rmb/Adform.RMB.js?$domain=spel.nl
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|radioveronica.nl
 @@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|radioveronica.nl
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
-@@||adserver.adtech.de/addyn/3.0/$script,domain=girlsgogames.nl|spelletjes.nl
+@@||adserver.adtech.de/addyn/3.0/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||arval.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?$image,domain=arval.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
@@ -558,6 +561,8 @@
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||track.adform.net/adfscript/?$script,domain=spel.nl
+@@||track.adform.net/adfserve/?$script,domain=spel.nl
 ! Anti-Adblock
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.fok.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=forum.fok.nl
@@ -597,4 +602,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 575
+! Aantal filters: 580
