@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 21 Jan 2013
+! Last modified: 23 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -534,7 +534,7 @@
 ||vloerenvoordelig.nl^$image,~image,popup,third-party
 !--------Uitzonderingen (derden)--------!
 @@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
-@@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl
+@@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl|scripts.538.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
 @@||360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
