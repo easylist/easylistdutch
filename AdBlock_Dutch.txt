@@ -253,6 +253,7 @@
 ||agfservice.nl^*/banner-468.gif
 ||ajaxf-side.nl/banners/
 ||amerika.nl^*/banners/
+||antilliaansdagblad.com/images/banners/
 ||anwb.nl/binaries/swf/banners/
 ||arrow.nl/banner/
 ||at5.nl/uploads/$image
@@ -602,4 +603,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 580
+! Aantal filters: 581

@@ -253,6 +253,7 @@
 ||agfservice.nl^*/banner-468.gif
 ||ajaxf-side.nl/banners/
 ||amerika.nl^*/banners/
+||antilliaansdagblad.com/images/banners/
 ||anwb.nl/binaries/swf/banners/
 ||arrow.nl/banner/
 ||at5.nl/uploads/$image
@@ -998,4 +999,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 969
+! Aantal filters: 970
