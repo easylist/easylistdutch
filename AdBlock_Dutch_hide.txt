@@ -685,6 +685,7 @@ checkcams.com##.ab
 checkcams.com##.mfoot
 christelijkvakantieplein.nl###hoofdsponsors
 cip.nl###banners_zijkant
+dbsuriname.com##.fblock
 dejaap.nl###sidebarRight > .blockHeading + article
 deloads.nl###leaderboard
 dewereldmorgen.be##.ad
@@ -997,4 +998,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 968
+! Aantal filters: 969
