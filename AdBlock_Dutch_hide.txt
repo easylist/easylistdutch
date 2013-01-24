@@ -761,6 +761,11 @@ leeuwarden.nu###right_container .bannergroup
 leidschdagblad.nl##.fullSizeBanner
 leidschdagblad.nl##.x728x222.headerRow
 leukstespel.nl##a[target="_blank"] > img
+limburger.nl##.banner_rectangle
+limburger.nl##.banner_right
+limburger.nl##.banner_skyscraper
+limburger.nl##.banner_skyscraper + div[style]
+limburger.nl##.top_story_banner
 livep2000.nl###tekstlinkrow
 losseveter.nl##.bannerContainer
 marktnet.nl##.ThumbGoogle
@@ -992,4 +997,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 963
+! Aantal filters: 968
