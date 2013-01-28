@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 26 Jan 2013
+! Last modified: 28 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -926,6 +926,7 @@ voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
 voetbalzone.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?bannerid="]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
+volkskrant.nl##.popularProductListing
 vrouwonline.nl###ad
 vt4.be##.adl_medium_rectangle
 waarbenjij.nu###spanEbookersContainer
@@ -1002,4 +1003,4 @@ marktplaats.nl#@#.adTop
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 973
+! Aantal filters: 974
