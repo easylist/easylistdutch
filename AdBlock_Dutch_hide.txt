@@ -554,7 +554,7 @@
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
-@@||ebayrtm.com^$domain=ebay.nl
+@@||ebayrtm.com/rtm?$domain=ebay.nl
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
@@ -599,8 +599,6 @@
 @@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
-! Uitzonderingen voor Fanboy
-@@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
@@ -988,7 +986,6 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.
 ad.nl#@#.ad_bg
 speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
-digitekst.com#@#.adtitle
 autotekoop.nl#@#.advert-title
 zuka.nl#@#.advtitle
 telegraaf.nl#@#.imgad
@@ -997,10 +994,10 @@ amonis.be#@#.text-ad
 ! Uitzonderingen voor Fanboy
 jazznieuws.dds.nl#@##AdBox
 innerlijk-besef.nl#@##ad-main
-zeelandnet.nl#@##ads
 schaatsen.nl#@#.HeaderAd
 marktplaats.nl#@#.adTop
+digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 974
+! Aantal filters: 972

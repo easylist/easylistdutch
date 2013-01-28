@@ -554,7 +554,7 @@
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
-@@||ebayrtm.com^$domain=ebay.nl
+@@||ebayrtm.com/rtm?$domain=ebay.nl
 @@||images.marktnet.eu/adimg/
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
@@ -599,9 +599,7 @@
 @@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
-! Uitzonderingen voor Fanboy
-@@||tweakers.net/xmlhttp/xmlhttp.php?*&action=mainform&adtype=$xmlhttprequest
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 582
+! Aantal filters: 581
