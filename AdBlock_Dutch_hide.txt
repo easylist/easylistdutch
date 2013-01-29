@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 28 Jan 2013
+! Last modified: 29 Jan 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -288,6 +288,7 @@
 ||cip.nl^*banner468x120
 ||clippagina.nl/blue/bggoogle*.jpg
 ||clippagina.nl/jaahdenieuwestart.jpg
+||club80malle.be^*/sponsors/
 ||computeridee.nl^*/hv-nu-banner-
 ||culemborgsecourant.nl^*/bdu_banners/
 ||deboswachter.nl/dysbanner.gif
@@ -1000,4 +1001,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 972
+! Aantal filters: 973
