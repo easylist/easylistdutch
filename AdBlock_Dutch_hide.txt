@@ -339,6 +339,7 @@
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hln.be/immoweb/SearchEngineIframe.cfm
 ||hln.be/regiojobs/teasers/
+||hln.be/static/nmc/nmc/box/_luxehotels_nina.swf
 ||hln.be/static/nmc/nmc/rp/nav/
 ||hoefijzers.nl/banner/
 ||hondenvrienden.nl/banner/
@@ -1007,4 +1008,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 978
+! Aantal filters: 979

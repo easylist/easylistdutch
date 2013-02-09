@@ -339,6 +339,7 @@
 ||hln.be/hln/images/general/you_teaserbox_head.gif
 ||hln.be/immoweb/SearchEngineIframe.cfm
 ||hln.be/regiojobs/teasers/
+||hln.be/static/nmc/nmc/box/_luxehotels_nina.swf
 ||hln.be/static/nmc/nmc/rp/nav/
 ||hoefijzers.nl/banner/
 ||hondenvrienden.nl/banner/
@@ -607,4 +608,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 585
+! Aantal filters: 586
