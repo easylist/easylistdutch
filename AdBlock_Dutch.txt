@@ -127,7 +127,7 @@
 ||doubleclick.net/pfadx/homepage.nos.nl/
 ||doubleclick.net/pfadx/mediaplayer.nl/
 ||doubleclick.net/pfadx/vara.homepage.nl/
-||doubleclick.net/pfadx/vnumedia.tweakgames.nl/
+||doubleclick.net/pfadx/vnumedia.tweak
 ||dutchleader.nl/php/banex/$third-party
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
