@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 9 Feb 2013
+! Last modified: 11 Feb 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -565,7 +565,7 @@
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spelletjes.nl
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
