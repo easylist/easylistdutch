@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Feb 2013
+! Last modified: 14 Feb 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -842,6 +842,7 @@ pen.nl###contentdiv a[target="_blank"] > img[style="border:1px solid black"]
 pen.nl###kolomlinksdiv > a[target="_blank"]
 pen.nl###kolomlinksdiv > a[target="_self"]
 pen.nl###kolomrechtsdiv
+phphulp.nl##div[style$="background: #ff0000 url(/img/ads/bhosted.png) top left no-repeat; margin-bottom: 10px;"]
 pokercollege.nl###verticalbanner
 pollennieuws.nl##img[height="90"][width="728"]
 pollennieuws.nl##img[width="543"][height="86"]
@@ -1009,4 +1010,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 980
+! Aantal filters: 981
