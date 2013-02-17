@@ -545,7 +545,8 @@
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl|scripts.538.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
-@@||360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||ad.360yield.com/ul_cb/adj?$script,domain=spel.nl
 @@||adform.net/banners/scripts/bootstrap/Adform.Bootstrap.js?$domain=spel.nl
 @@||adform.net/Banners/scripts/rmb/Adform.RMB.js?$domain=spel.nl
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|radioveronica.nl
@@ -610,4 +611,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 588
+! Aantal filters: 589
