@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 19 Feb 2013
+! Last modified: 24 Feb 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -25,7 +25,6 @@
 /reclame-extra.
 /reclame-nieuws.
 /reclame2.
-/reklame/*
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
@@ -1013,4 +1012,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 984
+! Aantal filters: 983
