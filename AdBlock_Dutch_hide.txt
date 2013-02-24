@@ -600,6 +600,7 @@
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
+@@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
 @@||sbat.be/pages/banner.php
 @@||schwalbeunited.nl/wp-content/uploads/*-300x250.
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
@@ -1012,4 +1013,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 983
+! Aantal filters: 984

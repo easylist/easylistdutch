@@ -600,6 +600,7 @@
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
+@@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
 @@||sbat.be/pages/banner.php
 @@||schwalbeunited.nl/wp-content/uploads/*-300x250.
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
@@ -611,4 +612,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 589
+! Aantal filters: 590
