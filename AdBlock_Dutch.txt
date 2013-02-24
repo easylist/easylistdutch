@@ -420,6 +420,7 @@
 ||onestat.com/banners/adone-
 ||onlineluisteren.nl/banner.html
 ||onzetaal.nl/banners/
+||optimaalfm.nl/upload/files/banner-left/
 ||optimalegezondheid.com/wp-content/plugins/mowpop/
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
@@ -568,6 +569,7 @@
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
+@@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
@@ -598,9 +600,9 @@
 @@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
+@@||optimaalfm.nl/upload/optimaalfm/Image/reclame/$image
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
-@@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
 @@||sbat.be/pages/banner.php
 @@||schwalbeunited.nl/wp-content/uploads/*-300x250.
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
@@ -612,4 +614,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 590
+! Aantal filters: 592
