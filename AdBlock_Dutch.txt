@@ -610,9 +610,10 @@
 @@||vakantiebijnederlandersinspanje.nl/layout/advert_$stylesheet
 @@||vakantiebijnederlandersinspanje.nl/layout/adverts/$image
 @@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
+@@||wattedoen.be/zoekertjes/imgads/
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 593
+! Aantal filters: 594

@@ -610,6 +610,7 @@
 @@||vakantiebijnederlandersinspanje.nl/layout/advert_$stylesheet
 @@||vakantiebijnederlandersinspanje.nl/layout/adverts/$image
 @@||viamichelin.nl^*/Advertisement/RentACar/RentACar.js
+@@||wattedoen.be/zoekertjes/imgads/
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
 ! Anti-Adblock
@@ -1017,4 +1018,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 988
+! Aantal filters: 989
