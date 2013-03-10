@@ -443,6 +443,7 @@
 ||rtvutrecht.nl/data/img/reclame_
 ||ru.nl/web/upload/banner/bannerbanner
 ||scholieren.com/assets/images/*.jpg
+||sexdumpert.nl/banner/
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
 ||sexverhalen.com/banners/
@@ -878,6 +879,8 @@ rtvoost.nl##.divRechterBanner
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 scholieren.com###top
 seks-verhalen.nl###banner-blok-vier
+sexdumpert.nl##div[class^="maincenterbanner"]
+sexdumpert.nl##div[class^="mainleftbanner"]
 smulweb.nl##.winestein
 speeleiland.nl##.game-side-banner-wrap
 spele.nl###adClose
@@ -1023,4 +1026,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 994
+! Aantal filters: 997
