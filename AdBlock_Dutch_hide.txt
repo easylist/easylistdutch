@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 23 Mar 2013
+! Last modified: 25 Mar 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -742,6 +742,9 @@ girlsgogames.nl##.categoryBanner
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 haarlemsdagblad.nl##.fullSizeBanner
 haarlemsdagblad.nl##.x728x222.headerRow
+hababam.nl##[id^="yui-gen"].postcontainer
+hababam.nl##div[class^="had"]
+hababam.nl##div[id^="had"]
 hardwarewoensdag.tv##.banner
 hbvl.be##.w-doubleclick
 hetkrantje-online.nl##.banner
@@ -1036,4 +1039,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1007
+! Aantal filters: 1010
