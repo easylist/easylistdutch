@@ -297,6 +297,7 @@
 ||djbroadcast.nl/banner/
 ||djbroadcast.nl/banners/
 ||dreddezewir.nl/images/reparateurke_banner.jpg
+||driving-fun.com/images/banners/
 ||dutchcharts.nl/images/sky_
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
@@ -620,4 +621,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 598
+! Aantal filters: 599

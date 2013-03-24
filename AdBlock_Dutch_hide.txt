@@ -297,6 +297,7 @@
 ||djbroadcast.nl/banner/
 ||djbroadcast.nl/banners/
 ||dreddezewir.nl/images/reparateurke_banner.jpg
+||driving-fun.com/images/banners/
 ||dutchcharts.nl/images/sky_
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
@@ -1039,4 +1040,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1010
+! Aantal filters: 1011
