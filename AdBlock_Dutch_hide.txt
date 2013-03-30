@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 25 Mar 2013
+! Last modified: 30 Mar 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -358,6 +358,7 @@
 ||israeltoday.nl/_static/israeltoday.nl/img/banners/
 ||janvissersweer.nl/images/banners/
 ||janvissersweer.nl^*/banner-
+||jooble.co.nl/banner/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
 ||jouwvoordeelindekempen.be^*/banner/
@@ -770,6 +771,8 @@ iphoneclub.nl##.ad
 israeltoday.nl###add-sidebar-default
 israeltoday.nl##.ad-hor
 janvissersweer.nl##a[id^="bannerclient"]
+jooble.co.nl###j-1_ad
+jooble.co.nl###j-1_ad2
 joostdevree.nl##table[width="1000"] td[width="200"]:last-child > table[width="100%"]
 joubuis.nl##.banner468x60
 kieskeurig.nl###rightBanner
@@ -1040,4 +1043,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1011
+! Aantal filters: 1014

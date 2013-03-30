@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 25 Mar 2013
+! Last modified: 30 Mar 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -358,6 +358,7 @@
 ||israeltoday.nl/_static/israeltoday.nl/img/banners/
 ||janvissersweer.nl/images/banners/
 ||janvissersweer.nl^*/banner-
+||jooble.co.nl/banner/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
 ||jouwvoordeelindekempen.be^*/banner/
@@ -621,4 +622,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 599
+! Aantal filters: 600
