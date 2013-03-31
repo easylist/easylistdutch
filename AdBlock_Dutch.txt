@@ -518,6 +518,7 @@
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
+||waldnet.nl/images/ac/
 ||wassenaarders.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
@@ -622,4 +623,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 600
+! Aantal filters: 601

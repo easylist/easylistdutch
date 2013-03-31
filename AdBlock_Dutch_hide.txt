@@ -518,6 +518,7 @@
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
+||waldnet.nl/images/ac/
 ||wassenaarders.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
@@ -1044,4 +1045,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1015
+! Aantal filters: 1016
