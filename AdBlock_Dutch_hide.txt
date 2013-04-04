@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 1 Apr 2013
+! Last modified: 5 Apr 2013
 ! Expires: 5 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -136,6 +136,7 @@
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
 ||fokzine.net/upload/*_BG_HiActie_
+||gbimg.nl/banners/
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||goldenpalaceaffiliates.com/marketing_tools/
@@ -1045,4 +1046,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1016
+! Aantal filters: 1017
