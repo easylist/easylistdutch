@@ -238,6 +238,7 @@
 ||123beoordeling.nl^*/banner
 ||123video.nl/alternate
 ||123video.nl/img/banners/
+||123video.nl^*/nathan.js
 ||2cv.nl/sponsor/banners/
 ||2link.be^*/dochterbanner.php?
 ||538.nl/banners/
@@ -1048,4 +1049,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1019
+! Aantal filters: 1020
