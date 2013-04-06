@@ -40,6 +40,7 @@
 ||autotekoop.nl^$third-party
 ||banners.vip.nl^$third-party
 ||bannerwerving.nl^$third-party
+||bingocamspartners.com^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl|z24.nl
 ||cambonus.com^$third-party
 ||camsholland.eu^$third-party
@@ -388,6 +389,7 @@
 ||localfm.nl/images/assets/banner-
 ||losseveter.nl^*/saucony_kinvara_
 ||maffiawars.nl/top.php?$subdocument
+||mannenpret.nl/banners/
 ||marktnet.nl/bs/loadBanner.aspx?
 ||marktplaats.com/css/adminis-min.css
 ||media*.biertijd.com/galleries/*/banners/
@@ -624,4 +626,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 602
+! Aantal filters: 604
