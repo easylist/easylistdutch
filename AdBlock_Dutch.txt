@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 8 Apr 2013
+! Last modified: 9 Apr 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -605,6 +605,7 @@
 @@||leukespellen.be/ads_loader.$script,stylesheet
 @@||leukespellen.be/n/js/ads_hider.js
 @@||manners.nl/wp-content/uploads/*-300x250.$image
+@@||marktplaats.com/gzip_*/aurora/res/js/common/AdSense.js
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
 @@||milkinc.be/ad.php|$subdocument
 @@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
@@ -628,4 +629,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 606
+! Aantal filters: 607
