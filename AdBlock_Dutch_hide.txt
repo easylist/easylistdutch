@@ -993,6 +993,7 @@ wetenschapsforum.nl##.top_banner
 wiebetaaltwat.nl###banner-panel-right
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 wisselkoers.nl###theLayerZorg
+wtf.nl##.item-banner
 xboxworld.nl###background
 yasni.nl##.offerbox
 z24.nl###bva336x280container
@@ -1059,4 +1060,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1030
+! Aantal filters: 1031
