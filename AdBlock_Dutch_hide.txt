@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 6 May 2013
+! Last modified: 7 May 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -611,6 +611,7 @@
 @@||milkinc.be/ad.php|$subdocument
 @@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
 @@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
+@@||myradio.nl/sounds/reclame/*/commercial-$object-subrequest
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||optimaalfm.nl/upload/optimaalfm/Image/reclame/$image
@@ -1060,4 +1061,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1031
+! Aantal filters: 1032
