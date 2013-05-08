@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 7 May 2013
+! Last modified: 8 May 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -835,6 +835,7 @@ moviemeter.nl##.compare_banner_outer
 moviemeter.nl##.price_compare
 moviemeter.nl##.price_compare_large
 moviemeter.nl##.sponsored
+moviescene.nl##form[name="justeat"]
 musicmeter.nl##.banner_h
 musicmeter.nl##.price_compare
 musicmeter.nl##.sponsored
@@ -1061,4 +1062,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1032
+! Aantal filters: 1033
