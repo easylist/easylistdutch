@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 8 May 2013
+! Last modified: 10 May 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -30,7 +30,7 @@
 /small_reclames/*
 /topadvertentie.
 ://promotie.$third-party
-!--------Advertentieservers (derden)--------!
+!--------Advertentiedomeinen (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
 ||ad-skills-copy.nl^$third-party
 ||adrcdn.com^$third-party
@@ -104,7 +104,7 @@
 ||www.nettrack.nl^$third-party
 ||www2.beekje.nl^$third-party
 ||xpartners.nl^$third-party
-!--------Advertentieservers--------!
+!--------Advertentiedomeinen--------!
 ||banners.helpmij.nl^
 ||banners.toeto.com^
 ||banners.utilo.nl^
@@ -499,6 +499,7 @@
 ||totaalwijzer.nl/iframe-skycraper.
 ||totaalwijzer.nl/iframe-topbanner.
 ||transport-online.nl/site/banners/
+||transportradio.nl/inhoud/images/stories/EVENTS/992x134_
 ||trouw.nl/static/nmc/prm/box/images/201*_intermediair_
 ||trouw.nl^*_nvb_300x300.gif
 ||tube.nl/img/banner/
@@ -631,4 +632,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 609
+! Aantal filters: 610
