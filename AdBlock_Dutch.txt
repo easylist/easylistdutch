@@ -595,7 +595,8 @@
 @@||fotoapparatuur.nl/advertenties/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
-@@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument,domain=spelletjes.nl
+@@||spel.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
+@@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||te-les-koop.nl/advertenties.php
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
@@ -633,4 +634,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 611
+! Aantal filters: 612

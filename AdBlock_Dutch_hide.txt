@@ -595,7 +595,8 @@
 @@||fotoapparatuur.nl/advertenties/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
-@@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument,domain=spelletjes.nl
+@@||spel.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
+@@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||te-les-koop.nl/advertenties.php
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
@@ -1064,4 +1065,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1035
+! Aantal filters: 1036
