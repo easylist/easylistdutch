@@ -133,6 +133,7 @@
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
 ||enjoy.be/promo/banner/
+||fashionchick.nl/images/banners/$third-party
 ||flirtfair.de^*/dppop.js
 ||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
@@ -636,4 +637,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 614
+! Aantal filters: 615

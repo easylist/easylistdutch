@@ -133,6 +133,7 @@
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
 ||enjoy.be/promo/banner/
+||fashionchick.nl/images/banners/$third-party
 ||flirtfair.de^*/dppop.js
 ||flirtingsms.com/profileserver/
 ||fnv-voordeel.nl/banner/fnv_banner.php?
@@ -978,6 +979,7 @@ vitesse.org##.center_banner
 viva.nl###affiliate_links
 viva.nl##.banner_sidebar
 viva.nl##.teasers_sidebar
+viva.nl##a[href*="&utm_medium=banner&"]
 vmma.be###syndicatedPlayer_staybehind
 voetbalzone.nl###skyCrapp
 voetbalzone.nl##.info-col > .block
@@ -1069,4 +1071,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1040
+! Aantal filters: 1042
