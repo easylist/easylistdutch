@@ -138,6 +138,7 @@
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
 ||fokzine.net/upload/*_BG_HiActie_
+||fokzine.net/upload/*_header_fok_blank.jpg.jpg
 ||gbimg.nl/banners/
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
@@ -747,6 +748,7 @@ flabber.nl###site_takeover
 flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
+forum.fok.nl##a[href^="http://ib.adnxs.com/clktrb?id="]
 frontpage.fok.nl###background[title="klik"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
@@ -1067,4 +1069,4 @@ digitekst.com#@#.adtitle
 schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1038
+! Aantal filters: 1040

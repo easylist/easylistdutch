@@ -138,6 +138,7 @@
 ||fnv-voordeel.nl/banner/fnv_banner.php?
 ||fokzine.net/forumheaders/new/830x140_header_
 ||fokzine.net/upload/*_BG_HiActie_
+||fokzine.net/upload/*_header_fok_blank.jpg.jpg
 ||gbimg.nl/banners/
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
@@ -635,4 +636,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 613
+! Aantal filters: 614
