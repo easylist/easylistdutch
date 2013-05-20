@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 18 May 2013
+! Last modified: 20 May 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -746,7 +746,6 @@ filmtotaal.nl###header_banner_area
 filmtotaal.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?"]
 flabber.nl###bannerMIDDLE-teaser
 flabber.nl###site_takeover
-flabber.nl##.ads-by
 fok.nl###leaderboard
 fok.nl###skyscraper
 forum.fok.nl##a[href^="http://ib.adnxs.com/clktrb?id="]
@@ -1029,6 +1028,7 @@ drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,gratisaftehalen.org,grat
 zeelandnet.nl#@#.advertenties
 computeridee.nl#@#.reclame
 ! Uitzonderingen voor EasyList
+innerlijk-besef.nl#@##ad-main
 jazznieuws.dds.nl#@##adBox
 xxxplaza.nl#@##ad_right
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
@@ -1039,6 +1039,7 @@ homesearch.nu#@##adsense
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 comedycentral.nl#@##bannerad
 losseveter.nl#@##mainAd
+schaatsen.nl#@#.HeaderAd
 innerlijk-besef.nl#@#.ad-block
 bokt.nl#@#.ad-body
 autodealers.nl#@#.ad-btn
@@ -1057,18 +1058,13 @@ telegraaf.nl#@#.addiv
 xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
 zeelandnet.nl#@#.ads-list
+digitekst.com#@#.adtitle
 autotekoop.nl#@#.advert-title
+schaatsen.nl#@#.advertisement-header
 zuka.nl#@#.advtitle
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Uitzonderingen voor Fanboy
-jazznieuws.dds.nl#@##AdBox
-innerlijk-besef.nl#@##ad-main
-schaatsen.nl#@#.HeaderAd
-marktplaats.nl#@#.adTop
-digitekst.com#@#.adtitle
-schaatsen.nl#@#.advertisement-header
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1042
+! Aantal filters: 1039
