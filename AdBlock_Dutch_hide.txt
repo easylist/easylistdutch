@@ -935,12 +935,12 @@ studenten.nl##.banner
 synoniemen.net##.annblokslot
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
 techzine.nl##.sidebar_rect
+techzine.nl##A[onclick*="ADVERTORIAL"]
+techzine.nl##A[onclick*="ADVERTORIAL"] ~ *
 techzine.nl##a[href*="/adv-"]
 techzine.nl##a[href*="/adv-"] ~ *
-techzine.nl##a[href*="/advertorial-"]
-techzine.nl##a[href*="/advertorial-"] ~ *
-techzine.nl##a[href="/advertorial"]
-techzine.nl##a[href="/advertorial"] ~ *
+techzine.nl##a[href*="/advertorial"]
+techzine.nl##a[href*="/advertorial"] ~ *
 techzine.nl##a[href^="http://ib.adnxs.com/"]
 techzine.nl##a[href^="http://ib.adnxs.com/"] + *
 telegraaf.nl###bvacontainer
