@@ -755,6 +755,7 @@ flabber.nl###site_takeover
 fok.nl###leaderboard
 fok.nl###skyscraper
 forum.fok.nl##a[href^="http://ib.adnxs.com/clktrb?id="]
+forum.mokkels.nl###portals
 frontpage.fok.nl###background[title="klik"]
 gamesmeter.nl##.sponsored
 gay.eu,gay.nl###bannerLeft1
@@ -1077,4 +1078,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1049
+! Aantal filters: 1050
