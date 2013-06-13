@@ -563,6 +563,7 @@
 !--------Popups--------!
 ||zalando.nl/pop/$popup
 !--------Uitzonderingen (derden)--------!
+@@||cts.snmmd.nl/service/js/autoweek-nl/autoweektv/$script
 @@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl|scripts.538.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
@@ -648,4 +649,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 626
+! Aantal filters: 627
