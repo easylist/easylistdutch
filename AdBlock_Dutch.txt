@@ -548,6 +548,7 @@
 ||wiebetaaltwat.nl/includes/mr.miller/$image,object
 ||woningnetgroningen.nl^*/Images/banner/
 ||woningnetregioamsterdam.nl^*/Images/banner/
+||woningnetregioutrecht.nl^*/Images/banner/
 ||xmissymedia.com/galleries/*/banners/
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
@@ -647,4 +648,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 625
+! Aantal filters: 626
