@@ -17,6 +17,7 @@
 /advertentie.
 /advertentie/*
 /advertentie2/*
+/advertentie_head.
 /advertenties.
 /advertenties/*
 /bannerlookup.
@@ -646,4 +647,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 624
+! Aantal filters: 625

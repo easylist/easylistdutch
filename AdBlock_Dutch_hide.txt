@@ -17,6 +17,7 @@
 /advertentie.
 /advertentie/*
 /advertentie2/*
+/advertentie_head.
 /advertenties.
 /advertenties/*
 /bannerlookup.
@@ -1025,4 +1026,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 997
+! Aantal filters: 998
