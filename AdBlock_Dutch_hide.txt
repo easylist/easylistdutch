@@ -418,7 +418,6 @@
 ||nbs.nl/resources/banner_
 ||ndss.nl/static/ak.gif
 ||nederland.fm/i/*banner
-||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
@@ -1029,4 +1028,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1001
+! Aantal filters: 1000

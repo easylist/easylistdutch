@@ -418,7 +418,6 @@
 ||nbs.nl/resources/banner_
 ||ndss.nl/static/ak.gif
 ||nederland.fm/i/*banner
-||nederland.fm/i/banner_*.gif
 ||nederland.fm/i/restaurantantoine120x60.gif
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
@@ -650,4 +649,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 628
+! Aantal filters: 627
