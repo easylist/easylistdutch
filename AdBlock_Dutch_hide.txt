@@ -801,6 +801,7 @@ porntubexl.nl,tube.nl##.ads
 nu.nl##.adsilver
 allradio.nl##.adv
 9292.nl,fcupdate.nl,onemorething.nl##.advert
+autoblog.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
@@ -1028,4 +1029,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1000
+! Aantal filters: 1001
