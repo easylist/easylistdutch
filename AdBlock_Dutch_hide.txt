@@ -948,6 +948,7 @@ sexdumpert.nl##div[class^="mainleftbanner"]
 pp2g.com##div[id$="_Rectangle"]
 motor-forum.nl##div[id$="_banner"]
 ongein.nl##div[id$="_divAdNL"]
+songteksten.net##div[id$="banner"]
 pp2g.com##div[id*="_Leaderboard_"]
 hyves.nl##div[id^="adsense_"]
 zie.nl##div[id^="advertisement_"]
@@ -1029,4 +1030,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1001
+! Aantal filters: 1002
