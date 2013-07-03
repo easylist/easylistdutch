@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 1 Jul 2013
+! Last modified: 4 Jul 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -162,7 +162,6 @@
 ||laagstehypotheekofferte.nl/widget/*/
 ||linkruiler.nl/links_js.php?
 ||links.overzicht.nl/links/position.php?
-||longtailvideo.com^*/ova/ova-jw.swf
 ||maffiagame.nl/banner$third-party
 ||media.zie.nl/e/?v=*&ad=false$subdocument,domain=nubijlage.nl
 ||members.home.nl/ajaxf-side/banners/
@@ -566,7 +565,7 @@
 !--------Uitzonderingen (derden)--------!
 @@||cts.snmmd.nl/service/js/autoweek-nl/autoweektv/$script
 @@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
-@@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=rtl7darts.nl|scripts.538.nl
+@@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
 @@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
@@ -1030,4 +1029,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1002
+! Aantal filters: 1001
