@@ -992,7 +992,8 @@ computeridee.nl#@#.reclame
 ! Uitzonderingen voor EasyList
 innerlijk-besef.nl#@##ad-main
 jazznieuws.dds.nl#@##adBox
-xxxplaza.nl#@##ad_right
+hotcontact.nl#@##ad_left
+hotcontact.nl,xxxplaza.nl#@##ad_right
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##ad_wrap
 jazznieuws.dds.nl#@##adbox
 xxxplaza.nl#@##adcontainer
@@ -1017,7 +1018,7 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.
 ad.nl#@#.ad_bg
 speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
-xxxplaza.nl#@#.adlink
+hotcontact.nl,xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
 zeelandnet.nl#@#.ads-list
 digitekst.com#@#.adtitle
@@ -1030,4 +1031,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1002
+! Aantal filters: 1005
