@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 10 Jul 2013
+! Last modified: 15 Jul 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -937,6 +937,7 @@ bet.nl##a[href^="http://vergelijkdata.com/"]
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 janvissersweer.nl##a[id^="bannerclient"]
 autojunk.nl##a[onclick*="/outgoing/"]
+autoblog.nl##a[onclick*="/outgoing/"] + *
 mokkels.nl##a[onclick*="extern/affiliates/"]
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 dutchattraction.nl##a[onclick^="countAdClick("]
@@ -1030,4 +1031,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1002
+! Aantal filters: 1003
