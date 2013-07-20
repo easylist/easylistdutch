@@ -585,6 +585,8 @@
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||ebayrtm.com/rtm?$domain=ebay.nl
+@@||google.com/ads/search/module/ads/*/search.js$domain=zoover.nl
+@@||google.com/adsense/search/ads.js$domain=zoover.nl
 @@||googletagservices.com/tag/js/gpt.js$domain=telegraaf.nl
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
@@ -1033,4 +1035,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1005
+! Aantal filters: 1007

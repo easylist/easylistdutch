@@ -585,6 +585,8 @@
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||ebayrtm.com/rtm?$domain=ebay.nl
+@@||google.com/ads/search/module/ads/*/search.js$domain=zoover.nl
+@@||google.com/adsense/search/ads.js$domain=zoover.nl
 @@||googletagservices.com/tag/js/gpt.js$domain=telegraaf.nl
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
@@ -649,4 +651,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 627
+! Aantal filters: 629
