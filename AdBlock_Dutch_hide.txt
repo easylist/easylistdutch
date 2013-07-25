@@ -2,7 +2,7 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 23 Jul 2013
+! Last modified: 25 Jul 2013
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -624,6 +624,7 @@
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
+@@||earnieland.be/images/photolib/*_120_60.
 @@||hebbes.be^*/AdsImages/$image
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||leukespellen.be/ads_loader.$script,stylesheet
@@ -1039,4 +1040,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1011
+! Aantal filters: 1012
