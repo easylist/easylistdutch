@@ -2,12 +2,14 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 28 Jul 2013
+! Last modified: 31 Jul 2013
+! Version: 201307311451
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten hier:
 ! https://code.google.com/p/dutchadblockfilters/issues/list
+! of stuur een email naar fam.lam [at] live.nl
 !
 !--------Algemene blokkeerregels--------!
 /adbron.
