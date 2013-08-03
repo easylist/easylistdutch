@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 31 Jul 2013
-! Version: 201307311451
+! Last modified: 3 Aug 2013
+! Version: 201308031415
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -988,6 +988,7 @@ kilroynews.net##table[width="760"][height="2001"][align="center"]
 kilroynews.net##table[width="792"]
 telegraaf.nl##table[width][border="0"][style="border:1px solid #e0e0e0;padding-left:5px;padding-right:5px;"]
 oops.nl##table[width][cellspacing="30"][align="center"]
+kapsels.net##td[width="164"] a[target="_blank"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
 ! Anti-Adblock
@@ -1043,4 +1044,4 @@ ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 ! Anti-Adblock
 forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1013
+! Aantal filters: 1014
