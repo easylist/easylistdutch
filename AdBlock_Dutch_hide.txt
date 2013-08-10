@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 7 Aug 2013
-! Version: 201308071848
+! Last modified: 10 Aug 2013
+! Version: 201308101321
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -606,9 +606,6 @@
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||track.adform.net/adfscript/?$script,domain=spel.nl
 @@||track.adform.net/adfserve/?$script,domain=spel.nl
-! Anti-Adblock
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.fok.nl
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=forum.fok.nl
 !--------Uitzonderingen--------!
 @@||2cv.nl/markt/advertenties/$image,subdocument
 @@||2dehandskleertjes.nl/uploads/advertenties/
@@ -989,8 +986,6 @@ oops.nl##table[width][cellspacing="30"][align="center"]
 kapsels.net##td[width="164"] a[target="_blank"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
-! Anti-Adblock
-forum.fok.nl##div[style="float:right;margin:8px 8px 12px 12px;padding:6px; border:1px dotted #ccc;"]
 !--------Uitzonderingen (verbergregels)--------!
 autodealers.nl,speurders.nl,xxxplaza.nl#@##advertentie
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
@@ -1040,6 +1035,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Anti-Adblock
-forum.fok.nl#@#.adfieldbg
-! Aantal filters: 1012
+! Aantal filters: 1008
