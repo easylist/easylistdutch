@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 11 Aug 2013
-! Version: 201308111230
+! Last modified: 14 Aug 2013
+! Version: 201308142116
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -211,6 +211,7 @@
 ||stcm.nl/otla/
 ||strandmeisjes.nl/banners/
 ||sunjets.be/banners/
+||teads.tv/js/all-$third-party
 ||thisislive.com/promo/
 ||tienerorgies.be/promo/
 ||tienertube.nl/banners/
@@ -1036,4 +1037,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1009
+! Aantal filters: 1010
