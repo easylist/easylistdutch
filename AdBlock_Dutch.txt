@@ -3,7 +3,7 @@
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 15 Aug 2013
-! Version: 201308151915
+! Version: 201308151923
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -108,6 +108,7 @@
 ||www2.beekje.nl^$third-party
 ||xpartners.nl^$third-party
 !--------Advertentiedomeinen--------!
+||banner.koopjeskrant.be^
 ||banners.helpmij.nl^
 ||banners.toeto.com^
 ||banners.utilo.nl^
@@ -200,6 +201,7 @@
 ||schooltieners.nl/banners/
 ||search-result.com^*/klokad2.js
 ||sexamateurtjes.nl/banners/
+||sexia.be/banner
 ||sinclub.nl/banners/
 ||softsign.be/banners/
 ||startpagina.nl^*/dochters/*/banners/
@@ -653,4 +655,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 630
+! Aantal filters: 632
