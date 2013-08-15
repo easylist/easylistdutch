@@ -3,7 +3,7 @@
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 15 Aug 2013
-! Version: 201308151923
+! Version: 201308151927
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -401,6 +401,7 @@
 ||linkstartje.be/banners/
 ||localfm.nl/images/assets/banner-
 ||losseveter.nl^*/saucony_kinvara_
+||madeinmetropool.be/partners/
 ||maffiawars.nl/top.php?$subdocument
 ||mannenpret.nl/banners/
 ||marktnet.nl/bs/loadBanner.aspx?
@@ -655,4 +656,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 632
+! Aantal filters: 633
