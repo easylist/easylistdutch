@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 17 Aug 2013
-! Version: 201308171410
+! Last modified: 26 Aug 2013
+! Version: 201308261929
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -35,6 +35,7 @@
 ://promotie.$third-party
 !--------Advertentiedomeinen (derden)--------!
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
+||ad-prod.ster.nl^$third-party
 ||ad-skills-copy.nl^$third-party
 ||adrcdn.com^$third-party
 ||affiliatepartners.com^$third-party
@@ -658,4 +659,4 @@
 ! Anti-Adblock
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
-! Aantal filters: 635
+! Aantal filters: 636
