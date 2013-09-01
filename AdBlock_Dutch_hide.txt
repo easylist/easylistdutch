@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 27 Aug 2013
-! Version: 201308270901
+! Last modified: 2 Sep 2013
+! Version: 201309020040
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -215,7 +215,6 @@
 ||stcm.nl/otla/
 ||strandmeisjes.nl/banners/
 ||sunjets.be/banners/
-||teads.tv/js/all-$third-party
 ||thisislive.com/promo/
 ||tienerorgies.be/promo/
 ||tienertube.nl/banners/
@@ -609,7 +608,6 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
-@@||pubads.g.doubleclick.net/crossdomain.xml$object-subrequest,domain=tweakers.net
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
@@ -1047,4 +1045,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1020
+! Aantal filters: 1018
