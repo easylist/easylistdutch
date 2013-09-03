@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 2 Sep 2013
-! Version: 201309020930
+! Last modified: 3 Sep 2013
+! Version: 201309031951
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -349,6 +349,7 @@
 ||hetgoedeleven.com/portals/*/banners/
 ||hetkrantje-online.nl/images/media/banner/
 ||hetnieuwerijden.nl/content/banners/
+||hetweeractueel.nl/images/banners/
 ||historiek.net/images/banners/
 ||hln.be/autozone/auto_j2ee/*&utmMedium=teaser
 ||hln.be/hln/images/general/you_teaserbox_head.gif
