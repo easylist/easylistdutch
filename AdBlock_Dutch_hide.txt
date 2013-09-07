@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 4 Sep 2013
-! Version: 201309041948
+! Last modified: 7 Sep 2013
+! Version: 201309071455
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -783,7 +783,7 @@ dejaap.nl###sidebarRight > .blockHeading + article
 flabber.nl###site_takeover
 vdab.be###sky
 voetbalzone.nl###skyCrapp
-fok.nl,mokkels.nl,vakantiebellen.com###skyscraper
+fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
 waarbenjij.nu###spanEbookersContainer
 uu.nl###sponsor_rotating_block
 meteovista.be,weeronline.nl###suppliersContainer
@@ -819,7 +819,7 @@ autoblog.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
-2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hardwarewoensdag.tv,hetkrantje-online.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,toeto.com,zappsite.nl##.banner
+2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hardwarewoensdag.tv,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,toeto.com,zappsite.nl##.banner
 weeronline.nl##.banner + .specialBlockDiv
 at5.nl##.banner-300-100
 tvgids.nl##.banner-custom
@@ -1047,4 +1047,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1020
+! Aantal filters: 1022
