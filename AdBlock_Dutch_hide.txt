@@ -3,7 +3,7 @@
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 8 Sep 2013
-! Version: 201309081312
+! Version: 201309081550
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -1020,6 +1020,7 @@ kinderspelletjes.nl#@##adframe:not(frameset)
 homesearch.nu#@##adsense
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 comedycentral.nl#@##bannerad
+archiefleeuwardercourant.nl#@##headerAdv
 losseveter.nl#@##mainAd
 schaatsen.nl#@#.HeaderAd
 innerlijk-besef.nl#@#.ad-block
@@ -1048,4 +1049,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1021
+! Aantal filters: 1022

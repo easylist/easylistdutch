@@ -3,7 +3,7 @@
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 8 Sep 2013
-! Version: 201309081312
+! Version: 201309081550
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
