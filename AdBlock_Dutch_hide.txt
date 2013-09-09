@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 8 Sep 2013
-! Version: 201309081550
+! Last modified: 9 Sep 2013
+! Version: 201309091814
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -816,7 +816,7 @@ porntubexl.nl,tube.nl##.ads
 nu.nl##.adsilver
 allradio.nl##.adv
 9292.nl,fcupdate.nl,onemorething.nl##.advert
-autoblog.nl##.advertisement
+apparata.nl,autoblog.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
@@ -1049,4 +1049,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1022
+! Aantal filters: 1023
