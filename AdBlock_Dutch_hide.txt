@@ -3,7 +3,7 @@
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
 ! Last modified: 12 Sep 2013
-! Version: 201309120934
+! Version: 201309121820
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -141,6 +141,7 @@
 ||dutchleader.nl/php/popex/
 ||ecoweb.pro/4ucampus/express/
 ||enjoy.be/promo/banner/
+||enviedeplus.be^*_banner_$third-party
 ||fashionchick.nl/images/banners/$third-party
 ||flirtfair.de^*/dppop.js
 ||flirtingsms.com/profileserver/
@@ -1050,4 +1051,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1023
+! Aantal filters: 1024
