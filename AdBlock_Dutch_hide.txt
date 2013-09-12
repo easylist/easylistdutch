@@ -2,8 +2,8 @@
 ! Title: DutchAdblockList
 ! Description: Dutch supplement for the Easylist filters
 ! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 9 Sep 2013
-! Version: 201309091814
+! Last modified: 12 Sep 2013
+! Version: 201309120934
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
@@ -27,6 +27,7 @@
 /nmc/adv/*
 /reclame-extra.
 /reclame-nieuws.
+/reclame.*=banner&
 /reclame2.
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
