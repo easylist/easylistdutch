@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Title: DutchAdblockList
+! Title: EasyList Dutch
 ! Description: Dutch supplement for the Easylist filters
-! Homepage: https://code.google.com/p/dutchadblockfilters/
-! Last modified: 12 Sep 2013
-! Version: 201309121820
+! Homepage: https://easylist.adblockplus.org/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+! Last modified: 19 Sep 2013
+! Version: 201309191821
 ! Expires: 4 days
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
