@@ -419,7 +419,6 @@
 ||mijnalbum.nl/afbeeldingen/overlays/
 ||mijnbericht.nl/gfx/esmart.swf
 ||mijnwoordenboek.nl/img/bab2.gif
-||misdaadkaart.nl^*http://www.misdaadkaart.nl/img/misdaadkaart-op-iphone-ad.jpg
 ||moerstaal.nl/banner
 ||mrstiff.nl/view/adx/
 ||mrstiff.nl/view/context/spot/
@@ -1051,4 +1050,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1024
+! Aantal filters: 1023
