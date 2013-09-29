@@ -630,6 +630,7 @@
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
 @@||adsense.nl^$~third-party
+@@||adv.scoutingkatwijk.nl^$~third-party
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
@@ -1050,4 +1051,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1023
+! Aantal filters: 1024
