@@ -908,6 +908,7 @@ twisternederland.com##.siyl
 indeed.nl##.sjl.sjas3
 gay.eu,gay.nl##.skyscraperParentBox
 hollandsheetste.nl##.skyscrpr
+techzine.nl##.small_banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
 vcmw-sigma.nl##.sponsor
@@ -1051,4 +1052,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1024
+! Aantal filters: 1025
