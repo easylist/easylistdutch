@@ -621,6 +621,7 @@
 @@||2cv.nl/markt/advertenties/$image,subdocument
 @@||2dehandskleertjes.nl/uploads/advertenties/
 @@||fotoapparatuur.nl/advertenties/
+@@||koopplein.nl^*/advertenties/upload
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sogeti.nl/advertenties/
 @@||spel.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
@@ -1052,4 +1053,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1025
+! Aantal filters: 1026
