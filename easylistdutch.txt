@@ -923,6 +923,7 @@ marktnet.nl##.textlink.snap_noshots
 tvgids.nl##.tips
 wetenschapsforum.nl##.top_banner
 limburger.nl##.top_story_banner
+nutech.nl##.trackevent[href^="/advertorial-"]
 uitburo.nl##.uitmail_banner_block
 voetbalzone.nl##.uniClick
 incestsexverhaaltjes.nl##.viagra
@@ -1053,4 +1054,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1026
+! Aantal filters: 1027
