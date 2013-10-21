@@ -617,7 +617,7 @@
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||track.adform.net/adfscript/?$script,domain=spel.nl
 @@||track.adform.net/adfserve/?$script,domain=spel.nl
-@@||vtm.be/vmmaplayer/embed?videoUrl=$subdocument,domain=zita.be
+@@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=zita.be
 !--------Uitzonderingen--------!
 @@||2cv.nl/markt/advertenties/$image,subdocument
 @@||2dehandskleertjes.nl/uploads/advertenties/
@@ -631,8 +631,8 @@
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
-@@||adsense.nl^$~third-party
-@@||adv.scoutingkatwijk.nl^$~third-party
+@@||adsense.nl^$domain=adsense.nl
+@@||adv.scoutingkatwijk.nl^$domain=scoutingkatwijk.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
