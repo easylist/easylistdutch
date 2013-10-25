@@ -233,7 +233,7 @@
 ||vegadates.com^*468x60wb7x.gif
 ||versio.nl/banners/
 ||videostrip.com/adsets/
-||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|skyradio.nl|zuka.nl
+||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|myradio.nl|skyradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||wegenerweb.nl/banners/
@@ -672,6 +672,9 @@
 ###cycloneslider-advertentie2-2
 ###cycloneslider-advertenties-1
 ###gesponsordelink
+###middenAd2_footer
+###middenAd3_footer
+###middenAd4_footer
 ###prog-sponsorlinks
 ###reclame_rechts
 ###reclamediv
@@ -1055,4 +1058,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1028
+! Aantal filters: 1031
