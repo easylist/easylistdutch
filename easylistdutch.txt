@@ -658,6 +658,8 @@
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
 @@||vakantiebijnederlandersinspanje.nl/layout/advert_$stylesheet
 @@||vakantiebijnederlandersinspanje.nl/layout/adverts/$image
+@@||vegelburg.nl/wp-content/plugins/useful-banner-manager/scripts.js?
+@@||vegelburg.nl/wp-content/uploads/useful_banner_manager_banners/$image
 @@||wattedoen.be/zoekertjes/imgads/
 @@||xxxplaza.nl/var/ads/$image,domain=xxxplaza.nl
 @@||zomoto.nl/js/advertisement.js?
@@ -1058,4 +1060,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1031
+! Aantal filters: 1033
