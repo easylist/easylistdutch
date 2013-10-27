@@ -335,7 +335,7 @@
 ||fiets.nl^*-banner-
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
-||froot.nl^*/campagnes/$script
+||froot.nl^*/campagnes/
 ||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
