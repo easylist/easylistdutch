@@ -206,6 +206,7 @@
 ||search-result.com^*/klokad2.js
 ||sexamateurtjes.nl/banners/
 ||sexia.be/banner
+||sexverhalen.com/vriendschap/
 ||sinclub.nl/banners/
 ||softsign.be/banners/
 ||startpagina.nl^*/dochters/*/banners/
@@ -336,6 +337,7 @@
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
 ||froot.nl^*/campagnes/
+||geilefotoverhalen.nl/banners/
 ||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
@@ -880,7 +882,6 @@ rtvoost.nl##.divRechterBanner
 rtl.nl##.extra_info_banner_container
 dbsuriname.com##.fblock
 verenigingautovandezaak.nl##.flash_banner_wrapper
-sexverhalen.com##.floating-banner
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.fullSizeBanner
 rijnmond.nl##.full_banner
 speeleiland.nl##.game-side-banner-wrap
@@ -1064,4 +1065,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1037
+! Aantal filters: 1038
