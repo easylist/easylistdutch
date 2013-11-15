@@ -509,6 +509,7 @@
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
 ||studentenwoningweb.nl^*/banner/
+||stuff-online.nl/images/banners/
 ||subtitlesnl.com/popup.js
 ||surfert.nl/images/flex.gif
 ||symbolic.be/_uploads/dbsbanners/
@@ -1065,4 +1066,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1038
+! Aantal filters: 1039
