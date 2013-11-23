@@ -362,6 +362,7 @@
 ||hln.be/regiojobs/teasers/
 ||hln.be/static/nmc/nmc/box/_luxehotels_nina.swf
 ||hln.be/static/nmc/nmc/rp/nav/
+||hobbyjournaal.nl/picdb/bovenbanner/
 ||hoefijzers.nl/banner/
 ||hondenvrienden.nl/banner/
 ||htforum.nl/yabbse/*-banner2.gif
@@ -1066,4 +1067,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1039
+! Aantal filters: 1040
