@@ -881,6 +881,7 @@ moviemeter.nl##.compare_banner_outer
 ie-forum.nl##.containersponsored
 uitburo.nl##.cultural-add-frontpage
 html-site.nl##.cursus
+kpnvandaag.nl##.dagaanbiedingenHomeGadget
 marktplaats.nl##.divHomeWidgetBannerMiddle
 marktplaats.nl##.divHomeWidgetGroups
 rtvoost.nl##.divRechterBanner
@@ -1070,4 +1071,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1043
+! Aantal filters: 1044
