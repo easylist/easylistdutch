@@ -577,6 +577,7 @@
 ||zoomin.tv/video/590x332_
 !--------Popups (derden)--------!
 ||affiliatepartners.com^$popup,third-party
+||datescoren.nl^*.pop|$popup
 ||nuvreemdgaan.nl^$popup,third-party
 ||vloerenvoordelig.nl^$popup,third-party
 !--------Popups--------!
@@ -1067,4 +1068,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1040
+! Aantal filters: 1041
