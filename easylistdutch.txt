@@ -681,6 +681,7 @@
 ###middenAd3_footer
 ###middenAd4_footer
 ###prog-sponsorlinks
+###reclame2
 ###reclame_rechts
 ###reclamediv
 ###rightbanner_adbest
@@ -1065,4 +1066,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1038
+! Aantal filters: 1039
