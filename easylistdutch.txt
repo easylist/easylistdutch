@@ -120,7 +120,6 @@
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ||109.70.1.61/bannersystem/
-||337.com^*/zhuguan1.html?
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||antares.fm/banners/
@@ -154,8 +153,6 @@
 ||goedkoop.info/lastminutebanner.php
 ||goldenpalaceaffiliates.com/marketing_tools/
 ||honig.nl/extern/honig-commercial-videobanner-
-||hyves-static.net^*/hyvesense/
-||hyves-static.net^*/overlay_ad.
 ||images.m4n.nl^*/hosting/
 ||images.textopus.nl^*/css_img/adflabel.png
 ||images2-telegraaf.nl/multimedia/archive/*/fitban_*.jpg
@@ -373,7 +370,6 @@
 ||html-site.nl/swf/bannerfinal.swf
 ||huizenhype.nl/banner/
 ||hvhonline.nl/media/*_banner_
-||hyves.nl^*/adhesecontroller.js
 ||ifanzy.nl/flash/banner-
 ||images.nickelodeon.nl/ad_
 ||informatique.nl^*/promos/*-takeover.
@@ -619,7 +615,6 @@
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
-@@||pool.looky.hyves.org/pool/lib/$image,domain=hyves.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
@@ -992,7 +987,6 @@ motor-forum.nl##div[id$="_banner"]
 ongein.nl##div[id$="_divAdNL"]
 songteksten.net##div[id$="banner"]
 pp2g.com##div[id*="_Leaderboard_"]
-hyves.nl##div[id^="adsense_"]
 zie.nl##div[id^="advertisement_"]
 hababam.nl##div[id^="had"]
 treinreiziger.nl##div[id^="subbanner"]
@@ -1071,4 +1065,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1044
+! Aantal filters: 1038
