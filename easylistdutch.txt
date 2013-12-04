@@ -583,6 +583,7 @@
 !--------Uitzonderingen (derden)--------!
 @@||cts.snmmd.nl/service/js/autoweek-nl/autoweektv/$script
 @@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
+@@||cts.snmmd.nl/service/js/shownieuws-nl-sns/$script
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
@@ -1066,4 +1067,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1039
+! Aantal filters: 1040
