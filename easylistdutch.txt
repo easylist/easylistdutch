@@ -861,6 +861,7 @@ limburger.nl##.banner_right
 viva.nl##.banner_sidebar
 limburger.nl##.banner_skyscraper
 limburger.nl##.banner_skyscraper + div[style]
+ziekenhuis.nl##.bannerborder
 automatiseringgids.nl##.bannercontainer
 wetenschapsforum.nl##.bannercontainer-carrousel
 bbb-carrierebeurs.nl,wassenaarders.nl##.bannergroup
@@ -1067,4 +1068,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1040
+! Aantal filters: 1041
