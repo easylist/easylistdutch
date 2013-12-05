@@ -335,6 +335,7 @@
 ||fiets.nl^*-banner-
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
+||freakpyromaniacs.com/images/banners/
 ||froot.nl^*/campagnes/
 ||geilefotoverhalen.nl/banners/
 ||girlsgogames.nl/vda/
@@ -1068,4 +1069,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1041
+! Aantal filters: 1042
