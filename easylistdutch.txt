@@ -629,6 +629,7 @@
 @@||fotoapparatuur.nl/advertenties/
 @@||koopplein.nl^*/advertenties/upload
 @@||showmodeluitverkoop.nl/upload/advertentie/
+@@||slimmerkopen.nl/timthumb/timthumb.php?src=/uploads/advertenties/
 @@||sogeti.nl/advertenties/
 @@||spel.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
@@ -1070,4 +1071,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1043
+! Aantal filters: 1044
