@@ -887,6 +887,7 @@ rtvoost.nl##.divRechterBanner
 rtl.nl##.extra_info_banner_container
 dbsuriname.com##.fblock
 verenigingautovandezaak.nl##.flash_banner_wrapper
+nl.hardware.info##.frontpage-wrapper li[data-position="2"]
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.fullSizeBanner
 rijnmond.nl##.full_banner
 speeleiland.nl##.game-side-banner-wrap
@@ -1069,4 +1070,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1042
+! Aantal filters: 1043
