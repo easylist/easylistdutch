@@ -297,6 +297,7 @@
 ||camping-frankrijk.nl/Graphics/yelloh2011.swf
 ||camping-frankrijk.nl/hoofdpaginabanners.asp
 ||chatgirl.nl^*/dlf468.
+||chauffeursforum.nl^*tvm.swf
 ||christelijkvakantieplein.nl^*-banner.
 ||cip.nl/asp_includes/site_topbanners.
 ||cip.nl/images/banners/
@@ -1071,4 +1072,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1044
+! Aantal filters: 1045
