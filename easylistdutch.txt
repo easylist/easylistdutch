@@ -800,6 +800,7 @@ hetkanwel.net###secondary > aside[id^="text-"]:nth-child(3) > .ssc > .textwidget
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(5) > .ssc > .textwidget
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
 dejaap.nl###sidebarRight > .blockHeading + article
+computertotaal.nl###sidebar_mediamarkt
 flabber.nl###site_takeover
 pu.nl###skin_container
 vdab.be###sky
@@ -1072,4 +1073,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1045
+! Aantal filters: 1046
