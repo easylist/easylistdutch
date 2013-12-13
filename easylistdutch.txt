@@ -820,6 +820,7 @@ scholieren.com###top
 voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
 telegraaf.nl###vsl_banner
+telegraaf.nl###widget4-300-250
 vinden.nl###zoektip
 blog.nl##.ADV
 bokt.be##.PopupDiv
@@ -1074,4 +1075,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1047
+! Aantal filters: 1048
