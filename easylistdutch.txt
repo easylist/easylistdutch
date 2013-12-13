@@ -318,6 +318,7 @@
 ||driving-fun.com/images/banners/
 ||dutchcharts.nl/images/sky_
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
+||dutchcowboys.nl/images/*-takeover.png
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||easylist.nl/125x125.swf
 ||eenhuiszoeken.nl/banner/
@@ -1073,4 +1074,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1046
+! Aantal filters: 1047
