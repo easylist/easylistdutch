@@ -845,7 +845,7 @@ apparata.nl,autoblog.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
-2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hardwarewoensdag.tv,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,toeto.com,zappsite.nl##.banner
+2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hardwarewoensdag.tv,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,toeto.com,westlanders.nu,zappsite.nl##.banner
 weeronline.nl##.banner + .specialBlockDiv
 at5.nl##.banner-300-100
 tvgids.nl##.banner-custom
@@ -933,6 +933,7 @@ twisternederland.com##.siyl
 indeed.nl##.sjl.sjas3
 gay.eu,gay.nl##.skyscraperParentBox
 hollandsheetste.nl##.skyscrpr
+westlanders.nu##.slides
 techzine.nl##.small_banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
@@ -1078,4 +1079,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1051
+! Aantal filters: 1052
