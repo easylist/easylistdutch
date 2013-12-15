@@ -454,6 +454,7 @@
 ||onzetaal.nl/banners/
 ||optimaalfm.nl/upload/files/banner-left/
 ||optimalegezondheid.com/wp-content/plugins/mowpop/
+||partyflock.nl/images/*=http://partyflock.nl/jlnk/$object
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
 ||pdd-nos.nl/footer.html
@@ -967,6 +968,7 @@ zdnet.be##a[href*="_redirect.cfm?ad_id="]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 historiek.net##a[href="http://historiek.net/1/click"]
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
+partyflock.nl##a[href^="/jlnk/"]
 voetbalzone.nl##a[href^="http://adserving.unibet.com/redirect.aspx?"]
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 netonline.be##a[href^="http://clk.tradedoubler.com/click?p="]
@@ -1076,4 +1078,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1049
+! Aantal filters: 1051
