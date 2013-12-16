@@ -419,6 +419,7 @@
 ||marktplaats.com/css/adminis-min.css
 ||media*.biertijd.com/galleries/*/banners/
 ||media.rtl.nl/web/components/service/streamspots/$object-subrequest
+||meppelercourant.nl/data/banners/
 ||meteovista.be/go/banner/
 ||metliefs.nl/banner_
 ||mijnalbum.nl/afbeeldingen/overlays/
@@ -804,6 +805,7 @@ hetkanwel.net###secondary > aside[id^="text-"]:nth-child(5) > .ssc > .textwidget
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
 dejaap.nl###sidebarRight > .blockHeading + article
 computertotaal.nl###sidebar_mediamarkt
+meppelercourant.nl###site-leaderboard
 flabber.nl###site_takeover
 pu.nl###skin_container
 vdab.be###sky
@@ -983,6 +985,7 @@ voetbalzone.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?bannerid="
 dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
 bet.nl##a[href^="http://vergelijkdata.com/"]
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
+meppelercourant.nl##a[href^="javascript:trackBanner("]
 janvissersweer.nl##a[id^="bannerclient"]
 autojunk.nl##a[onclick*="/outgoing/"]
 autoblog.nl##a[onclick*="/outgoing/"] + *
@@ -1079,4 +1082,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1052
+! Aantal filters: 1055
