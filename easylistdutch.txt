@@ -18,6 +18,7 @@
 /adverteerders/*
 /advertentie.
 /advertentie/*
+/advertentie1.
 /advertentie2/*
 /advertentie_head.
 /advertenties.
@@ -1082,4 +1083,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1055
+! Aantal filters: 1056
