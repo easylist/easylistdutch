@@ -1,0 +1,4 @@
+||affiliatepartners.com^$popup,third-party
+||datescoren.nl^*.pop|$popup
+||nuvreemdgaan.nl^$popup,third-party
+||vloerenvoordelig.nl^$popup,third-party

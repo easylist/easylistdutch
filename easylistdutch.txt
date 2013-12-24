@@ -12,6 +12,34 @@
 ! of stuur een email naar fam.lam [at] live.nl
 !
 !--------Algemene blokkeerregels--------!
+%include easylistdutch/block_general.txt%
+!--------Advertentiedomeinen (derden)--------!
+%include easylistdutch/block_third_party_server.txt%
+!--------Advertentiedomeinen--------!
+%include easylistdutch/block_first_party_server.txt%
+!--------Specifieke blokkeerregels (derden)--------!
+%include easylistdutch/block_third_party_resource.txt%
+!--------Specifieke blokkeerregels--------!
+%include easylistdutch/block_first_party_resource.txt%
+!--------Popups (derden)--------!
+%include easylistdutch/block_third_party_popup.txt%
+!--------Popups--------!
+%include easylistdutch/block_first_party_popup.txt%
+!--------Uitzonderingen (derden)--------!
+%include easylistdutch/block_third_party_whitelist.txt%
+!--------Uitzonderingen--------!
+%include easylistdutch/block_first_party_whitelist.txt%
+!--------Algemene verbergregels--------!
+%include easylistdutch/hide_general.txt%
+!--------Specifieke verbergregels--------!
+%include easylistdutch/hide_specific.txt%
+!--------Uitzonderingen (verbergregels)--------!
+%include easylistdutch/hide_whitelist.txt%
+!
+!
+! (if the above doesn't work...)
+!
+!--------Algemene blokkeerregels--------!
 /adbron.
 /adtwee/*
 /adv_tekstlinks.
