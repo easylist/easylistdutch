@@ -570,6 +570,7 @@
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||wiebetaaltwat.nl/includes/mr.miller/$image,object
+||wiskundeforum.nl/studysteps.jpg
 ||woningnetgroningen.nl^*/Images/banner/
 ||woningnetregioamsterdam.nl^*/Images/banner/
 ||woningnetregioutrecht.nl^*/Images/banner/
@@ -1083,4 +1084,4 @@ z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
-! Aantal filters: 1056
+! Aantal filters: 1057
