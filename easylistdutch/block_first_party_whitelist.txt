@@ -18,6 +18,7 @@
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
 @@||hebbes.be^*/AdsImages/$image
+@@||johanpolling.com/banners/$domain=johanpolling.com
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||leukespellen.be/ads_loader.$script,stylesheet
 @@||leukespellen.be/n/js/ads_hider.js
