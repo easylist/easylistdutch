@@ -8,8 +8,8 @@
 @@||ad.360yield.com/ul_cb/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||adform.net/banners/scripts/bootstrap/Adform.Bootstrap.js?$domain=spel.nl
 @@||adform.net/Banners/scripts/rmb/Adform.RMB.js?$domain=spel.nl
-@@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl
-@@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl
+@@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv
+@@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/addyn/3.0/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl

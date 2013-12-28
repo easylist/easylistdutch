@@ -55,6 +55,7 @@ hetkanwel.net###mc1 > .secondPad > .ssc:nth-child(n+3) > .textwidget
 eindexamen.nu,eindexamens.nu###mrectangle
 humo.be###notify
 humo.be###notify_overlay
+tvgids.tv###overlay-ad
 gentsefeesten.be###partner-logos
 digitallife.nl###partner_block
 forum.mokkels.nl###portals
