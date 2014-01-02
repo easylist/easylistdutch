@@ -17,6 +17,7 @@
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
+@@||fakkert-electronica.nl/images/adds/
 @@||hebbes.be^*/AdsImages/$image
 @@||johanpolling.com/banners/$domain=johanpolling.com
 @@||kapaza.be^*/ad_view_$script,stylesheet
