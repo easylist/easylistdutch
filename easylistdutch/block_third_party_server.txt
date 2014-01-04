@@ -39,7 +39,6 @@
 ||maakmedia.nl^$third-party
 ||mbs.midhold.nl^$third-party
 ||mbuyu.nl^$third-party,domain=~m4n.nl
-||mm1x.nl^$third-party
 ||netdirect.nl^$third-party
 ||neukjezuster.com^$third-party
 ||nonstoppartner.net^$third-party
