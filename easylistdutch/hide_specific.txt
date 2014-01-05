@@ -83,6 +83,7 @@ pu.nl###skin_container
 vdab.be###sky
 voetbalzone.nl###skyCrapp
 fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
+blikopnieuws.nl###spaar
 waarbenjij.nu###spanEbookersContainer
 uu.nl###sponsor_rotating_block
 meteovista.be,weeronline.nl###suppliersContainer

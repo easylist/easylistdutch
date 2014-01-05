@@ -40,6 +40,7 @@
 ||biertijd.com/media/banners/
 ||biologiepagina.nl/images/mijndomeingroen.jpg
 ||bits-chips.nl/uploads/tx_macinabanners/
+||blikopnieuws.nl^*/actie-domeinnaam.swf
 ||blog.nl/recente_links.js
 ||blog.nl/wp-content/daisy.js?
 ||bndestem-pzc.net/externeurl/hypothekenfeed.html
