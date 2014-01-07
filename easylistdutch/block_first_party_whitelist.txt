@@ -47,5 +47,7 @@
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
 ! Anti-Adblock
+@@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
+@@||alfaforum.nl^$elemhide
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest

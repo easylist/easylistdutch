@@ -39,3 +39,5 @@
 @@||track.adform.net/adfscript/?$script,domain=spel.nl
 @@||track.adform.net/adfserve/?$script,domain=spel.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=zita.be
+! Anti-Adblock
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=alfaforum.nl
