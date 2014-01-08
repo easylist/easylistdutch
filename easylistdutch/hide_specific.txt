@@ -233,6 +233,7 @@ medianed.com##.widget_text[id^="text-"]
 dichtbij.nl##.widgetbanner
 smulweb.nl##.winestein
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.x728x222.headerRow
+nsmbl.nl##A[rel^="ADVERTORIAL:"]
 hababam.nl##[id^="yui-gen"].postcontainer
 viva.nl##a[href*="&utm_medium=banner&"]
 techzine.nl##a[href*="/adv-"]

@@ -194,6 +194,7 @@
 ||netonline.be/slices/banners/
 ||nlondertitels.com/img/studentenlening.png
 ||nolensplein.nl/banners/
+||nsmbl.nl/wp-content/themes/*/campagnes/
 ||nu.nl/files/peilnl/
 ||nubijlage.nl/files/nubijlage/staatsloterij_336x500.swf
 ||nuspelen.nl/onlineluisteren.png
