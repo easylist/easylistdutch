@@ -91,6 +91,7 @@
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
 ||fiets.nl^*-banner-
+||flirtmee.nl/chat/banner_
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
 ||freakpyromaniacs.com/images/banners/
