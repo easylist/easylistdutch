@@ -17,7 +17,6 @@
 ||conversive.nl^$third-party
 ||coolconcepts.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
-||cts.snmmd.nl^$third-party
 ||doubleclick.net^$domain=2be.be|bnn.nl|eenvandaag.nl|ftw.nl|garagetv.be|mtv.nl|nederland.fm|nickelodeon.nl|nl.msn.com|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|radiodigitaal.nl|slamfm.nl|tros.nl|vi.nl|zie.nl
 ||ds1.nl^$third-party
 ||ehg-advertisementbv.hitbox.com^$third-party

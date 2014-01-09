@@ -1,7 +1,3 @@
-@@||cts.snmmd.nl/service/js/autoweek-nl/autoweektv/$script
-@@||cts.snmmd.nl/service/js/gamer-nl-gam/$script
-@@||cts.snmmd.nl/service/js/sbs6-nl-sbs6/plus/$script
-@@||cts.snmmd.nl/service/js/shownieuws-nl-sns/$script
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
