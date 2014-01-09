@@ -26,7 +26,6 @@
 ||gocams.nl^$third-party
 ||gratis-neuken.com^$third-party
 ||hotlinkie.com^$third-party
-||images.islive.nl^$third-party
 ||inviteonly.nl^$third-party
 ||jobat.be^$third-party
 ||k1s.nl^$third-party
