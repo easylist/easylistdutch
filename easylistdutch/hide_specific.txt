@@ -136,10 +136,8 @@ tvgids.nl##.bannerBox
 losseveter.nl##.bannerContainer
 rtvoost.nl##.bannerLink[href^="http://"]
 gay.eu,gay.nl##.bannerTopBox
-moviemeter.nl##.banner_bol
 retailnews.nl##.banner_button
-moviemeter.nl,musicmeter.nl##.banner_h
-moviemeter.nl##.banner_header
+musicmeter.nl##.banner_h
 limburger.nl##.banner_rectangle
 limburger.nl##.banner_right
 viva.nl##.banner_sidebar
@@ -271,6 +269,7 @@ rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 dutchattraction.nl##a[onclick^="countAdClick("]
 leukstespel.nl##a[target="_blank"] > img
 hln.be##a[title="Powered by Autozone.be"]
+moviemeter.nl##div[class^="banner"]
 hababam.nl##div[class^="had"]
 sexdumpert.nl##div[class^="maincenterbanner"]
 sexdumpert.nl##div[class^="mainleftbanner"]
