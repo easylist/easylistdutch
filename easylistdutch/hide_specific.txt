@@ -18,6 +18,7 @@ wiebetaaltwat.nl###banner-panel-right
 gay.eu,gay.nl###bannerLeft1
 flabber.nl###bannerMIDDLE-teaser
 rijnmond.nl###banner_c
+gay.nl###banner_rectangle
 spelle.nl###banner_side2
 optimaalfm.nl###banners
 cip.nl###banners_zijkant
@@ -57,6 +58,7 @@ eindexamen.nu,eindexamens.nu###mrectangle
 humo.be###notify
 humo.be###notify_overlay
 tvgids.tv###overlay-ad
+gay.nl###page_lead_takeover
 gentsefeesten.be###partner-logos
 digitallife.nl###partner_block
 forum.mokkels.nl###portals
@@ -181,7 +183,7 @@ rtl.nl##.inlineRectangle
 wtf.nl##.item-banner
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 ajaxcafe.nl##.leaderBoard
-9292ov.nl,tvgids.nl##.leaderboard
+9292ov.nl,gay.nl,tvgids.nl##.leaderboard
 top40.nl##.left-banner
 2xklikken.nl##.linksall:first-child
 nieuws.nl##.lokaal_banner_right
