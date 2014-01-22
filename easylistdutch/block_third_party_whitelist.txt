@@ -9,9 +9,12 @@
 @@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/addyn/3.0/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||adserver.adtech.de/addyn|3.0^$script,domain=9292.nl
 @@||adserver.adtech.de/multiad/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
+@@||aka-cdn-ns.adtech.de/apps/*/wallpaper.jpg$domain=9292.nl
 @@||arval.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?$image,domain=arval.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
+@@||cdn.adnxs.com/megatag.js$domain=9292.nl
 @@||cdn.eyewonder.com/*/video/$object-subrequest,domain=radioveronica.nl
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
@@ -21,6 +24,8 @@
 @@||google.com/adsense/$subdocument,domain=sedo.nl
 @@||google.com/adsense/search/ads.js$domain=zoover.be|zoover.nl
 @@||googletagservices.com/tag/js/gpt.js$domain=telegraaf.nl
+@@||ib.adnxs.com/ab?$script,domain=9292.nl
+@@||ib.adnxs.com/mtj?$script,domain=9292.nl
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
