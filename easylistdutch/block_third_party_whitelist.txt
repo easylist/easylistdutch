@@ -14,6 +14,7 @@
 @@||aka-cdn-ns.adtech.de/apps/*/wallpaper.jpg$domain=9292.nl
 @@||arval.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?$image,domain=arval.nl
 @@||blackbird.zoomin.tv/adhandler/$domain=standaard.be
+@@||cdn.adnxs.com/blank.js?$domain=9292.nl
 @@||cdn.adnxs.com/megatag.js$domain=9292.nl
 @@||cdn.eyewonder.com/*/video/$object-subrequest,domain=radioveronica.nl
 @@||cdnservices.com/webads_smarttags.v2.js$domain=vi.nl
