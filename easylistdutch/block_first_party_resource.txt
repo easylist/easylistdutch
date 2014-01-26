@@ -222,6 +222,7 @@
 ||pi4raz.nl/images/banners/
 ||pietsweer.nl/wp-content/uploads/*/sponsors-pietsweer_carousel_
 ||pinkribbon.nl/_files-cms/image/slideshows/actiebanners/
+||plattegronden.nl/siteadmin/banners/
 ||promootjesite.nl/popups/
 ||psv.nl/web/banner/
 ||pu.nl/skins/

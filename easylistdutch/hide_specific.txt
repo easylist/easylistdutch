@@ -32,7 +32,7 @@ telegraaf.nl###etalage
 f1today.nl###fanfashion
 tvgids.nl###flashTeaser a[rel="external"]
 infotalia.com,netonline.be###flashcontain
-copyrightvrijeplaatjes.nl###footer
+copyrightvrijeplaatjes.nl,plattegronden.nl###footer
 spele.nl###game_ban_2
 nl.msn.com###gesponsorde
 retecool.com###goldmemberad
