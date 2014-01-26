@@ -41,6 +41,7 @@ sextube.nl###header > div[style="background:#121212;"]
 verhalenlezen.nl###headerBanner
 hiphopinjesmoel.com###header_banner
 filmtotaal.nl###header_banner_area
+knuz.nl###homepage-content > #showimage[style^="position:absolute;width=562px;left:40px;top:250px;"] > table
 christelijkvakantieplein.nl###hoofdsponsors
 jooble.co.nl###j-1_ad
 jooble.co.nl###j-1_ad2
