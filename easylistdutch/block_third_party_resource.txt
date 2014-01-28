@@ -66,6 +66,7 @@
 ||pd5hw.eu/banners/
 ||pizzaonline.nl/wp-content/uploads/*/banner-
 ||pokernet.nl/images/banners/
+||powerconnect.be^*/poweractie.jpg$third-party
 ||prepaidhosted.nl/images/banners/
 ||privespot.nl/img/banners/
 ||promootjesite.nl/banex/
