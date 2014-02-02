@@ -33,6 +33,7 @@ f1today.nl###fanfashion
 tvgids.nl###flashTeaser a[rel="external"]
 infotalia.com,netonline.be###flashcontain
 copyrightvrijeplaatjes.nl,plattegronden.nl###footer
+debergsebode.nl,debevelandsebode.nl,deetten-leursebode.nl,dehalderbergsebode.nl,deroosendaalsebode.nl,derucphensebode.nl###footer_banner
 spele.nl###game_ban_2
 nl.msn.com###gesponsorde
 retecool.com###goldmemberad
@@ -53,6 +54,7 @@ hollandsheetste.nl###ldrbrd
 accountant.nl,deloads.nl,eindexamen.nu,eindexamens.nu,fok.nl###leaderboard
 nickelodeon.nl###leaderboard_container
 landbouwagenda.nl###leftBottom > div > a[target="_blank"]
+dezundertsebode.nl###left_banners
 zdnet.be###leftwallpaper
 hetkanwel.net###mc1 > .secondPad > .ssc:nth-child(n+3) > .textwidget
 eindexamen.nu,eindexamens.nu###mrectangle
@@ -72,7 +74,9 @@ speurders.nl###rectbanner_detail
 tweakers.net###relatedJobs
 kieskeurig.nl###rightBanner
 landbouwagenda.nl###rightBottom > div > a[target="_blank"]
+debergsebode.nl,debevelandsebode.nl,debredasebode.nl,deetten-leursebode.nl,dehalderbergsebode.nl,demiddelburgseenveersebode.nl,demoerdijksebode.nl,deroosendaalsebode.nl,derucphensebode.nl,desteenbergsebode.nl,dethoolsebode.nl,devlissingsebode.nl,dewoensdrechtsebode.nl,dezundertsebode.nl###right_banners
 leeuwarden.nu,mijnleeuwarden.nl###right_container .bannergroup
+debergsebode.nl,debevelandsebode.nl,debredasebode.nl,deetten-leursebode.nl,dehalderbergsebode.nl,demiddelburgseenveersebode.nl,demoerdijksebode.nl,deroosendaalsebode.nl,dewoensdrechtsebode.nl,dezundertsebode.nl###right_top_banner
 telegraaf.nl###rightbar > .artspacer
 zdnet.be###rightwallpaper
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(2) > .ssc > .textwidget

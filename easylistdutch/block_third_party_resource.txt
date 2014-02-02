@@ -39,6 +39,7 @@
 ||images2-telegraaf.nl/multimedia/archive/*/ontslag*.gif
 ||images2-telegraaf.nl/multimedia/archive/*/scrollbanner
 ||infopagina.nl/startpagina/banner/
+||internetbode.nl^*banner
 ||jarasoft.org/images/banners/
 ||klikbonvoordeel.nl/dagdeal.php
 ||koopon.nl/banners/
