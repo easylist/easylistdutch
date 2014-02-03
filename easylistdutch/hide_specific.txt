@@ -314,5 +314,3 @@ oops.nl##table[width][cellspacing="30"][align="center"]
 kapsels.net##td[width="164"] a[target="_blank"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
-! Anti-Adblock
-bouweenpc.nl###header-banner
