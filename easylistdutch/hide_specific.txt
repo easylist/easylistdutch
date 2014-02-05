@@ -21,6 +21,7 @@ flabber.nl###bannerMIDDLE-teaser
 rijnmond.nl###banner_c
 gay.eu,gay.nl###banner_rectangle
 spelle.nl###banner_side2
+genemuidenactueel.nl###bannernaast
 optimaalfm.nl###banners
 cip.nl###banners_zijkant
 z24.nl###bva336x280container

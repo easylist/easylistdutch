@@ -98,6 +98,7 @@
 ||froot.nl^*/campagnes/
 ||gay.nl/takeover/
 ||geilefotoverhalen.nl/banners/
+||genemuidenactueel.nl/data/banners/
 ||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
