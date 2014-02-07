@@ -10,6 +10,7 @@
 ||cupaa.nl/banners/
 ||de-keizer.nl/tassen/*/banner
 ||deloads.nl/js/mtvi_admanager.js
+||demediahub.nl^*/media/commercial/
 ||doubleclick.net/pfadx/homepage.nos.nl/
 ||doubleclick.net/pfadx/mediaplayer.nl/
 ||doubleclick.net/pfadx/npoplayer.nl/
