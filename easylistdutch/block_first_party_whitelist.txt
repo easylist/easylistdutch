@@ -18,6 +18,7 @@
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
 @@||fakkert-electronica.nl/images/adds/
+@@||forum.scholieren.com/banman/$domain=forum.scholieren.com
 @@||hebbes.be^*/AdsImages/$image
 @@||johanpolling.com/banners/$domain=johanpolling.com
 @@||kapaza.be^*/ad_view_$script,stylesheet
