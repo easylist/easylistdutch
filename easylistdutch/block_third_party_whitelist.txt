@@ -25,6 +25,7 @@
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.be|zoover.nl
 @@||google.com/adsense/$subdocument,domain=sedo.nl
 @@||google.com/adsense/search/ads.js$domain=zoover.be|zoover.nl
+@@||googleads.g.doubleclick.net/pagead/ads?ad_type=video_flash_text_image&$object-subrequest,domain=kinderspelletjes.nl
 @@||googletagservices.com/tag/js/gpt.js$domain=telegraaf.nl
 @@||ib.adnxs.com/ab?$script,domain=9292.nl
 @@||ib.adnxs.com/mtj?$script,domain=9292.nl
