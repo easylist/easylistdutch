@@ -2,6 +2,7 @@
 /adtwee/*
 /adv_tekstlinks.
 /adverteerders/*
+/advertentie-banner-
 /advertentie.
 /advertentie/*
 /advertentie1.

@@ -87,6 +87,9 @@ hetkanwel.net###secondary > aside[id^="text-"]:nth-child(5) > .ssc > .textwidget
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
 dejaap.nl###sidebarRight > .blockHeading + article
 computertotaal.nl###sidebar_mediamarkt
+digitaalburg.com###sidebar_wrap_right #sidebar_left center a
+digitaalburg.com###sidebar_wrap_right #sidebar_right center a
+digitaalburg.com###sidebar_wrap_right .SlideshowWidget
 meppelercourant.nl###site-leaderboard
 flabber.nl###site_takeover
 pu.nl###skin_container
@@ -213,6 +216,7 @@ kijkshop.nl##.rechterkolom-banner
 marktplaats.nl##.search-result.bottom-listing
 zita.be##.sidebar-add
 techzine.nl##.sidebar_rect
+digitaalburg.com##.sidebar_top
 twisternederland.com##.siyl
 indeed.nl##.sjl.sjas3
 gay.eu,gay.nl##.skyscraperParentBox

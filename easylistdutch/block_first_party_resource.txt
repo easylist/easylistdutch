@@ -67,6 +67,9 @@
 ||dekattensite.nl/afbeeldingen/banners/
 ||devegetarier.nl^*/vegapolis_banner.
 ||dierenbescherming.nl/afdimg/banners/
+||digitaalburg.com^*/promotion-slider/js/promoslider.js?
+||digitaalburg.com^*Adver
+||digitaalburg.com^*banner
 ||dinnersite.nl/banner/
 ||djbroadcast.nl/banner/
 ||djbroadcast.nl/banners/
