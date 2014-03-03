@@ -36,6 +36,7 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.
 ad.nl#@#.ad_bg
 speurders.nl#@#.ad_header
 telegraaf.nl#@#.addiv
+forum.fok.nl#@#.adfieldbg
 hotcontact.nl,xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
 zeelandnet.nl#@#.ads-list
