@@ -29,7 +29,7 @@ lekkerflesjewijn.nl,lektuinmaterialen.nl#@#.ad-container
 innerlijk-besef.nl#@#.ad-content
 innerlijk-besef.nl#@#.ad-footer
 innerlijk-besef.nl#@#.ad-header
-bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tctubantia.nl,tubantia.nl#@#.ad-spacer
+bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,radiozenders.fm,tctubantia.nl,tubantia.nl#@#.ad-spacer
 marktplaats.nl#@#.adSummary
 digitekst.com#@#.adTitle
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@#.ad_background
