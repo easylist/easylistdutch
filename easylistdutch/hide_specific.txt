@@ -1,3 +1,4 @@
+engineeringnet.be###MediumRectangles
 biertijd.com###TopBanner
 checkcams.com###acmain
 bullchat.eu,vrouwonline.nl###ad
@@ -24,6 +25,7 @@ spelle.nl###banner_side2
 genemuidenactueel.nl###bannernaast
 optimaalfm.nl###banners
 cip.nl###banners_zijkant
+engineeringnet.be###bredeskyscraper
 z24.nl###bva336x280container
 telegraaf.nl###bvacontainer
 pen.nl###contentdiv a[target="_blank"] > img[style="border:1px solid black"]
@@ -99,6 +101,7 @@ fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
 blikopnieuws.nl###spaar
 waarbenjij.nu###spanEbookersContainer
 uu.nl###sponsor_rotating_block
+engineeringnet.be###standaardbanner_2
 meteovista.be,weeronline.nl###suppliersContainer
 vmma.be###syndicatedPlayer_staybehind
 alternate.nl###teaserArea
@@ -194,7 +197,7 @@ rtl.nl##.inlineRectangle
 wtf.nl##.item-banner
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 ajaxcafe.nl##.leaderBoard
-9292ov.nl,gay.eu,gay.nl,tvgids.nl##.leaderboard
+9292ov.nl,engineeringnet.be,gay.eu,gay.nl,tvgids.nl##.leaderboard
 top40.nl##.left-banner
 2xklikken.nl##.linksall:first-child
 nieuws.nl##.lokaal_banner_right
@@ -226,6 +229,7 @@ westlanders.nu##.slides
 techzine.nl##.small_banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
+engineeringnet.be##.sponslinks
 vcmw-sigma.nl##.sponsor
 afspraakjes.be,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
 voetbalkrant.com##.take-banner
