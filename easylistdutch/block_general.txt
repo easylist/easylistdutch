@@ -12,6 +12,7 @@
 /advertenties/*
 /bannerlookup.
 /big_reclames/*
+/img/recl/*
 /nmc/adv/*
 /reclame-extra.
 /reclame-nieuws.

@@ -227,7 +227,7 @@ techzine.nl##.small_banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
 vcmw-sigma.nl##.sponsor
-boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
+afspraakjes.be,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
 z24.nl##.teaser
 metronieuws.nl##.teaser-component-inner
 tvgids.nl##.teaserLinks

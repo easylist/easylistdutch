@@ -118,6 +118,7 @@
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||w247.nl/v/64.js
+||watch-me-live.be/banner/
 ||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
 ||x0.nl/banners/
