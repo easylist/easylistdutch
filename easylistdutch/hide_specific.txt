@@ -133,6 +133,7 @@ porntubexl.nl,tube.nl##.ads
 nu.nl##.adsilver
 allradio.nl##.adv
 9292.nl,classicfm.nl,fcupdate.nl,onemorething.nl##.advert
+computeridee.nl##.advertentie-1korting-nl
 apparata.nl,autoblog.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
