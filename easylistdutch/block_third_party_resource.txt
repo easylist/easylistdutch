@@ -33,6 +33,7 @@
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||goldenpalaceaffiliates.com/marketing_tools/
+||hetsportmagazine.nl^*/externelinks/banner_
 ||honig.nl/extern/honig-commercial-videobanner-
 ||images.m4n.nl^*/hosting/
 ||images.textopus.nl^*/css_img/adflabel.png
