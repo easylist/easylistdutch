@@ -8,6 +8,7 @@
 @@||spel.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||te-les-koop.nl/advertenties.php
+@@||vakantieplaats.nl/afbeeldingen/advertentie/
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
