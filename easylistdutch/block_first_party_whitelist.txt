@@ -52,5 +52,6 @@
 ! Anti-Adblock
 @@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
 @@||alfaforum.nl^$elemhide
+@@||autoblog.nl/javascript/advertisement.js
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
