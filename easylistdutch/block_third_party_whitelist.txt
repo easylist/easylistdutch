@@ -6,6 +6,7 @@
 @@||ad4.liverail.com/?LR_VERTICALS=videostrip_nl,$xmlhttprequest,domain=twentefans.nl
 @@||adform.net/banners/scripts/bootstrap/Adform.Bootstrap.js?$domain=spel.nl
 @@||adform.net/Banners/scripts/rmb/Adform.RMB.js?$domain=spel.nl
+@@||adhese.be/tag/tagv1.js$domain=nieuwsblad.be
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv|voetbalprimeur.nl
 @@||admatcher.videostrip.com/?format=mp4,$xmlhttprequest,domain=ongein.nl|twentefans.nl
 @@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv|voetbalprimeur.nl
