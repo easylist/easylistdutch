@@ -103,6 +103,7 @@
 ||thisislive.com/promo/
 ||tienerorgies.be/promo/
 ||tienertube.nl/banners/
+||tools.islive.nl^*/promo_
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
 ||tvgidsassets.nl/graphics/ad*.gif
