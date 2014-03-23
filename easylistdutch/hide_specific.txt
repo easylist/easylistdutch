@@ -245,7 +245,7 @@ marktnet.nl##.textlink.snap_noshots
 tvgids.nl##.tips
 wetenschapsforum.nl##.top_banner
 limburger.nl##.top_story_banner
-chatmetvreemden.nl##.trackerclick
+chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nutech.nl##.trackevent[href^="/advertorial-"]
 uitburo.nl##.uitmail_banner_block
 voetbalzone.nl##.uniClick
