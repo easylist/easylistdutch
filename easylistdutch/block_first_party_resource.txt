@@ -196,6 +196,7 @@
 ||ndss.nl/static/ak.gif
 ||nederland.fm/i/*banner
 ||nederland.fm/i/restaurantantoine120x60.gif
+||nederland.fm/livebanner.php?
 ||nederlandnieuws.nl/scripts/afb_
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/

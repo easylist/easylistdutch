@@ -114,6 +114,8 @@ voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
 telegraaf.nl###vsl_banner
 telegraaf.nl###widget4-300-250
+nederland.fm###xbtm
+nederland.fm###xttm
 vinden.nl###zoektip
 blog.nl##.ADV
 bokt.be##.PopupDiv
