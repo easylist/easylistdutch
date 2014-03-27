@@ -102,6 +102,7 @@
 ||frankrijk.nl/flash/banner_
 ||freakpyromaniacs.com/images/banners/
 ||froot.nl^*/campagnes/
+||gamesquare.nl/doc/game/ad_
 ||gay.nl/takeover/
 ||geilefotoverhalen.nl/banners/
 ||genemuidenactueel.nl/data/banners/
