@@ -247,6 +247,7 @@
 ||rtv-arnhem.nl^*/fm/userfiles/banner/
 ||rtvutrecht.nl/data/img/reclame_
 ||ru.nl/web/upload/banner/bannerbanner
+||satellitemagazine.com/revda.php?
 ||scholieren.com/assets/images/*.jpg
 ||sexdumpert.nl/banner/
 ||sexdumpert.nl/banners/
