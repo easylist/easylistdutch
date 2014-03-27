@@ -54,6 +54,7 @@
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
 ||site-id.nl^$third-party
+||sponsorportaal.nl^$third-party
 ||sxad.nl^$third-party
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^$third-party
