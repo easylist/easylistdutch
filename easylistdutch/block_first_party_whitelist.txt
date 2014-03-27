@@ -12,6 +12,7 @@
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
+@@||ad.nl/ad/css/$~third-party
 @@||adhese.standaard.be/jsonp/callback/sl_test_dso_ipad_optimized_avondeditie_-interstitial/?$script
 @@||adsense.nl^$domain=adsense.nl
 @@||adv.scoutingkatwijk.nl^$domain=scoutingkatwijk.nl
