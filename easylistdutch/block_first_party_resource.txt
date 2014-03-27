@@ -23,6 +23,7 @@
 ||am-forum.nl/kbc-logo.swf
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amerika.nl^*/banners/
+||androidplanet.nl/wp-content/plugins/scroll-triggered-boxes/
 ||ans-online.nl/wp-content/themes/mimbo/images/Banner-
 ||antilliaansdagblad.com/images/banners/
 ||anwb.nl/binaries/swf/banners/
