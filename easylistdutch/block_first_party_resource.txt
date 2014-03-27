@@ -215,6 +215,7 @@
 ||omroepflevoland.nl/sitefiles/banners/
 ||ondertitel.com/popup.js
 ||onderweg.nl/assets/templates/modxhost/flash/banners/
+||onemorething.nl/wp-content/header-takeovers/
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
 ||onlineluisteren.nl/banner.html
