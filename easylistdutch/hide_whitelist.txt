@@ -49,3 +49,4 @@ telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 amonis.be#@#.text-ad
 kamernet.nl#@#.topAdd
+tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
