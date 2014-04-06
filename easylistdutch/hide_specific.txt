@@ -14,6 +14,7 @@ landbouwagenda.nl,nos.nl,paginamarkt.nl,vcmw-sigma.nl###banner
 buienradar.be###banner-a
 buienradar.be###banner-b
 seks-verhalen.nl###banner-blok-vier
+marktplaats.nl###banner-marketing
 marktplaats.nl###banner-mr
 wiebetaaltwat.nl###banner-panel-right
 dwtonline.com###banner1
@@ -110,6 +111,7 @@ mistermoney.nl###theLayer
 valuta.nl,wisselkoers.nl###theLayerSpaarrenteVergelijken
 valuta.nl,wisselkoers.nl###theLayerZorg
 scholieren.com###top
+marktplaats.nl###top-banner-wrapper
 voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
 telegraaf.nl###vsl_banner
