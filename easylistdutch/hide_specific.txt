@@ -122,6 +122,7 @@ vinden.nl###zoektip
 blog.nl##.ADV
 bokt.be##.PopupDiv
 bokt.be##.PopupScreen
+opwindend.net##.Tab > div > a
 marktnet.nl##.ThumbGoogle
 checkcams.com##.ab
 androidplanet.nl,dewereldmorgen.be,ipadclub.nl,iphoneclub.nl,metronieuws.nl,nu.nl,stemwijzer.nl,tvgids.nl,vkmag.com,z24.nl##.ad
@@ -311,7 +312,6 @@ treinreiziger.nl##div[id^="subbanner"]
 phphulp.nl##div[style$="background: #ff0000 url(/img/ads/bhosted.png) top left no-repeat; margin-bottom: 10px;"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
-opwindend.net##div[style="Height: 50Px; Width: 600Px;"]
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 moviescene.nl##form[name="justeat"]
 promootjesite.nl##iframe[width="728"][height="90"] + style + script + div[id]
