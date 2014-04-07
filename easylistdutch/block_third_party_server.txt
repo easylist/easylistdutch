@@ -47,7 +47,6 @@
 ||partnerwebsites.financereview.nl^$third-party
 ||partnerwebsites.mistermedia.nl^$third-party
 ||pics.obedo.nl^$third-party
-||privatecams.nl^$third-party
 ||promotions.teasemedia.nl^$third-party
 ||radiocoupon.nl^$third-party
 ||sallandacties.nl^$third-party
