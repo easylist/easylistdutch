@@ -59,6 +59,7 @@
 ||mobqo.nl^*/banner
 ||moneymiljonair.nl^*ban$third-party
 ||morren-consultancy.nl/$domain=rijden-op-aardgas.startkabel.nl
+||museter.com/player-banner/
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
 ||newkit.info^*/banner
 ||nieuws-2.nl/lokaal/banner/
