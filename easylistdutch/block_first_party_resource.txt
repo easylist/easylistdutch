@@ -224,7 +224,7 @@
 ||onzetaal.nl/banners/
 ||optimaalfm.nl/upload/files/banner-left/
 ||optimalegezondheid.com/wp-content/plugins/mowpop/
-||opwindend.net/BroodNodig.php?
+||opwindend.net/*.php?$subdocument
 ||partyflock.nl/images/*=http://partyflock.nl/jlnk/$object
 ||partyzone.be/rotatingbanner.php?
 ||pd5hw.nl/images/banner_*.jpg
