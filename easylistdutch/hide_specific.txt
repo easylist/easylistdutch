@@ -150,7 +150,8 @@ tvgids.nl##.banner-rectangle
 tvgids.nl##.banner-skyscraper
 tvgids.nl##.banner-top
 ajaxcafe.nl##.banner.mediumRectangle
-l1.nl##.banner1
+frequenties.net##.banner0
+frequenties.net,l1.nl##.banner1
 infonu.nl##.banner250
 joubuis.nl##.banner468x60
 tvgids.nl##.bannerBox
