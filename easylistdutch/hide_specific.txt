@@ -137,7 +137,7 @@ ncrv.nl##.add-disclaimer
 telegraaf.nl##.addiv > a[target="_new"]
 vt4.be##.adl_medium_rectangle
 nu.nl##.adorange
-porntubexl.nl,tube.nl##.ads
+porntubexl.nl,studio040.nl,tube.nl##.ads
 nu.nl##.adsilver
 allradio.nl##.adv
 9292.nl,classicfm.nl,fcupdate.nl,onemorething.nl##.advert
