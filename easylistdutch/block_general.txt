@@ -12,6 +12,7 @@
 /advertenties/*
 /bannerlookup.
 /big_reclames/*
+/bolcom-partnerprogramma-wordpress-plugin/*
 /img/recl/*
 /nmc/adv/*
 /reclame-extra.
