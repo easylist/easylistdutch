@@ -220,6 +220,7 @@
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
 ||onlineluisteren.nl/banner.html
+||onlineluisteren.nl^*-banner.png
 ||ontdek-amerika.nl/marketing/
 ||onzetaal.nl/banners/
 ||optimaalfm.nl/upload/files/banner-left/
