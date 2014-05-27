@@ -304,6 +304,7 @@ dutchattraction.nl##a[onclick^="countAdClick("]
 leukstespel.nl##a[target="_blank"] > img
 hln.be##a[title="Powered by Autozone.be"]
 moviemeter.nl##div[class^="banner"]
+startpagina.nl##div[class^="banner-"]
 hababam.nl##div[class^="had"]
 sexdumpert.nl##div[class^="maincenterbanner"]
 sexdumpert.nl##div[class^="mainleftbanner"]
