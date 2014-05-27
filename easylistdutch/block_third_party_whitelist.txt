@@ -41,7 +41,7 @@
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl|wereldklokken.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_36.js$domain=marktplaats.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_39.js$domain=marktplaats.nl
