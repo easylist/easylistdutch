@@ -1,4 +1,4 @@
-autodealers.nl,speurders.nl,xxxplaza.nl#@##advertentie
+autodealers.nl,metdehand.nl,speurders.nl,xxxplaza.nl#@##advertentie
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal1_no_border
 koopjes.marktplaats.nl,verkopen.marktplaats.nl#@#.ad_list_row_normal2

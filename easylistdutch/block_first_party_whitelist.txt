@@ -30,6 +30,7 @@
 @@||leukespellen.be/n/js/ads_hider.js
 @@||marktplaats.com/gzip_*/aurora/res/js/common/AdSense.js
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
+@@||metdehand.nl/var/ads/$~third-party
 @@||milkinc.be/ad.php|$subdocument
 @@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
 @@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
