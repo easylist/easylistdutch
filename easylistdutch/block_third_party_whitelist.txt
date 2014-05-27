@@ -26,6 +26,7 @@
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||g.doubleclick.net/gampad/ads?$script,domain=marktplaats.nl
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=radioluisteren.fm
+@@||ghstatic.com/archives/*&adurl=$object,domain=game.zylom.com
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.be|zoover.nl
 @@||google.com/adsense/$subdocument,domain=sedo.nl
 @@||google.com/adsense/search/ads.js$domain=zoover.be|zoover.nl
