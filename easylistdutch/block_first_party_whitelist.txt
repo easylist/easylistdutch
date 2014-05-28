@@ -17,6 +17,7 @@
 @@||adsense.nl^$domain=adsense.nl
 @@||adv.scoutingkatwijk.nl^$domain=scoutingkatwijk.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
+@@||bibliotheek.be/detail/*-advertise/$subdocument,~third-party,xmlhttprequest
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
