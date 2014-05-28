@@ -1,3 +1,4 @@
+.be/ads/
 /adbron.
 /adtwee/*
 /adv_tekstlinks.

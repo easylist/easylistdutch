@@ -93,9 +93,9 @@
 ||sinclub.nl/banners/
 ||softsign.be/banners/
 ||startpagina.nl^*/dochters/*/banners/
-||static-voetbalzone.nl^*/banner.js
 ||static-voetbalzone.nl/images/banners/
 ||static-voetbalzone.nl/images/unibet/
+||static-voetbalzone.nl^*/banner.js
 ||static-webregio.nl/content/acties/crosspromo/
 ||static-webregio.nl/content/banners/
 ||static2-voetbalzone.nl/images/ext_banners_
