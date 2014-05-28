@@ -119,6 +119,7 @@ marktplaats.nl###top-banner-wrapper
 voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
 telegraaf.nl###vsl_banner
+spel.nl###wdg_promo_kogama
 telegraaf.nl###widget4-300-250
 nederland.fm###xbtm
 nederland.fm###xttm
