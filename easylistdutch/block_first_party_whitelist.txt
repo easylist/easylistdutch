@@ -54,10 +54,8 @@
 @@||zomoto.nl/js/advertisement.js?
 @@||zuka.nl/images/ad_$image
 ! Anti-Adblock
-@@.png#$domain=gelrenieuws.nl
 @@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
 @@||alfaforum.nl^$elemhide
 @@||autoblog.nl/javascript/advertisement2.js
 @@||dumpert.nl^*/admatcher.doubleclick.net
-@@||gelrenieuws.nl^$elemhide
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest

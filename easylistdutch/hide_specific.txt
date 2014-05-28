@@ -91,6 +91,7 @@ hetkanwel.net###secondary > aside[id^="text-"]:nth-child(3) > .ssc > .textwidget
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(5) > .ssc > .textwidget
 stoerejongenzzz.nl###sidebar .jetpack-image-container > a
 beautylab.nl###sidebar .textwidget > a[target="_blank"]
+gelrenieuws.nl###sidebar2 > script + center
 dejaap.nl###sidebarRight > .blockHeading + article
 computertotaal.nl###sidebar_mediamarkt
 digitaalburg.com###sidebar_wrap_right #sidebar_left center a
