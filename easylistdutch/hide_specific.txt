@@ -180,6 +180,7 @@ startkabel.nl,vitesse.org##.banners
 dinnersite.nl##.banners_full
 dinnersite.nl##.banners_regio
 telegraaf.nl##.bbBannerTmg_wrapper
+moviemeter.nl##.billboard_wrapper
 biertijd.com##.blogrollAanraders
 okokorecepten.nl##.bnr_hd_rightcol
 girlsgogames.nl##.categoryBanner
