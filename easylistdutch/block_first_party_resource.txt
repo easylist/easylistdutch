@@ -172,7 +172,6 @@
 ||leerwiki.nl/leerwiki-doemee.swf?
 ||leerwiki.nl/test/promobanner.swf
 ||leukstespel.nl/pop$script
-||linex-be-nl.be/banner*.gif
 ||linkstartje.be/banners/
 ||localfm.nl/images/assets/banner-
 ||losseveter.nl^*/saucony_kinvara_
