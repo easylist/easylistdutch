@@ -43,9 +43,7 @@
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl|wereldklokken.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
-@@||partner.googleadservices.com/gpt/pubads_impl_36.js$domain=marktplaats.nl
-@@||partner.googleadservices.com/gpt/pubads_impl_39.js$domain=marktplaats.nl
-@@||partner.googleadservices.com/gpt/pubads_impl_40.js$domain=insidegamer.nl
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=insidegamer.nl|marktplaats.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
