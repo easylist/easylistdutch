@@ -24,7 +24,7 @@
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
-@@||g.doubleclick.net/gampad/ads?$script,domain=marktplaats.nl
+@@||g.doubleclick.net/gampad/ads?$script,domain=insidegamer.nl|marktplaats.nl
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=radioluisteren.fm
 @@||ghstatic.com/archives/*&adurl=$object,domain=game.zylom.com
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.be|zoover.nl
@@ -45,6 +45,7 @@
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_36.js$domain=marktplaats.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_39.js$domain=marktplaats.nl
+@@||partner.googleadservices.com/gpt/pubads_impl_40.js$domain=insidegamer.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
