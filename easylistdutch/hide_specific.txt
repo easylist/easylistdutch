@@ -31,6 +31,7 @@ cip.nl###banners_zijkant
 engineeringnet.be###bredeskyscraper
 z24.nl###bva336x280container
 telegraaf.nl###bvacontainer
+tvgids.nl###content-banner-rectangle
 pen.nl###contentdiv a[target="_blank"] > img[style="border:1px solid black"]
 nl.msn.com###dating
 acom.nl###divBanner
