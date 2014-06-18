@@ -5,6 +5,7 @@
 ||affiliatepartners.com^$third-party
 ||am.seoptics.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
+||assets.nudeal.nl^$third-party
 ||autotekoop.nl^$third-party
 ||banners.vip.nl^$third-party
 ||bannerwerving.nl^$third-party
