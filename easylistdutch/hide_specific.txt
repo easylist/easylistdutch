@@ -216,6 +216,7 @@ ajaxcafe.nl##.leaderBoard
 top40.nl##.left-banner
 2xklikken.nl##.linksall:first-child
 nieuws.nl##.lokaal_banner_right
+woordenlijst.eu##.maincontents > center a[target="_blank"]
 allesamerika.com##.menu > p > a[target="_blank"]
 checkcams.com##.mfoot
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
