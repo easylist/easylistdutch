@@ -176,6 +176,7 @@ telegraaf.nl##.bannercenter
 automatiseringgids.nl##.bannercontainer
 wetenschapsforum.nl##.bannercontainer-carrousel
 bbb-carrierebeurs.nl,wassenaarders.nl##.bannergroup
+joomlanl.nl##.banneritem
 startkabel.nl,vitesse.org##.banners
 dinnersite.nl##.banners_full
 dinnersite.nl##.banners_regio
