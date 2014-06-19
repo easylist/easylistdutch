@@ -21,7 +21,7 @@ comedycentral.nl#@##bannerad
 archiefleeuwardercourant.nl#@##headerAdv
 losseveter.nl#@##mainAd
 schaatsen.nl#@#.HeaderAd
-innerlijk-besef.nl#@#.ad-block
+innerlijk-besef.nl,landleven.nl#@#.ad-block
 bokt.nl#@#.ad-body
 autodealers.nl#@#.ad-btn
 innerlijk-besef.nl#@#.ad-button
@@ -47,6 +47,7 @@ zuka.nl#@#.advtitle
 z24.nl#@#.category-ad
 telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
+landleven.nl#@#.post-ad
 amonis.be#@#.text-ad
 kamernet.nl#@#.topAdd
 tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
