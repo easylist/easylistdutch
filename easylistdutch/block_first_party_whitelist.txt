@@ -21,6 +21,7 @@
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
+@@||emarketingexperts.nl/images/stories/adwords/
 @@||facebook.com/AD.NL?$subdocument,~third-party
 @@||fakkert-electronica.nl/images/adds/
 @@||forum.scholieren.com/banman/$domain=forum.scholieren.com
