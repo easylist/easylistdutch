@@ -30,6 +30,7 @@
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||leukespellen.be/ads_loader.$script,stylesheet
 @@||leukespellen.be/n/js/ads_hider.js
+@@||marktplaats.com/gzip_*/aurora/bundles/adsense-common.js
 @@||marktplaats.com/gzip_*/aurora/res/js/common/AdSense.js
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
 @@||metdehand.nl/var/ads/$~third-party
