@@ -249,7 +249,7 @@ techzine.nl##.small_banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
 engineeringnet.be##.sponslinks
-vcmw-sigma.nl##.sponsor
+utopiatv.nl,vcmw-sigma.nl##.sponsor
 afspraakjes.be,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
 voetbalkrant.com##.take-banner
 z24.nl##.teaser
