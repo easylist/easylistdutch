@@ -10,6 +10,7 @@
 ||banners.vip.nl^$third-party
 ||bannerwerving.nl^$third-party
 ||bingocamspartners.com^$third-party
+||bluemango.nl^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl|z24.nl
 ||cambonus.com^$third-party
 ||camsholland.eu^$third-party

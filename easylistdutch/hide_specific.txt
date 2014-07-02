@@ -274,7 +274,7 @@ smulweb.nl##.winestein
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.x728x222.headerRow
 nsmbl.nl##A[rel^="ADVERTORIAL:"]
 hababam.nl##[id^="yui-gen"].postcontainer
-viva.nl##a[href*="&utm_medium=banner&"]
+cartweet.com,viva.nl##a[href*="&utm_medium=banner&"]
 techzine.nl##a[href*="/adv-"]
 techzine.nl##a[href*="/adv-"] ~ *
 techzine.nl##a[href*="/advertorial"]
