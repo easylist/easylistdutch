@@ -129,6 +129,7 @@
 ||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
 ||x0.nl/banners/
+||xingo.nl/bannermanagement/
 ||xlshosting.net/wp-content/uploads/idwbanner.png
 ||xxxsmsjes.nl/banners/
 ||zideo.nl/player/plugins/ova/ova.swf
