@@ -250,6 +250,7 @@
 ||ru.nl/web/upload/banner/bannerbanner
 ||satellitemagazine.com/revda.php?
 ||scholieren.com/assets/images/*.jpg
+||scholieren.net/public/i/Wallpaper
 ||sexdumpert.nl/banner/
 ||sexdumpert.nl/banners/
 ||sexgamer.nl/banners/
