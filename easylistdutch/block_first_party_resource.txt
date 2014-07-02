@@ -310,6 +310,7 @@
 ||tvgids.nl/banner/
 ||tvgids.nl/lightview/interstitial/
 ||twentefans.nl/banner/
+||uitdagingonline.nl/images/banners/random-
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
 ||unimaas.nl/mkbportal/images/*anner
 ||unimaas.nl/mkbportal/images/student_nl.gif
