@@ -285,6 +285,7 @@
 ||statisch.detelefoongids.nl^*/1888_logo-met-payoff*.jpg
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
 ||stemwijzer.nl^*/images/*/islabanner.swf
+||studeersnel.nl/admin/upload_ban/
 ||studenten.nl/upload/banners/
 ||studenten.nl/upload/flash/banner
 ||studentenwoningweb.nl^*/banner/
