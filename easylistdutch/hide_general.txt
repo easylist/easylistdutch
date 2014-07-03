@@ -11,6 +11,7 @@
 ###prog-sponsorlinks
 ###reclame2
 ###reclame_rechts
+###reclamebanner
 ###reclamediv
 ###rightbanner_adbest
 ###semilo-lrectangle

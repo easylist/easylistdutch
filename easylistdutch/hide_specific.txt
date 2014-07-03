@@ -65,6 +65,7 @@ landbouwagenda.nl###leftBottom > div > a[target="_blank"]
 dezundertsebode.nl###left_banners
 zdnet.be###leftwallpaper
 hetkanwel.net###mc1 > .secondPad > .ssc:nth-child(n+3) > .textwidget
+rtvnoord.nl###middenbanner
 eindexamen.nu,eindexamens.nu###mrectangle
 humo.be###notify
 humo.be###notify_overlay
