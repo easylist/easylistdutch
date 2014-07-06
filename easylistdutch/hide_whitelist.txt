@@ -25,8 +25,6 @@ innerlijk-besef.nl,landleven.nl#@#.ad-block
 bokt.nl#@#.ad-body
 autodealers.nl#@#.ad-btn
 innerlijk-besef.nl#@#.ad-button
-lekkerflesjewijn.nl,lektuinmaterialen.nl#@#.ad-container
-innerlijk-besef.nl#@#.ad-content
 innerlijk-besef.nl#@#.ad-footer
 innerlijk-besef.nl#@#.ad-header
 bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,radiozenders.fm,tctubantia.nl,tubantia.nl#@#.ad-spacer
@@ -39,8 +37,6 @@ telegraaf.nl#@#.addiv
 forum.fok.nl#@#.adfieldbg
 hotcontact.nl,xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
-zeelandnet.nl#@#.ads-list
-digitekst.com#@#.adtitle
 autotekoop.nl#@#.advert-title
 schaatsen.nl#@#.advertisement-header
 zuka.nl#@#.advtitle
