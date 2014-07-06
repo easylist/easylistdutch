@@ -142,8 +142,6 @@
 ||ifanzy.nl/flash/banner-
 ||images.nickelodeon.nl/ad_
 ||informatique.nl^*/promos/*-takeover.
-||internetbode.nl/banner
-||internetbode.nl/images/*_banner.gif
 ||ishotmyself.nl/include/xhtml/promo/
 ||israeltoday.nl/_static/israeltoday.nl/img/banners/
 ||janvissersweer.nl/images/banners/
