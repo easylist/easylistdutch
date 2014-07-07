@@ -223,6 +223,7 @@ woordenlijst.eu##.maincontents > center a[target="_blank"]
 allesamerika.com##.menu > p > a[target="_blank"]
 checkcams.com##.mfoot
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
+nu.nl##.nu-blendle-widget
 yasni.nl##.offerbox
 weer.nl##.one_mega_big_row_html_teaser
 zeilen.nl##.partnerBox
