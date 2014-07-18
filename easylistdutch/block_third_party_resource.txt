@@ -5,6 +5,7 @@
 ||api.skyscanner.net/api.ashx?$domain=viva.nl
 ||babysitster.nl/banners/
 ||bol.com/nl/upload/banners/
+||booking.com/?aid=$domain=puuropreis.nl
 ||brightcove.com/js/BrightcoveExperiences.js$domain=backpackgek.nl
 ||buzzlab.nl/input/*Banner
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party

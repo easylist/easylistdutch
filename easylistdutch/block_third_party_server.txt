@@ -53,6 +53,7 @@
 ||promotions.teasemedia.nl^$third-party
 ||radiocoupon.nl^$third-party
 ||sallandacties.nl^$third-party
+||samenresultaat.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||semilo.com^$third-party
 ||site-id.nl^$third-party

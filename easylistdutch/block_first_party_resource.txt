@@ -236,6 +236,7 @@
 ||promootjesite.nl/popups/
 ||psv.nl/web/banner/
 ||pu.nl/skins/
+||puuropreis.nl/images/banners/booking249x70_
 ||quotenet.nl/images/banners/
 ||racesport.nl^*/flash/shoptk.swf
 ||racesport.nl^*/ibanner/
