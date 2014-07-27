@@ -41,6 +41,7 @@ f1today.nl###fanfashion
 tvgids.nl###flashTeaser a[rel="external"]
 infotalia.com,netonline.be###flashcontain
 copyrightvrijeplaatjes.nl,plattegronden.nl###footer
+vijverenkoiparadijs.eu###footer td[style="width: 218px;"]
 debergsebode.nl,debevelandsebode.nl,deetten-leursebode.nl,dehalderbergsebode.nl,deroosendaalsebode.nl,derucphensebode.nl###footer_banner
 spele.nl###game_ban_2
 nl.msn.com###gesponsorde
