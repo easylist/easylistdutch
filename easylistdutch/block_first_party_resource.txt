@@ -325,6 +325,7 @@
 ||vi.nl/files/commercie/takeover/
 ||viastart.nl^*/sponsors.js
 ||vid.nl/images/de_filmpje.swf
+||vijfzintuigen.nl/banner/
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
 ||volkskrant.nl/static/nmc/prm/box/images/201
