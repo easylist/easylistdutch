@@ -44,7 +44,6 @@
 ||neukjezuster.com^$third-party
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
-||partner.keuze.nl^$third-party
 ||partnerclicks.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
 ||partnerwebsites.financereview.nl^$third-party
