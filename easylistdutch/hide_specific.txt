@@ -266,6 +266,7 @@ wetenschapsforum.nl##.top_banner
 limburger.nl##.top_story_banner
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nutech.nl##.trackevent[href^="/advertorial-"]
+popinstituut.nl##.trivago_widget_text
 uitburo.nl##.uitmail_banner_block
 voetbalzone.nl##.uniClick
 incestsexverhaaltjes.nl##.viagra

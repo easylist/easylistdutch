@@ -112,6 +112,7 @@
 ||tools.islive.nl^*/promo_
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
+||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||tvgidsassets.nl/graphics/ad*.gif
 ||tvgidsassets.nl/graphics/bg_teaserlnk.gif
 ||tvgidsassets.nl^*/img/ad*_gray.gif
