@@ -46,6 +46,7 @@
 @@||prerollads.nl^
 @@||quefaire.be/annonces/imgads/
 @@||sbat.be/pages/banner.php
+@@||studenten.net/_cache/uniframe/img/background-728x90.snet.jpg
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
 @@||vakantiebijnederlandersinspanje.nl/layout/advert_$stylesheet
 @@||vakantiebijnederlandersinspanje.nl/layout/adverts/$image

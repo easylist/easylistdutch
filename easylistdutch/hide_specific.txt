@@ -249,6 +249,7 @@ hollandsheetste.nl##.skyscrpr
 westlanders.nu##.slides
 liveuitslagen.nl##.slive
 techzine.nl##.small_banner
+studenten.net##.snet-auto-banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
 engineeringnet.be##.sponslinks
