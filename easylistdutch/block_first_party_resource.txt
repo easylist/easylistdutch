@@ -68,6 +68,7 @@
 ||culemborgsecourant.nl^*/bdu_banners/
 ||deboswachter.nl/dysbanner.gif
 ||dekattensite.nl/afbeeldingen/banners/
+||dekrantvanmiddendrenthe.nl^*/banners/
 ||devegetarier.nl^*/vegapolis_banner.
 ||dierenbescherming.nl/afdimg/banners/
 ||digitaalburg.com^*/promotion-slider/js/promoslider.js?

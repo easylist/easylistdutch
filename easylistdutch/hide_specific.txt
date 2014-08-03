@@ -100,7 +100,7 @@ computertotaal.nl###sidebar_mediamarkt
 digitaalburg.com###sidebar_wrap_right #sidebar_left center a
 digitaalburg.com###sidebar_wrap_right #sidebar_right center a
 digitaalburg.com###sidebar_wrap_right .SlideshowWidget
-meppelercourant.nl###site-leaderboard
+dekrantvanmiddendrenthe.nl,meppelercourant.nl###site-leaderboard
 flabber.nl###site_takeover
 pu.nl###skin_container
 vdab.be###sky
@@ -333,6 +333,7 @@ phphulp.nl##div[style$="background: #ff0000 url(/img/ads/bhosted.png) top left n
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
 gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
+dekrantvanmiddendrenthe.nl##div[style="position: relative; width: 300px; height: 250px; overflow: hidden;"]
 moviescene.nl##form[name="justeat"]
 promootjesite.nl##iframe[width="728"][height="90"] + style + script + div[id]
 partyflock.nl##img[alt^="[BANNER#"]
