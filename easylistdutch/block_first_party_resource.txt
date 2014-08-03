@@ -78,6 +78,7 @@
 ||djbroadcast.nl/banners/
 ||dreddezewir.nl/images/reparateurke_banner.jpg
 ||driving-fun.com/images/banners/
+||dutchcharts.nl/images/*_775x90_
 ||dutchcharts.nl/images/sky_
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dutchcowboys.nl/images/*-takeover.png
