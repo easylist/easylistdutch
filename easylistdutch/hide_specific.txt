@@ -121,6 +121,7 @@ scholieren.com###top
 marktplaats.nl###top-banner-wrapper
 voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
+zeegat.nl###vlissingen700
 telegraaf.nl###vsl_banner
 spel.nl###wdg_promo_kogama
 telegraaf.nl###widget4-300-250
