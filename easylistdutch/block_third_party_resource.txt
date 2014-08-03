@@ -135,6 +135,7 @@
 ||xingo.nl/bannermanagement/
 ||xlshosting.net/wp-content/uploads/idwbanner.png
 ||xxxsmsjes.nl/banners/
+||youtube.com/yva_video?adformat=$object-subrequest,domain=vtm.be
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
 ||zoomin.tv/uploaded/banners/
