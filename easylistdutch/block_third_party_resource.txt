@@ -130,6 +130,7 @@
 ||watch-me-live.be/banner/
 ||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
+||wildhitz.nl/NLFM/NLFMbanner.html
 ||x0.nl/banners/
 ||xingo.nl/bannermanagement/
 ||xlshosting.net/wp-content/uploads/idwbanner.png
