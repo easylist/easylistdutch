@@ -36,8 +36,8 @@
 @@||ib.adnxs.com/mtj?$script,domain=9292.nl
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
-@@||imasdk.googleapis.com/flash/core/adsapi_3_0_$object-subrequest,domain=538.nl|radiodigitaal.nl
-@@||imasdk.googleapis.com/flash/sdkloader/adsapi_3.swf$object-subrequest,domain=538.nl|radiodigitaal.nl
+@@||imasdk.googleapis.com/flash/core/adsapi_3_0_$object-subrequest,domain=538.nl|radiodigitaal.nl|slamfm.nl
+@@||imasdk.googleapis.com/flash/sdkloader/adsapi_3.swf$object-subrequest,domain=538.nl|radiodigitaal.nl|slamfm.nl
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
