@@ -51,6 +51,7 @@ sextube.nl###header > div[style="background:#121212;"]
 verhalenlezen.nl###headerBanner
 hiphopinjesmoel.com###header_banner
 filmtotaal.nl###header_banner_area
+geilestartpagina.nl###headerwidgets
 knuz.nl###homepage-content > #showimage[style^="position:absolute;width=562px;left:40px;top:250px;"] > table
 christelijkvakantieplein.nl###hoofdsponsors
 jooble.co.nl###j-1_ad
@@ -291,6 +292,7 @@ landenweb.net##a[href="_hPromotionADLW.htm"]
 historiek.net##a[href="http://historiek.net/1/click"]
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
 partyflock.nl##a[href^="/jlnk/"]
+geilestartpagina.nl##a[href^="http://aff."]
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
 netonline.be##a[href^="http://clk.tradedoubler.com/click?p="]
 synoniemen.net##a[href^="http://ds1.nl/c/?"]
