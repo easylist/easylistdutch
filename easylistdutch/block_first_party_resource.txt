@@ -242,6 +242,7 @@
 ||psx-sense.nl/destiny.swf
 ||pu.nl/skins/
 ||puuropreis.nl/images/banners/booking249x70_
+||quizlet.nl/images/banners/
 ||quotenet.nl/images/banners/
 ||racesport.nl^*/flash/shoptk.swf
 ||racesport.nl^*/ibanner/
