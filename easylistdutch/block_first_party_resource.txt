@@ -247,6 +247,7 @@
 ||racesport.nl^*/flash/shoptk.swf
 ||racesport.nl^*/ibanner/
 ||red.nl/images/banner_
+||rhedennieuws.nl/scripts/afb_v2.js
 ||rolhockey.be/sponsoring/
 ||rondomvoetbal.nl/images/uploads/frontpage_banners/
 ||rookmelden.nl/images/stories/banner-
