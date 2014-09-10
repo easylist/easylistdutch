@@ -268,6 +268,7 @@ viva.nl##.teasers_sidebar
 noordhollandsdagblad.nl##.textLinksPlus
 marktnet.nl##.textlink.snap_noshots
 tvgids.nl##.tips
+katholieknieuwsblad.nl##.tm-toolbar
 wetenschapsforum.nl##.top_banner
 limburger.nl##.top_story_banner
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick

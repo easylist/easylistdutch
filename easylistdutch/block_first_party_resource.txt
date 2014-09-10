@@ -152,6 +152,8 @@
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
 ||jouwvoordeelindekempen.be^*/banner/
+||katholieknieuwsblad.nl/images/banners/onlineluisteren.gif
+||katholieknieuwsblad.nl/images/banners^*banner
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kieskeurig.nl/rectangle?
 ||kijkshop.nl/flash/vanvoordeel.swf
