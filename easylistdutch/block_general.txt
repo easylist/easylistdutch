@@ -18,6 +18,7 @@
 /bolcom-partnerprogramma-wordpress-plugin/*
 /img/recl/*
 /nmc/adv/*
+/prikbordAdvertentie_
 /reclame-extra.
 /reclame-nieuws.
 /reclame.*=banner&
