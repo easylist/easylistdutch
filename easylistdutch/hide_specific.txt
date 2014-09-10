@@ -61,6 +61,7 @@ pen.nl###kolomlinksdiv > a[target="_self"]
 pen.nl###kolomrechtsdiv
 beursgorilla.nl###layer
 hollandsheetste.nl###ldrbrd
+techzine.nl###lead
 accountant.nl,deloads.nl,eindexamen.nu,eindexamens.nu,fok.nl###leaderboard
 nickelodeon.nl###leaderboard_container
 landbouwagenda.nl###leftBottom > div > a[target="_blank"]
