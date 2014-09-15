@@ -50,6 +50,7 @@
 ||partnerwebsites.financereview.nl^$third-party
 ||pics.obedo.nl^$third-party
 ||promotions.teasemedia.nl^$third-party
+||qads6.nl^$third-party
 ||radiocoupon.nl^$third-party
 ||sallandacties.nl^$third-party
 ||samenresultaat.nl^$third-party
