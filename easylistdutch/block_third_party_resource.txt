@@ -48,6 +48,7 @@
 ||infopagina.nl/startpagina/banner/
 ||internetbode.nl^*banner
 ||jarasoft.org/images/banners/
+||jobat.be/scripts/jobatscripts.js
 ||klikbonvoordeel.nl/dagdeal.php
 ||koopon.nl/banners/
 ||laagstehypotheekofferte.nl/widget/*/

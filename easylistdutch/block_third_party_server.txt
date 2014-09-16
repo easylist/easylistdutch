@@ -31,7 +31,6 @@
 ||gratis-neuken.com^$third-party
 ||hotlinkie.com^$third-party
 ||inviteonly.nl^$third-party
-||jobat.be^$third-party
 ||k1s.nl^$third-party
 ||kimhollandpartners.nl^$third-party
 ||klikbonus.com^$third-party
