@@ -245,6 +245,7 @@ vastgoedjournaal.nl##.randomcontent
 kijkshop.nl##.rechterkolom-banner
 9292ov.nl,rtvnh.nl,valuta.nl##.rectangle
 marktplaats.nl##.search-result.bottom-listing
+vinden.nl##.searchresult-a
 zita.be##.sidebar-add
 techzine.nl##.sidebar_rect
 digitaalburg.com##.sidebar_top
