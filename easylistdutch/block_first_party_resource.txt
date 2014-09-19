@@ -302,6 +302,7 @@
 ||stuff-online.nl/images/banners/
 ||subtitlesnl.com/popup.js
 ||surfert.nl/images/flex.gif
+||susteren.nu/home/wp-content/gallery/sponsors/
 ||symbolic.be/_uploads/dbsbanners/
 ||tastelikepizza.com/media/*-banner.swf
 ||te-les-koop.nl/images/B_
