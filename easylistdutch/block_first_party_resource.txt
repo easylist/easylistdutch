@@ -99,6 +99,7 @@
 ||festivalinfo.nl/img/banner/
 ||fiets.nl/uploads/banners/
 ||fiets.nl^*-banner-
+||flevoland.to/~birgit/*-banner.gif
 ||flirtmee.nl/chat/banner_
 ||forum.spaarinformatie.nl/si-info.html
 ||frankrijk.nl/flash/banner_
