@@ -24,6 +24,7 @@
 /reclame-nieuws.
 /reclame.*=banner&
 /reclame2.
+/reclamebanners/*
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
