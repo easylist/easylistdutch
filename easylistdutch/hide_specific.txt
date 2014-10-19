@@ -155,6 +155,7 @@ computeridee.nl##.advertentie-1korting-nl
 apparata.nl,autoblog.nl,skipr.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
+waldnet.nl##.art-lin > div:first-child > a[target="_blank"]
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
 2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hardwarewoensdag.tv,hetkrantje-online.nl,insidegamer.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,telegraaf.nl,toeto.com,westlanders.nu,zappsite.nl##.banner
 weeronline.nl##.banner + .specialBlockDiv
