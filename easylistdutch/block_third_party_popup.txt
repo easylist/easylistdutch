@@ -2,4 +2,5 @@
 ||datescoren.nl^*.pop|$popup
 ||nuvreemdgaan.nl^$popup,third-party
 ||seksdatematch.nl^*.pop|$popup
+||stkdx.com^$popup,third-party
 ||vloerenvoordelig.nl^$popup,third-party
