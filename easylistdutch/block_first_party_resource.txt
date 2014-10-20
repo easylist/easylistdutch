@@ -143,6 +143,7 @@
 ||huizenhype.nl/banner/
 ||hvhonline.nl/media/*_banner_
 ||ifanzy.nl/flash/banner-
+||ijvv.nl/images/sponsors/
 ||images.nickelodeon.nl/ad_
 ||informatique.nl^*/promos/*-takeover.
 ||ishotmyself.nl/include/xhtml/promo/
