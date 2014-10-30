@@ -290,6 +290,7 @@ dichtbij.nl##.widgetbanner
 smulweb.nl##.winestein
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.x728x222.headerRow
 vinden.nl##.yhads
+genemuidenactueel.nl##:not(.left) > .wpx_bannerize
 nsmbl.nl##A[rel^="ADVERTORIAL:"]
 hababam.nl##[id^="yui-gen"].postcontainer
 cartweet.com,viva.nl##a[href*="&utm_medium=banner&"]

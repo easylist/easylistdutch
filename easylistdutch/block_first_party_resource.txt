@@ -108,7 +108,7 @@
 ||gamesquare.nl/doc/game/ad_
 ||gay.nl/takeover/
 ||geilefotoverhalen.nl/banners/
-||genemuidenactueel.nl/data/banners/
+||genemuidenactueel.nl^*banner
 ||girlsgogames.nl/vda/
 ||goamerika.nl/pictures/site_banner
 ||goedbegin.com/linkex/
