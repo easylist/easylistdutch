@@ -218,6 +218,7 @@ speeleiland.nl##.game-side-banner-wrap
 dumpert.nl##.geldbakje
 rijnmond.nl##.half_banner
 zoover.nl##.header-banner
+flexnieuws.nl##.header__banner
 onemorething.nl##.headertakeover
 pathe.nl##.homepageBanner
 voetbalzone.nl##.info-col > .block
