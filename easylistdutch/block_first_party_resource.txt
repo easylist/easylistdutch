@@ -148,6 +148,7 @@
 ||informatique.nl^*/promos/*-takeover.
 ||ishotmyself.nl/include/xhtml/promo/
 ||israeltoday.nl/_static/israeltoday.nl/img/banners/
+||janlul.com/wizi2.png
 ||janvissersweer.nl/images/banners/
 ||janvissersweer.nl^*/banner-
 ||jooble.co.nl/banner/
