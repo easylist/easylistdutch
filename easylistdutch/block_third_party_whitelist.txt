@@ -9,7 +9,7 @@
 @@||adform.net/Banners/scripts/rmb/Adform.RMB.js?$domain=spel.nl
 @@||adhese.be/tag/tagv1.js$domain=nieuwsblad.be
 @@||admatcher.videostrip.com/?format=mp4,$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv|voetbalprimeur.nl
-@@||admatcher.videostrip.com/?format=mp4,$xmlhttprequest,domain=nederland.fm|ongein.nl|radioluisteren.fm|twentefans.nl
+@@||admatcher.videostrip.com/?format=mp4,$xmlhttprequest,domain=nederland.fm|ongein.nl|radio10.nl|radioluisteren.fm|twentefans.nl
 @@||admatcher.videostrip.com/crossdomain.xml$object-subrequest,domain=herhaling.nl|myradio.nl|radioveronica.nl|tvgids.tv|voetbalprimeur.nl
 @@||ads.spilgames.com/ad/pb/1/*/*?$script,domain=spel.nl|spelletjes.nl
 @@||adserver.adtech.de/addyn/3.0/$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
