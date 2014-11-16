@@ -71,6 +71,7 @@
 ||dekrantvanmiddendrenthe.nl^*/banners/
 ||devegetarier.nl^*/vegapolis_banner.
 ||dierenbescherming.nl/afdimg/banners/
+||dierennieuws.nl^*_webbanner_
 ||digitaalburg.com^*/promotion-slider/js/promoslider.js?
 ||digitaalburg.com^*Adver
 ||digitaalburg.com^*banner
