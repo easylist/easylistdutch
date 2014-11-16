@@ -137,6 +137,7 @@ opwindend.net##.MN[style="Color: Red; Font-Weight: Bold;"]
 bokt.be##.PopupDiv
 bokt.be##.PopupScreen
 marktnet.nl##.ThumbGoogle
+gtaforum.nl##.__xXadvertentie
 checkcams.com##.ab
 androidplanet.nl,dewereldmorgen.be,ipadclub.nl,iphoneclub.nl,metronieuws.nl,nu.nl,stemwijzer.nl,tvgids.nl,vkmag.com,z24.nl##.ad
 israeltoday.nl##.ad-hor
