@@ -1,6 +1,7 @@
 ||109.70.1.61/bannersystem/
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
+||ahead-it.be/banners/
 ||amz01.plzcdn.com/a/
 ||antares.fm/banners/
 ||api.skyscanner.net/api.ashx?$domain=viva.nl

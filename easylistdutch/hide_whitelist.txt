@@ -37,7 +37,6 @@ telegraaf.nl#@#.addiv
 forum.fok.nl#@#.adfieldbg
 hotcontact.nl,xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
-gtaforum.nl#@#.adsbygoogle
 autotekoop.nl#@#.advert-title
 schaatsen.nl#@#.advertisement-header
 zuka.nl#@#.advtitle
