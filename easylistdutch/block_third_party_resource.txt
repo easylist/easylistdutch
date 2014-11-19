@@ -127,7 +127,7 @@
 ||vegadates.com^*468x60wb7x.gif
 ||versio.nl/banners/
 ||videostrip.com/adsets/
-||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|myradio.nl|skyradio.nl|zuka.nl
+||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|myradio.nl|www.skyradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||w247.nl/v/64.js
