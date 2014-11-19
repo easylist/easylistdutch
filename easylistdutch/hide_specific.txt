@@ -269,6 +269,7 @@ engineeringnet.be##.sponslinks
 europages.nl,utopiatv.nl,vcmw-sigma.nl##.sponsor
 afspraakjes.be,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
 zeelandnet.nl##.spotlight-list-item._left
+nos.nl##.ster-banner
 voetbalkrant.com##.take-banner
 z24.nl##.teaser
 metronieuws.nl##.teaser-component-inner
