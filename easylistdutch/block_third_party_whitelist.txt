@@ -1,4 +1,5 @@
 @@||advertentieplanet.nl/public/advertenties/
+@@||ds1.nl/c/?$domain=opproef.nl
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
