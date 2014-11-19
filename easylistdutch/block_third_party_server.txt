@@ -1,7 +1,7 @@
 ||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
 ||ad-prod.ster.nl^$third-party
 ||ad-skills-copy.nl^$third-party
-||admatcher.videostrip.com^$domain=skoften.net|sport1.nl
+||admatcher.videostrip.com^$domain=q-music.nl|skoften.net|sport1.nl
 ||admerize.be^$third-party
 ||adrcdn.com^$third-party
 ||affiliatepartners.com^$third-party
