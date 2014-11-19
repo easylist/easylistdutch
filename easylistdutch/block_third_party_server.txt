@@ -62,6 +62,7 @@
 ||system.adquick.nl^$third-party
 ||tel.adversitement.nl^$third-party
 ||ti.tradetracker.nl^$third-party
+||tools.islive.nl^$third-party
 ||topsiteguide.com^$third-party
 ||topzorgverzekeringvergelijken.nl^$third-party
 ||ttbe.be^$third-party
