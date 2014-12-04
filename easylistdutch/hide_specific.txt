@@ -112,6 +112,7 @@ fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
 blikopnieuws.nl###spaar
 waarbenjij.nu###spanEbookersContainer
 uu.nl###sponsor_rotating_block
+112brabantnieuws.nl###stUI12
 engineeringnet.be###standaardbanner_2
 meteovista.be,weeronline.nl###suppliersContainer
 vmma.be###syndicatedPlayer_staybehind

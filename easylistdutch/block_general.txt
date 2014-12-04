@@ -1,3 +1,4 @@
+-reclameplaatjes/
 .be/ads/
 /adbron.
 /adtwee/*
