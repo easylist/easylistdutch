@@ -63,3 +63,4 @@
 @@||autoblog.nl/javascript/advertisement2.js
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
+@@||tijd.be/s2014/js/site/advertisement.js?
