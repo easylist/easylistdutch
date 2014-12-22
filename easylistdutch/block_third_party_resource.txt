@@ -4,6 +4,7 @@
 ||ahead-it.be/banners/
 ||amz01.plzcdn.com/a/
 ||antares.fm/banners/
+||api.hebbes.be/widgets/carousels/$third-party
 ||api.skyscanner.net/api.ashx?$domain=viva.nl
 ||babysitster.nl/banners/
 ||bol.com/nl/upload/banners/
@@ -142,4 +143,5 @@
 ||youtube.com/yva_video?adformat=$object-subrequest,domain=vtm.be
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
+||zimmo.be/api4/promobox.php?
 ||zoomin.tv/uploaded/banners/
