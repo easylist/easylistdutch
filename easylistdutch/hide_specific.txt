@@ -141,10 +141,8 @@ marktnet.nl##.ThumbGoogle
 gtaforum.nl##.__xXadvertentie
 checkcams.com##.ab
 androidplanet.nl,dewereldmorgen.be,ipadclub.nl,iphoneclub.nl,metronieuws.nl,nu.nl,stemwijzer.nl,tvgids.nl,vkmag.com,z24.nl##.ad
-israeltoday.nl##.ad-hor
 misslipgloss.nl##.ad3
 nu.nl##.adblock_border
-nu.nl##.adblock_noborder
 ncrv.nl##.add-disclaimer
 telegraaf.nl##.addiv > a[target="_new"]
 vt4.be##.adl_medium_rectangle
