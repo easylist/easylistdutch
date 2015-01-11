@@ -147,7 +147,7 @@ ncrv.nl##.add-disclaimer
 telegraaf.nl##.addiv > a[target="_new"]
 vt4.be##.adl_medium_rectangle
 nu.nl##.adorange
-porntubexl.nl,studio040.nl,tube.nl##.ads
+fantv.nl,porntubexl.nl,studio040.nl,tube.nl##.ads
 openingstijden.com##.adsense
 nu.nl##.adsilver
 allradio.nl##.adv
@@ -306,6 +306,7 @@ nu.nl##a[href*="/advertorial-"]
 zdnet.be##a[href*="_redirect.cfm?ad_id="]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 historiek.net##a[href="http://historiek.net/1/click"]
+fantv.nl##a[href="http://nl.giveawayoftheday.com/"]
 nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
 partyflock.nl##a[href^="/jlnk/"]
 geilestartpagina.nl##a[href^="http://aff."]

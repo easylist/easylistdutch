@@ -36,6 +36,7 @@
 ||fokzine.net/upload/*_BG_HiActie_
 ||fokzine.net/upload/*_header_fok_blank.jpg.jpg
 ||gbimg.nl/banners/
+||giveawayoftheday.com/ticker/
 ||goedbegin.nl/ad/
 ||goedkoop.info/lastminutebanner.php
 ||goldenpalaceaffiliates.com/marketing_tools/
