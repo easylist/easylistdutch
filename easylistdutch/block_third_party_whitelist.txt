@@ -38,6 +38,7 @@
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
+@@||maps.gstatic.com/maps-api-*/adsense.js$domain=opentot.nl
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
