@@ -58,6 +58,7 @@
 @@||g.doubleclick.net/pagead/conversion/?ai=*&label=vast_creativeview$object-subrequest,domain=rtlxl.nl
 @@||ima3vpaid.appspot.com/?adTagUrl=$object-subrequest,domain=rtlxl.nl
 @@||ima3vpaid.appspot.com/crossdomain.xml$object-subrequest,domain=rtlxl.nl
+@@||imasdk.googleapis.com/flash/core/*/adsapi.swf$object-subrequest,domain=vtm.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=alfaforum.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
