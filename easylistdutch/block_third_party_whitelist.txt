@@ -37,6 +37,7 @@
 @@||ib.adnxs.com/mtj?$script,domain=9292.nl
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
+@@||imasdk.googleapis.com/flash/core/*/adsapi.swf$object-subrequest,domain=538.nl|slamfm.nl
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
 @@||maps.gstatic.com/maps-api-*/adsense.js$domain=opentot.nl
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
@@ -51,7 +52,6 @@
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||track.adform.net/adfscript/?$script,domain=spel.nl
 @@||track.adform.net/adfserve/?$script,domain=spel.nl
-@@||imasdk.googleapis.com/flash/core/*/adsapi.swf$object-subrequest,domain=538.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
 ! Anti-Adblock
 @@||g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&impl=s&output=xml_vast$object-subrequest,domain=rtl.nl|rtlxl.nl
@@ -60,7 +60,6 @@
 @@||ima3vpaid.appspot.com/?adTagUrl=$object-subrequest,domain=rtlxl.nl
 @@||ima3vpaid.appspot.com/crossdomain.xml$object-subrequest,domain=rtlxl.nl
 @@||imasdk.googleapis.com/flash/core/*/adsapi.swf$object-subrequest,domain=vtm.be
-
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=alfaforum.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
