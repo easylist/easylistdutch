@@ -39,8 +39,8 @@
 @@||imageceu1.247realmedia.com/0/Player/Player_NL_Home/342x204_mensuel_NLnew.jpg
 @@||images.marktnet.eu/adimg/
 @@||imasdk.googleapis.com/flash/core/*/adsapi.swf$object-subrequest,domain=538.nl|slamfm.nl
-@@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=2be.be|vtm.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=2be.be
+@@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=2be.be|vitaya.be|vtm.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=2be.be|vitaya.be
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
 @@||maps.gstatic.com/maps-api-*/adsense.js$domain=opentot.nl
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
