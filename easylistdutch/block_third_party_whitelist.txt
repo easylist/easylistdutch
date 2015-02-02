@@ -3,7 +3,6 @@
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
-@@||2mdn.net/instream/video/client.js$domain=vtm.be
 @@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||ad.360yield.com/ul_cb/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
 @@||ad4.liverail.com/?LR_VERTICALS=videostrip_nl,$xmlhttprequest,domain=twentefans.nl
