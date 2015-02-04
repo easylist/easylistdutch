@@ -5,8 +5,8 @@
 /adv_tekstlinks.
 /adverteerders/*
 /advertentie-banner-
-/advertentie.
-/advertentie/*
+/advertentie.$domain=~2dehands.be|~tweedehands.nl
+/advertentie/*$domain=~2dehands.be|~tweedehands.nl
 /advertentie1.
 /advertentie2/*
 /advertentie_head.
