@@ -8,7 +8,7 @@
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten hier:
-! http://forums.lanik.us/viewforum.php?f=100
+! https://forums.lanik.us/viewforum.php?f=100
 ! of stuur een email naar fam.lam [at] live.nl
 !
 !--------Algemene blokkeerregels--------!
