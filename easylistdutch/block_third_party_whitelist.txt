@@ -42,6 +42,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=2be.be|syndication.vmma.be|vitaya.be|vtmkzoom.be
 @@||longtailvideo.com/5/ova/ova-jw.swf$object-subrequest,domain=538.nl
 @@||maps.gstatic.com/maps-api-*/adsense.js$domain=opentot.nl
+@@||media.adrcdn.com/ads/Mini/*/vast.xml$xmlhttprequest,domain=radio10.nl
 @@||media.ztat.net/media/teaser/$image,domain=zalando.nl
 @@||nl.gmads.net/crossdomain.xml$object-subrequest,domain=radioveronica.nl
 @@||nl.gmads.net/r?gmtr=$object-subrequest,domain=radioveronica.nl
@@ -49,6 +50,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl|wereldklokken.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=insidegamer.nl|marktplaats.nl
+@@||rtr.innovid.com/r1.*;cb=$xmlhttprequest,domain=radio10.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
 @@||spilcdn.com^*/js/advertisement/flowplayer/flowplayer-3.2.6.min.js$domain=girlsgogames.nl|spel.nl|spelletjes.nl
