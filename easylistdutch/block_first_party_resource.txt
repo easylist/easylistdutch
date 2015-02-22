@@ -362,6 +362,8 @@
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif
 ||wiebetaaltwat.nl/includes/mr.miller/$image,object
+||wiskunde-examens.nl^*/bottom.htm
+||wiskunde-examens.nl^*/top.htm
 ||wiskundeforum.nl/studysteps.jpg
 ||woningnetgroningen.nl^*/Images/banner/
 ||woningnetregioamsterdam.nl^*/Images/banner/
