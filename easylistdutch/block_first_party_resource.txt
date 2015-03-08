@@ -344,6 +344,7 @@
 ||vijfzintuigen.nl/banner/
 ||virusalert.nl/img/banners/
 ||vliegtickets.nl/includes/flash/banner.swf
+||voetbalnieuws.be/templates/images/unibet/
 ||volkskrant.nl/static/nmc/prm/box/images/201
 ||vt4.be/upload/acties/bose/
 ||vtm.be^*/images/footer-samsung_2.jpg
