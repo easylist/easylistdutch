@@ -136,6 +136,7 @@
 ||watch-me-live.be/banner/
 ||wegenerweb.nl/banners/
 ||wegenerweb.nl/sponsors/
+||whentofly.eu/includes/ContentBanner
 ||wildhitz.nl/NLFM/NLFMbanner.html
 ||x0.nl/banners/
 ||xingo.nl/bannermanagement/
