@@ -208,6 +208,7 @@
 ||nederlandnieuws.nl/scripts/afb_
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
+||nieuwsuitnijmegen.nl/gfx/banners/
 ||nlondertitels.com/img/studentenlening.png
 ||nolensplein.nl/banners/
 ||nsmbl.nl/wp-content/themes/*/campagnes/

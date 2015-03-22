@@ -380,6 +380,7 @@ telegraaf.nl##table[width][border="0"][style="border:1px solid #e0e0e0;padding-l
 oops.nl##table[width][cellspacing="30"][align="center"]
 kapsels.net##td[width="164"] a[target="_blank"]
 dreamboxclub.nl##td[width="227"] > a[target="_blank"]
+nieuwsuitnijmegen.nl##tr[height="150"]
 kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
 kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
 ! Anti-Adblock
