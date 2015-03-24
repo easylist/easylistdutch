@@ -63,6 +63,7 @@
 ||maffiagame.nl/banner$third-party
 ||media.zie.nl/e/?v=*&ad=false$subdocument,domain=nubijlage.nl
 ||members.home.nl/ajaxf-side/banners/
+||metroonline.nl/bva/
 ||mijnafbeeldingen.net^*/banners/
 ||mijnautobedrijf.nl/nieuwsbanner/$~stylesheet
 ||mijnzusje.nl/banners/
