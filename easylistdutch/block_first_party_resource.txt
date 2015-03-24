@@ -360,6 +360,8 @@
 ||weeronline.nl/go/banner/index?
 ||weeronline.nl/go/specialblock/index/
 ||weeronline.nl^*/hoteldeals/
+||weertdegekste.nl^*/coin-slider.js?
+||weertdegekste.nl^*banner
 ||welingelichtekringen.nl/images/overgangster2.gif
 ||wetenschapsforum.nl/bnr/
 ||whatismyip.nl/images/vista_sky2.gif

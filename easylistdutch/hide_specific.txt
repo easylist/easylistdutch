@@ -152,7 +152,7 @@ fantv.nl,porntubexl.nl,studio040.nl,tube.nl##.ads
 openingstijden.com##.adsense
 nu.nl##.adsilver
 allradio.nl##.adv
-9292.nl,classicfm.nl,fcupdate.nl,onemorething.nl##.advert
+9292.nl,classicfm.nl,fcupdate.nl,onemorething.nl,weertdegekste.nl##.advert
 computeridee.nl##.advertentie-1korting-nl
 apparata.nl,autoblog.nl,skipr.nl##.advertisement
 biertijd.com##.advertorialtitle ~ *
@@ -352,6 +352,7 @@ zie.nl##div[id^="advertisement_"]
 marktplaats.nl##div[id^="google_ads_iframe_"]
 hababam.nl##div[id^="had"]
 binaries4all.nl##div[id^="payserver"]
+weertdegekste.nl##div[id^="sidebar"] a[target="_blank"] > img
 treinreiziger.nl##div[id^="subbanner"]
 phphulp.nl##div[style$="background: #ff0000 url(/img/ads/bhosted.png) top left no-repeat; margin-bottom: 10px;"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
