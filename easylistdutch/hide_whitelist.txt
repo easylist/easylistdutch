@@ -18,7 +18,7 @@ kinderspelletjes.nl#@##adframe:not(frameset)
 homesearch.nu#@##adsense
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 comedycentral.nl#@##bannerad
-archiefleeuwardercourant.nl#@##headerAdv
+archiefleeuwardercourant.nl,dekrantvantoen.nl#@##headerAdv
 losseveter.nl#@##mainAd
 schaatsen.nl#@#.HeaderAd
 innerlijk-besef.nl,landleven.nl#@#.ad-block
