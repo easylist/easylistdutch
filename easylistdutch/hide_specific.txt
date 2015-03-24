@@ -122,7 +122,6 @@ mistermoney.nl###theLayer
 valuta.nl,wisselkoers.nl###theLayerSpaarrenteVergelijken
 valuta.nl,wisselkoers.nl###theLayerZorg
 scholieren.com###top
-marktplaats.nl###top-banner-wrapper
 krapuul.nl###topbanner
 voetbalzone.nl###uniGroot
 pokercollege.nl###verticalbanner
