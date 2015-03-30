@@ -49,6 +49,7 @@
 ||bouwinfo.be/forum/js/jquery.nextup.js
 ||bouwmachineforum.nl/banner/
 ||brandweerspotters.nl/modules/banners/bannerimages/
+||buienalarm.nl/banner_
 ||buienradar.nl/bannerdetails.aspx?
 ||cameranu.nl/images/banner_zoom.gif
 ||camping-frankrijk.nl/Graphics/yelloh2011.swf
