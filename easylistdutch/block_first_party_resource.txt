@@ -86,6 +86,7 @@
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dutchcowboys.nl/images/*-takeover.png
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
+||dvn.nl/images/site/banners/
 ||easylist.nl/125x125.swf
 ||eenhuiszoeken.nl/banner/
 ||eetlijst.nl/banner_

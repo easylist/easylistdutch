@@ -156,6 +156,7 @@ allradio.nl##.adv
 9292.nl,classicfm.nl,fcupdate.nl,onemorething.nl,weertdegekste.nl##.advert
 computeridee.nl##.advertentie-1korting-nl
 apparata.nl,autoblog.nl,skipr.nl##.advertisement
+dvn.nl##.advertisements
 biertijd.com##.advertorialtitle ~ *
 synoniemen.net##.annblokslot
 waldnet.nl##.art-lin > div:first-child > a[target="_blank"]
