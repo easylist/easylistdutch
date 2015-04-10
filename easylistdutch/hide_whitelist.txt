@@ -15,7 +15,6 @@ autobedrijfscheele.nl,autodealers.nl,autoroden.nl,etdautos.nl,henkheikamp.nl#@##
 jazznieuws.dds.nl#@##adbox
 xxxplaza.nl#@##adcontainer
 kinderspelletjes.nl#@##adframe:not(frameset)
-homesearch.nu#@##adsense
 demorgen.be,trouw.nl,volkskrant.nl#@##adv_sky
 comedycentral.nl#@##bannerad
 archiefleeuwardercourant.nl,dekrantvantoen.nl#@##headerAdv
@@ -37,7 +36,6 @@ telegraaf.nl#@#.addiv
 forum.fok.nl#@#.adfieldbg
 hotcontact.nl,xxxplaza.nl#@#.adlink
 zeelandnet.nl#@#.ads-header
-autotekoop.nl#@#.advert-title
 schaatsen.nl#@#.advertisement-header
 zuka.nl#@#.advtitle
 emarketingexperts.nl#@#.adwords

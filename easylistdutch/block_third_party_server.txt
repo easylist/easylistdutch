@@ -1,4 +1,4 @@
-||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|focus-wtv.tv|garagetv.be|l1.nl
+||2mdn.net^$domain=autoweek.nl|eredivisielive.nl|garagetv.be|l1.nl
 ||ad-prod.ster.nl^$third-party
 ||ad-skills-copy.nl^$third-party
 ||admatcher.videostrip.com^$domain=q-music.nl|radioveronica.nl|skoften.net|sport1.nl|vi.nl
@@ -8,7 +8,6 @@
 ||am.seoptics.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
 ||assets.nudeal.nl^$third-party
-||autotekoop.nl^$third-party
 ||banners.vip.nl^$third-party
 ||bannerwerving.nl^$third-party
 ||bingocamspartners.com^$third-party

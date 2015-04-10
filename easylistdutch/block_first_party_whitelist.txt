@@ -14,8 +14,6 @@
 ! Uitzonderingen voor EasyList
 @@||ad.nl/static/nmc/prm/frameset/overlay/imago/v2/728x90.jpg?
 @@||adhese.standaard.be/jsonp/callback/sl_test_dso_ipad_optimized_avondeditie_-interstitial/?$script
-@@||adsense.nl^$domain=adsense.nl
-@@||adv.scoutingkatwijk.nl^$domain=scoutingkatwijk.nl
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
 @@||bibliotheek.be/detail/*-advertise/$subdocument,~third-party,xmlhttprequest
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
@@ -35,8 +33,6 @@
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
 @@||metdehand.nl/var/ads/$~third-party
 @@||milkinc.be/ad.php|$subdocument
-@@||mtvmobile.nl/assets/css/advert/carousel.css$domain=mtvmobile.nl
-@@||mtvmobile.nl/assets/js/advert/cycle.js$domain=mtvmobile.nl
 @@||myradio.nl/sounds/reclame/*/commercial-$object-subrequest
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com

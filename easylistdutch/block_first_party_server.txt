@@ -1,5 +1,3 @@
-||banner.koopjeskrant.be^
-||banners.helpmij.nl^
 ||banners.toeto.com^
 ||banners.utilo.nl^
 ||bnr.agf.nl^

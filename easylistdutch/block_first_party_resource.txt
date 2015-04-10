@@ -44,7 +44,6 @@
 ||blikopnieuws.nl^*/actie-domeinnaam.swf
 ||blog.nl/recente_links.js
 ||blog.nl/wp-content/daisy.js?
-||bndestem-pzc.net/externeurl/hypothekenfeed.html
 ||bodemvondstenwereld.nl/images/banners/
 ||bouwinfo.be/forum/js/jquery.nextup.js
 ||bouwmachineforum.nl/banner/
@@ -58,7 +57,6 @@
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||chauffeursforum.nl^*tvm.swf
-||christelijkvakantieplein.nl^*-banner.
 ||cip.nl/asp_includes/site_topbanners.
 ||cip.nl/images/banners/
 ||cip.nl^*banner468x120
@@ -120,7 +118,6 @@
 ||gosupermodel.com^*banner
 ||gpupdate.net/if/advertsub/
 ||gratispuzzelen.nl^*-banner-255.swf
-||hardwarewoensdag.tv^*/hww_bg_
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
 ||havovwo.nl/pics/wolf.gif
@@ -147,7 +144,6 @@
 ||hvhonline.nl/media/*_banner_
 ||ifanzy.nl/flash/banner-
 ||ijvv.nl/images/sponsors/
-||images.nickelodeon.nl/ad_
 ||informatique.nl^*/promos/*-takeover.
 ||ishotmyself.nl/include/xhtml/promo/
 ||israeltoday.nl/_static/israeltoday.nl/img/banners/
@@ -157,7 +153,6 @@
 ||jooble.co.nl/banner/
 ||jouwpage.nl/images/banner
 ||jouwtomtom.nl^*/back_adblock.gif
-||jouwvoordeelindekempen.be^*/banner/
 ||katholieknieuwsblad.nl/images/banners/onlineluisteren.gif
 ||katholieknieuwsblad.nl/images/banners^*banner
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
@@ -184,7 +179,6 @@
 ||localfm.nl/images/assets/banner-
 ||losseveter.nl^*/saucony_kinvara_
 ||madeinkempen.be/general/partners/
-||madeinmetropool.be/partners/
 ||maffiawars.nl/top.php?$subdocument
 ||mannenpret.nl/banners/
 ||marktnet.nl/bs/loadBanner.aspx?
@@ -202,7 +196,6 @@
 ||mrstiff.nl/view/context/spot/
 ||musicmeter.nl/images/powered_by_
 ||musicmeter.nl/merchandise.php?
-||nbs.nl/resources/banner_
 ||ndss.nl/static/ak.gif
 ||nederland.fm/i/*banner
 ||nederland.fm/i/restaurantantoine120x60.gif
@@ -247,7 +240,6 @@
 ||plattegronden.nl/siteadmin/banners/
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||problemcar.nl/img/box/
-||promootjesite.nl/popups/
 ||psv.nl/web/banner/
 ||psx-sense.nl/destiny.swf
 ||pu.nl/skins/
@@ -298,9 +290,6 @@
 ||static.digitallife.nl/uploads/*/*/*.jpg
 ||static.macworld.nl/uploads/*/*/*.jpg
 ||static.vergelijk.nl/data/nl_nl/promos/
-||statisch.detelefoongids.nl/dms/images/*/ad_*.png
-||statisch.detelefoongids.nl/dms/images/all_in_one/banner-*.gif
-||statisch.detelefoongids.nl^*/1888_logo-met-payoff*.jpg
 ||statisch.marktplaats.com/images/bg_ad_list.jpg
 ||stemwijzer.nl^*/images/*/islabanner.swf
 ||studeersnel.nl/admin/upload_ban/
@@ -332,8 +321,6 @@
 ||twentefans.nl/banner/
 ||uitdagingonline.nl/images/banners/random-
 ||uitnodiging.nl/site/images/framework/postkaarten/promo_footer_
-||unimaas.nl/mkbportal/images/*anner
-||unimaas.nl/mkbportal/images/student_nl.gif
 ||ussproton.nl/pictures/Sponsoren/
 ||vastgoedjournaal.nl/banners/
 ||vcmw-sigma.nl/uploads/banners/

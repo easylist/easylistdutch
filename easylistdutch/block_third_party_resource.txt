@@ -1,7 +1,6 @@
 ||109.70.1.61/bannersystem/
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
-||ahead-it.be/banners/
 ||amz01.plzcdn.com/a/
 ||antares.fm/banners/
 ||api.hebbes.be/widgets/carousels/$third-party
@@ -17,7 +16,6 @@
 ||cityfashion.be/external/portal/
 ||cupaa.nl/banners/
 ||de-keizer.nl/tassen/*/banner
-||deloads.nl/js/mtvi_admanager.js
 ||demediahub.nl^*/media/commercial/
 ||doubleclick.net/pfadx/homepage.nos.nl/
 ||doubleclick.net/pfadx/mediaplayer.nl/
@@ -26,7 +24,6 @@
 ||doubleclick.net/pfadx/vnumedia.tweak
 ||dutchleader.nl/php/banex/$third-party
 ||dutchleader.nl/php/popex/
-||ecoweb.pro/4ucampus/express/
 ||enjoy.be/promo/banner/
 ||enviedeplus.be^*_banner_$third-party
 ||fashionchick.nl/images/banners/$third-party
@@ -73,20 +70,16 @@
 ||museter.com/player-banner/
 ||neckermann.be/~/media/images/staticpart/instroom/448-60hlnnl.ashx
 ||newkit.info^*/banner
-||nieuws-2.nl/lokaal/banner/
-||nieuws-3.nl^*/images/banner_
 ||nl-sanoma.cdn.videoplaza.tv/resources/boot/
 ||nudeal.nl/static/swf/banner_
 ||ontwerpen-voor-geld.nl/grafix/banner
 ||pagina.nl/linkerbanneriframe_version2.htm?
 ||paypro.nl/payproads/
 ||pd5hw.eu/banners/
-||pizzaonline.nl/wp-content/uploads/*/banner-
 ||pokernet.nl/images/banners/
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||prepaidhosted.nl/images/banners/
 ||privespot.nl/img/banners/
-||promootjesite.nl/banex/
 ||quality-control-centre.com/commercial/
 ||recreatief.nl/kerstarrangementen.gif
 ||relatieplanet.be/2linkbe/iframesearch.asp
@@ -99,7 +92,6 @@
 ||schooltieners.nl/banners/
 ||search-result.com^*/klokad2.js
 ||sexamateurtjes.nl/banners/
-||sexia.be/banner
 ||sexverhalen.com/vriendschap/
 ||sinclub.nl/banners/
 ||softsign.be/banners/
@@ -117,7 +109,6 @@
 ||sunjets.be/banners/
 ||thisislive.com/promo/
 ||tienerorgies.be/promo/
-||tienertube.nl/banners/
 ||totaalwijzer.nl/widget/$third-party
 ||triple-it.nl/itbizzer/
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
@@ -128,10 +119,9 @@
 ||users.pandora.be/gad/$third-party
 ||users.telenet.be/gad/$third-party
 ||uu.nl/proton/*/akzonobel_masters_
-||vegadates.com^*468x60wb7x.gif
 ||versio.nl/banners/
 ||videostrip.com/adsets/
-||videostrip.com/serve_cad.php?$domain=classicfm.nl|hitradioveronica.nl|myradio.nl|zuka.nl
+||videostrip.com/serve_cad.php?$domain=classicfm.nl|myradio.nl|zuka.nl
 ||voetbalshop.nl/banner_
 ||voetbalshop.nl/upload/image/voorpagina/vi_banners/
 ||w247.nl/v/64.js
@@ -142,7 +132,6 @@
 ||wildhitz.nl/NLFM/NLFMbanner.html
 ||x0.nl/banners/
 ||xingo.nl/bannermanagement/
-||xlshosting.net/wp-content/uploads/idwbanner.png
 ||xxxsmsjes.nl/banners/
 ||youtube.com/yva_video?adformat=$object-subrequest,domain=vtm.be
 ||zideo.nl/player/plugins/ova/ova.swf
