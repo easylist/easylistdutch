@@ -245,6 +245,7 @@ hln.be##.poweredAz
 marktplaats.nl##.premium-content-box
 moviemeter.nl,musicmeter.nl##.price_compare
 moviemeter.nl##.price_compare_large
+openingsurengids.be##.promSidebar
 dumpert.nl,omroep.nl##.promo
 vastgoedjournaal.nl##.randomcontent
 kijkshop.nl##.rechterkolom-banner
