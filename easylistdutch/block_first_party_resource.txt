@@ -83,6 +83,7 @@
 ||dutchcharts.nl/images/sky_
 ||dutchcharts.nl/images/the-voice-kids-banner.swf
 ||dutchcowboys.nl/images/*-takeover.png
+||duurzaam-actueel.nl^*banner
 ||dvdboxshop.nl/images/leesklantbeoordelingen.jpg
 ||dvn.nl/images/site/banners/
 ||easylist.nl/125x125.swf

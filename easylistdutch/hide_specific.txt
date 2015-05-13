@@ -105,6 +105,7 @@ pu.nl###skin_container
 vdab.be###sky
 voetbalzone.nl###skyCrapp
 fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
+duurzaam-actueel.nl###slideshowwidget-2
 blikopnieuws.nl###spaar
 waarbenjij.nu###spanEbookersContainer
 uu.nl###sponsor_rotating_block
@@ -333,6 +334,7 @@ rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 dutchattraction.nl##a[onclick^="countAdClick("]
 opwindend.net##a[rel="nofollow"][target="_blank"]
 leukstespel.nl##a[target="_blank"] > img
+duurzaam-actueel.nl##a[target="_blank"][href^="http"] > img:not([alt^="duurzaam-actueel"])
 hln.be##a[title="Powered by Autozone.be"]
 moviemeter.nl##div[class^="banner"]
 startpagina.nl##div[class^="banner-"]
