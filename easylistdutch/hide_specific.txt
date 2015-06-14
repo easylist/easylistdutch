@@ -248,6 +248,7 @@ moviemeter.nl,musicmeter.nl##.price_compare
 moviemeter.nl##.price_compare_large
 openingsurengids.be##.promSidebar
 dumpert.nl,omroep.nl##.promo
+synoniemen.net##.promoblok
 vastgoedjournaal.nl##.randomcontent
 kijkshop.nl##.rechterkolom-banner
 9292ov.nl,rtvnh.nl,valuta.nl##.rectangle
