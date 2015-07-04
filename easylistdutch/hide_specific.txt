@@ -224,6 +224,7 @@ flexnieuws.nl##.header__banner
 onemorething.nl##.headertakeover
 pathe.nl##.homepageBanner
 voetbalzone.nl##.info-col > .block
+iphoned.nl##.injection1
 rtl.nl##.inlineRectangle
 wtf.nl##.item-banner
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
