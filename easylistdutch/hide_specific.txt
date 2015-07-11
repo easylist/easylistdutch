@@ -222,6 +222,7 @@ rijnmond.nl##.half_banner
 zoover.nl##.header-banner
 flexnieuws.nl##.header__banner
 onemorething.nl##.headertakeover
+spele.nl##.highlighted
 pathe.nl##.homepageBanner
 voetbalzone.nl##.info-col > .block
 iphoned.nl##.injection1
