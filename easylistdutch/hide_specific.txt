@@ -291,6 +291,7 @@ uitburo.nl##.uitmail_banner_block
 voetbalzone.nl##.uniClick
 incestsexverhaaltjes.nl##.viagra
 hbvl.be##.w-doubleclick
+rtvnoord.nl##.widget > .half.last > div[style="padding-bottom:8px; background-color:#ffffff;"]
 blog.nl##.widget[id^="text-"]
 medianed.com##.widget_text[id^="text-"]
 dichtbij.nl##.widgetbanner
