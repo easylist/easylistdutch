@@ -20,7 +20,7 @@
 @@||aludex.com/themes/ad/img/
 @@||bibliotheek.be/detail/*-advertise/$subdocument,~third-party,xmlhttprequest
 @@||cinema.nl/ads/mediaplayer.jsp?$subdocument
-@@||directwonen.nl/adverts/$~third-party,xmlhttprequest
+@@||directwonen.nl/adverts/$~third-party
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
 @@||emarketingexperts.nl/images/stories/adwords/
