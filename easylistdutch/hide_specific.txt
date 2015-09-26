@@ -231,7 +231,7 @@ rtl.nl##.inlineRectangle
 wtf.nl##.item-banner
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
 ajaxcafe.nl##.leaderBoard
-9292ov.nl,engineeringnet.be,gay.eu,gay.nl,tvgids.nl##.leaderboard
+9292ov.nl,engineeringnet.be,gay.eu,gay.nl,musicmeter.nl,tvgids.nl##.leaderboard
 top40.nl##.left-banner
 2xklikken.nl##.linksall:first-child
 nieuws.nl##.lokaal_banner_right
