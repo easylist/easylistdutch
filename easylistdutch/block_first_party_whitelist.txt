@@ -13,6 +13,7 @@
 @@||zeelandnet.nl/prikbord/assets/*/advertentie.js
 @@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
+@@||2ndhandbrand.nl/css/advertisment.css
 @@||ad.nl/static/nmc/prm/frameset/overlay/imago/v2/728x90.jpg?
 @@||adhese.standaard.be/jsonp/callback/sl_test_dso_ipad_optimized_avondeditie_-interstitial/?$script
 @@||adverteer-gratis.nl/ads/$domain=adverteer-gratis.nl
