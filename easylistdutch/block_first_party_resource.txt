@@ -157,6 +157,7 @@
 ||jouwtomtom.nl^*/back_adblock.gif
 ||katholieknieuwsblad.nl/images/banners/onlineluisteren.gif
 ||katholieknieuwsblad.nl/images/banners^*banner
+||kavelplatform.nl/assets/uploads/banners/
 ||kennisnet.nl/templates/cms/swf/kennisnet/caroussel_v2.swf?
 ||kieskeurig.nl/rectangle?
 ||kijkshop.nl/flash/vanvoordeel.swf
