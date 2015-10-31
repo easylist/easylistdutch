@@ -344,6 +344,7 @@
 ||vtm.be^*/images/footer-samsung_2.jpg
 ||vvzigo.nl/images/banners/
 ||waldnet.nl/images/ac/
+||wanttoknow.nl^*Banner
 ||wassenaarders.nl/images/banners/
 ||webaapje.nl^*bannerexchange/
 ||websitegids.nl/banners/
