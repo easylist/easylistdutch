@@ -367,6 +367,7 @@
 ||woningnetgroningen.nl^*/Images/banner/
 ||woningnetregioamsterdam.nl^*/Images/banner/
 ||woningnetregioutrecht.nl^*/Images/banner/
+||www.appletips.nl/wp-content/uploads/rek/
 ||xmissymedia.com/galleries/*/banners/
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
