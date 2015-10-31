@@ -119,6 +119,7 @@
 ||goldcash.nl/banners/
 ||gosupermodel.com^*banner
 ||gpupdate.net/if/advertsub/
+||gratisepub.nl/wp-content/plugins/scroll-triggered-boxes/
 ||gratispuzzelen.nl^*-banner-255.swf
 ||havovwo.nl/pics/gsmweb.jpg
 ||havovwo.nl/pics/openu2.swf
