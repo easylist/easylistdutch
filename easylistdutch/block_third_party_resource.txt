@@ -133,6 +133,7 @@
 ||x0.nl/banners/
 ||xingo.nl/bannermanagement/
 ||xxxsmsjes.nl/banners/
+||youtube.com/embed/*?rel=0&autoplay=1&showinfo=0$subdocument,domain=kavelplatform.nl
 ||youtube.com/yva_video?adformat=$object-subrequest,domain=vtm.be
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
