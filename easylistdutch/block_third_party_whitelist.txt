@@ -72,3 +72,4 @@
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=1&$object-subrequest,domain=2be.be|jim.be|syndication.vmma.be|vitaya.be|vtmkzoom.be
 @@||serving-sys.com/BurstingPipe/adServer.bs?*&pl=VAST&$object-subrequest,domain=rtlxl.nl
 @@||serving-sys.com/crossdomain.xml$object-subrequest,domain=rtlxl.nl
+@@||staticfiles.rtl.nl/lib/rtl.jsapi/pubads_impl_70r.js$domain=rtlxl.nl
