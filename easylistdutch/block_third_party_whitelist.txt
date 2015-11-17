@@ -26,6 +26,7 @@
 @@||doubleclick.net^*;tile=$script,domain=syndication.vmma.be|vtm.be
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
+@@||easyads.eu/api/Advertisements/$domain=marktfeed.nl
 @@||g.doubleclick.net/gampad/ads?$script,domain=insidegamer.nl|marktplaats.nl
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=radioluisteren.fm
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.be|zoover.nl
