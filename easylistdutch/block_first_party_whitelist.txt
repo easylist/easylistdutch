@@ -59,10 +59,10 @@
 @@||zuka.nl/images/ad_$image
 ! Anti-Adblock
 @@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
-@@||alfaforum.nl^$elemhide
+@@||alfaforum.nl^$generichide
 @@||autoblog.nl/javascript/advertisement2.js
 @@||calorielijst.nl^$generichide
 @@||dumpert.nl^*/admatcher.doubleclick.net
-@@||embed.kijk.nl/video/$elemhide
+@@||embed.kijk.nl/video/$generichide
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
 @@||tijd.be/s2014/js/site/advertisement.js?
