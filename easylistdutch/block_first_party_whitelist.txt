@@ -61,6 +61,7 @@
 @@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
 @@||alfaforum.nl^$elemhide
 @@||autoblog.nl/javascript/advertisement2.js
+@@||calorielijst.nl^$generichide
 @@||dumpert.nl^*/admatcher.doubleclick.net
 @@||embed.kijk.nl/video/$elemhide
 @@||motor-forum.nl/motorshopper/json/advertenties/$xmlhttprequest
