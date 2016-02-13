@@ -39,6 +39,7 @@
 ##.gesponsordelink
 ##.justLease_ad
 ##.mp-adsense-header-top
+##.ontwerp_ads
 ##.reclame
 ##.reclameIndex
 ##.reclamekop
