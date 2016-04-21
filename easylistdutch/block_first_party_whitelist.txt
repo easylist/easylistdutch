@@ -47,6 +47,8 @@
 @@||prerollads.nl^
 @@||quefaire.be/annonces/imgads/
 @@||sbat.be/pages/banner.php
+@@||static.lecho.be^*/js/site/dfp-$script,domain=lecho.be
+@@||static.lecho.be^*/js/site/modules/dfp/$script,domain=lecho.be
 @@||static.tijd.be^*/js/site/dfp-$script,domain=tijd.be
 @@||static.tijd.be^*/js/site/modules/dfp/$script,domain=tijd.be
 @@||studenten.net/_cache/uniframe/img/background-728x90.snet.jpg
