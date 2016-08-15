@@ -1,6 +1,7 @@
 @@||advertentieplanet.nl/public/advertenties/
 @@||ds1.nl/c/?$domain=opproef.nl
 @@||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest,domain=538.nl|rtl7darts.nl
+@@||muziekspot.nl/rest/Advertentie/$xmlhttprequest,domain=muziekspot.nl
 @@||staticfinancereview.nl/advertenties/$image,domain=rente.nl
 ! Uitzonderingen voor EasyList
 @@||ad.360yield.com/adj?$script,domain=girlsgogames.nl|spel.nl|spelletjes.nl
