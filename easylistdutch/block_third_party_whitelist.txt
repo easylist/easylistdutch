@@ -28,7 +28,7 @@
 @@||doubleclick.net^*adj/hbvl/homepage;tile=15;sz=160x600;$script,domain=hbvl.be
 @@||doubleclick.net^*adj/ster_cinema.nl/preroll;$script,domain=cinema.nl
 @@||easyads.eu/api/Advertisements/$domain=marktfeed.nl
-@@||g.doubleclick.net/gampad/ads?$script,domain=insidegamer.nl|marktplaats.nl
+@@||g.doubleclick.net/gampad/ads?$script,domain=marktplaats.nl
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=radioluisteren.fm
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.be|zoover.nl
 @@||google.com/adsense/$subdocument,domain=sedo.nl
@@ -52,7 +52,7 @@
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spel.nl|spelletjes.nl|wereldklokken.nl
 @@||partner.googleadservices.com/gampad/$domain=jaggle.nl
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=insidegamer.nl|marktplaats.nl
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=marktplaats.nl
 @@||rtr.innovid.com/r1.*;cb=$xmlhttprequest,domain=radio10.nl
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||spilcdn.com^*/js/advertisement/css/sgadgirls.css$domain=girlsgogames.nl
