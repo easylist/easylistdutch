@@ -160,7 +160,7 @@ synoniemen.net##.annblokslot
 waldnet.nl##.art-lin > div:first-child > a[target="_blank"]
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
 rechtennieuws.nl##.artikel_informatie > div[style="clear: both; float: left; position: relative; margin: 5px 0px 15px 0px; padding: 0px; text-align: center; width: 280px; color: #cccccc; font-size: 10px;"]
-2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hetkrantje-online.nl,insidegamer.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,telegraaf.nl,toeto.com,waldnet.nl,westlanders.nu,zappsite.nl##.banner
+2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,telegraaf.nl,toeto.com,waldnet.nl,westlanders.nu,zappsite.nl##.banner
 weeronline.nl##.banner + .specialBlockDiv
 at5.nl##.banner-300-100
 tvgids.nl##.banner-custom
