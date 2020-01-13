@@ -1,3 +1,4 @@
+.nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||109.70.1.61/bannersystem/
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
