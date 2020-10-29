@@ -188,7 +188,7 @@
 ||marktnet.nl/bs/loadBanner.aspx?
 ||marktplaats.com/css/adminis-min.css
 ||media*.biertijd.com/galleries/*/banners/
-||media.rtl.nl/web/components/service/streamspots/*.mp4$object-subrequest
+||media.rtl.nl/web/components/service/streamspots/*.mp4$object
 ||meppelercourant.nl/data/banners/
 ||meteovista.be/go/banner/
 ||metliefs.nl/banner_

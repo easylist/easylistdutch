@@ -38,7 +38,7 @@
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
 @@||metdehand.nl/var/ads/$~third-party
 @@||milkinc.be/ad.php|$subdocument
-@@||myradio.nl/sounds/reclame/*/commercial-$object-subrequest
+@@||myradio.nl/sounds/reclame/*/commercial-$object
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||optimaalfm.nl/upload/optimaalfm/Image/reclame/$image

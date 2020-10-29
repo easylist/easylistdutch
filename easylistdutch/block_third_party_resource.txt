@@ -106,7 +106,7 @@
 ||static2-voetbalzone.nl/images/uni_header.
 ||stcm.nl/otla/
 ||strandmeisjes.nl/banners/
-||streaming.orbisvideo.com^*.mp4$object-subrequest,domain=rtlxl.nl
+||streaming.orbisvideo.com^*.mp4$object,domain=rtlxl.nl
 ||sunjets.be/banners/
 ||thisislive.com/promo/
 ||tienerorgies.be/promo/
@@ -135,7 +135,7 @@
 ||xingo.nl/bannermanagement/
 ||xxxsmsjes.nl/banners/
 ||youtube.com/embed/*?rel=0&autoplay=1&showinfo=0$subdocument,domain=kavelplatform.nl
-||youtube.com/yva_video?adformat=$object-subrequest,domain=vtm.be
+||youtube.com/yva_video?adformat=$object,domain=vtm.be
 ||zideo.nl/player/plugins/ova/ova.swf
 ||zimmo.be/api2/ticker_h.php?
 ||zimmo.be/api4/promobox.php?
