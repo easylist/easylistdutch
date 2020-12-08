@@ -1,5 +1,4 @@
 -reclameplaatjes/
-.be/ads/
 /adbron.
 /adtwee/*
 /adv_tekstlinks.
