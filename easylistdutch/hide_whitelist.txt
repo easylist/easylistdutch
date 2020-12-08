@@ -44,7 +44,6 @@ telegraaf.nl#@#.imgad
 ad.nl#@#.nav_ad
 bokt.nl#@#.node-ad
 landleven.nl#@#.post-ad
-amonis.be#@#.text-ad
 kamernet.nl#@#.topAdd
 voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
 tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
