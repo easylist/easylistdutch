@@ -371,7 +371,6 @@
 ||xmissymedia.com/galleries/*/banners/
 ||youreon.nl/banners/
 ||z24.nl^*/ad_panel.css
-||z24.nl^*/ads.css
 ||zdnet.be/css/1/wallpaper_style_
 ||zideo.nl/scripts/banner/
 ||zoomin.tv/video/590x332_
