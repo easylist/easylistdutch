@@ -3,7 +3,6 @@
 ||ad-skills-copy.nl^$third-party
 ||admatcher.videostrip.com^$domain=q-music.nl|radioveronica.nl|skoften.net|sport1.nl|vi.nl
 ||admerize.be^$third-party
-||adrcdn.com^$third-party
 ||affiliatepartners.com^$third-party
 ||am.seoptics.nl^$third-party
 ||asp.unitedconsumers.com^$third-party
@@ -48,7 +47,6 @@
 ||partnerclicks.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
 ||partnerwebsites.financereview.nl^$third-party
-||pebblemedia.be^$third-party
 ||pics.obedo.nl^$third-party
 ||promotions.teasemedia.nl^$third-party
 ||qads6.nl^$third-party
