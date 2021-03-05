@@ -46,4 +46,3 @@
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
 ##a[href^="http://openx.motomedia.nl/live/www/delivery/"]
-##a[href^="http://www.site-id.nl/servlet/___?"]
