@@ -1,15 +1,12 @@
 engineeringnet.be###MediumRectangles
 biertijd.com###TopBanner
 checkcams.com###acmain
-bullchat.eu,vrouwonline.nl###ad
 spele.nl###adClose
 israeltoday.nl###add-sidebar-default
-rtv-arnhem.nl###advertisement
 viva.nl###affiliate_links
 tweakers.net###b_re
 xboxworld.nl###background
 frontpage.fok.nl###background[title="klik"]
-medianed.com###ban468
 landbouwagenda.nl,nos.nl,paginamarkt.nl,vcmw-sigma.nl###banner
 buienradar.be###banner-a
 buienradar.be###banner-b
@@ -21,29 +18,23 @@ marktplaats.nl###banner-rubrieks
 marktplaats.nl###banner-top
 dwtonline.com###banner1
 gay.eu,gay.nl###bannerLeft1
-flabber.nl###bannerMIDDLE-teaser
 rijnmond.nl###banner_c
 gay.eu,gay.nl###banner_rectangle
 spelle.nl###banner_side2
 genemuidenactueel.nl###bannernaast
-optimaalfm.nl###banners
 cip.nl###banners_zijkant
 engineeringnet.be###bredeskyscraper
-z24.nl###bva336x280container
 telegraaf.nl###bvacontainer
 tvgids.nl###content-banner-rectangle
 pen.nl###contentdiv a[target="_blank"] > img[style="border:1px solid black"]
-nl.msn.com###dating
 acom.nl###divBanner
 oops.nl###dropinboxv2cover
 telegraaf.nl###etalage
-f1today.nl###fanfashion
 tvgids.nl###flashTeaser a[rel="external"]
 infotalia.com,netonline.be###flashcontain
 copyrightvrijeplaatjes.nl,plattegronden.nl###footer
 vijverenkoiparadijs.eu###footer td[style="width: 218px;"]
 spele.nl###game_ban_2
-nl.msn.com###gesponsorde
 retecool.com###goldmemberad
 binaries4all.nl###gright
 sextube.nl###header > div[style="background:#121212;"]
@@ -52,28 +43,22 @@ hiphopinjesmoel.com###header_banner
 filmtotaal.nl###header_banner_area
 geilestartpagina.nl###headerwidgets
 knuz.nl###homepage-content > #showimage[style^="position:absolute;width=562px;left:40px;top:250px;"] > table
-jooble.co.nl###j-1_ad
-jooble.co.nl###j-1_ad2
 pen.nl###kolomlinksdiv > a[target="_blank"]
 pen.nl###kolomlinksdiv > a[target="_self"]
 pen.nl###kolomrechtsdiv
 beursgorilla.nl###layer
-hollandsheetste.nl###ldrbrd
 techzine.nl###lead
-accountant.nl,eindexamen.nu,eindexamens.nu,fok.nl###leaderboard
+accountant.nl,eindexamens.nu,fok.nl###leaderboard
 nickelodeon.nl###leaderboard_container
 landbouwagenda.nl###leftBottom > div > a[target="_blank"]
-zdnet.be###leftwallpaper
 hetkanwel.net###mc1 > .secondPad > .ssc:nth-child(n+3) > .textwidget
 rtvnoord.nl###middenbanner
-eindexamen.nu,eindexamens.nu###mrectangle
+eindexamens.nu###mrectangle
 humo.be###notify
 humo.be###notify_overlay
 tvgids.tv###overlay-ad
 gay.eu,gay.nl###page_lead_takeover
 gentsefeesten.be###partner-logos
-digitallife.nl###partner_block
-forum.mokkels.nl###portals
 omroepbrabant.nl###promoimg
 beursgorilla.nl###rectangle1
 beursgorilla.nl###rectangle2
@@ -83,10 +68,8 @@ tweakers.net###relatedJobs
 kieskeurig.nl###rightBanner
 landbouwagenda.nl###rightBottom > div > a[target="_blank"]
 debredasebode.nl,dethoolsebode.nl###right_banners
-leeuwarden.nu,mijnleeuwarden.nl###right_container .bannergroup
 debredasebode.nl###right_top_banner
 telegraaf.nl###rightbar > .artspacer
-zdnet.be###rightwallpaper
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(2) > .ssc > .textwidget
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(3) > .ssc > .textwidget
 hetkanwel.net###secondary > aside[id^="text-"]:nth-child(5) > .ssc > .textwidget
@@ -100,11 +83,10 @@ digitaalburg.com###sidebar_wrap_right #sidebar_left center a
 digitaalburg.com###sidebar_wrap_right #sidebar_right center a
 digitaalburg.com###sidebar_wrap_right .SlideshowWidget
 dekrantvanmiddendrenthe.nl,meppelercourant.nl###site-leaderboard
-flabber.nl###site_takeover
 pu.nl###skin_container
 vdab.be###sky
 voetbalzone.nl###skyCrapp
-fok.nl,koopplein.nl,mokkels.nl,vakantiebellen.com###skyscraper
+fok.nl,koopplein.nl###skyscraper
 duurzaam-actueel.nl###slideshowwidget-2
 blikopnieuws.nl###spaar
 waarbenjij.nu###spanEbookersContainer
@@ -112,21 +94,17 @@ uu.nl###sponsor_rotating_block
 112brabantnieuws.nl###stUI12
 engineeringnet.be###standaardbanner_2
 meteovista.be,weeronline.nl###suppliersContainer
-vmma.be###syndicatedPlayer_staybehind
 alternate.nl###teaserArea
 livep2000.nl###tekstlinkrow
-mistermoney.nl###theLayer
 valuta.nl,wisselkoers.nl###theLayerSpaarrenteVergelijken
 valuta.nl,wisselkoers.nl###theLayerZorg
 scholieren.com###top
 marktplaats.nl###top-banner-wrapper div[id^="banner-"]
 krapuul.nl###topbanner
 voetbalzone.nl###uniGroot
-pokercollege.nl###verticalbanner
 zeegat.nl###vlissingen700
 telegraaf.nl###vsl_banner
 spel.nl###wdg_promo_kogama
-telegraaf.nl###widget4-300-250
 nederland.fm###xbtm
 nederland.fm###xttm
 vinden.nl###zoektip
@@ -136,13 +114,10 @@ opwindend.net##.MN[style="Color: Red; Font-Weight: Bold;"]
 bokt.be##.PopupDiv
 bokt.be##.PopupScreen
 marktnet.nl##.ThumbGoogle
-gtaforum.nl##.__xXadvertentie
 checkcams.com##.ab
-androidplanet.nl,dewereldmorgen.be,ipadclub.nl,iphoneclub.nl,metronieuws.nl,nu.nl,stemwijzer.nl,tvgids.nl,vkmag.com,z24.nl##.ad
-misslipgloss.nl##.ad3
+androidplanet.nl,dewereldmorgen.be,ipadclub.nl,iphoneclub.nl,metronieuws.nl,nu.nl,stemwijzer.nl,tvgids.nl,vkmag.com##.ad
 rijnmond.nl##.ad_label + div
 nu.nl##.adblock_border
-ncrv.nl##.add-disclaimer
 telegraaf.nl##.addiv > a[target="_new"]
 vt4.be##.adl_medium_rectangle
 nu.nl##.adorange
@@ -160,17 +135,15 @@ synoniemen.net##.annblokslot
 waldnet.nl##.art-lin > div:first-child > a[target="_blank"]
 welingelichtekringen.nl##.artblok:nth-child(-2n+6)
 rechtennieuws.nl##.artikel_informatie > div[style="clear: both; float: left; position: relative; margin: 5px 0px 15px 0px; padding: 0px; text-align: center; width: 280px; color: #cccccc; font-size: 10px;"]
-2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,express.be,fd.nl,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,telegraaf.nl,toeto.com,waldnet.nl,westlanders.nu,zappsite.nl##.banner
+2xklikken.nl,at5.nl,belgie.fm,camping-frankrijk.nl,ed.nl,elkspel.nl,fd.nl,hetkrantje-online.nl,koopplein.nl,mensenlinq.nl,nederland.fm,nederlandmobiel.nl,nieuws.nl,privesexopname.nl,startbewijs.nl,studenten.nl,telegraaf.nl,waldnet.nl,westlanders.nu,zappsite.nl##.banner
 weeronline.nl##.banner + .specialBlockDiv
 tvgids.nl##.banner-custom
 tvgids.nl##.banner-rectangle
 tvgids.nl##.banner-skyscraper
 tvgids.nl##.banner-top
-ajaxcafe.nl##.banner.mediumRectangle
 frequenties.net##.banner0
 frequenties.net,l1.nl##.banner1
 infonu.nl##.banner250
-joubuis.nl##.banner468x60
 tvgids.nl##.bannerBox
 losseveter.nl##.bannerContainer
 rtvoost.nl##.bannerLink[href^="http://"]
@@ -184,40 +157,31 @@ limburger.nl##.banner_skyscraper
 limburger.nl##.banner_skyscraper + div[style]
 ziekenhuis.nl##.bannerborder
 telegraaf.nl##.bannercenter
-automatiseringgids.nl##.bannercontainer
 wetenschapsforum.nl##.bannercontainer-carrousel
-bbb-carrierebeurs.nl,wassenaarders.nl##.bannergroup
+wassenaarders.nl##.bannergroup
 joomlanl.nl##.banneritem
 startkabel.nl,vitesse.org##.banners
-dinnersite.nl##.banners_full
-dinnersite.nl##.banners_regio
 telegraaf.nl##.bbBannerTmg_wrapper
 moviemeter.nl##.billboard_wrapper
 biertijd.com##.blogrollAanraders
 okokorecepten.nl##.bnr_hd_rightcol
-girlsgogames.nl##.categoryBanner
 vitesse.org##.center_banner
 tripadvisor.nl##.commerce
 bnr.nl##.commercialLinks
 moviemeter.nl##.compare_banner_outer
 xmissy.nl##.container-aanraders
 ie-forum.nl##.containersponsored
-uitburo.nl##.cultural-add-frontpage
 html-site.nl##.cursus
-kpnvandaag.nl##.dagaanbiedingenHomeGadget
 marktplaats.nl##.divHomeWidgetBannerMiddle
 marktplaats.nl##.divHomeWidgetGroups
 rtvoost.nl##.divRechterBanner
 rtl.nl##.extra_info_banner_container
 dbsuriname.com##.fblock
-verenigingautovandezaak.nl##.flash_banner_wrapper
-spots4u.nl##.footer-banner
 quizlet.nl##.forum_rechts > div[style="float:right; width:240px; margin-left:10px;"]
 quizlet.nl##.four > h3:first-child + p
 nl.hardware.info##.frontpage-wrapper > .fp-left li[data-position="2"]
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.fullSizeBanner
 rijnmond.nl##.full_banner
-zelfmaakideetjes.nl##.g
 speeleiland.nl##.game-side-banner-wrap
 dumpert.nl##.geldbakje
 rijnmond.nl##.half_banner
@@ -228,25 +192,19 @@ spele.nl##.highlighted
 pathe.nl##.homepageBanner
 voetbalzone.nl##.info-col > .block
 iphoned.nl##.injection1
-rtl.nl##.inlineRectangle
-wtf.nl##.item-banner
 psx-sense.nl##.laatstenieuws + * + .scheiding2 + * + * + .postbox
-ajaxcafe.nl##.leaderBoard
-9292ov.nl,engineeringnet.be,gay.eu,gay.nl,musicmeter.nl,tvgids.nl##.leaderboard
+engineeringnet.be,gay.eu,gay.nl,musicmeter.nl,tvgids.nl##.leaderboard
 top40.nl##.left-banner
 2xklikken.nl##.linksall:first-child
 nieuws.nl##.lokaal_banner_right
-woordenlijst.eu##.maincontents > center a[target="_blank"]
 allesamerika.com##.menu > p > a[target="_blank"]
 checkcams.com##.mfoot
 marktplaats.nl##.mp-Listing--cas
 marktplaats.nl##.mp-Listings__admarktTitle
 wiebetaaltwat.nl##.mr-miller-leaderboard-footer
 nu.nl##.nu-blendle-widget
-yasni.nl##.offerbox
 weer.nl##.one_mega_big_row_html_teaser
 zeilen.nl##.partnerBox
-rtl.nl##.player-companion
 volkskrant.nl##.popularProductListing
 hln.be##.poweredAz
 marktplaats.nl##.premium-content-box
@@ -257,65 +215,54 @@ dumpert.nl,omroep.nl##.promo
 synoniemen.net##.promoblok
 vastgoedjournaal.nl##.randomcontent
 kijkshop.nl##.rechterkolom-banner
-9292ov.nl,rtvnh.nl,valuta.nl##.rectangle
+rtvnh.nl,valuta.nl##.rectangle
 marktplaats.nl##.search-result.bottom-listing
 vinden.nl##.searchresult-a
 zita.be##.sidebar-add
 techzine.nl##.sidebar_rect
 digitaalburg.com##.sidebar_top
-twisternederland.com##.siyl
 indeed.nl##.sjl.sjas3
 gay.eu,gay.nl##.skyscraperParentBox
-hollandsheetste.nl##.skyscrpr
 westlanders.nu##.slides
 techzine.nl##.small_banner
-studenten.net##.snet-auto-banner
 weeronline.nl##.specialBlockAboveActivities
 weeronline.nl##.specialBlockSmall
 engineeringnet.be##.sponslinks
-europages.nl,utopiatv.nl,vcmw-sigma.nl##.sponsor
+europages.nl,vcmw-sigma.nl##.sponsor
 afspraakjes.be,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,tvgids.nl##.sponsored
 zeelandnet.nl##.spotlight-list-item._left
 nos.nl##.ster-banner
 voetbalkrant.com##.take-banner
-z24.nl##.teaser
 metronieuws.nl##.teaser-component-inner
 tvgids.nl##.teaserLinks
 viva.nl##.teasers_sidebar
 noordhollandsdagblad.nl##.textLinksPlus
 marktnet.nl##.textlink.snap_noshots
 tvgids.nl##.tips
-katholieknieuwsblad.nl##.tm-toolbar
 wetenschapsforum.nl##.top_banner
 limburger.nl##.top_story_banner
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
-nutech.nl##.trackevent[href^="/advertorial-"]
 popinstituut.nl##.trivago_widget_text
-uitburo.nl##.uitmail_banner_block
 voetbalzone.nl##.uniClick
 incestsexverhaaltjes.nl##.viagra
 hbvl.be##.w-doubleclick
 rtvnoord.nl##.widget > .half.last > div[style="padding-bottom:8px; background-color:#ffffff;"]
 blog.nl##.widget[id^="text-"]
-medianed.com##.widget_text[id^="text-"]
 dichtbij.nl##.widgetbanner
 smulweb.nl##.winestein
 haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##.x728x222.headerRow
 vinden.nl##.yhads
 genemuidenactueel.nl##:not(.left) > .wpx_bannerize
 nsmbl.nl##A[rel^="ADVERTORIAL:"]
-hababam.nl##[id^="yui-gen"].postcontainer
 cartweet.com,viva.nl##a[href*="&utm_medium=banner&"]
 techzine.nl##a[href*="/adv-"]
 techzine.nl##a[href*="/adv-"] ~ *
 techzine.nl##a[href*="/advertorial"]
 techzine.nl##a[href*="/advertorial"] ~ *
 nu.nl##a[href*="/advertorial-"]
-zdnet.be##a[href*="_redirect.cfm?ad_id="]
 landenweb.net##a[href="_hPromotionADLW.htm"]
 historiek.net##a[href="http://historiek.net/1/click"]
 fantv.nl##a[href="http://nl.giveawayoftheday.com/"]
-nuzakelijk.nl##a[href="http://www.spaarrente.nl/internetsparen.aspx"]
 partyflock.nl##a[href^="/jlnk/"]
 geilestartpagina.nl##a[href^="http://aff."]
 nrc.nl##a[href^="http://altfarm.mediaplex.com/ad/"]
@@ -324,11 +271,9 @@ synoniemen.net##a[href^="http://ds1.nl/c/?"]
 techzine.nl##a[href^="http://ib.adnxs.com/"]
 techzine.nl##a[href^="http://ib.adnxs.com/"] + *
 forum.fok.nl##a[href^="http://ib.adnxs.com/clktrb?id="]
-kopen.marktplaats.nl##a[href^="http://koopjes.marktplaats.nl/click.php?"][rel="nofollow"]
 filmtotaal.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?"]
 voetbalzone.nl##a[href^="http://openx.adfactor.nl/www/delivery/ck.php?bannerid="]
 dutchcharts.nl##a[href^="http://partnerprogramma.bol.com/"]
-bet.nl##a[href^="http://vergelijkdata.com/"]
 opwindend.net##a[href^="http://www.lauwebut.nl/"]
 rtvutrecht.nl##a[href^="http://www.rtvutrecht.nl/reclame/"]
 meppelercourant.nl##a[href^="javascript:trackBanner("]
@@ -337,25 +282,19 @@ autojunk.nl##a[onclick*="/outgoing/"]
 autoblog.nl##a[onclick*="/outgoing/"] + *
 techzine.nl##a[onclick*="ADVERTORIAL"]
 techzine.nl##a[onclick*="ADVERTORIAL"] ~ *
-mokkels.nl##a[onclick*="extern/affiliates/"]
 rijnmond.nl##a[onclick^="HitCountAjax('/Banners/"]
 dutchattraction.nl##a[onclick^="countAdClick("]
 opwindend.net##a[rel="nofollow"][target="_blank"]
-leukstespel.nl##a[target="_blank"] > img
 woneninrotterdam.nl##a[target="_blank"] > img[src*="Banner"]
 duurzaam-actueel.nl##a[target="_blank"][href^="http"] > img:not([alt^="duurzaam-actueel"])
 hln.be##a[title="Powered by Autozone.be"]
 moviemeter.nl##div[class^="banner"]
 startpagina.nl##div[class^="banner-"]
-hababam.nl##div[class^="had"]
 sexdumpert.nl##div[class^="maincenterbanner"]
 sexdumpert.nl##div[class^="mainleftbanner"]
 parool.nl##div[id$="-ad"]
 motor-forum.nl##div[id$="_banner"]
-ongein.nl##div[id$="_divAdNL"]
 songteksten.net##div[id$="banner"]
-zie.nl##div[id^="advertisement_"]
-hababam.nl##div[id^="had"]
 binaries4all.nl##div[id^="payserver"]
 weertdegekste.nl##div[id^="sidebar"] a[target="_blank"] > img
 treinreiziger.nl##div[id^="subbanner"]
@@ -363,7 +302,6 @@ voetbalzone.nl##div[id^="uniek"]
 phphulp.nl##div[style$="background: #ff0000 url(/img/ads/bhosted.png) top left no-repeat; margin-bottom: 10px;"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/adfactor/"]
 voetbalzone.nl##div[style*="url(http://static-voetbalzone.nl/images/banners/bannerback.gif)"]
-gpupdate.net##div[style="margin: 0px; background-color: #BDCDE4;"]
 freeones.nl##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 898px; background-color: #4C89F9; border: 1px solid #4C89F9"]
 dekrantvanmiddendrenthe.nl##div[style="position: relative; width: 300px; height: 250px; overflow: hidden;"]
 moviescene.nl##form[name="justeat"]
@@ -377,7 +315,6 @@ oisterwijknieuws.nl##img[width="600"][height="100"]
 pollennieuws.nl##img[width="730"][height="92"]
 computermeester.be##img[width="900"][height="151"]
 nieuws.nl##span[onclick^="banner_clicked('"]
-autohunsel.nl##table[style="WIDTH: 144px; height: 948px"]
 joostdevree.nl##table[width="1000"] td[width="200"]:last-child > table[width="100%"]
 netonline.be##table[width="250"][cellspacing="2"][cellpadding][border="0"][bgcolor]
 kilroynews.net##table[width="760"][height="2001"][align="center"]
@@ -385,9 +322,6 @@ kilroynews.net##table[width="792"]
 telegraaf.nl##table[width][border="0"][style="border:1px solid #e0e0e0;padding-left:5px;padding-right:5px;"]
 oops.nl##table[width][cellspacing="30"][align="center"]
 kapsels.net##td[width="164"] a[target="_blank"]
-dreamboxclub.nl##td[width="227"] > a[target="_blank"]
 nieuwsuitnijmegen.nl##tr[height="150"]
-kopen.marktplaats.nl##tr[onclick^="document.location.href=logAdmarktClick"]
-kopen.marktplaats.nl##tr[onclick^="window.open(logAdmarktClick('"]
 ! Anti-Adblock
 bouweenpc.nl###header-banner
