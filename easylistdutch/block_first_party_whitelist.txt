@@ -10,8 +10,6 @@
 @@||spelletjes.nl/vda/friendly-iframe.html?videoPreroll300x250$subdocument
 @@||te-les-koop.nl/advertenties.php
 @@||vakantieplaats.nl/afbeeldingen/advertentie/
-@@||zeelandnet.nl/prikbord/assets/*/advertentie.js
-@@||zeelandnet.nl/prikbord/assets/*/advertenties.js
 ! Uitzonderingen voor EasyList
 @@||2ndhandbrand.nl/css/advertisment.css
 @@||ad.nl/static/nmc/prm/frameset/overlay/imago/v2/728x90.jpg?
@@ -20,7 +18,6 @@
 @@||aludex.com/themes/ad/css/
 @@||aludex.com/themes/ad/img/
 @@||bibliotheek.be/detail/*-advertise/$subdocument,~third-party,xmlhttprequest
-@@||cinema.nl/ads/mediaplayer.jsp?$subdocument
 @@||directwonen.nl/adverts/$~third-party
 @@||doopsgezind.nl/templates/ads/$domain=doopsgezind.nl
 @@||earnieland.be/images/photolib/*_120_60.
@@ -28,26 +25,19 @@
 @@||facebook.com/AD.NL?$subdocument,~third-party
 @@||fakkert-electronica.nl/images/adds/
 @@||forum.scholieren.com/banman/$domain=forum.scholieren.com
-@@||hebbes.be^*/AdsImages/$image
 @@||johanpolling.com/banners/$domain=johanpolling.com
 @@||kapaza.be^*/ad_view_$script,stylesheet
 @@||leukespellen.be/ads_loader.$script,stylesheet
 @@||leukespellen.be/n/js/ads_hider.js
-@@||marktplaats.com/gzip_*/aurora/bundles/adsense-common.js
-@@||marktplaats.com/gzip_*/aurora/res/js/common/AdSense.js
 @@||media.shopvip.com/banners/$image,domain=shopvip.com
-@@||metdehand.nl/var/ads/$~third-party
 @@||milkinc.be/ad.php|$subdocument
-@@||myradio.nl/sounds/reclame/*/commercial-$object
 @@||nu.nl/images/advertorial_backgrounds.png
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
-@@||optimaalfm.nl/upload/optimaalfm/Image/reclame/$image
 @@||otto.nl/assets/general/images/ads2_
 @@||otto.nl/assets/ishop/js/ads2/ads2nlvariationlistener.js
 @@||prerollads.nl^
 @@||quefaire.be/annonces/imgads/
 @@||sbat.be/pages/banner.php
-@@||studenten.net/_cache/uniframe/img/background-728x90.snet.jpg
 @@||vakantiebijnederlandersinspanje.nl/layout/*_advert.$image
 @@||vakantiebijnederlandersinspanje.nl/layout/advert_$stylesheet
 @@||vakantiebijnederlandersinspanje.nl/layout/adverts/$image
@@ -55,11 +45,7 @@
 @@||vegelburg.nl/wp-content/uploads/useful_banner_manager_banners/$image
 @@||wattedoen.be/zoekertjes/imgads/
 @@||xxxplaza.nl/var/ads/$image,domain=xxxplaza.nl
-@@||zomoto.nl/js/advertisement.js?
-@@||zuka.nl/images/ad_$image
 ! Anti-Adblock
-@@||alfaforum.nl/forum/images/misc/vbulletin4_logo.png#$image
-@@||alfaforum.nl^$generichide
 @@||autoblog.nl/javascript/advertisement2.js
 @@||calorielijst.nl^$generichide
 @@||dumpert.nl^*/admatcher.doubleclick.net
