@@ -28,7 +28,7 @@ tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
 vakantieplaats.nl#@#.feed-ad
 vakantieplaats.nl#@#.topAds
 voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
-wereldklokken#@#.adsbygoogle
+wereldklokken.nl#@#.adsbygoogle
 xxxplaza.nl#@##ad_right
 xxxplaza.nl#@##adcontainer
 zeelandnet.nl#@#.ad-card
