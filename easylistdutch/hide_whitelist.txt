@@ -16,11 +16,6 @@ digitekst.com#@#.adTitle
 emarketingexperts.nl#@#.adwords
 forum.fok.nl#@#.adfieldbg
 hotcontact.nl,xxxplaza.nl#@#.adlink
-innerlijk-besef.nl#@##ad-main
-innerlijk-besef.nl#@#.ad-button
-innerlijk-besef.nl#@#.ad-footer
-innerlijk-besef.nl#@#.ad-header
-innerlijk-besef.nl,landleven.nl#@#.ad-block
 kamernet.nl#@#.topAdd
 kinderspelletjes.nl#@##adframe:not(frameset)
 landleven.nl#@#.post-ad
