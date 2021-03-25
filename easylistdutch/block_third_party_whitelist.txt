@@ -10,13 +10,13 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
-@@||nl.y8.com/games/*$domain=nl.y8.com
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/*$subdocument,domain=www.flirtmee.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
+@@||y8.com/games/*.js?referer=$xhr,domain=y8.com
 ! Anti-Adblock
 @@||adservice.google.com.tr^$xhr,domain=player.tubia.com
 @@||cdn.cxense.com/cx.cce.js$script,domain=nl.motorsport.com
