@@ -4,7 +4,7 @@
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||faktor.io^$3p,domain=consent.talpanetwork.com
 @@||images.marktnet.eu/adimg/
-@@||imasdk.googleapis.com^$3p,domain=storage.y8.com
+@@||imasdk.googleapis.com/js/$script,domain=y8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl
 @@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=vtm.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
