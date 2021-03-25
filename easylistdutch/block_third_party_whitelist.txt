@@ -14,6 +14,7 @@
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
+@@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/*$subdocument,domain=www.flirtmee.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
 @@||y8.com/games/*.js?referer=$xhr,domain=y8.com
