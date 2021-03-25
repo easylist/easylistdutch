@@ -29,7 +29,6 @@
 ||sexverhalen.com/vriendschap/
 ||startpagina.nl^*/dochters/*/banners/
 ||thisislive.com/promo/
-||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
 ||totaalwijzer.nl/widget/$third-party
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||uu.nl/proton/*/akzonobel_masters_
