@@ -13,8 +13,11 @@ bokt.nl#@#.ad-body
 bokt.nl#@#.node-ad
 comedycentral.nl#@##bannerad
 digitekst.com#@#.adTitle
+directwonen.nl#@#.adsbox
 emarketingexperts.nl#@#.adwords
+fok.nl#@#.advertentie
 forum.fok.nl#@#.adfieldbg
+forum.fok.nl#@##advertentie
 hotcontact.nl,xxxplaza.nl#@#.adlink
 kamernet.nl#@#.topAdd
 kinderspelletjes.nl#@##adframe:not(frameset)
@@ -31,7 +34,3 @@ wereldklokken.nl#@#.adsbygoogle
 xxxplaza.nl#@##ad_right
 xxxplaza.nl#@##adcontainer
 zeelandnet.nl#@#.ad-card
-!Anti-Adblock
-directwonen.nl#@#.adsbox
-fok.nl#@#.advertentie
-forum.fok.nl#@##advertentie
