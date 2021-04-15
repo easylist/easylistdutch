@@ -2,8 +2,6 @@ autodealers.nl,speurders.nl,xxxplaza.nl#@##advertentie
 blikopnieuws.nl,computeridee.nl#@#.reclame
 drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,moorslede.be,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,sexjobs.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
 ! Uitzonderingen voor EasyList
-ad.nl#@#.ad_bg
-ad.nl#@#.nav_ad
 archiefleeuwardercourant.nl,dekrantvantoen.nl#@##headerAdv
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,henkheikamp.nl#@##ad_wrap
 autobedrijfscheele.nl,autodealers.nl,autoroden.nl,henkheikamp.nl#@#.ad_background
