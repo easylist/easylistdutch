@@ -3,6 +3,5 @@
 ||banners.utilo.nl^
 ||bnr.agf.nl^
 ||cdn.ster.nl/banners^
-||data-ssl.stepstone.nl^
 ||ganaar.gertibaldi.com^
 ||mooieplaatjes.bierdopje.com^
