@@ -103,6 +103,5 @@ voetbalkrant.com##.text-center.leaderboard
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
 weeronline.nl##section[class*="wol-banner-module__banner"]
 y8.com###policy-validation
-zeelandnet.nl##.g_banner
-! Anti-Adblock
 zeelandnet.nl##.bnr-notice
+zeelandnet.nl##.g_banner
