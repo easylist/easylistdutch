@@ -36,5 +36,4 @@
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||uu.nl/proton/*/akzonobel_masters_
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
-||www.googletagservices.com/tag/js/gpt.js$script,domain=www.telegraaf.nl,important
 ||xingo.nl/bannermanagement/
