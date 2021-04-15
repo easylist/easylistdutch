@@ -18,7 +18,6 @@
 ||dutchcowboys.nl/images/*-takeover.png
 ||duurzaam-actueel.nl^*banner
 ||easylist.nl/125x125.swf
-||elqtrk.morningstar.nl^
 ||flirtmee.nl/chat/banner_
 ||forum.spaarinformatie.nl/si-info.html
 ||genemuidenactueel.nl^*banner
@@ -45,13 +44,7 @@
 ||opwindend.net/Promotie*.php?$subdocument
 ||pdd-nos.nl/footer.html
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
-||securetags.esri.nl^
-||smetrics.cat-care.nl^
-||ssc.mtv.nl^
-||sstats.asadventure.nl^
-||swa.blgwonen.nl^
 ||te-les-koop.nl/images/B_
-||temptation.ad.nl^
 ||unity.nu/media/*/BANNERS/
 ||vdab.be/indekijker/
 ||wanttoknow.nl^*Banner
