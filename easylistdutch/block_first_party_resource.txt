@@ -1,7 +1,6 @@
 ||123video.nl/alternate
 ||123video.nl/img/banners/
 ||123video.nl^*/nathan.js
-||agfstorage.blob.core.windows.net/banners
 ||am-forum.nl/kbc-logo.swf
 ||am-forum.nl/upload/logo_elektrodump.png
 ||androidplanet.nl/wp-content/plugins/scroll-triggered-boxes/
