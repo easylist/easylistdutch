@@ -1,5 +1,9 @@
 @@||2dehandskleertjes.nl/uploads/advertenties/
+@@||ah.nl^$generichide
+@@||gamekings.tv^$generichide
+@@||girlscene.nl/templates/base/js/adbanner-dummy.js?$script,domain=girlscene.nl
 @@||koopplein.nl^*/advertenties/upload
+@@||refoweb.nl^$generichide
 @@||sexjobs.nl/advertentie/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||slimmerkopen.nl/timthumb/timthumb.php?src=/uploads/advertenties/
@@ -9,8 +13,3 @@
 ! Uitzonderingen voor EasyList
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||prerollads.nl^
-! Anti-Adblock
-@@||ah.nl^$ghide
-@@||gamekings.tv^$generichide
-@@||girlscene.nl/templates/base/js/adbanner-dummy.js?$script,domain=girlscene.nl
-@@||refoweb.nl^$ghide
