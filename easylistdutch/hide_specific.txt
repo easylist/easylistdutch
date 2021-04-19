@@ -1,3 +1,4 @@
+tweakers.net##img[referrerpolicy="unsafe-url"][src^="/i/"]
 112achterhoek-nieuws.nl###sidebar
 ad.nl##.page-header__section--spacer
 afkortingen.nu###banner_right
