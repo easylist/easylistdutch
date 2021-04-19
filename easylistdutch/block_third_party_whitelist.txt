@@ -5,12 +5,12 @@
 @@||images.marktnet.eu/adimg/
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl
 @@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=vtm.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/*$subdocument,domain=www.flirtmee.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=www.flirtmee.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
