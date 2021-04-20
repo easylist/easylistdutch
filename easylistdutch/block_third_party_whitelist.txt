@@ -1,16 +1,13 @@
 ! Uitzonderingen voor EasyList
-@@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
-@@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
-@@||faktor.io^$3p,domain=consent.talpanetwork.com
+@@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=radioluisteren.fm
+@@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=radioluisteren.fm
 @@||images.marktnet.eu/adimg/
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl
-@@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=vtm.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
-@@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl|vtm.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hbvl.be|vtm.be
+@@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
-@@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
-@@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
+@@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
+@@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
 @@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=www.flirtmee.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
