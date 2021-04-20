@@ -1,5 +1,3 @@
-fok.nl## + js(addEventListener-defuser, , DAB)
-forum.fok.nl## + js(set-constant, DAB, noopFunc)
 trouw.nl,volkskrant.nl###LOGIN_BIG_BOTTOM > .tm-body
 speedtest.net###_evidon-barrier-wrapper
 buienradar.be,buienradar.nl###adholderContainerHeader
