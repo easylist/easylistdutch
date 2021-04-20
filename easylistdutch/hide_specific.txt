@@ -32,10 +32,11 @@ filmtotaal.nl##.ad-centering
 openingstijden.com##.adsense
 hln.be##.advertising-container-top
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
-afkortingen.nu,startbewijs.nl##.banner
+afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 gic.nl##.banners
+dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
 zeelandnet.nl##.bnr-notice
 spele.nl##.brioche.skycraper.banner
