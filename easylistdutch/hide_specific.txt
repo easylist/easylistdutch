@@ -1,5 +1,4 @@
 trouw.nl,volkskrant.nl###LOGIN_BIG_BOTTOM > .tm-body
-speedtest.net###_evidon-barrier-wrapper
 buienradar.be,buienradar.nl###adholderContainerHeader
 almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 dwtonline.com###banner1
