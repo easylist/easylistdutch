@@ -31,7 +31,6 @@ telegraaf.nl##.WebpushOptin__main
 tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 openingstijden.com##.adsense
-hln.be##.advertising-container-top
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
 nnieuws.be##.banner-silver
@@ -66,7 +65,6 @@ nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
 iphoned.nl##.mt-8.lg\:flex.hidden.wrap
 gfcnieuws.com##.n2-section-smartslider
-speedtest.net##.notification-container > div > .notification
 tweakers.net##.notificationsContainer
 tijd.be##.o-hpgrid__row-sponsoredcombo
 jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
