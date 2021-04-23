@@ -73,6 +73,7 @@ appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 ad.nl##.page-header__section--spacer
 opwindend.net##.popup
 synoniemen.net##.promoblok
+metrotime.be##.proper-rss-widget
 nsinternational.com##.r42CookieBar
 nnieuws.be##.region-banner-diamond.region
 tvgids.nl##.section-home-news__ad
