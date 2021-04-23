@@ -28,6 +28,7 @@
 ##.advertentie
 ##.advertenties
 ##.advertorial_koersen_home_top
+##.ankeiler--advertisement
 ##.aw_url_admarkt_bottom
 ##.banner_advert6blok
 ##.banner_advertentie_footer
