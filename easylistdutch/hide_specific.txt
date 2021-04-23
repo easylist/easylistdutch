@@ -14,6 +14,7 @@ nu.nl###header > .zone
 marktplaats.nl###inloggenDialog
 techzine.nl###lead
 eindexamens.nu###leaderboard
+made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
 oisterwijknieuws.nl###right-sidebar
