@@ -68,6 +68,7 @@ iphoned.nl##.mt-8.lg\:flex.hidden.wrap
 gfcnieuws.com##.n2-section-smartslider
 speedtest.net##.notification-container > div > .notification
 tweakers.net##.notificationsContainer
+tijd.be##.o-hpgrid__row-sponsoredcombo
 jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
 appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 ad.nl##.page-header__section--spacer
