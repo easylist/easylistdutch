@@ -43,6 +43,7 @@ spele.nl##.brioche.skycraper.banner
 spele.nl##.broa.leaderboard.banner
 gic.nl##.btn-adverteren
 tijd.be##.c-sitenavPlaceholder__ad
+rd.nl##.codalt-container
 tvgids.tv##.col-left
 tvgids.tv##.col-right
 hln.be##.dfp-space
