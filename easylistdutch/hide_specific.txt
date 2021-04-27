@@ -33,6 +33,7 @@ filmtotaal.nl##.ad-centering
 openingstijden.com##.adsense
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
+ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 gic.nl##.banners
