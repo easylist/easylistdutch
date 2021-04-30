@@ -26,7 +26,7 @@
 ||search-result.com^*/klokad2.js
 ||sexamateurtjes.nl/banners/
 ||sexverhalen.com/vriendschap/
-||sp.dpgmedia.net^$3p
+||sp.dpgmedia.net^$third-party
 ||startpagina.nl^*/dochters/*/banners/
 ||static-dscn.net/13146/1686020/$domain=almere-nieuws.nl
 ||thisislive.com/promo/
