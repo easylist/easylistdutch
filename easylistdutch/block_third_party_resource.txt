@@ -1,4 +1,4 @@
-.nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
+-Ad-360..nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
 ||amz01.plzcdn.com/a/
 ||api.skyscanner.net/api.ashx?$domain=viva.nl
