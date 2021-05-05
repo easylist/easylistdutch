@@ -45,6 +45,7 @@
 ||te-les-koop.nl/images/B_
 ||unity.nu/media/*/BANNERS/
 ||vdab.be/indekijker/
+||voetbalkrant.com/images/pub/
 ||wanttoknow.nl^*Banner
 ||weertdegekste.nl^*banner
 ||whatismyip.nl/images/vista_sky2.gif

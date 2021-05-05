@@ -59,10 +59,12 @@ autoweek.nl##.for-screen.advertise
 zeelandnet.nl##.g_banner
 spel.nl##.game-page-sidebar
 marktplaats.nl##.hz-LoginNudge
+voetbalkrant.com##.imu
 tvgids.nl##.interstitial_banner
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
 speeleiland.nl##.leader-below-game
+voetbalkrant.com##.leaderboard
 iphoned.nl##.main-small > .dynamic-content-native
 iphoned.nl##.mb-10.no-last-child-margin.content > .dynamic-content-native
 scholieren.com##.min-h-90
@@ -84,8 +86,6 @@ nnieuws.be##.region-banner-diamond.region
 tvgids.nl##.section-home-news__ad
 hardware.info##.sidebar_right_top
 nos.nl##.ster-banner
-voetbalkrant.com##.text-center.imu
-voetbalkrant.com##.text-center.leaderboard
 pornozot.com##.text-center.mb-20
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nnieuws.be##.view-vw-banners.view
