@@ -91,7 +91,6 @@ chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
-nl.shein.com##.welocme-modal
 riskcompliance.nl##.widget_itarget_banners
 gfcnieuws.com##.widget_media_image.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 telegraaf.nl##.withBanners
@@ -107,6 +106,5 @@ pcmweb.nl##div.block:nth-of-type(2)
 classic.nl##div.brievenbus
 turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > img[width="276"]
 sexjobs.nl##div[id^="banner-"]
-refoweb.nl##div[id^="div-gpt-ad"]
 tweakers.net##img[referrerpolicy="unsafe-url"][src^="/i/"]
 weeronline.nl##section[class*="wol-banner-module__banner"]
