@@ -18,6 +18,7 @@ made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
 oisterwijknieuws.nl###right-sidebar
+rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
 koopplein.nl###skyscraper
 nederland.fm###xbtm > .shadow
@@ -41,6 +42,7 @@ speeleiland.nl##.banner-sky
 gic.nl##.banners
 dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
+rtlnieuws.nl##.billboard
 zeelandnet.nl##.bnr-notice
 spele.nl##.brioche.skycraper.banner
 spele.nl##.broa.leaderboard.banner
