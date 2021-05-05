@@ -1,4 +1,3 @@
-||2mdn.net^$domain=autoweek.nl|l1.nl
 ||affiliatepartners.com^$third-party
 ||am.seoptics.nl^$third-party
 ||asp.unitedconsumers.com^$third-party

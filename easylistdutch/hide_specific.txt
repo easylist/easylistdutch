@@ -32,6 +32,7 @@ telegraaf.nl##.WebpushOptin__main
 tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 openingstijden.com##.adsense
+autoweek.nl##.advertise
 bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 notebookcheck.nl##.am_el
@@ -55,8 +56,6 @@ hln.be##.dfp-space
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 androidplanet.nl##.dynamic-content[data-nosnippet]
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
-autoweek.nl##.for-screen.advertise
-zeelandnet.nl##.g_banner
 spel.nl##.game-page-sidebar
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu

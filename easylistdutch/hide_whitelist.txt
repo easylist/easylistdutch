@@ -1,5 +1,5 @@
 autodealers.nl,speurders.nl,xxxplaza.nl#@##advertentie
-drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,moorslede.be,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,sexjobs.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
+drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,moorslede.be,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
 blikopnieuws.nl,computeridee.nl#@#.reclame
 ! Uitzonderingen voor EasyList
 xxxplaza.nl#@##ad_right
@@ -12,7 +12,6 @@ archiefleeuwardercourant.nl,dekrantvantoen.nl#@##headerAdv
 schaatsen.nl#@#.HeaderAd
 bokt.nl#@#.ad-body
 autodealers.nl#@#.ad-btn
-zeelandnet.nl#@#.ad-card
 bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,radiozenders.fm,tubantia.nl#@#.ad-spacer
 marktplaats.nl#@#.adSummary
 digitekst.com#@#.adTitle
