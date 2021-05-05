@@ -31,6 +31,7 @@ telegraaf.nl##.WebpushOptin__main
 tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 openingstijden.com##.adsense
+bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 notebookcheck.nl##.am_el
 afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
