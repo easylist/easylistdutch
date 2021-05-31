@@ -30,6 +30,7 @@
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
+||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||omejoop.be/pop.js
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
