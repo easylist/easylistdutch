@@ -51,6 +51,9 @@ spele.nl##.brioche.skycraper.banner
 spele.nl##.broa.leaderboard.banner
 gic.nl##.btn-adverteren
 tijd.be##.c-sitenavPlaceholder__ad
+hartvannederland.nl##.c01387
+hartvannederland.nl##.c01557
+hartvannederland.nl##.c01558
 rd.nl##.codalt-container
 tvgids.tv##.col-left
 tvgids.tv##.col-right
