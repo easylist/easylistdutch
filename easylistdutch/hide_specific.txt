@@ -54,7 +54,7 @@ tijd.be##.c-sitenavPlaceholder__ad
 hartvannederland.nl##.c01387
 hartvannederland.nl##.c01557
 hartvannederland.nl##.c01558
-autoscout24.be##.cl-billboad-wrapper
+autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 tvgids.tv##.col-left
 tvgids.tv##.col-right
