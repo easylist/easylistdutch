@@ -18,6 +18,10 @@
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
 ||genemuidenactueel.nl^*banner
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/I-kook-banner.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php

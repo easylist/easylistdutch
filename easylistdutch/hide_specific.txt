@@ -21,6 +21,9 @@ oisterwijknieuws.nl###right-sidebar
 rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
 koopplein.nl###skyscraper
+goedkoopstekeukensduitsland.nl###text-5
+goedkoopstekeukensduitsland.nl###text-6
+goedkoopstekeukensduitsland.nl###text-8
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
@@ -113,4 +116,5 @@ turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > i
 sexjobs.nl##div[id^="banner-"]
 tweakers.net##img[referrerpolicy="unsafe-url"][src^="/i/"]
 prewarcar.nl##img[width="160"][height="92"]
+goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 weeronline.nl##section[class*="wol-banner-module__banner"]
