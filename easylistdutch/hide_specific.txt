@@ -93,6 +93,7 @@ nsinternational.com##.r42CookieBar
 nnieuws.be##.region-banner-diamond.region
 tvgids.nl##.section-home-news__ad
 hardware.info##.sidebar_right_top
+geenstijl.nl##.slajeslag
 nos.nl##.ster-banner
 pornozot.com##.text-center.mb-20
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
@@ -103,6 +104,7 @@ riskcompliance.nl##.widget_itarget_banners
 gfcnieuws.com##.widget_media_image.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 telegraaf.nl##.withBanners
 meteovista.be,weeronline.nl##.wol-banner-module__bannerContainer___QMBCE.wol-banner-module__bannerHeader___sjbIC
+geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 appletips.nl##a[href^="/adverteren-"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
