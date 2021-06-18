@@ -17,6 +17,7 @@
 /big_reclames/*
 /bolcom-partnerprogramma-wordpress-plugin/*
 /img/recl/*
+/mediahuis-ads/*
 /nmc/adv/*
 /pebble-adhese.
 /prikbordAdvertentie_
