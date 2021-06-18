@@ -53,3 +53,8 @@
 ||wanttoknow.nl^*Banner
 ||weertdegekste.nl^*banner
 ||whatismyip.nl/images/vista_sky2.gif
+||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/Banner300x250-
+||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/BannerPZ-
+||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzaken.jpg
+||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzakenplus.jpg
+||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/ROmagazineProjectleiderCiviel-GemeenteBarneveld.png
