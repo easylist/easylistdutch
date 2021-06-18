@@ -16,6 +16,7 @@
 ||dolcevia.com^*/Banners/
 ||dutchcowboys.nl/images/*-takeover.png
 ||duurzaam-actueel.nl^*banner
+||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
 ||genemuidenactueel.nl^*banner
