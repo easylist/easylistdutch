@@ -17,6 +17,7 @@
 ||gemius.pl/gstream.js$script,domain=destentor.nl|telegraaf.nl
 ||giveawayoftheday.com/ticker/
 ||jobat.be/scripts/jobatscripts.js
+||mmcdn.nl/tags/
 ||mobqo.nl^*/banner
 ||paypro.nl/payproads/
 ||powerconnect.be^*/poweractie.jpg$third-party

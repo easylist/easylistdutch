@@ -17,6 +17,8 @@ eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
+wielerflits.nl###mm_hpa
+wielerflits.nl###parentgpt
 oisterwijknieuws.nl###right-sidebar
 rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
@@ -38,6 +40,7 @@ openingstijden.com##.adsense
 autoweek.nl##.advertise
 bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
+wielerflits.nl##.affiliate_links
 notebookcheck.nl##.am_el
 afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
 prewarcar.nl##.banner-holder
