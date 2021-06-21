@@ -81,6 +81,7 @@ digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-h
 dbsuriname.com##.g
 spel.nl##.game-page-sidebar
 srherald.com##.gsrhera
+oogtv.nl##.home-banner
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu
 tvgids.nl##.interstitial_banner

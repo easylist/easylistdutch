@@ -46,6 +46,7 @@
 ||onestat.com/app/banneriframe.aspx?
 ||onestat.com/banners/adone-
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
+||oogtv.nl/wp-content/banners/
 ||openingsurengids.be/includes/js/checkblock.js
 ||opwindend.net/Promotie*.php?$subdocument
 ||pdd-nos.nl/footer.html
