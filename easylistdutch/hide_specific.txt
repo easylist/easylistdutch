@@ -41,6 +41,7 @@ tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
 omroepgelderland.nl##.adcontainer
+westerwoldeactueel.nl##.adr-wrapper
 openingstijden.com##.adsense
 autoweek.nl##.advertise
 bnnvara.nl##.advertisement
@@ -79,7 +80,7 @@ decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
 rtvgo.nl##.footeradd
-dbsuriname.com##.g
+dbsuriname.com,westerwoldeactueel.nl##.g
 spel.nl##.game-page-sidebar
 srherald.com##.gsrhera
 oogtv.nl##.home-banner
