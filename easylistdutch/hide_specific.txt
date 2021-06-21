@@ -142,6 +142,7 @@ pcmweb.nl##div.block:nth-of-type(2)
 classic.nl##div.brievenbus
 turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > img[width="276"]
 omroepbrabant.nl##div[class^="ad-"]
+meerradio.nl##div[id="pristineslider.12"]
 sexjobs.nl##div[id^="banner-"]
 tweakers.net##img[referrerpolicy="unsafe-url"][src^="/i/"]
 prewarcar.nl##img[width="160"][height="92"]
