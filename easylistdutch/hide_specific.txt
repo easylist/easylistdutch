@@ -18,6 +18,7 @@ made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
 wielerflits.nl###mm_hpa
+starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
 oisterwijknieuws.nl###right-sidebar
 rtlnieuws.nl###rtln-ad-advertorial
