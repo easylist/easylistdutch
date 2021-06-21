@@ -5,6 +5,7 @@ almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 dwtonline.com###banner1
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
+noordkopcentraal.nl###banners
 nnieuws.be###block-views-vw-banners-block-2
 nos.nl###ccm_notification_wrapper
 okemedia.nl###custom_html-2
@@ -28,6 +29,7 @@ rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
 koopplein.nl###skyscraper
 easyfm.nl###sponsors-carousel
+noordkopcentraal.nl###table-49960
 loemedia.nl###text-17
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6

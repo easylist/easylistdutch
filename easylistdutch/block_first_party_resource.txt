@@ -44,6 +44,7 @@
 ||netonline.be/reizen/ebookers/
 ||netonline.be/slices/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
+||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
