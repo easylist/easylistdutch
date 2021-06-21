@@ -31,6 +31,9 @@
 ||i0.wp.com/www.appletips.nl/wp-content/uploads/incharge1.gif
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
+||loemedia.nl/wp-content/uploads/*-banner-
+||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
+||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
 ||marktnet.nl/bs/loadBanner.aspx?
 ||media.rtl.nl/web/components/service/streamspots/*.mp4$object
