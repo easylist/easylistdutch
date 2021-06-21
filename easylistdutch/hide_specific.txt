@@ -89,6 +89,7 @@ voetbalkrant.com##.leaderboard
 iphoned.nl##.main-small > .dynamic-content-native
 iphoned.nl##.mb-10.no-last-child-margin.content > .dynamic-content-native
 scholieren.com##.min-h-90
+radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
 nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
