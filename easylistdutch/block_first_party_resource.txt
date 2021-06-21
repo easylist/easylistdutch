@@ -35,6 +35,9 @@
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
+||maaslandradio.nl/wp-content/uploads/*/auto-onderdelen24.
+||maaslandradio.nl/wp-content/uploads/*/autodoc.
+||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||marktnet.nl/bs/loadBanner.aspx?
 ||media.rtl.nl/web/components/service/streamspots/*.mp4$object
 ||mediareader.omroepwest.nl/gaslicht^

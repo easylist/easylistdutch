@@ -17,6 +17,7 @@ eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
+maaslandradio.nl###media_image-7
 wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
