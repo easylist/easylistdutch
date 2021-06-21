@@ -70,6 +70,7 @@ hln.be##.dfp-space
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 androidplanet.nl##.dynamic-content[data-nosnippet]
 decibel.nl##.edgtf-carousel-holder
+247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
 spel.nl##.game-page-sidebar
 marktplaats.nl##.hz-LoginNudge
