@@ -47,6 +47,7 @@
 ||opwindend.net/Promotie*.php?$subdocument
 ||pdd-nos.nl/footer.html
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
+||radiolelystad.nl/images/stories/Banners/
 ||simone.nl/bestanden/afbeelding/*-banner-
 ||simone.nl/bestanden/afbeelding/banner/
 ||srherald.com/wp-content/banners/

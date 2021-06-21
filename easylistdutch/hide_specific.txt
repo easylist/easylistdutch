@@ -52,7 +52,7 @@ nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
 sexjobs.nl##.banner-wrapper
-dolcevia.com,lokaleomroepzeewolde.nl##.bannergroup
+dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 gic.nl##.banners
 dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
