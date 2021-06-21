@@ -43,7 +43,7 @@ bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 wielerflits.nl##.affiliate_links
 notebookcheck.nl##.am_el
-afkortingen.nu,dutchitchannel.nl,startbewijs.nl##.banner
+afkortingen.nu,dutchitchannel.nl,simone.nl,startbewijs.nl##.banner
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver

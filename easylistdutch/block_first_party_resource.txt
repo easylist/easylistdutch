@@ -46,6 +46,8 @@
 ||opwindend.net/Promotie*.php?$subdocument
 ||pdd-nos.nl/footer.html
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
+||simone.nl/bestanden/afbeelding/*-banner-
+||simone.nl/bestanden/afbeelding/banner/
 ||srherald.com/wp-content/banners/
 ||te-les-koop.nl/images/B_
 ||transport-online.nl/site/includes/uploads/banner-
