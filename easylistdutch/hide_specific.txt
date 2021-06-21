@@ -59,6 +59,7 @@ dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 gic.nl##.banners
 dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
+bieos-omroep.nl##.bieos-widget
 rtlnieuws.nl##.billboard
 zeelandnet.nl##.bnr-notice
 spele.nl##.brioche.skycraper.banner
