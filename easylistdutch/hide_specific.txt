@@ -123,6 +123,7 @@ nnieuws.be##.region-banner-diamond.region
 tvgids.nl##.section-home-news__ad
 hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
+radio0511.com##.sponsorImg
 nos.nl##.ster-banner
 pornozot.com##.text-center.mb-20
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
