@@ -7,6 +7,7 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 nnieuws.be###block-views-vw-banners-block-2
 nos.nl###ccm_notification_wrapper
+okemedia.nl###custom_html-2
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
 iphoned.nl###featured-header
