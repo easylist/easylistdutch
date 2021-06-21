@@ -73,6 +73,7 @@ androidplanet.nl##.dynamic-content[data-nosnippet]
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
+dbsuriname.com##.g
 spel.nl##.game-page-sidebar
 srherald.com##.gsrhera
 marktplaats.nl##.hz-LoginNudge
