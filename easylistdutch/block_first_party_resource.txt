@@ -13,6 +13,7 @@
 ||chatgirl.nl^*/dlf468.
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
+||decibel.nl/wp-content/uploads/*/banner-
 ||dolcevia.com^*/Banners/
 ||dutchcowboys.nl/images/*-takeover.png
 ||duurzaam-actueel.nl^*banner
