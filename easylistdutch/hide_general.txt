@@ -38,6 +38,7 @@
 ##.category-advertentie
 ##.content-rechts-ad
 ##.gesponsordelink
+##.groei-ad
 ##.justLease_ad
 ##.mp-adsense-header-top
 ##.ontwerp_ads
