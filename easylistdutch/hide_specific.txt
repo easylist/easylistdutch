@@ -39,6 +39,7 @@ telegraaf.nl##.WebpushOptin__main
 tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
+omroepgelderland.nl##.adcontainer
 openingstijden.com##.adsense
 autoweek.nl##.advertise
 bnnvara.nl##.advertisement
