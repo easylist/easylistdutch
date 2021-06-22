@@ -25,6 +25,7 @@ maaslandradio.nl###media_image-7
 wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
+nashvilletv.nl###ribbon
 oisterwijknieuws.nl###right-sidebar
 rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
