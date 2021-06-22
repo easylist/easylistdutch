@@ -47,6 +47,7 @@ filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
 omroepgelderland.nl##.adcontainer
 westerwoldeactueel.nl##.adr-wrapper
+openrotterdam.nl##.ads
 openingstijden.com##.adsense
 autoweek.nl##.advertise
 bnnvara.nl##.advertisement
