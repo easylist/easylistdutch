@@ -90,10 +90,13 @@ tvgids.tv##.col-right
 tameteo.nl##.creatividad
 hln.be##.dfp-space
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
+iphoned.nl##.dynamic-content
+iphoned.nl##.dynamic-content-native
 androidplanet.nl##.dynamic-content[data-nosnippet]
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
+digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
 rtvgo.nl##.footeradd
 dbsuriname.com,westerwoldeactueel.nl##.g
 spel.nl##.game-page-sidebar
@@ -109,12 +112,9 @@ beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
 speeleiland.nl##.leader-below-game
 voetbalkrant.com##.leaderboard
-iphoned.nl##.main-small > .dynamic-content-native
-iphoned.nl##.mb-10.no-last-child-margin.content > .dynamic-content-native
 scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
-iphoned.nl##.mt-8.lg\:flex.hidden.wrap
 tijd.be##.o-hpgrid__row-sponsoredcombo
 appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 ad.nl##.page-header__section--spacer
@@ -135,6 +135,7 @@ rubenweytjens.be##.view-weather-ads-view
 handbalstartpunt.nl##.widget-banner
 riskcompliance.nl##.widget_itarget_banners
 telegraaf.nl##.withBanners
+iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 appletips.nl##a[href^="/adverteren-"]
