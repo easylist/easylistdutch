@@ -68,6 +68,7 @@ berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 rtlnieuws.nl##.billboard
 zeelandnet.nl##.bnr-notice
+classic.nl##.brievenbus
 spele.nl##.brioche.skycraper.banner
 spele.nl##.broa.leaderboard.banner
 gic.nl##.btn-adverteren
@@ -143,7 +144,6 @@ handbalstartpunt.nl##aside.widget-banner.widget--sidebar.card.widget
 historiek.net##div.ai-viewport-1
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
-classic.nl##div.brievenbus
 turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > img[width="276"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
