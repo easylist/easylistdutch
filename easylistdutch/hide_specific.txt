@@ -11,8 +11,7 @@ nos.nl###ccm_notification_wrapper
 okemedia.nl###custom_html-2
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
-iphoned.nl###featured-header
-androidplanet.nl###featured-header[data-campaign]
+androidplanet.nl,iphoned.nl###featured-header
 nu.nl###header > .zone
 marktplaats.nl###inloggenDialog
 techzine.nl###lead
@@ -90,9 +89,8 @@ tvgids.tv##.col-right
 tameteo.nl##.creatividad
 hln.be##.dfp-space
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
-iphoned.nl##.dynamic-content
-iphoned.nl##.dynamic-content-native
-androidplanet.nl##.dynamic-content[data-nosnippet]
+androidplanet.nl,iphoned.nl##.dynamic-content
+androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483

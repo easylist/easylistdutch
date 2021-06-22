@@ -2,7 +2,6 @@
 ||123video.nl/img/banners/
 ||123video.nl^*/nathan.js
 ||am-forum.nl/upload/logo_elektrodump.png
-||androidplanet.nl/wp-content/plugins/scroll-triggered-boxes/
 ||ans-online.nl/wp-content/themes/mimbo/images/Banner-
 ||antilliaansdagblad.com/images/banners/
 ||autoblog.nl/javascript/ABGalleryShowAdDFP.js
