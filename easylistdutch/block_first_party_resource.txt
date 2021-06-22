@@ -15,6 +15,13 @@
 ||chatmetvreemden.nl/static/html/
 ||content1.pcmweb.nl^
 ||decibel.nl/wp-content/uploads/*/banner-
+||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
+||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
+||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-400x700-
+||digitaalburg.com/rn02/wp-content/uploads/*/vertiadvies_
+||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||dolcevia.com^*/Banners/
 ||dutchcowboys.nl/images/*-takeover.png
 ||duurzaam-actueel.nl^*banner
