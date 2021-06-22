@@ -25,6 +25,7 @@ maaslandradio.nl###media_image-7
 wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
+rtvkrimpenerwaard.nl###pg-1407-8
 nashvilletv.nl###ribbon
 oisterwijknieuws.nl###right-sidebar
 rtlnieuws.nl###rtln-ad-advertorial
@@ -58,6 +59,7 @@ dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 notebookcheck.nl##.am_el
+rtvkrimpenerwaard.nl##.art-positioncontrol
 afkortingen.nu,dutchitchannel.nl,simone.nl,startbewijs.nl##.banner
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
