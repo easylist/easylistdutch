@@ -92,6 +92,7 @@ tameteo.nl##.creatividad
 hln.be##.dfp-space
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 androidplanet.nl##.dynamic-content[data-nosnippet]
+turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
@@ -151,7 +152,6 @@ appletips.nl##a[href^="/adverteren-"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
-turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > img[width="276"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
 sexjobs.nl##div[id^="banner-"]
