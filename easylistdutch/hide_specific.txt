@@ -46,7 +46,7 @@ telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.WebpushOptin__main
-tripadvisor.nl##.ad
+limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
 omroepgelderland.nl##.adcontainer
