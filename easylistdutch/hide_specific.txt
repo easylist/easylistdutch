@@ -64,7 +64,7 @@ nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
 sexjobs.nl##.banner-wrapper
-dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 gic.nl##.banners
 radiomonique.am##.bannerswidget
 dutchitchannel.nl##.bannner
@@ -80,6 +80,7 @@ tijd.be##.c-sitenavPlaceholder__ad
 hartvannederland.nl##.c01387
 hartvannederland.nl##.c01557
 hartvannederland.nl##.c01558
+halstadcentraal.nl##.carouselbanner_left
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 tvgids.tv##.col-left
@@ -126,6 +127,7 @@ metrotime.be##.proper-rss-widget
 nsinternational.com##.r42CookieBar
 regionoordkop.nl##.regio-widget
 nnieuws.be##.region-banner-diamond.region
+halstadcentraal.nl##.respbanners
 tvgids.nl##.section-home-news__ad
 hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
