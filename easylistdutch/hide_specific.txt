@@ -88,7 +88,6 @@ tvgids.tv##.col-left
 tvgids.tv##.col-right
 tameteo.nl##.creatividad
 hln.be##.dfp-space
-christenenvoorisrael.nl##.diffuse_cookie-bar__container
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
