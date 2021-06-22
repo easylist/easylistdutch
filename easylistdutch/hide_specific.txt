@@ -97,6 +97,7 @@ dbsuriname.com,westerwoldeactueel.nl##.g
 spel.nl##.game-page-sidebar
 srherald.com##.gsrhera
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.header-right
+arenalokaal.nl##.header_banner
 oogtv.nl##.home-banner
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu
