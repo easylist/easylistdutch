@@ -59,7 +59,7 @@ wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 notebookcheck.nl##.am_el
 rtvkrimpenerwaard.nl##.art-positioncontrol
-afkortingen.nu,dutchitchannel.nl,simone.nl,startbewijs.nl##.banner
+afkortingen.nu,dutchitchannel.nl,simone.nl,startbewijs.nl,tvgids.nl##.banner
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver
@@ -105,7 +105,6 @@ oogtv.nl##.home-banner
 jan-magazine.nl##.homepage-marquee
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu
-tvgids.nl##.interstitial_banner
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
@@ -116,8 +115,6 @@ iphoned.nl##.mb-10.no-last-child-margin.content > .dynamic-content-native
 scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
-nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
-nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
 iphoned.nl##.mt-8.lg\:flex.hidden.wrap
 tijd.be##.o-hpgrid__row-sponsoredcombo
 appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
@@ -129,8 +126,6 @@ metrotime.be##.proper-rss-widget
 regionoordkop.nl##.regio-widget
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
-tvgids.nl##.section-home-news__ad
-hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
