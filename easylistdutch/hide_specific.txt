@@ -7,7 +7,6 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 noordkopcentraal.nl###banners
 historiek.net###before-header
-nnieuws.be###block-views-vw-banners-block-2
 nos.nl###ccm_notification_wrapper
 okemedia.nl###custom_html-2
 vroom.be###divBanneringSlot
@@ -103,6 +102,7 @@ srherald.com##.gsrhera
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.header-right
 arenalokaal.nl##.header_banner
 oogtv.nl##.home-banner
+jan-magazine.nl##.homepage-marquee
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu
 tvgids.nl##.interstitial_banner
@@ -119,33 +119,28 @@ marktplaats.nl##.mp-adsense-header
 nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
 iphoned.nl##.mt-8.lg\:flex.hidden.wrap
-tweakers.net##.notificationsContainer
 tijd.be##.o-hpgrid__row-sponsoredcombo
-jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
 appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 ad.nl##.page-header__section--spacer
 opwindend.net##.popup
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
-nsinternational.com##.r42CookieBar
 regionoordkop.nl##.regio-widget
-nnieuws.be##.region-banner-diamond.region
+nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 tvgids.nl##.section-home-news__ad
 hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
-pornozot.com##.text-center.mb-20
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
-nnieuws.be##.view-vw-banners.view
+nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
 handbalstartpunt.nl##.widget-banner
 riskcompliance.nl##.widget_itarget_banners
 telegraaf.nl##.withBanners
-meteovista.be,weeronline.nl##.wol-banner-module__bannerContainer___QMBCE.wol-banner-module__bannerHeader___sjbIC
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 appletips.nl##a[href^="/adverteren-"]
@@ -155,7 +150,6 @@ pcmweb.nl##div.block:nth-of-type(2)
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
 sexjobs.nl##div[id^="banner-"]
-tweakers.net##img[referrerpolicy="unsafe-url"][src^="/i/"]
 prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
