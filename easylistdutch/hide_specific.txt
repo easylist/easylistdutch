@@ -36,6 +36,7 @@ loemedia.nl###text-17
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
 goedkoopstekeukensduitsland.nl###text-8
+hotradiohits.nl###tpl_banners
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
