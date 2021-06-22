@@ -25,6 +25,8 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
+||handbalstartpunt.nl/content/schoonkapje.gif
+||handbalstartpunt.nl/images/mizuno-small.jpg
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
