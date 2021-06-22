@@ -118,7 +118,6 @@ marktplaats.nl##.mp-adsense-header
 nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
 iphoned.nl##.mt-8.lg\:flex.hidden.wrap
-gfcnieuws.com##.n2-section-smartslider
 tweakers.net##.notificationsContainer
 tijd.be##.o-hpgrid__row-sponsoredcombo
 jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
@@ -144,7 +143,6 @@ rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
 handbalstartpunt.nl##.widget-banner
 riskcompliance.nl##.widget_itarget_banners
-gfcnieuws.com##.widget_media_image.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 telegraaf.nl##.withBanners
 meteovista.be,weeronline.nl##.wol-banner-module__bannerContainer___QMBCE.wol-banner-module__bannerHeader___sjbIC
 geenstijl.nl##a[data-ga-event^="link-tip"]
