@@ -66,6 +66,7 @@ dolcevia.com##.banner-style
 sexjobs.nl##.banner-wrapper
 dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 gic.nl##.banners
+radiomonique.am##.bannerswidget
 dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
