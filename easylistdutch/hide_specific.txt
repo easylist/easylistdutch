@@ -1,6 +1,7 @@
 trouw.nl,volkskrant.nl###LOGIN_BIG_BOTTOM > .tm-body
 buienradar.be,buienradar.nl###adholderContainerHeader
 omroeppenm.nl,rickfm.nl###advertisement
+alle-tests.nl###advertising
 almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 dwtonline.com###banner1
 afkortingen.nu###banner_right
