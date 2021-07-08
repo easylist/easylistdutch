@@ -59,7 +59,7 @@ wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 notebookcheck.nl##.am_el
 rtvkrimpenerwaard.nl##.art-positioncontrol
-afkortingen.nu,dutchitchannel.nl,simone.nl,startbewijs.nl,tvgids.nl##.banner
+afkortingen.nu,dutchitchannel.nl,nrc.nl,simone.nl,startbewijs.nl,tvgids.nl##.banner
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver

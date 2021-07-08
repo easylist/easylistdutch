@@ -57,6 +57,7 @@
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
+||nrc.nl/tag/tag.js
 ||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||onestat.com/app/banneriframe.aspx?
