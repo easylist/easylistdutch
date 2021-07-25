@@ -119,6 +119,8 @@ opwindend.net##.popup
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
+europa-landbouwmachines.nl##.pub
+europa-landbouwmachines.nl##.pub-content
 regionoordkop.nl##.regio-widget
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
