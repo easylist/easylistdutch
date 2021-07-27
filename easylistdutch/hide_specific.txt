@@ -1,12 +1,27 @@
+omroeppenm.nl,rickfm.nl###advertisement
+maaslandradio.nl###media_image-7
+loemedia.nl###text-17
+hotradiohits.nl###tpl_banners
+dolcevia.com##.banner-style
+dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+halstadcentraal.nl##.carouselbanner_left
+decibel.nl##.edgtf-carousel-holder
+oogtv.nl##.home-banner
+dolcevia.com##.ira-container.ira-format-block > .bookingaff
+halstadcentraal.nl##.respbanners
+handbalstartpunt.nl##.widget-banner
+appletips.nl##a[href^="/adverteren-"]
+pcmweb.nl##div.block:nth-of-type(1)
+pcmweb.nl##div.block:nth-of-type(2)
+decibel.nl##img[width="640"][height="180"]
+!
 trouw.nl,volkskrant.nl###LOGIN_BIG_BOTTOM > .tm-body
 buienradar.be,buienradar.nl###adholderContainerHeader
-omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl###advertising
 almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 dwtonline.com###banner1
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-noordkopcentraal.nl###banners
 historiek.net###before-header
 nos.nl###ccm_notification_wrapper
 okemedia.nl###custom_html-2
@@ -20,7 +35,6 @@ eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
 afkortingen.nu###link_unit
-maaslandradio.nl###media_image-7
 wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
@@ -31,12 +45,9 @@ rtlnieuws.nl###rtln-ad-advertorial
 112achterhoek-nieuws.nl###sidebar
 koopplein.nl###skyscraper
 easyfm.nl###sponsors-carousel
-noordkopcentraal.nl###table-49960
-loemedia.nl###text-17
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
 goedkoopstekeukensduitsland.nl###text-8
-hotradiohits.nl###tpl_banners
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
@@ -64,9 +75,7 @@ prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
-dolcevia.com##.banner-style
 sexjobs.nl##.banner-wrapper
-dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 gic.nl##.banners
 radiomonique.am##.bannerswidget
 dutchitchannel.nl##.bannner
@@ -82,7 +91,6 @@ tijd.be##.c-sitenavPlaceholder__ad
 hartvannederland.nl##.c01387
 hartvannederland.nl##.c01557
 hartvannederland.nl##.c01558
-halstadcentraal.nl##.carouselbanner_left
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 tvgids.tv##.col-left
@@ -92,7 +100,6 @@ hln.be##.dfp-space
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
-decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 rtvgo.nl##.footeradd
 dbsuriname.com,westerwoldeactueel.nl##.g
@@ -100,11 +107,9 @@ spel.nl##.game-page-sidebar
 srherald.com##.gsrhera
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.header-right
 arenalokaal.nl##.header_banner
-oogtv.nl##.home-banner
 jan-magazine.nl##.homepage-marquee
 marktplaats.nl##.hz-LoginNudge
 voetbalkrant.com##.imu
-dolcevia.com##.ira-container.ira-format-block > .bookingaff
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
 speeleiland.nl##.leader-below-game
@@ -113,7 +118,6 @@ scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
 tijd.be##.o-hpgrid__row-sponsoredcombo
-appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 ad.nl##.page-header__section--spacer
 opwindend.net##.popup
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
@@ -123,7 +127,6 @@ europa-landbouwmachines.nl##.pub
 europa-landbouwmachines.nl##.pub-content
 regionoordkop.nl##.regio-widget
 nnieuws.be##.region-banner-diamond
-halstadcentraal.nl##.respbanners
 geenstijl.nl##.slajeslag
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
@@ -132,16 +135,12 @@ chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
-handbalstartpunt.nl##.widget-banner
 riskcompliance.nl##.widget_itarget_banners
 telegraaf.nl##.withBanners
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
-appletips.nl##a[href^="/adverteren-"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-pcmweb.nl##div.block:nth-of-type(1)
-pcmweb.nl##div.block:nth-of-type(2)
 meteovista.be##div[class*="AdWrapper"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
@@ -154,6 +153,5 @@ waldnet.nl##div[style="padding-top: 30px; padding-bottom: 30px;"]
 waldnet.nl##div[style^="height: 280px;"]
 prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
-decibel.nl##img[width="640"][height="180"]
 wildfm.nl##img[width="699"][height="90"]
 weeronline.nl##section[class*="wol-banner-"]
