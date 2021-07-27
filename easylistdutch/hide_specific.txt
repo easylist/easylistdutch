@@ -127,6 +127,7 @@ halstadcentraal.nl##.respbanners
 geenstijl.nl##.slajeslag
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
+waldnet.nl##.topbanner
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
@@ -145,6 +146,9 @@ meteovista.be##div[class*="AdWrapper"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
 sexjobs.nl##div[id^="banner-"]
+waldnet.nl##div[style*="height: 560px;"]
+waldnet.nl##div[style="clear: both; height: auto; text-align: center; padding-top: 50px; padding-bottom: 50px;"]
+waldnet.nl##div[style="height: 300px;"]
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
