@@ -2,6 +2,7 @@ omroeppenm.nl,rickfm.nl###advertisement
 maaslandradio.nl###media_image-7
 loemedia.nl###text-17
 hotradiohits.nl###tpl_banners
+nieuwsuitnijmegen.nl##.banner-box-1
 dolcevia.com##.banner-style
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 halstadcentraal.nl##.carouselbanner_left
