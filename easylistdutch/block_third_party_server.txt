@@ -1,5 +1,6 @@
 ||dt71.net^$third-party
 ||gratis-neuken.com^$third-party
+||online-banners.nl^$third-party
 !
 ||affiliatepartners.com^$third-party
 ||aj1716.online^
@@ -16,7 +17,7 @@
 ||conversive.nl^$third-party
 ||coolconcepts.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
-||doubleclick.net^$domain=2be.be|mtv.nl|nederland.fm|nickelodeon.nl|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|vi.nl
+||doubleclick.net^$domain=2be.be|mtv.nl|nederland.fm|nickelodeon.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|vi.nl
 ||ds1.nl^$third-party
 ||ehg-advertisementbv.hitbox.com^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
@@ -33,7 +34,6 @@
 ||mbs.midhold.nl^$third-party
 ||netdirect.nl^$third-party
 ||nonstoppartner.net^$third-party
-||online-banners.nl^$third-party
 ||partnerclicks.nl^$third-party
 ||partnerwebsites.financereview.nl^$third-party
 ||pexi.nl^$third-party
