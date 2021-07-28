@@ -8,6 +8,7 @@ halstadcentraal.nl##.carouselbanner_left
 decibel.nl##.edgtf-carousel-holder
 oogtv.nl##.home-banner
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
+openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
 handbalstartpunt.nl##.widget-banner
 appletips.nl##a[href^="/adverteren-"]

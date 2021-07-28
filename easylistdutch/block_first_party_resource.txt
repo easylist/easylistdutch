@@ -35,6 +35,8 @@
 ||omroeppenm.nl^*/banner/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
+||openingsurengids.be/includes/js/checkblockv2.js
+||openingsurengids.be/template/images/publi/
 ||radiolelystad.nl/images/stories/Banners/
 ||rickfm.nl/cwm/fm/userfiles/banner/
 !
