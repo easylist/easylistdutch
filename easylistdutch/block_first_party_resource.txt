@@ -40,6 +40,9 @@
 ||openingsurengids.be/template/images/publi/
 ||radiolelystad.nl/images/stories/Banners/
 ||rickfm.nl/cwm/fm/userfiles/banner/
+||wp.com/www.appletips.nl/wp-content/uploads/amacdeals.jpg
+||wp.com/www.appletips.nl/wp-content/uploads/cnmx.png
+||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1.png
 !
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
