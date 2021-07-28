@@ -12,9 +12,11 @@ noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
 oogtv.nl##.home-banner
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
+123video.nl##.page-load-switch
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
 maaslandradio.nl##.slides
+123video.nl##.stunt-wide
 netonline.be##.text_12_jobs_only
 handbalstartpunt.nl##.widget-banner
 appletips.nl##a[href^="/adverteren-"]
