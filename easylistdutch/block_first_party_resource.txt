@@ -28,6 +28,7 @@
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
+||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||netonline.be/slices/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
