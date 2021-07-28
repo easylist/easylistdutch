@@ -32,7 +32,6 @@
 ||static-dscn.net/13146/1686020/$domain=almere-nieuws.nl
 ||thisislive.com/promo/
 ||totaalwijzer.nl/widget/$third-party
-||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||uu.nl/proton/*/akzonobel_masters_
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||xingo.nl/bannermanagement/

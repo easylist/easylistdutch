@@ -1,17 +1,22 @@
 omroeppenm.nl,rickfm.nl###advertisement
+afkortingen.nu###banner_right
+afkortingen.nu###banner_top
 maaslandradio.nl###media_image-7
 loemedia.nl###text-17
 hotradiohits.nl###tpl_banners
 autozine.nl##.ad
+afkortingen.nu,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,tvgids.nl##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
 dolcevia.com##.banner-style
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+dutchitchannel.nl##.bannner
 halstadcentraal.nl##.carouselbanner_left
 decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
 oogtv.nl##.home-banner
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
+radioeenhoorn.nl##.module_round_box
 123video.nl##.page-load-switch
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
@@ -29,8 +34,6 @@ buienradar.be,buienradar.nl###adholderContainerHeader
 alle-tests.nl###advertising
 almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 dwtonline.com###banner1
-afkortingen.nu###banner_right
-afkortingen.nu###banner_top
 historiek.net###before-header
 nos.nl###ccm_notification_wrapper
 okemedia.nl###custom_html-2
@@ -43,7 +46,6 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 oisterwijknieuws.nl###left-sidebar
-afkortingen.nu###link_unit
 wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.nl###parentgpt
@@ -79,7 +81,6 @@ wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 notebookcheck.nl##.am_el
 rtvkrimpenerwaard.nl##.art-positioncontrol
-afkortingen.nu,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startbewijs.nl,tvgids.nl##.banner
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver
@@ -87,7 +88,6 @@ speeleiland.nl##.banner-sky
 sexjobs.nl##.banner-wrapper
 gic.nl##.banners
 radiomonique.am##.bannerswidget
-dutchitchannel.nl##.bannner
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 rtlnieuws.nl##.billboard
@@ -124,11 +124,9 @@ beursgorilla.nl##.js--rect.ut--rectangle
 speeleiland.nl##.leader-below-game
 voetbalkrant.com##.leaderboard
 scholieren.com##.min-h-90
-radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
 tijd.be##.o-hpgrid__row-sponsoredcombo
 ad.nl##.page-header__section--spacer
-opwindend.net##.popup
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
