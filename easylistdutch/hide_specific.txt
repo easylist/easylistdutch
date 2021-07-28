@@ -13,6 +13,7 @@ oogtv.nl##.home-banner
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
+netonline.be##.text_12_jobs_only
 handbalstartpunt.nl##.widget-banner
 appletips.nl##a[href^="/adverteren-"]
 pcmweb.nl##div.block:nth-of-type(1)

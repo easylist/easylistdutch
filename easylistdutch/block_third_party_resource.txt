@@ -15,6 +15,7 @@
 ||flirtfair.de^*/dppop.js
 ||gemius.pl/gstream.js$script,domain=destentor.nl|telegraaf.nl
 ||giveawayoftheday.com/ticker/
+||infotalia.com/worktalia_promo_
 ||jobat.be/scripts/jobatscripts.js
 ||mmcdn.nl/tags/
 ||mobqo.nl^*/banner
