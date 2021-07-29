@@ -3,6 +3,7 @@ alle-tests.nl###advertising
 marktplaats.nl###banner-top-dt
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
+historiek.net###custom_html-38
 maaslandradio.nl###media_image-7
 loemedia.nl###text-17
 marktplaats.nl###top-banner-wrapper
