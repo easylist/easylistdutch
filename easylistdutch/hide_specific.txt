@@ -25,6 +25,7 @@ dolcevia.com##.ira-container.ira-format-block > .bookingaff
 voetbalkrant.com##.leaderboard
 radioeenhoorn.nl##.module_round_box
 123video.nl##.page-load-switch
+marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
 maaslandradio.nl##.slides
