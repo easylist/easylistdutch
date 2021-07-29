@@ -1,3 +1,6 @@
+||infotalia.com/worktalia_promo_
+||mmcdn.nl/tags/
+!
 -Ad-360..nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||amz01.plzcdn.com/a/
 ||api.skyscanner.net/api.ashx?$domain=viva.nl
@@ -15,9 +18,7 @@
 ||flirtfair.de^*/dppop.js
 ||gemius.pl/gstream.js$script,domain=destentor.nl|telegraaf.nl
 ||giveawayoftheday.com/ticker/
-||infotalia.com/worktalia_promo_
 ||jobat.be/scripts/jobatscripts.js
-||mmcdn.nl/tags/
 ||mobqo.nl^*/banner
 ||paypro.nl/payproads/
 ||powerconnect.be^*/poweractie.jpg$third-party
@@ -29,7 +30,6 @@
 ||sexverhalen.com/vriendschap/
 ||sp.dpgmedia.net^$third-party
 ||startpagina.nl^*/dochters/*/banners/
-||static-dscn.net/13146/1686020/$domain=almere-nieuws.nl
 ||thisislive.com/promo/
 ||totaalwijzer.nl/widget/$third-party
 ||uu.nl/proton/*/akzonobel_masters_

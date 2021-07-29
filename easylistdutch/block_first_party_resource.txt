@@ -60,6 +60,9 @@
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals.jpg
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx.png
 ||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1.png
+||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
+||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
+||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
 !
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
@@ -68,11 +71,3 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/Banner300x250-
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/BannerPZ-
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzaken.jpg
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzakenplus.jpg
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/ROmagazineProjectleiderCiviel-GemeenteBarneveld.png
-||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
-||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
-||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
