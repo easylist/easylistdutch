@@ -5,6 +5,10 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 historiek.net###custom_html-38
 maaslandradio.nl###media_image-7
+top40.nl###sky1
+top40.nl###sky2
+top40.nl###sky3
+top40.nl###sky4
 loemedia.nl###text-17
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
