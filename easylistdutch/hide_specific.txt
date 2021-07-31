@@ -32,6 +32,7 @@ autozine.nl##.ad
 wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
+stadszaken.nl##.b-side
 afkortingen.nu,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,tvgids.nl##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
 marktplaats.nl##.banner-row
