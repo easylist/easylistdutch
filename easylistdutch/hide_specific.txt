@@ -14,9 +14,9 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 maaslandradio.nl###media_image-7
-wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
-wielerflits.nl###parentgpt
+wielerflits.be,wielerflits.nl###parentgpt
 rtvkrimpenerwaard.nl###pg-1407-8
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
@@ -30,7 +30,7 @@ loemedia.nl###text-17
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
 autozine.nl,koopplein.nl##.ad
-wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
 stadszaken.nl##.b-side
