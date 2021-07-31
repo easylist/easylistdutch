@@ -29,7 +29,7 @@ easyfm.nl###sponsors-carousel
 loemedia.nl###text-17
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
-autozine.nl##.ad
+autozine.nl,koopplein.nl##.ad
 wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
