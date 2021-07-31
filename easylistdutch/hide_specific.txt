@@ -4,6 +4,7 @@ marktplaats.nl###banner-top-dt
 dwtonline.com###banner1
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
+brandweerspotters.nl###banners
 historiek.net###before-header
 historiek.net###custom_html-38
 vroom.be###divBanneringSlot

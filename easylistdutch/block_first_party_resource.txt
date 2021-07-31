@@ -2,6 +2,7 @@
 ||am-forum.nl/upload/logo_elektrodump.png
 ||antilliaansdagblad.com/images/banners/
 ||bodemvondstenwereld.nl/images/banners/
+||brandweerspotters.nl/modules/banners/
 ||content1.pcmweb.nl^
 ||decibel.nl/wp-content/uploads/*/banner-
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
