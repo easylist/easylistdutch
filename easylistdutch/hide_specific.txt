@@ -59,10 +59,12 @@ openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
 maaslandradio.nl##.slides
 123video.nl##.stunt-wide
+nu.nl##.tealium
 netonline.be##.text_12_jobs_only
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
+nu.nl##a[data-type="advertorial"]
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
 decibel.nl##img[width="640"][height="180"]
