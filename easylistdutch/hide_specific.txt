@@ -57,6 +57,7 @@ radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
+oisterwijknieuws.nl##.sam-container
 maaslandradio.nl##.slides
 123video.nl##.stunt-wide
 nu.nl##.tealium
@@ -65,8 +66,11 @@ handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
 nu.nl##a[data-type="advertorial"]
+oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
+oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
+oisterwijknieuws.nl##img[alt="banner"]
 decibel.nl##img[width="640"][height="180"]
 wildfm.nl##img[width="699"][height="90"]
 !
