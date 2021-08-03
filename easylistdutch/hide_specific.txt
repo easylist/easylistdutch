@@ -6,6 +6,7 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 brandweerspotters.nl###banners
 historiek.net###before-header
+almere-nieuws.nl###containerx
 historiek.net###custom_html-38
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
