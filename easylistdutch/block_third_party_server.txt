@@ -36,7 +36,6 @@
 ||nonstoppartner.net^$third-party
 ||partnerclicks.nl^$third-party
 ||partnerwebsites.financereview.nl^$third-party
-||pexi.nl^$third-party
 ||pics.obedo.nl^$third-party
 ||promotions.teasemedia.nl^$third-party
 ||radiocoupon.nl^$third-party
