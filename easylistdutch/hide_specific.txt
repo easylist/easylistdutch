@@ -51,6 +51,7 @@ srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 oogtv.nl##.home-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
+rd.nl##.infotainment
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 radioeenhoorn.nl##.module_round_box
