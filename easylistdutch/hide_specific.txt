@@ -41,6 +41,7 @@ nieuwsuitnijmegen.nl##.banner-box-1
 marktplaats.nl##.banner-row
 dolcevia.com##.banner-style
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+puurnaturisme.nl##.banneritem
 dutchitchannel.nl##.bannner
 rtlnieuws.nl##.billboard
 halstadcentraal.nl##.carouselbanner_left
