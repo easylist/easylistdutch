@@ -61,6 +61,7 @@
 ||te-les-koop.nl/images/B_
 ||transport-online.nl/site/includes/uploads/banner-
 ||unity.nu^*/Banners/
+||vagina.nl/fish-hooks/fetch.json
 ||voetbalkrant.com/images/pub/
 ||wanttoknow.nl^*Banner
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
