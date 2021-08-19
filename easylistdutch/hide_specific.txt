@@ -21,6 +21,7 @@ wielerflits.be,wielerflits.nl###parentgpt
 rtvkrimpenerwaard.nl###pg-1407-8
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
+vagina.nl###side-fish-hooks
 112achterhoek-nieuws.nl###sidebar
 top40.nl###sky1
 top40.nl###sky2
@@ -68,6 +69,7 @@ nu.nl##.tealium
 netonline.be##.text_12_jobs_only
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
+vagina.nl##.video-fish-hook
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
