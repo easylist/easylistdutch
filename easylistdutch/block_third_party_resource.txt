@@ -3,6 +3,7 @@
 ||bol.com/nl/upload/partnerprogramma/
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
 ||infotalia.com/worktalia_promo_
+||jobat.be/extra/trackuityhn/ticker_new.html$third-party
 ||mmcdn.nl/tags/
 ||recreatief.nl/kerstarrangementen.gif
 ||search-result.com^*/klokad2.js
