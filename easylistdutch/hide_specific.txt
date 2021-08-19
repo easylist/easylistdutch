@@ -31,6 +31,7 @@ loemedia.nl###text-17
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
 autozine.nl,koopplein.nl##.ad
+promootjesite.nl##.adsense
 wielerflits.be,wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
