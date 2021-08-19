@@ -64,6 +64,8 @@ maaslandradio.nl##.slides
 123video.nl##.stunt-wide
 nu.nl##.tealium
 netonline.be##.text_12_jobs_only
+fantv.nl##.tm-top-a
+fantv.nl##.tm-top-c
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
