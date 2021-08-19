@@ -1,5 +1,7 @@
+||botndm.nl^$third-party
 ||dt71.net^$third-party
 ||gratis-neuken.com^$third-party
+||nextday.media^$third-party
 ||online-banners.nl^$third-party
 !
 ||affiliatepartners.com^$third-party
