@@ -1,5 +1,6 @@
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||bol.com/nl/upload/banners/
+||bol.com/nl/upload/partnerprogramma/
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
 ||infotalia.com/worktalia_promo_
 ||mmcdn.nl/tags/
@@ -7,3 +8,4 @@
 ||search-result.com^*/klokad2.js
 ||sp.dpgmedia.net^$third-party
 ||widget.vpnnederland.nl^$domain=nzbserver.com
+||widgets.skyscanner.net^$domain=puuropreis.nl
