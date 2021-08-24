@@ -62,6 +62,7 @@ fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
+ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 oogtv.nl##.home-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
@@ -72,6 +73,7 @@ sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
 radioeenhoorn.nl##.module_round_box
+ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 feyenoord.nl##.partners
 marktplaats.nl##.premium-content
