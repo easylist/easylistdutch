@@ -64,6 +64,8 @@ atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant
 rd.nl##.infotainment
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
+sparta-rotterdam.nl##.logo_main_sponsor_image
+sparta-rotterdam.nl##.logo_slider_logos
 radioeenhoorn.nl##.module_round_box
 123video.nl##.page-load-switch
 marktplaats.nl##.premium-content
