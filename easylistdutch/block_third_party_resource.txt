@@ -2,6 +2,8 @@
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
+||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
+||cloudfront.net/Assets/images/partners/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||infotalia.com/worktalia_promo_
 ||jobat.be/extra/trackuityhn/ticker_new.html$third-party

@@ -73,6 +73,7 @@ sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
 radioeenhoorn.nl##.module_round_box
 123video.nl##.page-load-switch
+feyenoord.nl##.partners
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
@@ -88,6 +89,7 @@ netonline.be##.text_12_jobs_only
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
+feyenoord.nl##.totoOdds
 vagina.nl##.video-fish-hook
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
