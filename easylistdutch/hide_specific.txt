@@ -70,6 +70,7 @@ dolcevia.com##.ira-container.ira-format-block > .bookingaff
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
+ga-eagles.nl##.match-sponsor
 radioeenhoorn.nl##.module_round_box
 123video.nl##.page-load-switch
 marktplaats.nl##.premium-content
@@ -80,7 +81,7 @@ fcgroningen.nl##.sidebar__item--banner
 maaslandradio.nl##.slides
 sc-heerenveen.nl##.sponsor
 sc-heerenveen.nl##.sponsor-grid
-fcgroningen.nl,nec-nijmegen.nl##.sponsors
+fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl##.sponsors
 123video.nl##.stunt-wide
 nu.nl##.tealium
 netonline.be##.text_12_jobs_only
