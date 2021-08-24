@@ -50,6 +50,7 @@ dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.banne
 puurnaturisme.nl##.banneritem
 dutchitchannel.nl##.bannner
 rtlnieuws.nl##.billboard
+rkcwaalwijk.nl##.carousel
 halstadcentraal.nl##.carouselbanner_left
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
