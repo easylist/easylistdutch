@@ -18,6 +18,7 @@ maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
 wielerflits.be,wielerflits.nl###parentgpt
+eredivisie.nl###partner-bar
 rtvkrimpenerwaard.nl###pg-1407-8
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
@@ -53,6 +54,7 @@ decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
+eredivisie.nl##.header__top__partners
 oogtv.nl##.home-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 rd.nl##.infotainment

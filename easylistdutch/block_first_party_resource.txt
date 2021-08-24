@@ -15,6 +15,7 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||dolcevia.com^*/Banners/
 ||duurzaam-actueel.nl^*banner
+||eredivisie.nl/images/logos/partners/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
