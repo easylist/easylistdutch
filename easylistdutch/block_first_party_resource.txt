@@ -66,6 +66,7 @@
 ||voetbalkrant.com/images/pub/
 ||wanttoknow.nl^*Banner
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
+||willem-ii.nl/banner/
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/amstelveen.jpg
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/Coordinatoromgevingsvergunningen-Rijksoverheid-
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/enschede.png
