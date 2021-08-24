@@ -59,6 +59,7 @@ androidplanet.nl,iphoned.nl##.dynamic-content-native
 decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
 fcutrecht.nl##.footer-logos
+heracles.nl##.footer-sponsors
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 eredivisie.nl##.header__top__partners
