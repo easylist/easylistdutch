@@ -77,6 +77,8 @@ openingsurengids.be##.promSB
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 maaslandradio.nl##.slides
+sc-heerenveen.nl##.sponsor
+sc-heerenveen.nl##.sponsor-grid
 nec-nijmegen.nl##.sponsors
 123video.nl##.stunt-wide
 nu.nl##.tealium
