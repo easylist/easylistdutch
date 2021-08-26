@@ -4,6 +4,7 @@
 ||antilliaansdagblad.com/images/banners/
 ||bodemvondstenwereld.nl/images/banners/
 ||brandweerspotters.nl/modules/banners/
+||ciaotutti.nl/wp-content/uploads/Banner_
 ||content1.pcmweb.nl^
 ||decibel.nl/wp-content/uploads/*/banner-
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
