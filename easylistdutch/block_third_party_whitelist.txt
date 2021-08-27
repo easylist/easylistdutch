@@ -1,11 +1,11 @@
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
-! Uitzonderingen voor EasyList
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=radioluisteren.fm
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=radioluisteren.fm
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl|vtm.be
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=vtm.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hbvl.be|vtm.be
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
 @@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
+!
 @@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
