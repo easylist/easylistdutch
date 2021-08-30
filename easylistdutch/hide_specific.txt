@@ -65,6 +65,7 @@ decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
+kanaalxxx.nl##.fpbnr
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 ajax.nl##.header__partner-link
