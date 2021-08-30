@@ -24,6 +24,7 @@ starnieuws.com###overig_nieuws
 wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
 rtvkrimpenerwaard.nl###pg-1407-8
+sexpower.nl###pre-footer-banners
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
 vagina.nl###side-fish-hooks
@@ -34,6 +35,7 @@ top40.nl###sky3
 top40.nl###sky4
 easyfm.nl###sponsors-carousel
 loemedia.nl###text-17
+sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
 marktplaats.nl##.Banners-bannerFeedItem
