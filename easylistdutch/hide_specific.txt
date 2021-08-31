@@ -40,7 +40,8 @@ marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
 marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
-autozine.nl,koopplein.nl##.ad
+autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
+filmtotaal.nl##.ad-centering
 promootjesite.nl##.adsense
 wielerflits.be,wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
@@ -125,8 +126,6 @@ telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.WebpushOptin__main
-limburger.nl,tripadvisor.nl##.ad
-filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
 omroepgelderland.nl##.adcontainer
 westerwoldeactueel.nl##.adr-wrapper

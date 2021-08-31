@@ -1,8 +1,6 @@
 bokt.nl#@#.ad-body
 wereldklokken.nl#@#.adsbygoogle
+paginamarkt.nl#@#.advertentie
 vakantieplaats.nl#@#.feed-ad
 bokt.nl#@#.node-ad
 vakantieplaats.nl#@#.topAds
-!
-drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,moorslede.be,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
-blikopnieuws.nl,computeridee.nl#@#.reclame
