@@ -1,3 +1,5 @@
+###adBoven
+###adRechts2
 ##.content-rechts-ad
 !
 ###adRechts
