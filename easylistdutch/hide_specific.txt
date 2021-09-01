@@ -81,6 +81,7 @@ sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
 radioeenhoorn.nl##.module_round_box
+edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 feyenoord.nl##.partners
