@@ -30,6 +30,7 @@
 ||htforum.nl/yabbse/topframe_v3.php
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
+||landenweb.nl/imgBoeking/
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
