@@ -70,6 +70,7 @@ heracles.nl##.footer-sponsors
 kanaalxxx.nl##.fpbnr
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
+schaatsen.nl##.header-partners-logo
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 oogtv.nl##.home-banner
