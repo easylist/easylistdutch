@@ -44,6 +44,7 @@
 ||omroeppenm.nl^*/banner/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
+||oops.nl/banner/
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
 ||opwindend.net/Promotie/
