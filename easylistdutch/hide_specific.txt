@@ -139,7 +139,6 @@ openingstijden.com##.adsense
 autoweek.nl##.advertise
 bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
-notebookcheck.nl##.am_el
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 nnieuws.be##.banner-silver

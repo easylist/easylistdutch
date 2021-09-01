@@ -4,6 +4,8 @@
 ||antilliaansdagblad.com/images/banners/
 ||bodemvondstenwereld.nl/images/banners/
 ||brandweerspotters.nl/modules/banners/
+||chatmetvreemden.be/static/html/
+||chatmetvreemden.nl/static/html/
 ||ciaotutti.nl/wp-content/uploads/Banner_
 ||content1.pcmweb.nl^
 ||decibel.nl/wp-content/uploads/*/banner-
@@ -21,6 +23,9 @@
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
 ||genemuidenactueel.nl^*banner
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/I-kook-banner.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||halstadcentraal.nl/images/banners/
 ||handbalstartpunt.nl/content/schoonkapje.gif
 ||handbalstartpunt.nl/images/mizuno-small.jpg
@@ -84,11 +89,3 @@
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
-!
-||chatmetvreemden.be/static/html/
-||chatmetvreemden.nl/static/html/
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/I-kook-banner.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
-||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
