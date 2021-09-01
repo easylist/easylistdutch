@@ -1,6 +1,7 @@
 ###adBoven
 ###adRechts2
 ##.content-rechts-ad
+##.gamereel_featured-ad
 !
 ###adRechts
 ###adsense_artikel_4
