@@ -10,6 +10,7 @@
 ||mmcdn.nl/tags/
 ||recreatief.nl/kerstarrangementen.gif
 ||search-result.com^*/klokad2.js
+||seks.com/img/bnr.gif
 ||sp.dpgmedia.net^$third-party
 ||widget.vpnnederland.nl^$domain=nzbserver.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
