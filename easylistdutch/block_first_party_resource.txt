@@ -69,6 +69,8 @@
 ||sexchatlounge.nl/bannerrechts.html
 ||simone.nl/bestanden/afbeelding/*-banner-
 ||simone.nl/bestanden/afbeelding/banner/
+||spreekbuis.nl/wp-content/uploads/*-banner-
+||spreekbuis.nl/wp-content/uploads/*/Banner-
 ||srherald.com/wp-content/banners/
 ||te-les-koop.nl/images/B_
 ||transport-online.nl/site/includes/uploads/banner-
