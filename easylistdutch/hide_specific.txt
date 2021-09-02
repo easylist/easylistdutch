@@ -84,6 +84,7 @@ oogtv.nl##.home-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 rd.nl##.infotainment
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
+reformatorischeomroep.nl##.item-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 blikopnieuws.nl##.ligatus-sidebar-block
 sparta-rotterdam.nl##.logo_main_sponsor_image
