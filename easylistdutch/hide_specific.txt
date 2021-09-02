@@ -52,6 +52,7 @@ knvb.nl##.SponsorBar-list
 autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 promootjesite.nl##.adsense
+nederland.tv##.adv-tekst
 wielerflits.be,wielerflits.nl##.affiliate_links
 historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
@@ -62,6 +63,8 @@ nieuwsuitnijmegen.nl##.banner-box-1
 feyenoord.nl##.banner-carousel
 marktplaats.nl##.banner-row
 dolcevia.com##.banner-style
+nederland.tv##.banner_image
+nederland.tv##.banner_image2
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 puurnaturisme.nl##.banneritem
 dutchitchannel.nl##.bannner
