@@ -27,6 +27,7 @@
 /reclame2.
 /reclamebanners/*
 /small_reclames/*
+/tekst_advertentie_
 /topadvertentie.
 ://promotie.$third-party
 _advertentie300x250_
