@@ -26,7 +26,11 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 spreekbuis.nl###media_image-11
-keizerstad.nl###media_image-3
+omroepalmere.nl###media_image-16
+omroepalmere.nl###media_image-18
+omroepalmere.nl###media_image-21
+omroepalmere.nl###media_image-22
+keizerstad.nl,oomroepalmere.nl###media_image-3
 keizerstad.nl###media_image-4
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
@@ -48,6 +52,7 @@ loemedia.nl###text-17
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
+omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
 marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
