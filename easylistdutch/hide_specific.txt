@@ -26,6 +26,8 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 spreekbuis.nl###media_image-11
+keizerstad.nl###media_image-3
+keizerstad.nl###media_image-4
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
 starnieuws.com###overig_nieuws
