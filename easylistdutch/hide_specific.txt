@@ -105,7 +105,7 @@ fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
 feyenoord.nl##.totoOdds
 vagina.nl##.video-fish-hook
-tweakers.net##.widebanner
+baarsclassicrock.nl,tweakers.net##.widebanner
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
