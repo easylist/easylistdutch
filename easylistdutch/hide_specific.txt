@@ -211,3 +211,4 @@ waldnet.nl##div[style^="height: 280px;"]
 prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 weeronline.nl##section[class*="wol-banner-"]
+tweakers.net##.reserveSpace
