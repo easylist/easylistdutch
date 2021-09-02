@@ -43,6 +43,7 @@ loemedia.nl###text-17
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
 hotradiohits.nl###tpl_banners
+broadcastmagazine.nl##.Advertisement
 marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
 autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
