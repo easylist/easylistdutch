@@ -60,7 +60,7 @@ nieuwsuitnijmegen.nl##.banner-box-1
 feyenoord.nl##.banner-carousel
 marktplaats.nl##.banner-row
 dolcevia.com##.banner-style
-dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 puurnaturisme.nl##.banneritem
 dutchitchannel.nl##.bannner
 rtlnieuws.nl##.billboard
