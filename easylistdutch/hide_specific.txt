@@ -119,6 +119,7 @@ sc-heerenveen.nl##.sponsor
 sc-heerenveen.nl##.sponsor-grid
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl##.sponsors
 123video.nl##.stunt-wide
+dagbladdewest.com##.swiper-wrapper
 nu.nl##.tealium
 volkskrant.nl##.teaser-branded
 netonline.be##.text_12_jobs_only
@@ -139,6 +140,7 @@ pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 routenet.nl##div[style*="width:730px; height:90px;"]
 oisterwijknieuws.nl##img[alt="banner"]
+dagbladdewest.com##img[width="300"]
 decibel.nl##img[width="640"][height="180"]
 wildfm.nl##img[width="699"][height="90"]
 landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px solid; width: 100%; margin-bottom: 10px;"]
