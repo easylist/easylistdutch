@@ -242,3 +242,5 @@ prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 weeronline.nl##section[class*="wol-banner-"]
 radiocaramba.nl##table[width="120"][height="600"]
+! Advanced element hiding rules for Adblock Plus
+srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"])
