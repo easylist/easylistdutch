@@ -122,6 +122,7 @@ sc-heerenveen.nl##.sponsor-grid
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl##.sponsors
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
+waterkant.net##.tdi_68
 nu.nl##.tealium
 volkskrant.nl##.teaser-branded
 netonline.be##.text_12_jobs_only
