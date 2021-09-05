@@ -141,6 +141,7 @@ pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 routenet.nl##div[style*="width:730px; height:90px;"]
+starnieuws.com##div[style^="width : 250px"]
 apintie.sr##div[style^="width:300px; height:180px;"]
 oisterwijknieuws.nl##img[alt="banner"]
 dagbladdewest.com##img[width="300"]
