@@ -35,6 +35,7 @@ keizerstad.nl,oomroepalmere.nl###media_image-3
 keizerstad.nl###media_image-4
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
+surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
 wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
