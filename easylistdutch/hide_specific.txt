@@ -60,9 +60,13 @@ marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
 autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
-promootjesite.nl##.adsense
+omroepflevoland.nl##.ad-container
+westerwoldeactueel.nl##.adr-wrapper
+openrotterdam.nl##.ads
+openingstijden.com,promootjesite.nl##.adsense
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.adv-tekst
-1twente.nl##.advertisement
+autoweek.nl##.advertise
+1twente.nl,bnnvara.nl##.advertisement
 sporza.be##.advertising
 wielerflits.be,wielerflits.nl##.affiliate_links
 gfcnieuws.com,historiek.net##.ai-viewport-1
@@ -92,6 +96,7 @@ noordkopcentraal.nl##.ewic-slider-pro-widget
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 kanaalxxx.nl##.fpbnr
+dbsuriname.com,westerwoldeactueel.nl##.g
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 schaatsen.nl##.header-partners-logo
@@ -164,13 +169,6 @@ telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.WebpushOptin__main
-omroepflevoland.nl##.ad-container
-omroepgelderland.nl##.adcontainer
-westerwoldeactueel.nl##.adr-wrapper
-openrotterdam.nl##.ads
-openingstijden.com##.adsense
-autoweek.nl##.advertise
-bnnvara.nl##.advertisement
 dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
@@ -199,7 +197,6 @@ hln.be##.dfp-space
 turksemedia.nl##.easingslider
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 rtvgo.nl##.footeradd
-dbsuriname.com,westerwoldeactueel.nl##.g
 spel.nl##.game-page-sidebar
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.header-right
 arenalokaal.nl##.header_banner
