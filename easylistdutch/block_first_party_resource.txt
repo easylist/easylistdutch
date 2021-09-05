@@ -50,6 +50,7 @@
 ||netonline.be/slices/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordkopcentraal.nl^*/banner_
+||notebookcheck.nl/fileadmin/Sonstiges/am_abv3_$xmlhttprequest
 ||nrc.nl/tag/tag.js
 ||omroeppenm.nl^*/banner/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
