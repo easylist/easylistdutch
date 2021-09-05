@@ -1,3 +1,4 @@
+apintie.sr###ads
 omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl###advertising
 ciaotutti.nl###b_searchboxInc
@@ -138,7 +139,9 @@ oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
+apintie.sr##div[style*="width:300px; height:250px;"]
 routenet.nl##div[style*="width:730px; height:90px;"]
+apintie.sr##div[style^="width:300px; height:180px;"]
 oisterwijknieuws.nl##img[alt="banner"]
 dagbladdewest.com##img[width="300"]
 decibel.nl##img[width="640"][height="180"]
