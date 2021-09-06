@@ -75,20 +75,34 @@ salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
 afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,tvgids.nl,unity.nu##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
+speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
+prewarcar.nl##.banner-holder
+ewmagazine.nl##.banner-leaderboard
 marktplaats.nl##.banner-row
+nnieuws.be##.banner-silver
+speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
+sexjobs.nl##.banner-wrapper
 rtvdordrecht.nl##.bannerContainer
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 puurnaturisme.nl##.banneritem
+gic.nl##.banners
+radiomonique.am##.bannerswidget
 dutchitchannel.nl##.bannner
+bieos-omroep.nl##.bieos-widget
 rtlnieuws.nl##.billboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
+zeelandnet.nl##.bnr
+classic.nl##.brievenbus
 rkcwaalwijk.nl##.carousel
 halstadcentraal.nl##.carouselbanner_left
+autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
+rd.nl##.codalt-container
+hln.be##.dfp-space
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
 decibel.nl##.edgtf-carousel-holder
@@ -107,6 +121,7 @@ atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant
 rd.nl##.infotainment
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 reformatorischeomroep.nl##.item-banner
+speeleiland.nl##.leader-below-game
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 blikopnieuws.nl##.ligatus-sidebar-block
 sparta-rotterdam.nl##.logo_main_sponsor_image
@@ -114,11 +129,14 @@ sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
 radioeenhoorn.nl##.module_round_box
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
+tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 feyenoord.nl##.partners
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
+europa-landbouwmachines.nl##.pub
+nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 fcgroningen.nl##.sidebar__item--banner
@@ -136,7 +154,9 @@ fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
 feyenoord.nl##.totoOdds
+chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 vagina.nl##.video-fish-hook
+nnieuws.be##.view-vw-banners
 baarsclassicrock.nl,tweakers.net##.widebanner
 handbalstartpunt.nl##.widget-banner
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
@@ -147,11 +167,13 @@ oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
+sexjobs.nl##div[id^="banner-"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 routenet.nl##div[style*="width:730px; height:90px;"]
 starnieuws.com##div[style^="width : 250px"]
 apintie.sr##div[style^="width:300px; height:180px;"]
 oisterwijknieuws.nl##img[alt="banner"]
+prewarcar.nl##img[width="160"][height="92"]
 dagbladdewest.com##img[width="300"]
 decibel.nl##img[width="640"][height="180"]
 wildfm.nl##img[width="699"][height="90"]
@@ -169,31 +191,10 @@ telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.WebpushOptin__main
-dekrantvanmiddendrenthe.nl,meppelercourant.nl##.advertorial-item
-prewarcar.nl##.banner-holder
-ewmagazine.nl##.banner-leaderboard
-nnieuws.be##.banner-silver
-speeleiland.nl##.banner-sky
-sexjobs.nl##.banner-wrapper
-gic.nl##.banners
-radiomonique.am##.bannerswidget
-berekenhet.nl##.bh-ads
-bieos-omroep.nl##.bieos-widget
-zeelandnet.nl##.bnr-notice
-classic.nl##.brievenbus
 spele.nl##.brioche.skycraper.banner
 spele.nl##.broa.leaderboard.banner
-gic.nl##.btn-adverteren
-tijd.be##.c-sitenavPlaceholder__ad
-hartvannederland.nl##.c01387
-hartvannederland.nl##.c01557
-hartvannederland.nl##.c01558
-autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
-rd.nl##.codalt-container
 tvgids.tv##.col-left
 tvgids.tv##.col-right
-tameteo.nl##.creatividad
-hln.be##.dfp-space
 turksemedia.nl##.easingslider
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 rtvgo.nl##.footeradd
@@ -204,23 +205,16 @@ jan-magazine.nl##.homepage-marquee
 marktplaats.nl##.hz-LoginNudge
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
-speeleiland.nl##.leader-below-game
 scholieren.com##.min-h-90
 marktplaats.nl##.mp-adsense-header
-tijd.be##.o-hpgrid__row-sponsoredcombo
 ad.nl##.page-header__section--spacer
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
-europa-landbouwmachines.nl##.pub
-europa-landbouwmachines.nl##.pub-content
-nnieuws.be##.region-banner-diamond
 geenstijl.nl##.slajeslag
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
 waldnet.nl##.topbanner
-chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
-nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
 riskcompliance.nl##.widget_itarget_banners
@@ -231,14 +225,12 @@ focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 meteovista.be##div[class*="AdWrapper"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
-sexjobs.nl##div[id^="banner-"]
 waldnet.nl##div[style*="height: 560px;"]
 waldnet.nl##div[style="clear: both; height: auto; text-align: center; padding-top: 50px; padding-bottom: 50px;"]
 waldnet.nl##div[style="height: 300px;"]
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 waldnet.nl##div[style="padding-top: 30px; padding-bottom: 30px;"]
 waldnet.nl##div[style^="height: 280px;"]
-prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 weeronline.nl##section[class*="wol-banner-"]
 radiocaramba.nl##table[width="120"][height="600"]
