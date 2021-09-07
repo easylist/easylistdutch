@@ -66,7 +66,7 @@ omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
 marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
-autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
+autozine.nl,hetnieuwsvandaag.be,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 voetbalvandaag.be##.adds
@@ -155,7 +155,7 @@ feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
-europa-landbouwmachines.nl,mijn-tv-gids.be##.pub
+europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
