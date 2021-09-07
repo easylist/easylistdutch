@@ -55,6 +55,7 @@ top40.nl###sky2
 top40.nl###sky3
 top40.nl###sky4
 easyfm.nl###sponsors-carousel
+radiozuidrand.be###text-15
 loemedia.nl###text-17
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
