@@ -153,6 +153,7 @@ nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 fcgroningen.nl##.sidebar__item--banner
+volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
 sc-heerenveen.nl##.sponsor
 sc-heerenveen.nl##.sponsor-grid
@@ -197,6 +198,7 @@ rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
 dagbladdewest.com##img[width="300"]
 decibel.nl##img[width="640"][height="180"]
+volleyvlaanderen.be##img[width="670"][height="80]
 wildfm.nl##img[width="699"][height="90"]
 landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px solid; width: 100%; margin-bottom: 10px;"]
 !
