@@ -99,6 +99,7 @@ psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
 zeelandnet.nl##.bnr
 classic.nl##.brievenbus
+ngf.nl##.c-footer-sponsors
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl##.c-sponsors
 volleybal.nl##.card-banner
