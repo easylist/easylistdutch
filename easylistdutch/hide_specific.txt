@@ -26,6 +26,8 @@ vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
 androidplanet.nl,iphoned.nl###featured-header
 alkmaarguardians.nl###footer
+nieuws.nl###footer-banner
+nieuws.nl###header-banner
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
