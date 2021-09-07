@@ -100,6 +100,8 @@ psv.nl##.block-sponsors-desktop
 zeelandnet.nl##.bnr
 classic.nl##.brievenbus
 knltb.nl,tennis.nl##.c-site-footer__partners
+volleybal.nl##.card-banner
+volleybal.nl##.card-banner-large
 rkcwaalwijk.nl##.carousel
 halstadcentraal.nl##.carouselbanner_left
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
