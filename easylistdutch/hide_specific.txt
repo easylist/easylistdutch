@@ -23,6 +23,7 @@ historiek.net###custom_html-38
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
 androidplanet.nl,iphoned.nl###featured-header
+alkmaarguardians.nl###footer
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
