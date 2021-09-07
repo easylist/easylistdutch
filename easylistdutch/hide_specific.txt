@@ -54,6 +54,7 @@ easyfm.nl###sponsors-carousel
 loemedia.nl###text-17
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
+voetbal-vandaag.nl###topbox
 hotradiohits.nl###tpl_banners
 omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
