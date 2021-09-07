@@ -66,7 +66,7 @@ marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
 autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
-omroepflevoland.nl,sportuitslagen.org##.ad-container
+bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 voetbalvandaag.be##.adds
 westerwoldeactueel.nl##.adr-wrapper
 handbal.nl,openrotterdam.nl##.ads
