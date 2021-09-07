@@ -124,6 +124,7 @@ dbsuriname.com,westerwoldeactueel.nl##.g
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 schaatsen.nl##.header-partners-logo
+golf.be##.header__bottom
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 oogtv.nl##.home-banner
@@ -143,6 +144,7 @@ tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 feyenoord.nl##.partners
+golf.be##.partners-holder
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
 europa-landbouwmachines.nl##.pub
