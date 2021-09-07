@@ -245,6 +245,7 @@ ad.nl##.page-header__section--spacer
 omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
+girlpowerradio.nl##.proradio-owl-sponsorcarousel
 geenstijl.nl##.slajeslag
 omroephouten.nl##.sponsor-carousel
 radio0511.com##.sponsorImg
