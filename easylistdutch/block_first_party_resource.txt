@@ -86,6 +86,7 @@
 ||vagina.nl/fish-hooks/fetch.json
 ||vitesse.nl^*_sponsors_footer.png
 ||voetbalkrant.com/images/pub/
+||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner1170.jpg
 ||wanttoknow.nl^*Banner
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
