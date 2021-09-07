@@ -63,6 +63,7 @@ knvb.nl##.SponsorBar-list
 autozine.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 omroepflevoland.nl##.ad-container
+voetbalvandaag.be##.adds
 westerwoldeactueel.nl##.adr-wrapper
 handbal.nl,openrotterdam.nl##.ads
 openingstijden.com,promootjesite.nl##.adsense
