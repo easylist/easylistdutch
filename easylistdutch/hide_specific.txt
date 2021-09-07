@@ -147,6 +147,7 @@ fcgroningen.nl##.sidebar__item--banner
 maaslandradio.nl##.slides
 sc-heerenveen.nl##.sponsor
 sc-heerenveen.nl##.sponsor-grid
+nevobo.nl##.sponsorbar
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl##.sponsors
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
