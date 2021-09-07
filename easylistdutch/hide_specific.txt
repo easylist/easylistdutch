@@ -115,6 +115,7 @@ decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
+handbal.be##.footer-top
 burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 dbsuriname.com,westerwoldeactueel.nl##.g
