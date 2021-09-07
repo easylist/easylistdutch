@@ -241,7 +241,7 @@ beursgorilla.nl##.js--rect.ut--rectangle
 scholieren.com##.min-h-90
 marktplaats.nl##.mp-adsense-header
 ad.nl##.page-header__section--spacer
-omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
+omroephorstaandemaas.nl,omroepvenlo.nl,rtvstichtsevecht.nl,wos.nl##.prom
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
 geenstijl.nl##.slajeslag
