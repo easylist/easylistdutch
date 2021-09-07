@@ -252,6 +252,8 @@ telegraaf.nl##.withBanners
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
+tennisplaza.be##a[href^="https://ds1.nl/"]
+tennisplaza.be##a[rel*="sponsored"]
 meteovista.be##div[class*="AdWrapper"]
 omroepbrabant.nl##div[class^="ad-"]
 meerradio.nl##div[id="pristineslider.12"]
