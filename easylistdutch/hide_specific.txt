@@ -139,6 +139,7 @@ blikopnieuws.nl##.ligatus-sidebar-block
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
+mijn-tv-gids.be##.midzone
 radioeenhoorn.nl##.module_round_box
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 tijd.be##.o-hpgrid__row-sponsoredcombo
@@ -148,7 +149,7 @@ feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
 openingsurengids.be##.promSB
-europa-landbouwmachines.nl##.pub
+europa-landbouwmachines.nl,mijn-tv-gids.be##.pub
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
