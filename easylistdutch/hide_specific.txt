@@ -246,6 +246,7 @@ omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl#
 synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
 geenstijl.nl##.slajeslag
+omroephouten.nl##.sponsor-carousel
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
 waldnet.nl##.topbanner
