@@ -247,6 +247,7 @@ synoniemen.net##.promoblok
 metrotime.be##.proper-rss-widget
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 geenstijl.nl##.slajeslag
+omroepwest.nl##.slider-wrapper
 omroephouten.nl##.sponsor-carousel
 radio0511.com##.sponsorImg
 nos.nl##.ster-banner
