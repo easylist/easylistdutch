@@ -183,6 +183,7 @@ nnieuws.be##.view-vw-banners
 baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
+radioreflex.be##.widget_sponsors_widget
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
 nu.nl##a[data-type="advertorial"]
