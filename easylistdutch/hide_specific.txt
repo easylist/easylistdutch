@@ -80,6 +80,7 @@ sporza.be##.advertising
 wielerflits.be,wielerflits.nl##.affiliate_links
 gfcnieuws.com,historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
+zeelandnet.nl##.article-bnr-first
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
 afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,tvgemist.be,tvgids.nl,unity.nu##.banner
