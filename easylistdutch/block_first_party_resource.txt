@@ -21,6 +21,7 @@
 ||dolcevia.com^*/Banners/
 ||duurzaam-actueel.nl^*banner
 ||eredivisie.nl/images/logos/partners/
+||excellentfm.nl/images/aanbieding/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
