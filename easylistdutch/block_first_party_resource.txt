@@ -52,6 +52,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
+||midvliet.nl/images/advertenties-
 ||netonline.be/slices/banners/
 ||nevobo.nl^*/sponsor/
 ||nieuwsuitnijmegen.nl/gfx/banners/
