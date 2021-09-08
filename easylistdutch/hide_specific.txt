@@ -175,6 +175,7 @@ nevobo.nl##.sponsorbar
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
+rtvpapendrecht.nl##.td-a-rec
 waterkant.net##.tdi_68
 nu.nl##.tealium
 volkskrant.nl##.teaser-branded
