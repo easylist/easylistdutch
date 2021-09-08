@@ -9,6 +9,7 @@
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||ciaotutti.nl/wp-content/uploads/Banner_
+||coastline945fm.nl/cache/partners/
 ||content1.pcmweb.nl^
 ||decibel.nl/wp-content/uploads/*/banner-
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-

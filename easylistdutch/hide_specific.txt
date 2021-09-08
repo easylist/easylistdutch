@@ -46,6 +46,7 @@ surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
 wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
+coastline945fm.nl###partners_slides
 rtvkrimpenerwaard.nl###pg-1407-8
 sexpower.nl###pre-footer-banners
 nashvilletv.nl###ribbon
