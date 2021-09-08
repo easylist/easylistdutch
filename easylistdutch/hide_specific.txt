@@ -106,6 +106,7 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvl
 puurnaturisme.nl##.banneritem
 gic.nl,kbradio.nl##.banners
 radiomonique.am##.bannerswidget
+twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 bieos-omroep.nl##.bieos-widget
 rtlnieuws.nl##.billboard
