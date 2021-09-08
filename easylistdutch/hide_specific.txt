@@ -151,6 +151,7 @@ ga-eagles.nl##.match-sponsor
 mijn-tv-gids.be##.midzone
 radioeenhoorn.nl##.module_round_box
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
+schie.nu##.my-5
 tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
