@@ -125,6 +125,7 @@ androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
 decibel.nl##.edgtf-carousel-holder
 noordkopcentraal.nl##.ewic-slider-pro-widget
+ml5.nl##.fl-module-uabb-image-carousel
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
