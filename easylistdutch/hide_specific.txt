@@ -208,6 +208,7 @@ oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
+omroepbrabant.nl##div[class^="ad_"]
 basketball.nl##div[data-component="partner"]
 sexjobs.nl##div[id^="banner-"]
 handbalinside.nl##div[id^="handb-"]
