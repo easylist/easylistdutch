@@ -179,6 +179,7 @@ az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 rtvpapendrecht.nl##.td-a-rec
+bollenstreekomroep.nl##.tdi_36
 waterkant.net##.tdi_68
 nu.nl##.tealium
 volkskrant.nl##.teaser-branded
