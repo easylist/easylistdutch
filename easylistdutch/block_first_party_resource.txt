@@ -44,6 +44,7 @@
 ||htforum.nl/yabbse/topframe_v3.php
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
+||klokradio.nl/wp-content/uploads/*/adv-
 ||landenweb.nl/imgBoeking/
 ||linqmedia.nl/cwm/fm/userfiles/banner/
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-

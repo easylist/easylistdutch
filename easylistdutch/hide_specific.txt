@@ -158,6 +158,7 @@ schie.nu##.my-5
 tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
+klokradio.nl##.panel-grid.rslides-content
 feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
