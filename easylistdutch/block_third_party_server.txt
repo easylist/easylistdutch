@@ -7,6 +7,7 @@
 ||nextday.media^$third-party
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
+||sponsorkliks.com^$third-party
 ||static-dscn.net^$third-party
 ||tools.islive.nl^$third-party
 ||vpscash.nl^$third-party

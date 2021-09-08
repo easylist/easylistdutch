@@ -22,6 +22,7 @@ grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
 arrowcaz.nl###custom_html-3
 historiek.net###custom_html-38
+rtvalbrandswaard.com###custom_html-6
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
 androidplanet.nl,iphoned.nl###featured-header
