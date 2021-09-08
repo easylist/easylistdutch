@@ -44,6 +44,7 @@
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
 ||landenweb.nl/imgBoeking/
+||linqmedia.nl/cwm/fm/userfiles/banner/
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
