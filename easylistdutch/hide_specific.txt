@@ -20,6 +20,7 @@ grandprixradio.nl###custom_html-10
 grandprixradio.nl###custom_html-13
 grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
+omroepeemsdelta.nl###custom_html-2
 arrowcaz.nl###custom_html-3
 historiek.net###custom_html-38
 rtvalbrandswaard.com###custom_html-6
