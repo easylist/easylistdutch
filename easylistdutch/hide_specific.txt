@@ -193,6 +193,7 @@ jammfm.nl##.vc_custom_1597392476135
 voetbalrotterdam.nl##.vc_custom_1620132793304
 vagina.nl##.video-fish-hook
 nnieuws.be##.view-vw-banners
+osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
