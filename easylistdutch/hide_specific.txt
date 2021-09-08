@@ -56,6 +56,7 @@ top40.nl###sky1
 top40.nl###sky2
 top40.nl###sky3
 top40.nl###sky4
+jammfm.nl###slider_32982_slide01
 easyfm.nl###sponsors-carousel
 radiozuidrand.be###text-15
 loemedia.nl###text-17
@@ -186,6 +187,7 @@ fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
+jammfm.nl##.vc_custom_1597392476135
 voetbalrotterdam.nl##.vc_custom_1620132793304
 vagina.nl##.video-fish-hook
 nnieuws.be##.view-vw-banners
