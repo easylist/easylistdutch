@@ -164,6 +164,7 @@ klokradio.nl##.panel-grid.rslides-content
 feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
+dtvnieuws.nl##.prom
 openingsurengids.be##.promSB
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nnieuws.be##.region-banner-diamond
