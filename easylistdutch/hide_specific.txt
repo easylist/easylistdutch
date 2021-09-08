@@ -108,6 +108,7 @@ psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
 zeelandnet.nl##.bnr
 classic.nl##.brievenbus
+tijd.be##.c-articleteaser--sponsored
 ngf.nl##.c-footer-sponsors
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl##.c-sponsors

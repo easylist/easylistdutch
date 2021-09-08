@@ -86,6 +86,7 @@
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-
+||tijd.be/ad/
 ||transport-online.nl/site/includes/uploads/banner-
 ||unity.nu^*/Banners/
 ||vagina.nl/fish-hooks/fetch.json
