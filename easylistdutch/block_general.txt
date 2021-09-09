@@ -23,7 +23,6 @@
 /prikbordAdvertentie_
 /reclame-extra.
 /reclame-nieuws.
-/reclame.*=banner&
 /reclame2.
 /reclamebanners/*
 /small_reclames/*

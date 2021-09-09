@@ -31,6 +31,7 @@ androidplanet.nl,iphoned.nl###featured-header
 alkmaarguardians.nl###footer
 nieuws.nl###footer-banner
 nieuws.nl###header-banner
+marktplaats.nl###inloggenDialog
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
@@ -65,6 +66,9 @@ zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl###sponsors-carousel
 radiozuidrand.be###text-15
 loemedia.nl###text-17
+goedkoopstekeukensduitsland.nl###text-5
+goedkoopstekeukensduitsland.nl###text-6
+goedkoopstekeukensduitsland.nl###text-8
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
 radio-minerva.be###topbanner
@@ -72,8 +76,13 @@ voetbal-vandaag.nl###topbox
 hotradiohits.nl###tpl_banners
 omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
+telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
+telegraaf.nl##.ArticlePageWrapper__banner
 marktplaats.nl##.Banners-bannerFeedItem
+telegraaf.nl##.SectionPage__bannerWrapper
 knvb.nl##.SponsorBar-list
+telegraaf.nl##.TextArticlePage__bannerWrapper
+telegraaf.nl##.VideoArticlePage__banner
 rtveen.nl##.aas_zone
 autozine.nl,hetnieuwsvandaag.be,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
@@ -92,7 +101,7 @@ rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.article-bnr-first
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
-afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,tvgemist.be,tvgids.nl,unity.nu##.banner
+afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
@@ -131,12 +140,15 @@ rd.nl##.codalt-container
 hln.be##.dfp-space
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
+turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
+247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 noordkopcentraal.nl##.ewic-slider-pro-widget
 ml5.nl##.fl-module-uabb-image-carousel
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
+rtvgo.nl##.footeradd
 burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 dbsuriname.com,westerwoldeactueel.nl##.g
@@ -147,21 +159,28 @@ schaatsen.nl##.header-partners-logo
 golf.be##.header__bottom
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
+arenalokaal.nl##.header_banner
 basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
+jan-magazine.nl##.homepage-marquee
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 rd.nl##.infotainment
 radiopros.be##.inside-left-sidebar
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 reformatorischeomroep.nl##.item-banner
+beursgorilla.nl##.js--billboard
+beursgorilla.nl##.js--rect
 speeleiland.nl##.leader-below-game
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 blikopnieuws.nl##.ligatus-sidebar-block
+roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 ga-eagles.nl##.match-sponsor
 mijn-tv-gids.be##.midzone
+scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
+marktplaats.nl##.mp-adsense-header
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 schie.nu##.my-5
 tijd.be##.o-hpgrid__row-sponsoredcombo
@@ -171,19 +190,25 @@ klokradio.nl##.panel-grid.rslides-content
 feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
-dtvnieuws.nl##.prom
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 openingsurengids.be##.promSB
+synoniemen.net##.promoblok
+girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 fcgroningen.nl##.sidebar__item--banner
+omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
 sc-heerenveen.nl##.sponsor
+omroephouten.nl##.sponsor-carousel
 sc-heerenveen.nl##.sponsor-grid
+radio0511.com##.sponsorImg
 nevobo.nl##.sponsorbar
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
+nos.nl##.ster-banner
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 rtvpapendrecht.nl##.td-a-rec
@@ -202,29 +227,44 @@ jammfm.nl##.vc_custom_1597392476135
 voetbalrotterdam.nl##.vc_custom_1620132793304
 vagina.nl##.video-fish-hook
 nnieuws.be##.view-vw-banners
+rubenweytjens.be##.view-weather-ads-view
+2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
 osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
+riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
 radioreflex.be##.widget_sponsors_widget
+telegraaf.nl##.withBanners
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
 nu.nl##a[data-type="advertorial"]
+nu.nl##a[href*="/advertorial-"]
+focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
+tennisplaza.be##a[href^="https://ds1.nl/"]
 radiozenders.fm##a[href^="https://partner.bol.com/"]
+tennisplaza.be##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
+meteovista.be##div[class*="AdWrapper"]
+omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl##div[class^="ad_"]
 basketball.nl##div[data-component="partner"]
+meerradio.nl##div[id="pristineslider.12"]
 sexjobs.nl##div[id^="banner-"]
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
+waldnet.nl##div[style*="height: 560px;"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 routenet.nl##div[style*="width:730px; height:90px;"]
+waldnet.nl##div[style="clear: both; height: auto; text-align: center; padding-top: 50px; padding-bottom: 50px;"]
+waldnet.nl##div[style="height: 300px;"]
 voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
 voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
+gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 starnieuws.com##div[style^="width : 250px"]
 apintie.sr##div[style^="width:300px; height:180px;"]
 oisterwijknieuws.nl##img[alt="banner"]
@@ -233,72 +273,18 @@ rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
 dagbladdewest.com,omroeprsh.nl##img[width="300"]
 regio-voetbal.nl##img[width="300"][height="100"]
+goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
 volleyvlaanderen.be##img[width="670"][height="80]
 wildfm.nl##img[width="699"][height="90"]
 basketballbelgium.be##img[width="970"][height="250"]
 landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px solid; width: 100%; margin-bottom: 10px;"]
+radiocaramba.nl##table[width="120"][height="600"]
 !
-marktplaats.nl###inloggenDialog
-goedkoopstekeukensduitsland.nl###text-5
-goedkoopstekeukensduitsland.nl###text-6
-goedkoopstekeukensduitsland.nl###text-8
-nederland.fm###xbtm > .shadow
-nederland.fm###xttm > .shadow
-telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
-telegraaf.nl##.ArticlePageWrapper__banner
-telegraaf.nl##.SectionPage__bannerWrapper
-telegraaf.nl##.TextArticlePage__bannerWrapper
-telegraaf.nl##.VideoArticlePage__banner
-telegraaf.nl##.WebpushOptin__main
-spele.nl##.brioche.skycraper.banner
-spele.nl##.broa.leaderboard.banner
-tvgids.tv##.col-left
-tvgids.tv##.col-right
-turksemedia.nl##.easingslider
-247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
-rtvgo.nl##.footeradd
-spel.nl##.game-page-sidebar
-omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.header-right
-arenalokaal.nl##.header_banner
-jan-magazine.nl##.homepage-marquee
-marktplaats.nl##.hz-LoginNudge
-beursgorilla.nl##.js--billboard.ut--billboard
-beursgorilla.nl##.js--rect.ut--rectangle
-roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
-scholieren.com##.min-h-90
-marktplaats.nl##.mp-adsense-header
-ad.nl##.page-header__section--spacer
-omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
-synoniemen.net##.promoblok
-metrotime.be##.proper-rss-widget
-girlpowerradio.nl##.proradio-owl-sponsorcarousel
 geenstijl.nl##.slajeslag
-omroepwest.nl##.slider-wrapper
-omroephouten.nl##.sponsor-carousel
-radio0511.com##.sponsorImg
-nos.nl##.ster-banner
-waldnet.nl##.topbanner
-rubenweytjens.be##.view-weather-ads-view
-2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
-riskcompliance.nl##.widget_itarget_banners
-telegraaf.nl##.withBanners
 geenstijl.nl##a[data-ga-event^="link-tip"]
-nu.nl##a[href*="/advertorial-"]
-focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-tennisplaza.be##a[href^="https://ds1.nl/"]
-tennisplaza.be##a[rel*="sponsored"]
-meteovista.be##div[class*="AdWrapper"]
-omroepbrabant.nl##div[class^="ad-"]
-meerradio.nl##div[id="pristineslider.12"]
-waldnet.nl##div[style*="height: 560px;"]
-waldnet.nl##div[style="clear: both; height: auto; text-align: center; padding-top: 50px; padding-bottom: 50px;"]
-waldnet.nl##div[style="height: 300px;"]
-gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 waldnet.nl##div[style="padding-top: 30px; padding-bottom: 30px;"]
 waldnet.nl##div[style^="height: 280px;"]
-goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 weeronline.nl##section[class*="wol-banner-"]
-radiocaramba.nl##table[width="120"][height="600"]
 ! Advanced element hiding rules for Adblock Plus
 srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"])
