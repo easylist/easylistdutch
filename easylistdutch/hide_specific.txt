@@ -150,6 +150,7 @@ basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 rd.nl##.infotainment
+radiopros.be##.inside-left-sidebar
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 reformatorischeomroep.nl##.item-banner
 speeleiland.nl##.leader-below-game
