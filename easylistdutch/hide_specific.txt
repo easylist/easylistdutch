@@ -1,4 +1,5 @@
 apintie.sr###ads
+rtveen.nl###advertenties
 omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl###advertising
 ciaotutti.nl###b_searchboxInc
@@ -71,6 +72,7 @@ omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
 marktplaats.nl##.Banners-bannerFeedItem
 knvb.nl##.SponsorBar-list
+rtveen.nl##.aas_zone
 autozine.nl,hetnieuwsvandaag.be,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container

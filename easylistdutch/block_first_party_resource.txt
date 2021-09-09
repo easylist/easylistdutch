@@ -78,6 +78,8 @@
 ||radiolelystad.nl/images/stories/Banners/
 ||rickfm.nl/cwm/fm/userfiles/banner/
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/
+||rtveen.nl/wp-content/uploads/*-Banner-
+||rtveen.nl/wp-content/uploads/*/banner-
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
 ||rtvmaastricht.nl/banners/
 ||rtvnof.nl/prowurk/
