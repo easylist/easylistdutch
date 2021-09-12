@@ -54,6 +54,7 @@ sexpower.nl###pre-footer-banners
 stubru.be###reclameblok-wrapper
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
+motorfietsblog.nl###shopside
 vagina.nl###side-fish-hooks
 112achterhoek-nieuws.nl###sidebar
 top40.nl###sky1
@@ -135,6 +136,7 @@ volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
 rkcwaalwijk.nl##.carousel
 halstadcentraal.nl##.carouselbanner_left
+motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 hln.be##.dfp-space
