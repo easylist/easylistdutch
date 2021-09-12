@@ -154,6 +154,7 @@ burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 dbsuriname.com,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
+radiovisie.eu##.gmollik
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 schaatsen.nl##.header-partners-logo
