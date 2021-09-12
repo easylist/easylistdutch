@@ -143,6 +143,7 @@ androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
+domstadradio.nl##.elementor-element-a6b9134
 noordkopcentraal.nl##.ewic-slider-pro-widget
 ml5.nl##.fl-module-uabb-image-carousel
 fcutrecht.nl##.footer-logos
