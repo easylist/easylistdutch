@@ -92,6 +92,7 @@ rtveen.nl##.aas_zone
 autozine.nl,hetnieuwsvandaag.be,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
+nieuwsmotor.nl##.add-background
 voetbalvandaag.be##.adds
 westerwoldeactueel.nl##.adr-wrapper
 handbal.nl,openrotterdam.nl##.ads
