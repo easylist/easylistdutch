@@ -1,4 +1,5 @@
 ||affiliatepartners.com^$third-party
+||affiliateprogramma.eu^$third-party
 ||aj1716.online^
 ||botndm.nl^$third-party
 ||ds1.nl^$third-party
