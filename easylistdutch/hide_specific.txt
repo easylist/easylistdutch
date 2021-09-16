@@ -88,6 +88,7 @@ telegraaf.nl##.SectionPage__bannerWrapper
 knvb.nl##.SponsorBar-list
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
+telegraaf.nl##.VideoPage__banner
 rtveen.nl##.aas_zone
 autozine.nl,hetnieuwsvandaag.be,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
 filmtotaal.nl##.ad-centering
