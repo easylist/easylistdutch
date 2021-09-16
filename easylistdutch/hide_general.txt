@@ -5,6 +5,7 @@
 ##.content-rechts-ad
 ##.gamereel_featured-ad
 ##.hoofdAd2
+##.massarius-dfp-unit
 !
 ###advertentieblokjeid
 ###gesponsordelink
