@@ -228,6 +228,7 @@ omroephouten.nl##.sponsor-carousel
 sc-heerenveen.nl##.sponsor-grid
 radio0511.com##.sponsorImg
 nevobo.nl##.sponsorbar
+businessinsider.nl##.sponsored
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
 nos.nl##.ster-banner
 123video.nl##.stunt-wide
