@@ -1,5 +1,7 @@
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
+filmtotaal.nl###adf-billboard
+filmtotaal.nl###adf-rectangle
 apintie.sr###ads
 rtveen.nl###advertenties
 omroeppenm.nl,rickfm.nl###advertisement
