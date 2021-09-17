@@ -15,5 +15,3 @@
 ||viadata.store^
 ||vpscash.nl^$third-party
 ||xpartners.nl^$third-party
-!
-||mbs.midhold.nl^$third-party
