@@ -12,6 +12,7 @@
 ||sponsorkliks.com^$third-party
 ||static-dscn.net^$third-party
 ||tools.islive.nl^$third-party
+||viadata.store^
 ||vpscash.nl^$third-party
 ||xpartners.nl^$third-party
 !
