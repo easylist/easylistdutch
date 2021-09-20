@@ -239,7 +239,7 @@ bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
 waterkant.net##.tdi_68
 nu.nl##.tealium
-volkskrant.nl##.teaser-branded
+demorgen.be,volkskrant.nl##.teaser-branded
 netonline.be##.text_12_jobs_only
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
