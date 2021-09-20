@@ -11,6 +11,7 @@
 ||jobat.be/extra/trackuityhn/ticker_new.html$third-party
 ||mmcdn.nl/tags/
 ||partner.bol.com^$third-party
+||pornokartel.nl^$image,third-party
 ||recreatief.nl/kerstarrangementen.gif
 ||search-result.com^*/klokad2.js
 ||seks.com/img/bnr.gif
