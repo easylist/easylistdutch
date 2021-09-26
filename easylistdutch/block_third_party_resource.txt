@@ -1,5 +1,6 @@
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||advertising-cdn.dpgmedia.cloud^
+||bnpparibasmarkets.nl/widget/$third-party
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
