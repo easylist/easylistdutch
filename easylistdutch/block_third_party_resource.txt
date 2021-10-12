@@ -20,3 +20,4 @@
 ||widget.vpnnederland.nl^$domain=nzbserver.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||windows.net/banners/$domain=agf.nl
+||xmissy.nl/admnfiles1809/sinclub/freechatbanner_
