@@ -155,6 +155,7 @@ halstadcentraal.nl##.carouselbanner_left
 motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
+ad.nl##.dfp
 hln.be##.dfp-space
 tpo.nl##.dus
 androidplanet.nl,iphoned.nl##.dynamic-content
