@@ -6,6 +6,7 @@
 ##.gamereel_featured-ad
 ##.hoofdAd2
 ##.massarius-dfp-unit
+##a[href^="https://xltube.nl/click/"]
 !
 ###advertentieblokjeid
 ###gesponsordelink
