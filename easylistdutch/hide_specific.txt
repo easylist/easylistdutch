@@ -88,6 +88,8 @@ omroepalmere.nl###widget_carousel_slider-3
 broadcastmagazine.nl##.Advertisement
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
+marktplaats.nl##.BannerBottom-root
+marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
 iex.nl##.ContentPartner
 telegraaf.nl##.SectionPage__bannerWrapper
