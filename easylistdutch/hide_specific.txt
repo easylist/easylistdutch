@@ -227,6 +227,7 @@ nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 fcgroningen.nl##.sidebar__item--banner
+hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
