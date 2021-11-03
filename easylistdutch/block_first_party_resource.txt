@@ -13,6 +13,7 @@
 ||ciaotutti.nl/wp-content/uploads/Banner_
 ||coastline945fm.nl/cache/partners/
 ||content1.pcmweb.nl^
+||debestevpn.nl/wp-content/*-banner.
 ||decibel.nl/wp-content/uploads/*/banner-
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
 ||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
