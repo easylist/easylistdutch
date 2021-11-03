@@ -206,6 +206,7 @@ blikopnieuws.nl##.ligatus-sidebar-block
 roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
+live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
@@ -236,6 +237,7 @@ geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
+live-voetbal.com##.special-offer
 sc-heerenveen.nl##.sponsor
 omroephouten.nl##.sponsor-carousel
 sc-heerenveen.nl##.sponsor-grid
@@ -256,6 +258,7 @@ netonline.be##.text_12_jobs_only
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
+live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 jammfm.nl##.vc_custom_1597392476135
