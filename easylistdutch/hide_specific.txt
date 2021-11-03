@@ -95,6 +95,7 @@ marktplaats.nl##.Banners-bannerFeedItem
 iex.nl##.ContentPartner
 telegraaf.nl##.SectionPage__bannerWrapper
 knvb.nl##.SponsorBar-list
+telegraaf.nl##.SportScoreboardPage__banner
 buzzbie.nl##.TS_Banner_Spot
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
