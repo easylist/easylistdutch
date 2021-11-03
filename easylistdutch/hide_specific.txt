@@ -53,6 +53,7 @@ keizerstad.nl,oomroepalmere.nl###media_image-3
 keizerstad.nl###media_image-4
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl###mm_rectangle_bravo
 surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
 indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
