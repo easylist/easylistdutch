@@ -171,7 +171,9 @@ decibel.nl##.edgtf-carousel-holder
 domstadradio.nl##.elementor-element-a6b9134
 radio182.nl##.elementor-element-bf3ae4f
 noordkopcentraal.nl##.ewic-slider-pro-widget
+heracles.nl##.fixed-ads
 ml5.nl##.fl-module-uabb-image-carousel
+heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
