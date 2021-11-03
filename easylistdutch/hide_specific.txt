@@ -219,7 +219,7 @@ tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
-feyenoord.nl##.partners
+clubbrugge.be,feyenoord.nl##.partners
 golf.be##.partners-holder
 marktplaats.nl##.premium-content
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom

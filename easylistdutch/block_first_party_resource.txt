@@ -11,6 +11,7 @@
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||ciaotutti.nl/wp-content/uploads/Banner_
+||clubbrugge.be^*/partner/
 ||coastline945fm.nl/cache/partners/
 ||content1.pcmweb.nl^
 ||debestevpn.nl/wp-content/*-banner.
