@@ -254,6 +254,7 @@ dagbladdewest.com##.swiper-wrapper
 rtvpapendrecht.nl##.td-a-rec
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
+elegance.nl##.tdi_58
 waterkant.net##.tdi_68
 nu.nl##.tealium
 demorgen.be,volkskrant.nl##.teaser-branded
