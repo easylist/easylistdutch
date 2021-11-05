@@ -12,7 +12,7 @@ autowereld.nl###banner-detail-top
 dwtonline.com###banner1
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-a1mediagroep.nl,brandweerspotters.nl###banners
+a1mediagroep.nl,brandweerspotters.nl,fanclubbarcelona.nl###banners
 historiek.net###before-header
 spreekbuis.nl###block-3
 willem-ii.nl###block-views-block-view-business-partners

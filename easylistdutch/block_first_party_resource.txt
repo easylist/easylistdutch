@@ -27,6 +27,7 @@
 ||duurzaam-actueel.nl^*banner
 ||eredivisie.nl/images/logos/partners/
 ||excellentfm.nl/images/aanbieding/
+||fanclubbarcelona.nl/viewfile/mainbanner/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
