@@ -223,6 +223,7 @@ marktplaats.nl##.mp-adsense-header
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 schie.nu##.my-5
 iex.nl##.network:nth-of-type(2)
+nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
@@ -282,6 +283,7 @@ osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
+nieuws.nl##.widget_add_widget
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
 radioreflex.be##.widget_sponsors_widget
