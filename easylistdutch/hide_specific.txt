@@ -53,7 +53,8 @@ keizerstad.nl,oomroepalmere.nl###media_image-3
 keizerstad.nl###media_image-4
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl###mm_rectangle_bravo
+wielerflits.be,wielerflits.nl###mm_leaderboard
+wielerflits.be,wielerflits.nl###mm_rectangle
 surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
 indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
@@ -282,6 +283,7 @@ handbalstartpunt.nl##.widget-banner
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
 radioreflex.be##.widget_sponsors_widget
+wielerflits.be,wielerflits.nl##.wielerflits_ros_bravo_rectangle-halfpage
 telegraaf.nl##.withBanners
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
