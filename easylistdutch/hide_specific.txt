@@ -106,7 +106,7 @@ telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 rtveen.nl##.aas_zone
-autozine.nl,hetnieuwsvandaag.be,indebuurt.nl,koopplein.nl,limburger.nl,tripadvisor.nl##.ad
+autozine.nl,hetnieuwsvandaag.be,indebuurt.nl,koopplein.nl,limburger.nl,tripadvisor.nl,xgn.nl##.ad
 filmtotaal.nl##.ad-centering
 bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 voetbal.com##.adbox
