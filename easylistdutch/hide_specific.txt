@@ -147,7 +147,7 @@ radiomonique.am##.bannerswidget
 twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 bieos-omroep.nl##.bieos-widget
-rtlnieuws.nl##.billboard
+gamer.nl,rtlnieuws.nl##.billboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
 zeelandnet.nl##.bnr
