@@ -234,6 +234,7 @@ nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 oisterwijknieuws.nl##.sam-container
 uitzendinggemist.net##.serie_info_adbox
+baanwacht.nl##.shailan_banner_widget
 fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_top
 geenstijl.nl##.slajeslag
