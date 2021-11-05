@@ -165,6 +165,7 @@ motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 voetbaluitslagen.com##.cta
+touretappe.nl##.desktopad
 ad.nl,hln.be##.dfp
 tpo.nl##.dus
 androidplanet.nl,iphoned.nl##.dynamic-content
