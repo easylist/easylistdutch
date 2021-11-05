@@ -113,6 +113,7 @@
 ||unity.nu^*/Banners/
 ||vagina.nl/fish-hooks/fetch.json
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
+||vitesse.nl/assets/img/layout/etoro-logo.png
 ||vitesse.nl^*_sponsors_footer.png
 ||voetbalkrant.com/images/pub/
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner1170.jpg
