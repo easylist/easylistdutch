@@ -21,4 +21,5 @@
 ||widget.vpnnederland.nl^$domain=nzbserver.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||windows.net/banners/$domain=agf.nl
+||wp.com/www.bol.com/nl/upload/partnerprogramma/
 ||xmissy.nl/admnfiles1809/sinclub/freechatbanner_
