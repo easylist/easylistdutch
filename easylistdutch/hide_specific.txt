@@ -61,6 +61,8 @@ eredivisie.nl###partner-bar
 coastline945fm.nl###partners_slides
 rtvkrimpenerwaard.nl###pg-1407-8
 sexpower.nl###pre-footer-banners
+soccernews.nl###r89-mobile-rectangle-mid
+soccernews.nl###r89-takeover
 stubru.be###reclameblok-wrapper
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
