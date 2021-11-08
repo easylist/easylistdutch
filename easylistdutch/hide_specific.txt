@@ -155,6 +155,7 @@ zeelandnet.nl##.bnr
 tpo.nl##.bol_pml_box
 classic.nl##.brievenbus
 tijd.be##.c-articleteaser--sponsored
+flaironline.nl##.c-commerical_banner
 ngf.nl##.c-footer-sponsors
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl##.c-sponsors
