@@ -166,7 +166,7 @@ autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 voetbaluitslagen.com##.cta
 touretappe.nl##.desktopad
-ad.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl##.dfp
+ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl##.dfp
 tpo.nl##.dus
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
