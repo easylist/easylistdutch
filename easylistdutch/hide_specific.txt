@@ -172,7 +172,7 @@ rd.nl##.codalt-container
 voetbaluitslagen.com##.cta
 kekmama.nl##.cts-row-wrapper
 touretappe.nl##.desktopad
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp
 tpo.nl##.dus
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
