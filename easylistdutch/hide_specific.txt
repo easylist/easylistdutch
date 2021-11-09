@@ -131,6 +131,7 @@ afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
+tvblik.nl##.banner-fluid
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 marktplaats.nl##.banner-row
@@ -194,7 +195,7 @@ zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
-televizier.nl##.header-banner
+televizier.nl,tvblik.nl##.header-banner
 schaatsen.nl##.header-partners-logo
 golf.be##.header__bottom
 ajax.nl##.header__partner-link
