@@ -45,6 +45,7 @@ marktplaats.nl###inloggenDialog
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
+autowereld.nl###mainbanner
 spreekbuis.nl###media_image-11
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
