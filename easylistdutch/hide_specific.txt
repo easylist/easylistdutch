@@ -8,6 +8,7 @@ omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl###advertising
 ciaotutti.nl###b_searchboxInc
 autowereld.nl###banner-detail-top
+autowereld.nl###banner-lister-top
 2dehands.be,marktplaats.nl###banner-top-dt-container
 dwtonline.com###banner1
 afkortingen.nu###banner_right
