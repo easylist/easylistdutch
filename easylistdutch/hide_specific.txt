@@ -155,6 +155,7 @@ bieos-omroep.nl##.bieos-widget
 gamer.nl,rtlnieuws.nl##.billboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
+scholieren.com##.blockvertorial
 zeelandnet.nl##.bnr
 tpo.nl##.bol_pml_box
 classic.nl##.brievenbus
