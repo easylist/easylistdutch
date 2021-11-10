@@ -122,6 +122,7 @@
 ||volleybal.nl/uploads/images/Banners/
 ||volleybal.nl/uploads/images/Logos/
 ||wanttoknow.nl^*Banner
+||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/amstelveen.jpg
