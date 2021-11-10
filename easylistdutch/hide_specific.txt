@@ -249,6 +249,7 @@ nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 gamer.nl##.rs-banner
 oisterwijknieuws.nl##.sam-container
+scholieren.com##.searchvertorial
 uitzendinggemist.net##.serie_info_adbox
 baanwacht.nl##.shailan_banner_widget
 fcgroningen.nl##.sidebar__item--banner
