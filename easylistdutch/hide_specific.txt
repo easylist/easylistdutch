@@ -94,6 +94,8 @@ radio-minerva.be###topbanner
 voetbal-vandaag.nl###topbox
 hotradiohits.nl###tpl_banners
 omroepalmere.nl###widget_carousel_slider-3
+culturescope.nl###widget_sp_image-2
+culturescope.nl###widget_sp_image-4
 broadcastmagazine.nl##.Advertisement
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
