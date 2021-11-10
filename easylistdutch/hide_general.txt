@@ -2,6 +2,7 @@
 ###adRechts
 ###adRechts2
 ###advertentie
+##.advertentie-2-container
 ##.content-rechts-ad
 ##.gamereel_featured-ad
 ##.hoofdAd2
