@@ -306,7 +306,7 @@ racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 tennisplaza.be##a[href^="https://ds1.nl/"]
 radiozenders.fm##a[href^="https://partner.bol.com/"]
-tennisplaza.be##a[rel*="sponsored"]
+gostreaming.nl,tennisplaza.be##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
 pcmweb.nl##div.block:nth-of-type(2)
