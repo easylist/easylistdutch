@@ -127,6 +127,7 @@ wielerflits.be,wielerflits.nl##.affiliate_links
 gfcnieuws.com,historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.article-bnr-first
+klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
 afkortingen.nu,agf.nl,dutchitchannel.nl,folderz.nl,nrc.nl,simone.nl,startpagina.nl,televizier.nl,totaaltv.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
@@ -316,6 +317,7 @@ meteovista.be##div[class*="AdWrapper"]
 hartvannederland.nl##div[class^="a-bannerTopWrapper-"]
 omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
+klimaatinfo.nl##div[class^="space_"]
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 basketball.nl##div[data-component="partner"]
