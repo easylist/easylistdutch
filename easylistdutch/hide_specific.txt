@@ -197,7 +197,7 @@ rtvgo.nl##.footeradd
 burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
-dbsuriname.com,westerwoldeactueel.nl##.g
+christmaholic.nl,dbsuriname.com,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
