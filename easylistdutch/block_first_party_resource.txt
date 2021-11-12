@@ -65,6 +65,7 @@
 ||motokicx.com/wp-content/uploads/*/Website-ad-
 ||netonline.be/slices/banners/
 ||nevobo.nl^*/sponsor/
+||niburu.co/images/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest

@@ -270,6 +270,7 @@ omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
 live-voetbal.com##.special-offer
+niburu.co##.sponsers
 sc-heerenveen.nl##.sponsor
 omroephouten.nl##.sponsor-carousel
 sc-heerenveen.nl##.sponsor-grid
