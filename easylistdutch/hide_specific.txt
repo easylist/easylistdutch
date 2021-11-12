@@ -56,8 +56,8 @@ omroepalmere.nl###media_image-18
 classicstogo.nl,messianieuws.nl###media_image-2
 omroepalmere.nl###media_image-21
 omroepalmere.nl###media_image-22
-kanaancourant.nl,keizerstad.nl,oomroepalmere.nl###media_image-3
-keizerstad.nl###media_image-4
+kanaancourant.nl,keizerstad.nl,oomroepalmere.nl,schiedamsnieuws.nl###media_image-3
+keizerstad.nl,schiedamsnieuws.nl###media_image-4
 messianieuws.nl###media_image-5
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
