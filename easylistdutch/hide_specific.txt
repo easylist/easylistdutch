@@ -50,6 +50,7 @@ autowereld.nl###mainbanner
 spreekbuis.nl###media_image-11
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
+classicstogo.nl###media_image-2
 omroepalmere.nl###media_image-21
 omroepalmere.nl###media_image-22
 keizerstad.nl,oomroepalmere.nl###media_image-3
