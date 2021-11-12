@@ -29,8 +29,10 @@ grandprixradio.nl###custom_html-13
 grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
 omroepeemsdelta.nl###custom_html-2
-arrowcaz.nl###custom_html-3
+arrowcaz.nl,messianieuws.nl###custom_html-3
 historiek.net###custom_html-38
+messianieuws.nl###custom_html-4
+messianieuws.nl###custom_html-5
 rtvalbrandswaard.com###custom_html-6
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
@@ -47,14 +49,16 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 autowereld.nl###mainbanner
+messianieuws.nl###media_image-10
 spreekbuis.nl###media_image-11
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
-classicstogo.nl###media_image-2
+classicstogo.nl,messianieuws.nl###media_image-2
 omroepalmere.nl###media_image-21
 omroepalmere.nl###media_image-22
 keizerstad.nl,oomroepalmere.nl###media_image-3
 keizerstad.nl###media_image-4
+messianieuws.nl###media_image-5
 maaslandradio.nl###media_image-7
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl###mm_leaderboard
@@ -85,6 +89,7 @@ easyfm.nl###sponsors-carousel
 h20.gg###text-14
 radiozuidrand.be###text-15
 loemedia.nl###text-17
+messianieuws.nl###text-24
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
 goedkoopstekeukensduitsland.nl###text-8
