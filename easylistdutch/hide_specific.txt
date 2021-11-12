@@ -305,6 +305,7 @@ osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
+onderwijsland.com##.widget-partners
 nieuws.nl##.widget_add_widget
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
