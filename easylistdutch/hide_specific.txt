@@ -307,6 +307,7 @@ baarsclassicrock.nl,tweakers.net##.widebanner
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
 onderwijsland.com##.widget-partners
+indebuurt.nl##.widget-tabs--partner
 nieuws.nl##.widget_add_widget
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
@@ -314,6 +315,7 @@ rtvideaal.nl##.widget_random_banner_widget
 radioreflex.be##.widget_sponsors_widget
 wielerflits.be,wielerflits.nl##.wielerflits_ros_bravo_rectangle-halfpage
 telegraaf.nl##.withBanners
+indebuurt.nl##.woty-banner
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
