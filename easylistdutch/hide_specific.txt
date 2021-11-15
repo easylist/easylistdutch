@@ -378,5 +378,6 @@ businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Belegge
 spaargids.be#?##latest_news_above:-abp-has(a[href^="https://www.deutschebank.be/"])
 srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"])
 streamwijzer.be#?#.wp-block-group__inner-container:-abp-has(a[rel="noreferrer noopener"][target="_blank"])
+tijd.be#?#.o-hpgrid__row-tijdconnect:-abp-has(h2:-abp-contains(Gesponsorde inhoud))
 wielerflits.nl#?#.list-group-item:-abp-has(span:-abp-contains(Ad))
 wielerflits.nl#?#.w-100.p-3:-abp-has(span:-abp-contains(Ad))
