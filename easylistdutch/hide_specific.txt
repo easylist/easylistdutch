@@ -281,7 +281,7 @@ az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.
 nos.nl##.ster-banner
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
-rtvpapendrecht.nl##.td-a-rec
+regioonline.nl,rtvpapendrecht.nl##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
