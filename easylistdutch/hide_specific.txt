@@ -282,6 +282,7 @@ nos.nl##.ster-banner
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 rtvpapendrecht.nl##.td-a-rec
+techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
 elegance.nl##.tdi_58
