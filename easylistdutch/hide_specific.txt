@@ -373,6 +373,7 @@ dagbladdewest.com,dagelijksestandaard.nl,omroeprsh.nl,ucl-voetbal.nl##img[width=
 regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl,thatsgaming.nl##img[width="300"][height="250"]
 racexpress.nl##img[width="310"][height="200"]
+vives.nl##img[width="330"][height="520"]
 streamwijzer.be##img[width="500"][height="500"]
 decibel.nl##img[width="640"][height="180"]
 volleyvlaanderen.be##img[width="670"][height="80"]
