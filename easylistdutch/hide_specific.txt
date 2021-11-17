@@ -283,7 +283,7 @@ sc-heerenveen.nl##.sponsor-grid
 radio0511.com##.sponsorImg
 computable.be##.sponsorartikelen
 nevobo.nl##.sponsorbar
-businessinsider.nl##.sponsored
+businessinsider.nl,computable.nl##.sponsored
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
 nos.nl##.ster-banner
 123video.nl##.stunt-wide
@@ -303,7 +303,7 @@ willem-ii.nl##.top-bar-logos
 live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
-computable.be##.true-logo
+computable.be,computable.nl##.true-logo
 linuxmag.nl##.vc_custom_1589883706945
 linuxmag.nl##.vc_custom_1590576060705
 jammfm.nl##.vc_custom_1597392476135
