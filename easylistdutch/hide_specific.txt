@@ -36,6 +36,7 @@ historiek.net###custom_html-38
 messianieuws.nl###custom_html-4
 messianieuws.nl###custom_html-5
 rtvalbrandswaard.com###custom_html-6
+nljug.org###custom_html-7
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
 androidplanet.nl,iphoned.nl###featured-header
