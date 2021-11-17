@@ -1,3 +1,5 @@
+immo.vlan.be###ProvidersBox
+immo.vlan.be###TopCompareBox
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
 filmtotaal.nl###adf-billboard
