@@ -256,6 +256,7 @@ openingsurengids.be##.promSB
 synoniemen.net##.promoblok
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
+gocar.be##.pub-leaderboard-top
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 gamer.nl##.rs-banner
