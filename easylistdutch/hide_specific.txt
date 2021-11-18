@@ -146,7 +146,7 @@ afkortingen.nu,agf.nl,dutchitchannel.nl,filmladder.nl,folderz.nl,nrc.nl,simone.n
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
-fiets.nl##.banner-container
+fiets.nl,fietsactief.nl##.banner-container
 tvblik.nl##.banner-fluid
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
