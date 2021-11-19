@@ -334,6 +334,7 @@ indebuurt.nl##.widget-tabs--partner
 nieuws.nl##.widget_add_widget
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
+tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
 radioreflex.be##.widget_sponsors_widget
 wielerflits.be,wielerflits.nl##.wielerflits_ros_bravo_rectangle-halfpage
