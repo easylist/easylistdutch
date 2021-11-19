@@ -58,6 +58,7 @@
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
 ||lokaleomroepzeewolde.nl/images/banners/
+||luister.nl/wp-content/uploads/*/Banner_
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
