@@ -69,7 +69,7 @@ wielerflits.be,wielerflits.nl###mm_leaderboard
 wielerflits.be,wielerflits.nl###mm_rectangle
 surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
-indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
+autoreview.nl,indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
 elfvoetbal.nl###partners
 coastline945fm.nl###partners_slides
@@ -172,6 +172,7 @@ psv.nl##.block-sponsors-desktop
 scholieren.com##.blockvertorial
 zeelandnet.nl##.bnr
 tpo.nl##.bol_pml_box
+autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
 tzum.info##.bzrwfrm
