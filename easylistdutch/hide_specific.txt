@@ -68,6 +68,7 @@ wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl###mm_leaderboard
 wielerflits.be,wielerflits.nl###mm_rectangle
 surinameview.com###nav_menu-2
+pokeren.nl###onetime-popup
 starnieuws.com###overig_nieuws
 autoreview.nl,indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
