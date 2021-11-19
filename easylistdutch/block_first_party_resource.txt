@@ -92,6 +92,7 @@
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
 ||radiovisie.eu/wp-content/banners/
+||railhobby.nl/wp-content/uploads/*_banner-
 ||rickfm.nl/cwm/fm/userfiles/banner/
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/
 ||rtveen.nl/wp-content/uploads/*-Banner-
