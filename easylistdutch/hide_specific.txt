@@ -71,6 +71,7 @@ surinameview.com###nav_menu-2
 starnieuws.com###overig_nieuws
 indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
+elfvoetbal.nl###partners
 coastline945fm.nl###partners_slides
 rtvkrimpenerwaard.nl###pg-1407-8
 sexpower.nl###pre-footer-banners
