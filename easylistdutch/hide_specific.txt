@@ -89,6 +89,7 @@ top40.nl###sky3
 top40.nl###sky4
 geelfm.be###slider
 jammfm.nl###slider_32982_slide01
+sciencelink.net###sponsored-content_280
 zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl###sponsors-carousel
 h20.gg###text-14
