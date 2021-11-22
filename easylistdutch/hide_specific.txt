@@ -106,6 +106,7 @@ marktplaats.nl###top-banner-wrapper
 radio-minerva.be###topbanner
 voetbal-vandaag.nl###topbox
 hotradiohits.nl###tpl_banners
+tweakers.net###true
 omroepalmere.nl###widget_carousel_slider-3
 culturescope.nl###widget_sp_image-2
 culturescope.nl###widget_sp_image-4
