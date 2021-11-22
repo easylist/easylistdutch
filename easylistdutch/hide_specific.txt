@@ -97,6 +97,7 @@ h20.gg###text-14
 radiozuidrand.be###text-15
 loemedia.nl###text-17
 messianieuws.nl###text-24
+despirituelewereld.be###text-37
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
 goedkoopstekeukensduitsland.nl###text-8
@@ -215,7 +216,7 @@ rtvgo.nl##.footeradd
 burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
-christmaholic.nl,dbsuriname.com,westerwoldeactueel.nl##.g
+christmaholic.nl,dbsuriname.com,despirituelewereld.be,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
@@ -300,6 +301,7 @@ nevobo.nl##.sponsorbar
 businessinsider.nl,computable.nl##.sponsored
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
 nos.nl##.ster-banner
+despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 railhobby.nl,regioonline.nl,rtvpapendrecht.nl##.td-a-rec
