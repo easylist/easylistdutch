@@ -173,6 +173,7 @@ twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 bieos-omroep.nl##.bieos-widget
 gamer.nl,rtlnieuws.nl##.billboard
+livios.be##.block-leaderboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
 scholieren.com##.blockvertorial
