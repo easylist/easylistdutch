@@ -63,6 +63,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||midvliet.nl/images/advertenties-
+||mo.be/sites/default/files/banners/
 ||motokicx.com/wp-content/uploads/*/BANNER-
 ||motokicx.com/wp-content/uploads/*/Website-ad-
 ||netonline.be/slices/banners/
