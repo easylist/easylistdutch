@@ -417,6 +417,7 @@ radiocaramba.nl##table[width="120"][height="600"]
 autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"])
 businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Beleggen))
 spaargids.be#?##latest_news_above:-abp-has(a[href^="https://www.deutschebank.be/"])
+nieuwslog.nl#?#.wp-block-genesis-blocks-gb-columns:-abp-has(a[href*="/go/www.bet365.nl/"])
 srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"])
 streamwijzer.be#?#.wp-block-group__inner-container:-abp-has(a[rel="noreferrer noopener"][target="_blank"])
 tijd.be#?#.o-hpgrid__row-tijdconnect:-abp-has(h2:-abp-contains(Gesponsorde inhoud))
