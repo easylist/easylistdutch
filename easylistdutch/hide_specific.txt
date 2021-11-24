@@ -196,6 +196,7 @@ motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 voetbaluitslagen.com##.cta
+voetbaluitslagen.com##.cta__toplist
 kekmama.nl##.cts-row-wrapper
 touretappe.nl##.desktopad
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp
