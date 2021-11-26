@@ -111,6 +111,7 @@
 ||spreekbuis.nl/wp-content/uploads/*-banner-
 ||spreekbuis.nl/wp-content/uploads/*/Banner-
 ||srherald.com/wp-content/banners/
+||streamwijzer.be/wp-content/uploads/*-banner.
 ||te-les-koop.nl/images/B_
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-
