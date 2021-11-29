@@ -286,6 +286,7 @@ europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 wasmachines.nl##.rectangle
 nnieuws.be##.region-banner-diamond
+avs.be##.region-content-top
 halstadcentraal.nl##.respbanners
 gamer.nl##.rs-banner
 oisterwijknieuws.nl##.sam-container
