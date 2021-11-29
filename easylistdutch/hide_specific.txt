@@ -249,7 +249,7 @@ eoswetenschap.eu##.l-banner
 speeleiland.nl##.leader-below-game
 rendez-vous.be##.leaderBoard
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,pcactive.nl,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
-atv.be,tvoost.be##.leaderboardWrap
+atv.be,robtv.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
 roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
@@ -270,7 +270,7 @@ classicstogo.nl##.owl-carousel
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
-atv.be,tvoost.be##.parallaxBnnr
+atv.be,robtv.be,tvoost.be##.parallaxBnnr
 clubbrugge.be,feyenoord.nl##.partners
 golf.be##.partners-holder
 fhm500.nl##.powered_by_page
@@ -309,7 +309,7 @@ computable.be##.sponsorartikelen
 nevobo.nl##.sponsorbar
 businessinsider.nl,computable.nl##.sponsored
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.sponsors
-atv.be,tvoost.be##.squareWrap
+atv.be,robtv.be,tvoost.be##.squareWrap
 nos.nl##.ster-banner
 despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
