@@ -368,6 +368,7 @@ emerce.nl##a[href^="https://bit.ly/"]
 tennisplaza.be##a[href^="https://ds1.nl/"]
 bestetop5.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
+bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 gostreaming.nl,tennisplaza.be##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
