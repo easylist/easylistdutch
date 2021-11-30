@@ -56,6 +56,7 @@ made-in.be###leaderboard_row
 autowereld.nl###mainbanner
 messianieuws.nl###media_image-10
 spreekbuis.nl###media_image-11
+palnws.be###media_image-12
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
 classicstogo.nl,messianieuws.nl###media_image-2
