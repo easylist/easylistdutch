@@ -315,7 +315,7 @@ nos.nl##.ster-banner
 despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
-railhobby.nl,regioonline.nl,rtvpapendrecht.nl##.td-a-rec
+railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
