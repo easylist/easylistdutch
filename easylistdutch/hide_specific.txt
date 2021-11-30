@@ -124,7 +124,9 @@ telegraaf.nl##.ArticlePageWrapper__banner
 2dehands.be,marktplaats.nl##.BannerBottom-root
 marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
+eurobench.com##.Billboard-wrapper
 iex.nl##.ContentPartner
+eurobench.com##.Rectangle-wrapper
 telegraaf.nl##.SectionPage__bannerWrapper
 knvb.nl##.SponsorBar-list
 telegraaf.nl##.SportScoreboardPage__banner
