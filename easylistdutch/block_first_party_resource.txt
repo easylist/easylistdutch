@@ -19,6 +19,7 @@
 ||content1.pcmweb.nl^
 ||debestevpn.nl/wp-content/*-banner.
 ||decibel.nl/wp-content/uploads/*/banner-
+||dewereldmorgen.be/wp-content/banners/
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
 ||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
