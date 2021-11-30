@@ -134,6 +134,8 @@
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner1170.jpg
 ||volleybal.nl/uploads/images/Banners/
 ||volleybal.nl/uploads/images/Logos/
+||vtm.be^*-achtergrond-$domain=koken.vtm.be
+||vtm.be^*-header-$domain=koken.vtm.be
 ||wanttoknow.nl^*Banner
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
