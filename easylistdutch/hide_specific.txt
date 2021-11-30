@@ -5,6 +5,7 @@ filmtotaal.nl###adf-autonative-2
 filmtotaal.nl###adf-billboard
 filmtotaal.nl###adf-rectangle
 apintie.sr###ads
+veto.be###advert-campaign
 rtveen.nl###advertenties
 omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl###advertising
