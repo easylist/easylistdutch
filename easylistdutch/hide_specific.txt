@@ -50,6 +50,9 @@ indeleiderstrui.nl###indeleiderstrui_ros_bravo_leaderboard-billboard
 indeleiderstrui.nl###indeleiderstrui_ros_bravo_mini_ad_fluid
 indeleiderstrui.nl###indeleiderstrui_ros_bravo_rectangle-halfpage
 marktplaats.nl###inloggenDialog
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
