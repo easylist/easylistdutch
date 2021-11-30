@@ -263,6 +263,7 @@ sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
+mediacourant.nl##.mc-adv
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
