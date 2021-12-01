@@ -382,6 +382,7 @@ basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
 onderwijsland.com##.widget-partners
 indebuurt.nl##.widget-tabs--partner
+autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
