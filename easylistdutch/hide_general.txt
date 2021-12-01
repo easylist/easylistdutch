@@ -3,6 +3,7 @@
 ###adRechts2
 ###advertentie
 ##.advertentie-2-container
+##.advertentie_links
 ##.content-rechts-ad
 ##.gamereel_featured-ad
 ##.hoofdAd2
