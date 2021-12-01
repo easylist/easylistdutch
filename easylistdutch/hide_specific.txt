@@ -8,7 +8,7 @@ apintie.sr###ads
 veto.be###advert-campaign
 rtveen.nl###advertenties
 omroeppenm.nl,rickfm.nl###advertisement
-alle-tests.nl###advertising
+alle-tests.nl,bloovi.be###advertising
 agconnect.nl###ag_article_related_partner_logos
 ciaotutti.nl###b_searchboxInc
 autowereld.nl###banner-detail-top

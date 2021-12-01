@@ -9,6 +9,7 @@
 ||autosport.nl/images/Banner-
 ||autosport.nl/images/banners/
 ||baarsclassicrock.nl/wp-content/uploads/*/banner_
+||bloovi.be/frontend/files/banners/
 ||bodemvondstenwereld.nl/images/banners/
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/uploads/banners/
