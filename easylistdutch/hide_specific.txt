@@ -238,7 +238,7 @@ burggolf.nl##.footercontent
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
 unitednews.sr##.fullwidthbanner-container
-christmaholic.nl,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,westerwoldeactueel.nl##.g
+christmaholic.nl,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,sleutelstad.nl,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
