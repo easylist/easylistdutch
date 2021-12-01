@@ -171,7 +171,7 @@ motocrossplanet.nl##.artikel-banners
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
-afkortingen.nu,agf.nl,dutchitchannel.nl,filmladder.nl,folderz.nl,klasse.be,nrc.nl,simone.nl,startpagina.nl,televizier.nl,totaaltv.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
+afkortingen.nu,agf.nl,bpnieuws.nl,dutchitchannel.nl,filmladder.nl,folderz.nl,klasse.be,nrc.nl,simone.nl,startpagina.nl,televizier.nl,totaaltv.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
