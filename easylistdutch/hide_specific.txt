@@ -191,6 +191,7 @@ psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
 scholieren.com##.blockvertorial
 zeelandnet.nl##.bnr
+bodylifebenelux.nl##.bnrrow
 tpo.nl##.bol_pml_box
 autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
