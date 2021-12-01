@@ -126,6 +126,8 @@ marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
 belegger.nl,eurobench.com##.Billboard-wrapper
 iex.nl##.ContentPartner
+iexgeld.nl##.LeaderboardContainer
+iexgeld.nl##.Rectangle
 belegger.nl,eurobench.com##.Rectangle-wrapper
 telegraaf.nl##.SectionPage__bannerWrapper
 knvb.nl##.SponsorBar-list
