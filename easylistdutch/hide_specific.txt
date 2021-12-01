@@ -62,6 +62,7 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 autosport.nl###liggende-banner
+greenkeeper.nl###lijst_logos
 autowereld.nl###mainbanner
 messianieuws.nl###media_image-10
 spreekbuis.nl###media_image-11
@@ -283,6 +284,7 @@ blikopnieuws.nl##.ligatus-sidebar-block
 roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
+greenkeeper.nl##.logoblok
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
