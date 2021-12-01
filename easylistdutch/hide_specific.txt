@@ -124,8 +124,10 @@ telegraaf.nl##.ArticlePageWrapper__banner
 2dehands.be,marktplaats.nl##.BannerBottom-root
 marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
+guruwatch.nl##.Billboard
 belegger.nl,eurobench.com##.Billboard-wrapper
 iex.nl##.ContentPartner
+guruwatch.nl##.LargeRectangle
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 belegger.nl,eurobench.com##.Rectangle-wrapper
