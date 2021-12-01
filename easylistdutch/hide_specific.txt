@@ -290,6 +290,7 @@ klokradio.nl##.panel-grid.rslides-content
 atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
 clubbrugge.be,feyenoord.nl,ftm.nl##.partners
 golf.be##.partners-holder
+denachtvlinders.nl##.plek-boven-artikel
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 marktplaats.nl##.premium-content
