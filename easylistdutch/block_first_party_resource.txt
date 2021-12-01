@@ -52,6 +52,7 @@
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
+||iex.nl/uploads/banners/
 ||katholiek.nl/wp-content/uploads/*/banner-
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner

@@ -185,6 +185,7 @@ twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 bieos-omroep.nl##.bieos-widget
 gamer.nl,rtlnieuws.nl##.billboard
+iex.nl##.billboardwrap
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
@@ -257,6 +258,7 @@ dolcevia.com##.ira-container.ira-format-block > .bookingaff
 reformatorischeomroep.nl##.item-banner
 beursgorilla.nl##.js--billboard
 beursgorilla.nl##.js--rect
+iex.nl##.js-banner
 eurocampings.nl##.js-mock-banner
 eoswetenschap.eu##.l-banner
 speeleiland.nl##.leader-below-game
@@ -276,6 +278,7 @@ radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 schie.nu##.my-5
+iex.nl##.nativeblock
 iex.nl##.network:nth-of-type(2)
 nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
@@ -299,6 +302,7 @@ girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 wasmachines.nl##.rectangle
+iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
 gamer.nl##.rs-banner
