@@ -139,6 +139,7 @@ buzzbie.nl##.TS_Banner_Spot
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
+thehike.nl##.a-single
 rtveen.nl##.aas_zone
 autozine.nl,beleggersbelangen.nl,hetnieuwsvandaag.be,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,tellows.nl,tripadvisor.nl,wijlimburg.nl,xgn.nl##.ad
 filmtotaal.nl##.ad-centering
