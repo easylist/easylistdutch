@@ -108,8 +108,12 @@ zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl###sponsors-carousel
 h20.gg###text-14
 radiozuidrand.be###text-15
-loemedia.nl###text-17
+edelmetaal-info.nl###text-16
+edelmetaal-info.nl,loemedia.nl###text-17
+edelmetaal-info.nl###text-19
+edelmetaal-info.nl###text-20
 messianieuws.nl###text-24
+edelmetaal-info.nl###text-3
 despirituelewereld.be###text-37
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
@@ -409,6 +413,7 @@ tennisplaza.be##a[href^="https://ds1.nl/"]
 bestetop5.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
+edelmetaal-info.nl##a[onclick^="javascript:pageTracker._trackPageview"]
 gostreaming.nl,tennisplaza.be##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
 pcmweb.nl##div.block:nth-of-type(1)
