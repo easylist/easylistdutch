@@ -33,6 +33,7 @@
 ||dolcevia.com^*/Banners/
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
+||edelmetaal-info.nl/wp-content/uploads/images/goudpensioen/
 ||eredivisie.nl/images/logos/partners/
 ||excellentfm.nl/images/aanbieding/
 ||fanclubbarcelona.nl/viewfile/mainbanner/
@@ -166,4 +167,5 @@
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
+||zilverengoudkopen.nl/banners/
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
