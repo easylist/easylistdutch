@@ -9,6 +9,7 @@
 ||cloudfront.net/Assets/images/partners/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||feenstra-internetservices.nl/?_dnid=$third-party
+||fx.nl/_ext/widget/$third-party
 ||infotalia.com/worktalia_promo_
 ||jobat.be/extra/trackuityhn/ticker_new.html$third-party
 ||mmcdn.nl/tags/
