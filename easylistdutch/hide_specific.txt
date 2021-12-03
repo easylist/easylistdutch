@@ -342,6 +342,7 @@ geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
+solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 niburu.co##.sponsers
 sc-heerenveen.nl##.sponsor
