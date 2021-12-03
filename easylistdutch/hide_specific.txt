@@ -218,6 +218,7 @@ tzum.info##.bzrwfrm
 tijd.be##.c-articleteaser--sponsored
 flaironline.nl##.c-commerical_banner
 ngf.nl##.c-footer-sponsors
+financialinvestigator.nl##.c-newsList__story--partnernieuws
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl##.c-sponsors
 volleybal.nl##.card-banner
@@ -298,6 +299,7 @@ mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
+financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 schie.nu##.my-5
