@@ -319,6 +319,7 @@ marktplaats.nl##.premium-content
 fhm500.nl##.profileh_tabac
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 openingsurengids.be##.promSB
+fondsnieuws.nl##.promo-wrapper
 synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
