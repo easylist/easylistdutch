@@ -74,6 +74,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
+||metalfan.nl/banners/
 ||midvliet.nl/images/advertenties-
 ||mo.be/sites/default/files/banners/
 ||motocrossplanet.nl/banner/
