@@ -111,6 +111,7 @@
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*_banner-
 ||retaildetail.be/sites/default/files/banner/
+||retaildetail.nl/sites/default/files/banner/
 ||rickfm.nl/cwm/fm/userfiles/banner/
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/
 ||rtveen.nl/wp-content/uploads/*-Banner-
