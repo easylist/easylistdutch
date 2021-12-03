@@ -137,6 +137,7 @@
 ||tijd.be/ad/
 ||touretappe.nl/images/xtra/
 ||tpo.nl/broodplank/
+||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||unity.nu^*/Banners/
