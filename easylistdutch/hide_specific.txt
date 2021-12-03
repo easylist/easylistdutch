@@ -375,6 +375,8 @@ live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 computable.be,computable.nl##.true-logo
+nieuwsfiets.nu##.ult-content-box-container
+nieuwsfiets.nu##.us_custom_7370a357
 linuxmag.nl##.vc_custom_1589883706945
 linuxmag.nl##.vc_custom_1590576060705
 jammfm.nl##.vc_custom_1597392476135
