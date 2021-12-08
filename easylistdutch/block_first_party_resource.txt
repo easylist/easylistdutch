@@ -145,6 +145,7 @@
 ||unity.nu^*/Banners/
 ||vagina.nl/fish-hooks/fetch.json
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
+||verkeerplaza.nl/js/banner.js
 ||visserijnieuws.nl/images/banners/
 ||vitesse.nl/assets/img/layout/etoro-logo.png
 ||vitesse.nl^*_sponsors_footer.png
