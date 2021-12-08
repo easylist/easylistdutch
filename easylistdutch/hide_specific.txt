@@ -270,6 +270,7 @@ golf.be##.header__bottom
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 arenalokaal.nl##.header_banner
+zeelandnet.nl##.hero-banner
 basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
 eurogamer.nl##.homepage-billboard-container
