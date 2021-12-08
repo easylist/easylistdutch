@@ -335,6 +335,7 @@ wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
+zeelandnet.nl##.row--bnr-between
 gamer.nl##.rs-banner
 oisterwijknieuws.nl##.sam-container
 scholieren.com##.searchvertorial
