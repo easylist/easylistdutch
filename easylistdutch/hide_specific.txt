@@ -230,6 +230,7 @@ fonkonline.nl##.carrousel-wrapper
 motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
+tameteo.nl##.creatividad
 voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 voetbaluitslagen.com##.cta__toplist
