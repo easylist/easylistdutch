@@ -174,6 +174,7 @@ gfcnieuws.com,historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.article-bnr-first
 motocrossplanet.nl##.artikel-banners
+zeelandnet.nl##.as__bottom-banner
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
