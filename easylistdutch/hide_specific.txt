@@ -258,6 +258,7 @@ handbal.be##.footer-top
 ajax1.nl##.footer__footer-fat
 rtvgo.nl##.footeradd
 burggolf.nl##.footercontent
+uel-voetbal.nl##.footerderden
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
 unitednews.sr##.fullwidthbanner-container
@@ -388,6 +389,7 @@ feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 computable.be,computable.nl##.true-logo
 fok.nl##.trueTop
+uel-voetbal.nl##.uitgelichtbox
 nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.us_custom_7370a357
 linuxmag.nl##.vc_custom_1589883706945

@@ -142,6 +142,7 @@
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
+||uel-voetbal.nl/derden/
 ||unity.nu^*/Banners/
 ||vagina.nl/fish-hooks/fetch.json
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
