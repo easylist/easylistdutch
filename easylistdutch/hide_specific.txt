@@ -12,6 +12,7 @@ omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl,bloovi.be###advertising
 agconnect.nl###ag_article_related_partner_logos
 ciaotutti.nl###b_searchboxInc
+belgiancycling.be###banner
 autowereld.nl###banner-detail-top
 autowereld.nl###banner-lister-top
 2dehands.be,marktplaats.nl###banner-top-dt-container
@@ -87,7 +88,7 @@ pokeren.nl###onetime-popup
 starnieuws.com###overig_nieuws
 autoreview.nl,indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
-elfvoetbal.nl###partners
+belgiancycling.be,elfvoetbal.nl###partners
 coastline945fm.nl###partners_slides
 rtvkrimpenerwaard.nl###pg-1407-8
 sexpower.nl###pre-footer-banners
