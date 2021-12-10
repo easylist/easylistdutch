@@ -321,7 +321,7 @@ ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
 atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
-clubbrugge.be,feyenoord.nl,ftm.nl##.partners
+clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be##.partners
 golf.be##.partners-holder
 denachtvlinders.nl##.plek-boven-artikel
 fhm500.nl##.powered_by_page
