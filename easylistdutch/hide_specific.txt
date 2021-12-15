@@ -225,6 +225,7 @@ tijd.be##.c-articleteaser--sponsored
 flaironline.nl##.c-commerical_banner
 ngf.nl##.c-footer-sponsors
 financialinvestigator.nl##.c-newsList__story--partnernieuws
+ditjesendatjes.nl##.c-partners
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl##.c-sponsors
 volleybal.nl##.card-banner
