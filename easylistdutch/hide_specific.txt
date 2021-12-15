@@ -418,6 +418,7 @@ onderwijsland.com##.widget-partners
 indebuurt.nl##.widget-tabs--partner
 autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
+mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
