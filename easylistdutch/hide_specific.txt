@@ -21,7 +21,10 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 a1mediagroep.nl,brandweerspotters.nl,fanclubbarcelona.nl###banners
 historiek.net###before-header
+bol-an.nl###block-10
+bol-an.nl###block-11
 spreekbuis.nl###block-3
+bol-an.nl###block-9
 luchtvaartnieuws.nl###block-block-191
 blikopnieuws.nl###block-block-38
 zakenreisnieuws.nl###block-views-banner_carousel-block
@@ -71,6 +74,7 @@ autowereld.nl###mainbanner
 messianieuws.nl###media_image-10
 spreekbuis.nl###media_image-11
 palnws.be###media_image-12
+bol-an.nl###media_image-13
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
 classicstogo.nl,messianieuws.nl###media_image-2

@@ -13,6 +13,7 @@
 ||belgiancycling.be^*/Logo%27s%20partners/
 ||bloovi.be/frontend/files/banners/
 ||bodemvondstenwereld.nl/images/banners/
+||bol-an.nl/wp-content/uploads/*/Adv_
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/uploads/banners/
 ||chatmetvreemden.be/static/html/
