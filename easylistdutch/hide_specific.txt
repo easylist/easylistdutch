@@ -102,6 +102,7 @@ stubru.be###reclameblok-wrapper
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
 motorfietsblog.nl###shopside
+franska.nl###shopsuiteApplication
 vagina.nl###side-fish-hooks
 112achterhoek-nieuws.nl###sidebar
 top40.nl###sky1
