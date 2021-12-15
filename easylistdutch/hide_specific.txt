@@ -178,6 +178,7 @@ rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.article-bnr-first
 motocrossplanet.nl##.artikel-banners
 zeelandnet.nl##.as__bottom-banner
+nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
@@ -430,7 +431,8 @@ racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 emerce.nl##a[href^="https://bit.ly/"]
 tennisplaza.be##a[href^="https://ds1.nl/"]
-bestetop5.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
+bestetop5.nl,nailtalk.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
+nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 gids.tv##a[href^="https://www.autodoc.be/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
