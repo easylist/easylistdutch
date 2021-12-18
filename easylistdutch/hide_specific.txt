@@ -92,7 +92,7 @@ pokeren.nl###onetime-popup
 starnieuws.com###overig_nieuws
 autoreview.nl,indeleiderstrui.nl,wielerflits.be,wielerflits.nl###parentgpt
 eredivisie.nl###partner-bar
-belgiancycling.be,elfvoetbal.nl###partners
+belgiancycling.be,coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl###partners
 coastline945fm.nl###partners_slides
 rtvkrimpenerwaard.nl###pg-1407-8
 sexpower.nl###pre-footer-banners

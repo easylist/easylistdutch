@@ -22,6 +22,7 @@
 ||ciaotutti.nl/wp-content/uploads/Banner_
 ||clubbrugge.be^*/partner/
 ||coastline945fm.nl/cache/partners/
+||coastlinefm.nl/cache/partners/
 ||content1.pcmweb.nl^
 ||debestevpn.nl/wp-content/*-banner.
 ||decibel.nl/wp-content/uploads/*/banner-
