@@ -131,8 +131,10 @@
 ||seksverhalen.org/vluggertjes.png
 ||sexchatlounge.nl/bannerlinks.html
 ||sexchatlounge.nl/bannerrechts.html
-||simone.nl/bestanden/afbeelding/*-banner-
-||simone.nl/bestanden/afbeelding/banner/
+||simone.nl/wp-content/uploads/*-banner-
+||simone.nl/wp-content/uploads/*-besteonderdelen.nl-
+||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
+||simone.nl/wp-content/uploads/*/tijdelijkkkkk.png
 ||solarmagazine.nl/u/edwin/
 ||spreekbuis.nl/wp-content/uploads/*-banner-
 ||spreekbuis.nl/wp-content/uploads/*/Banner-

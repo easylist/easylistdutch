@@ -187,7 +187,7 @@ nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 stadszaken.nl##.b-side
-afkortingen.nu,agf.nl,bpnieuws.nl,dutchitchannel.nl,executive-people.nl,filmladder.nl,folderz.nl,klasse.be,metalfan.nl,nrc.nl,retaildetail.be,retaildetail.nl,simone.nl,startpagina.nl,televizier.nl,totaaltv.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
+afkortingen.nu,agf.nl,bpnieuws.nl,dutchitchannel.nl,executive-people.nl,filmladder.nl,folderz.nl,klasse.be,metalfan.nl,nrc.nl,retaildetail.be,retaildetail.nl,startpagina.nl,televizier.nl,totaaltv.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
@@ -345,6 +345,7 @@ oneworld.nl##.promotion-block
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
+simone.nl##.qt-sponsor
 wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
