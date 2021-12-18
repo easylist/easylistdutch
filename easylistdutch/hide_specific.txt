@@ -199,6 +199,7 @@ marktplaats.nl##.banner-row
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
+deblueskrant.nl##.banner-wrap
 autowereld.nl,sexjobs.nl##.banner-wrapper
 motocrossplanet.nl##.banner540
 rtvdordrecht.nl##.bannerContainer
