@@ -4,6 +4,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hbvl.be|sportnieuws.nl|vtm.be
 @@||improvedigital.com/pbw/headerlift.min.js$domain=spelletjes.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
+@@||massariuscdn.com/pubs/radionl/radionl_hb_setup.js$script,domain=radio.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
