@@ -232,7 +232,7 @@ ngf.nl##.c-footer-sponsors
 financialinvestigator.nl##.c-newsList__story--partnernieuws
 ditjesendatjes.nl##.c-partners
 knltb.nl,tennis.nl##.c-site-footer__partners
-golf.nl##.c-sponsors
+golf.nl,qmusic.nl##.c-sponsors
 volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
 rkcwaalwijk.nl##.carousel
@@ -331,6 +331,7 @@ ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
 atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
+qmusic.nl##.partner
 clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be##.partners
 golf.be##.partners-holder
 denachtvlinders.nl##.plek-boven-artikel
