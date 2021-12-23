@@ -27,6 +27,7 @@
 ||content1.pcmweb.nl^
 ||cryptobenelux.com/wp-content/uploads/*-banner-
 ||cryptobenelux.com/wp-content/uploads/*-Banner.
+||cryptobenelux.com/wp-content/uploads/*/banner_
 ||cryptoprijzen.com/cryptoprijzen-widget/
 ||debestevpn.nl/wp-content/*-banner.
 ||decibel.nl/wp-content/uploads/*/banner-
