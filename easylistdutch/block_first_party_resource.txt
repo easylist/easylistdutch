@@ -44,6 +44,7 @@
 ||fanclubbarcelona.nl/viewfile/mainbanner/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
+||floranews.com/img/banner/
 ||fonkonline.nl/adds/
 ||forum.spaarinformatie.nl/si-info.html
 ||genemuidenactueel.nl^*banner
