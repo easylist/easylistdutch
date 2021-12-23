@@ -182,6 +182,7 @@
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
+||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/amstelveen.jpg
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/Coordinatoromgevingsvergunningen-Rijksoverheid-
 ||wp.com/romagazine.nl/14nwsite/wp-content/uploads/2021/07/enschede.png
