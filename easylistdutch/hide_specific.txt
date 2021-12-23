@@ -337,6 +337,7 @@ atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
 qmusic.nl##.partner
 clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be##.partners
 golf.be##.partners-holder
+weespernieuws.nl##.pbph
 denachtvlinders.nl##.plek-boven-artikel
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
