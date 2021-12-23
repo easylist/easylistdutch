@@ -78,7 +78,7 @@ palnws.be###media_image-12
 bol-an.nl###media_image-13
 omroepalmere.nl###media_image-16
 omroepalmere.nl###media_image-18
-classicstogo.nl,messianieuws.nl###media_image-2
+classicstogo.nl,dutchcryptotalk.com,messianieuws.nl###media_image-2
 omroepalmere.nl###media_image-21
 omroepalmere.nl###media_image-22
 kanaancourant.nl,keizerstad.nl,oomroepalmere.nl,schiedamsnieuws.nl,vivocyclo.com###media_image-3
@@ -480,6 +480,7 @@ meerradio.nl##div[id="pristineslider.12"]
 motokicx.com##div[id^="adtemplate"]
 sexjobs.nl##div[id^="banner-"]
 motokicx.com##div[id^="bannerhome"]
+dutchcryptotalk.com##div[id^="dutch-"]
 duurzaamnieuws.nl##div[id^="duurz-"]
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
@@ -510,6 +511,7 @@ regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl,lflmagazine.nl,mannennieuws.nl,streamwijzer.be,teqnation.com,thatsgaming.nl##img[width="300"][height="250"]
 racexpress.nl##img[width="310"][height="200"]
 vives.nl##img[width="330"][height="520"]
+dutchcryptotalk.com##img[width="468"][height="60"]
 streamwijzer.be##img[width="500"][height="500"]
 decibel.nl##img[width="640"][height="180"]
 nieuwsopbeeld.nl##img[width="640"][height="640"]
