@@ -1,5 +1,6 @@
 immo.vlan.be###ProvidersBox
 immo.vlan.be###TopCompareBox
+hoekschnieuws.nl###\36 050c52fcf1d8-2
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
 filmtotaal.nl###adf-billboard
@@ -127,7 +128,7 @@ despirituelewereld.be###text-37
 goedkoopstekeukensduitsland.nl###text-5
 goedkoopstekeukensduitsland.nl###text-6
 senseigaming.be###text-7
-goedkoopstekeukensduitsland.nl###text-8
+goedkoopstekeukensduitsland.nl,hoekschnieuws.nl###text-8
 voetbal4u.com###text-81
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
@@ -391,7 +392,7 @@ despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 koken.vtm.be##.taxonomy-dedicated-header
-katholiek.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
+hoekschnieuws.nl,katholiek.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48

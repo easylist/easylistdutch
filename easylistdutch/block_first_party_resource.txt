@@ -61,6 +61,8 @@
 ||halstadcentraal.nl/images/banners/
 ||handbalstartpunt.nl/content/schoonkapje.gif
 ||handbalstartpunt.nl/images/mizuno-small.jpg
+||hoekschnieuws.nl/banner/
+||hoekschnieuws.nl/wp-content/uploads/*/Banner-
 ||hotradiohits.nl/image/picture/*_banner.
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
