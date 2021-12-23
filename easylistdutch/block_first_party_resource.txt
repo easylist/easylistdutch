@@ -25,6 +25,9 @@
 ||coastline945fm.nl/cache/partners/
 ||coastlinefm.nl/cache/partners/
 ||content1.pcmweb.nl^
+||cryptobenelux.com/wp-content/uploads/*-banner-
+||cryptobenelux.com/wp-content/uploads/*-Banner.
+||cryptoprijzen.com/cryptoprijzen-widget/
 ||debestevpn.nl/wp-content/*-banner.
 ||decibel.nl/wp-content/uploads/*/banner-
 ||dewereldmorgen.be/wp-content/banners/
