@@ -280,6 +280,7 @@ srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 televizier.nl,tvblik.nl##.header-banner
 schaatsen.nl##.header-partners-logo
+wos.nl##.header-right
 golf.be##.header__bottom
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
