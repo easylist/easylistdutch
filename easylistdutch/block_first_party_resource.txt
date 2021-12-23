@@ -87,6 +87,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||mannennieuws.nl/wp-content/uploads/*-banner.
+||meerdangewenst.nl^*/sponsors/
 ||metalfan.nl/banners/
 ||midvliet.nl/images/advertenties-
 ||mo.be/sites/default/files/banners/

@@ -404,6 +404,7 @@ waterkant.net##.tdi_68
 nu.nl##.tealium
 demorgen.be,volkskrant.nl##.teaser-branded
 netonline.be##.text_12_jobs_only
+meerdangewenst.nl##.tg-site-footer-section-1
 topgear.nl##.theme-advertorial
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
