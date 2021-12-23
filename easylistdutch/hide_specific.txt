@@ -39,7 +39,7 @@ basketballbelgium.be###carousel-item-2
 topvolleybelgium.be###contacts3-5
 almere-nieuws.nl###containerx
 grandprixradio.nl###custom_html-10
-grandprixradio.nl###custom_html-13
+cryptosjop.nl,grandprixradio.nl###custom_html-13
 grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
 omroepeemsdelta.nl###custom_html-2
@@ -220,6 +220,7 @@ bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
 gamer.nl,rtlnieuws.nl##.billboard
 iex.nl##.billboardwrap
+cryptosjop.nl##.bitvavo-widget
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
