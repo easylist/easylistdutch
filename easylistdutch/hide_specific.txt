@@ -1,6 +1,8 @@
 immo.vlan.be###ProvidersBox
 immo.vlan.be###TopCompareBox
 hoekschnieuws.nl###\36 050c52fcf1d8-2
+gaynews.nl###abri
+gaynews.nl###abri1
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
 filmtotaal.nl###adf-billboard
@@ -414,6 +416,7 @@ fok.nl##.trueTop
 uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.us_custom_7370a357
+gaynews.nl##.va500
 linuxmag.nl##.vc_custom_1589883706945
 linuxmag.nl##.vc_custom_1590576060705
 jammfm.nl##.vc_custom_1597392476135
@@ -447,6 +450,8 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[data-type="advertorial"]
 cip.nl##a[href*="/ad/click/"]
 nu.nl##a[href*="/advertorial-"]
+gaynews.nl##a[href^="/_global/_cp.php?"]
+gaynews.nl##a[href^="/_global/_fp.php?"]
 voetbalvandaag.be##a[href^="http://unibet.me/"]
 racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
