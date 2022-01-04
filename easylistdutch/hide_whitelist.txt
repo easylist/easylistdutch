@@ -2,7 +2,6 @@ ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoor
 audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
-focus-wtv.be#@#.sponsored-article
 gratisaftehalen.nl#@#.ads-image
 lesoir.be#@##ultimedia_wrapper
 marktplaats.nl#@#.adSummary
