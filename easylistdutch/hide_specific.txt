@@ -132,6 +132,9 @@ feyenoordreport.nl###text-50
 psvreport.nl###text-57
 psvreport.nl###text-58
 goedkoopstekeukensduitsland.nl###text-6
+voetbalsnafu.nl###text-64
+voetbalsnafu.nl###text-65
+voetbalsnafu.nl###text-66
 senseigaming.be###text-7
 goedkoopstekeukensduitsland.nl,hoekschnieuws.nl###text-8
 voetbal4u.com###text-81
@@ -442,7 +445,7 @@ autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
-ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl##.widget_links
+ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
