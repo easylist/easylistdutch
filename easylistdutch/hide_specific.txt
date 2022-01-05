@@ -118,7 +118,7 @@ sciencelink.net###sponsored-content_280
 zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl###sponsors-carousel
 itwm.nl###tdi_37
-h20.gg###text-14
+h20.gg,livestreamvandaag.be###text-14
 radiozuidrand.be###text-15
 edelmetaal-info.nl###text-16
 edelmetaal-info.nl,loemedia.nl###text-17
@@ -442,7 +442,7 @@ autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
-ajaxreport.nl,feyenoordreport.nl,psvreport.nl##.widget_links
+ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl##.widget_links
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
