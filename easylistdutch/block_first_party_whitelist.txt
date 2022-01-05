@@ -1,4 +1,6 @@
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
+@@||zilverengoudkopen.nl/banners/header
+@@||zilverengoudkopen.nl/banners/onder
 !
 @@||vinatera.be/wp-content/uploads/*_300x600.$image,~third-party
