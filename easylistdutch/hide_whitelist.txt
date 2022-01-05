@@ -6,6 +6,6 @@ veeteelt.nl#@#.advertorial
 modekoninginmaxima.nl#@#.after-content-ad
 vakantieplaats.nl#@#.feed-ad
 bokt.nl#@#.node-ad
-ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,casinovergelijkingen.com,cryptobelegging.com,cryptotoekomst.com,feyenoordreport.nl,formula1report.com,fultimateteam.com,gamblingreport.nl,livestreamvandaag.be,psvreport.nl,vergelijkbookmakers.nl,voetbalnotering.nl,voetbalsnafu.nl,voetbalvisie.com#@#.top-ads-block
+ajaxreport.nl,ajaxrss.nl,blockchainvandaag.com,casinoreport.nl,casinovergelijkingen.com,cryptobelegging.com,cryptotoekomst.com,feyenoordreport.nl,formula1report.com,fultimateteam.com,gamblingreport.nl,livestreamvandaag.be,psvreport.nl,vergelijkbookmakers.nl,voetbalnotering.nl,voetbalsnafu.nl,voetbalvisie.com#@#.top-ads-block
 directwonen.nl#@#.top-advert
 vakantieplaats.nl#@#.topAds
