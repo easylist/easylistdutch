@@ -6,4 +6,5 @@ veeteelt.nl#@#.advertorial
 modekoninginmaxima.nl#@#.after-content-ad
 vakantieplaats.nl#@#.feed-ad
 bokt.nl#@#.node-ad
+directwonen.nl#@#.top-advert
 vakantieplaats.nl#@#.topAds
