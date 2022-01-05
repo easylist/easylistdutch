@@ -132,6 +132,8 @@ goedkoopstekeukensduitsland.nl###text-6
 senseigaming.be###text-7
 goedkoopstekeukensduitsland.nl,hoekschnieuws.nl###text-8
 voetbal4u.com###text-81
+ajaxreport.nl###text-88
+ajaxreport.nl###text-91
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
 radio-minerva.be###topbanner
@@ -437,6 +439,7 @@ autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
+ajaxreport.nl##.widget_links
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
