@@ -5,6 +5,7 @@
 ||adodenhaag.nl/images/banners/
 ||agconnect.nl/sites/ag/files/styles/partner_
 ||am-forum.nl/upload/logo_elektrodump.png
+||antilliaansdagblad.com/images/*200x200px$image
 ||antilliaansdagblad.com/images/banners/
 ||apintie.sr/bannerz/
 ||autosport.nl/images/Banner-
