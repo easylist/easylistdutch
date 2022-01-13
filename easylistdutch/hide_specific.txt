@@ -296,6 +296,7 @@ radiovisie.eu##.gmollik
 srherald.com##.gsrhera
 noordkopcentraal.nl##.headbanner
 televizier.nl,tvblik.nl##.header-banner
+hardware.info##.header-navigation__truelogo
 schaatsen.nl##.header-partners-logo
 wos.nl##.header-right
 golf.be##.header__bottom
