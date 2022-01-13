@@ -127,6 +127,7 @@
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*_banner-
+||rd.nl/deliver.js
 ||retaildetail.be/sites/default/files/banner/
 ||retaildetail.nl/sites/default/files/banner/
 ||rickfm.nl/cwm/fm/userfiles/banner/
