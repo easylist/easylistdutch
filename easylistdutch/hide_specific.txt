@@ -381,6 +381,7 @@ baanwacht.nl##.shailan_banner_widget
 wijlimburg.nl##.sidebar-partners
 fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_top
+rtlnieuws.nl##.six_articles_with_ad__ad
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
