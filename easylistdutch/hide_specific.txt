@@ -266,6 +266,7 @@ voetbaluitslagen.com##.cta__toplist
 kekmama.nl##.cts-row-wrapper
 touretappe.nl##.desktopad
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp
+dagelijksekost.een.be##.dish-sponsors
 tpo.nl##.dus
 androidplanet.nl,iphoned.nl##.dynamic-content
 androidplanet.nl,iphoned.nl##.dynamic-content-native
