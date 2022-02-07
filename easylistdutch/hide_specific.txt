@@ -391,6 +391,8 @@ volleyvlaanderen.be##.slider5
 maaslandradio.nl##.slides
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
+spidersolitairespelen.nl##.spel_b1
+spidersolitairespelen.nl##.spel_b2
 niburu.co##.sponsers
 sc-heerenveen.nl##.sponsor
 omroephouten.nl##.sponsor-carousel
