@@ -307,6 +307,7 @@ arenalokaal.nl##.header_banner
 zeelandnet.nl##.hero-banner
 basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
+funda.nl##.home-billboard
 eurogamer.nl##.homepage-billboard-container
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
