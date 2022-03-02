@@ -420,6 +420,7 @@ elegance.nl##.tdi_58
 waterkant.net##.tdi_68
 nu.nl##.tealium
 demorgen.be,volkskrant.nl##.teaser-branded
+nos.nl##.teletekst__banner
 startpagina.nl##.template-redesign-5-column-top-3-center-banner-outer
 netonline.be##.text_12_jobs_only
 meerdangewenst.nl##.tg-site-footer-section-1
