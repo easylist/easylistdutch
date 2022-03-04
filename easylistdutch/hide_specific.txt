@@ -550,7 +550,7 @@ radiocaramba.nl##table[width="120"][height="600"]
 ! Advanced element hiding rules for Adblock Plus
 autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"])
 businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Beleggen))
-hardware.info#?#aside:-abp-contains(Advertentie)
+hardware.info#?#:-abp-properties(content: "Advertentie";)
 indebuurt.nl#?#.list-item.list-item--aagje:-abp-has(.list-item__sponsor)
 spaargids.be#?##latest_news_above:-abp-has(a[href^="https://www.deutschebank.be/"])
 linda.nl#?#.article-row_article:-abp-has(.article-row_category.category-label_label:-abp-contains(Advertorial))
@@ -560,6 +560,7 @@ srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"]
 streamwijzer.be#?#.wp-block-group__inner-container:-abp-has(a[rel="noreferrer noopener"][target="_blank"])
 tijd.be#?#.o-hpgrid__row-tijdconnect:-abp-has(h2:-abp-contains(Gesponsorde inhoud))
 tvgids.nl#?#.square-item:-abp-has( > .banner)
+tweakers.net#?#:-abp-properties(content: "Advertentie";)
 voetbalcentraal.nl#?#.blok:-abp-has(h3:-abp-contains(Partners))
 welingelichtekringen.nl#?#.post:-abp-has(a[href*="/partnerposting/"])
 wielerflits.nl#?#.list-group-item:-abp-has(span:-abp-contains(Ad))
