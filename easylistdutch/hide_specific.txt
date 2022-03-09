@@ -5,7 +5,8 @@ gaynews.nl###abri
 gaynews.nl###abri1
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
-filmtotaal.nl###adf-billboard
+filmtotaal.nl,lonelyplanet.nl###adf-billboard
+lonelyplanet.nl###adf-billboard-2
 filmtotaal.nl###adf-rectangle
 apintie.sr###ads
 openingstijden.com###adsense_CSA
