@@ -211,9 +211,11 @@ tvblik.nl##.banner-fluid
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 marktplaats.nl##.banner-row
+maarkelsnieuws.nl##.banner-secondary-sidebar
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
+maarkelsnieuws.nl##.banner-widget
 deblueskrant.nl##.banner-wrap
 autowereld.nl,sexjobs.nl##.banner-wrapper
 motocrossplanet.nl##.banner540
