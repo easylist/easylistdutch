@@ -181,7 +181,7 @@ sozio.nl##.adchannel
 nieuwsmotor.nl##.add-background
 voetbalvandaag.be##.adds
 westerwoldeactueel.nl##.adr-wrapper
-cinenews.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl##.ads
+cinenews.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl,wegdamnieuws.nl##.ads
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal-5
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
