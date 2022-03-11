@@ -342,6 +342,7 @@ ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
+wegdamnieuws.nl##.mk-sponsorlink
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-adsense-header
 financialinvestigator.nl##.mpu
