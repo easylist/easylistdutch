@@ -3,10 +3,13 @@
 ###adRechts2
 ###advertentie
 ##.advertentie-2-container
+##.advertentie_226
 ##.advertentie_links
 ##.advrow
 ##.content-rechts-ad
 ##.gamereel_featured-ad
+##.gesponsord_blokje
+##.gesponsord_blokje_wrap
 ##.hoofdAd2
 ##.massarius-dfp-unit
 ##a[href^="https://xltube.nl/click/"]
