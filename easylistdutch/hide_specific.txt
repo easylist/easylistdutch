@@ -469,6 +469,7 @@ rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
 radioreflex.be##.widget_sponsors_widget
+spreekbuis.nl##.widget_spreekbuis_partners
 wielerflits.be,wielerflits.nl##.wielerflits_ros_bravo_rectangle-halfpage
 telegraaf.nl##.withBanners
 indebuurt.nl##.woty-banner
