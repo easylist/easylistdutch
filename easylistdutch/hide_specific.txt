@@ -255,6 +255,7 @@ financialinvestigator.nl##.c-newsList__story--partnernieuws
 ditjesendatjes.nl##.c-partners
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl,qmusic.nl##.c-sponsors
+binnenlandsbestuur.nl##.c-teaser--partner
 volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
 rkcwaalwijk.nl##.carousel
