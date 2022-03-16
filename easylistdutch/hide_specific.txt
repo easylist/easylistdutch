@@ -230,6 +230,7 @@ radiomonique.am##.bannerswidget
 twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
+vi.nl##.betting-provider-row
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
 gamer.nl,rtlnieuws.nl##.billboard
