@@ -1,4 +1,3 @@
-||adcalls.nl^$third-party
 ||adrequest.net^$third-party
 ||adshim.com^$third-party
 ||affiliatepartners.com^$third-party
