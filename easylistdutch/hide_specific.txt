@@ -568,6 +568,7 @@ streamwijzer.be#?#.wp-block-group__inner-container:-abp-has(a[rel="noreferrer no
 tijd.be#?#.o-hpgrid__row-tijdconnect:-abp-has(h2:-abp-contains(Gesponsorde inhoud))
 tvgids.nl#?#.square-item:-abp-has( > .banner)
 tweakers.net#?#:-abp-properties(content: "Advertentie";)
+vi.nl#?#.c-articles-list__item.c-articles-list__item--highlight:-abp-has(.c-tag.c-articles-list__label:-abp-contains(Advertorial))
 voetbalcentraal.nl#?#.blok:-abp-has(h3:-abp-contains(Partners))
 welingelichtekringen.nl#?#.post:-abp-has(a[href*="/partnerposting/"])
 wielerflits.nl#?#.list-group-item:-abp-has(span:-abp-contains(Ad))
