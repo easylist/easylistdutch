@@ -22,6 +22,7 @@
 ||sociaaldigitaal.nl/img/Banner-$third-party
 ||sp.dpgmedia.net^$third-party
 ||stepstone.be/*?event=widgettool.$third-party
+||strafrechtadvocaten.nl/media/banner/$third-party
 ||swpportal.com/upload/squarebanners/
 ||t.bazarow.com^$third-party
 ||widget.vpnnederland.nl^$domain=nzbserver.com
