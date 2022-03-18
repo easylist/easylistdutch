@@ -313,6 +313,7 @@ christmaholic.nl,curacao.nu,dbsuriname.com,despirituelewereld.be,dewereldmorgen.
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
+ninefornews.nl##.gyehnsh
 noordkopcentraal.nl##.headbanner
 televizier.nl,tvblik.nl##.header-banner
 hardware.info##.header-navigation__truelogo
@@ -428,6 +429,7 @@ az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,volleybelgium.be##.
 fleet-mobility.nl##.spotlight
 atv.be,robtv.be,tvl.be,tvoost.be##.squareWrap
 nos.nl##.ster-banner
+ninefornews.nl##.stream-item
 despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
@@ -554,7 +556,7 @@ rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 crimesite.nl##img[width="120"][height="240"]
 gratis.nl##img[width="160"][height="600"]
 prewarcar.nl##img[width="160"][height="92"]
-creditexpo.nl,dagbladdewest.com,dagelijksestandaard.nl,fiets.nl,luister.nl,omroeprsh.nl,ucl-voetbal.nl##img[width="300"]
+creditexpo.nl,dagbladdewest.com,dagelijksestandaard.nl,fiets.nl,luister.nl,ninefornews.nl,omroeprsh.nl,ucl-voetbal.nl##img[width="300"]
 regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl,lflmagazine.nl,mannennieuws.nl,streamwijzer.be,teqnation.com,thatsgaming.nl##img[width="300"][height="250"]
 racexpress.nl##img[width="310"][height="200"]
