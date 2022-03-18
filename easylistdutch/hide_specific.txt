@@ -288,8 +288,11 @@ androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
+biflatie.nl##.elementor-element-3f47075
 domstadradio.nl##.elementor-element-a6b9134
 radio182.nl##.elementor-element-bf3ae4f
+biflatie.nl##.elementor-location-popup
+biflatie.nl##.elementor-popup-modal
 radiocontinu.nl##.eskimo-carousel-container
 noordkopcentraal.nl##.ewic-slider-pro-widget
 heracles.nl##.fixed-ads
