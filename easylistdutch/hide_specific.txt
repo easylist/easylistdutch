@@ -397,7 +397,7 @@ wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
-marktplaats.nl##.right-banner-root-container
+2dehands.be,marktplaats.nl##.right-banner-root-container
 zeelandnet.nl##.row--bnr-between
 gamer.nl##.rs-banner
 racesport.nl##.rs_sponsorbanners_widget
