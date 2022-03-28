@@ -388,6 +388,7 @@ dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevec
 openingsurengids.be##.promSB
 fondsnieuws.nl##.promo-wrapper
 synoniemen.net##.promoblok
+skoften.net##.promoted
 oneworld.nl##.promotion-block
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
