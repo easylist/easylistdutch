@@ -85,7 +85,9 @@ omroepalmere.nl###media_image-18
 classicstogo.nl,dutchcryptotalk.com,messianieuws.nl###media_image-2
 omroepalmere.nl###media_image-21
 omroepalmere.nl###media_image-22
+mariabode.nl###media_image-28
 kanaancourant.nl,keizerstad.nl,oomroepalmere.nl,schiedamsnieuws.nl,vivocyclo.com###media_image-3
+mariabode.nl###media_image-34
 keizerstad.nl,schiedamsnieuws.nl,vivocyclo.com###media_image-4
 messianieuws.nl###media_image-5
 maaslandradio.nl###media_image-7
