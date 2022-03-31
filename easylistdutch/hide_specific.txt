@@ -483,7 +483,7 @@ mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
 schuttevaer.nl##.widget_minisites
-ovpro.nl,spoorpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
+automobielmanagement.nl,ovpro.nl,spoorpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
