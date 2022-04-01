@@ -294,6 +294,7 @@ decibel.nl##.edgtf-carousel-holder
 biflatie.nl##.elementor-element-3f47075
 domstadradio.nl##.elementor-element-a6b9134
 radio182.nl##.elementor-element-bf3ae4f
+mr-online.nl##.elementor-element-da14229
 biflatie.nl##.elementor-location-popup
 biflatie.nl##.elementor-popup-modal
 radiocontinu.nl##.eskimo-carousel-container
