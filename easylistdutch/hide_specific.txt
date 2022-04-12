@@ -266,6 +266,7 @@ flaironline.nl##.c-commerical_banner
 ngf.nl##.c-footer-sponsors
 financialinvestigator.nl##.c-newsList__story--partnernieuws
 ditjesendatjes.nl##.c-partners
+farmaline.be##.c-sidebar-banner-wrapper
 knltb.nl,tennis.nl##.c-site-footer__partners
 golf.nl,qmusic.nl##.c-sponsors
 binnenlandsbestuur.nl##.c-teaser--partner
