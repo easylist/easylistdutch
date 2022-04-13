@@ -592,6 +592,7 @@ geenstijl.nl#?#.article.row.no-image:-abp-has(.row.compost-warn:-abp-contains(- 
 gezondheidsnet.nl#?#.block-views:-abp-has(.view-gnet_gesponsorde_koppeling-display-block)
 hardware.info#?#:-abp-properties(content: "Advertentie";)
 indebuurt.nl#?#.list-item.list-item--aagje:-abp-has(.list-item__sponsor)
+investmentofficer.nl#?#.io-tape-card__wrap:-abp-has(.io-tape-card__label__sponsored)
 spaargids.be#?##latest_news_above:-abp-has(a[href^="https://www.deutschebank.be/"])
 linda.nl#?#.article-column_article:-abp-has(.category-label_label:-abp-contains(Advertorial))
 linda.nl#?#.article-row_article:-abp-has(.article-row_category.category-label_label:-abp-contains(Advertorial))
