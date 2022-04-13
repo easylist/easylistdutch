@@ -279,6 +279,8 @@ motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 tameteo.nl##.creatividad
+veronicasuperguide.nl##.css-12wfacz
+veronicasuperguide.nl##.css-1t8ljyq
 voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 voetbaluitslagen.com##.cta__toplist
