@@ -399,6 +399,7 @@ openingsurengids.be##.promSB
 fondsnieuws.nl##.promo-wrapper
 synoniemen.net##.promoblok
 skoften.net##.promoted
+skoften.net##.promoted-entry-in-content
 oneworld.nl##.promotion-block
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
