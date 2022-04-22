@@ -308,6 +308,7 @@ heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
+anoniem-surfen.nl##.footer-widget-1
 ajax1.nl##.footer__footer-fat
 feyenoordpings.nl##.footer__partners
 rtvgo.nl##.footeradd
@@ -326,6 +327,7 @@ televizier.nl,tvblik.nl##.header-banner
 hardware.info##.header-navigation__truelogo
 schaatsen.nl##.header-partners-logo
 wos.nl##.header-right
+anoniem-surfen.nl##.header-widget-region
 golf.be##.header__bottom
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
