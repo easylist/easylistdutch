@@ -25,8 +25,10 @@
 ||coastline945fm.nl/cache/partners/
 ||coastlinefm.nl/cache/partners/
 ||content1.pcmweb.nl^
+||content1.wasmachines.nl^
 ||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
+||content2.wasmachines.nl^
 ||cryptobenelux.com/wp-content/uploads/*-banner-
 ||cryptobenelux.com/wp-content/uploads/*-Banner.
 ||cryptobenelux.com/wp-content/uploads/*/banner_
