@@ -260,6 +260,7 @@ tpo.nl##.bol_pml_box
 autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
+xgn.nl​##.bs
 tzum.info##.bzrwfrm
 tijd.be##.c-articleteaser--sponsored
 flaironline.nl##.c-commerical_banner
