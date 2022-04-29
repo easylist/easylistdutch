@@ -25,6 +25,7 @@
 ||coastline945fm.nl/cache/partners/
 ||coastlinefm.nl/cache/partners/
 ||content1.pcmweb.nl^
+||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
 ||cryptobenelux.com/wp-content/uploads/*-banner-
 ||cryptobenelux.com/wp-content/uploads/*-Banner.
