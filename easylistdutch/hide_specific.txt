@@ -281,6 +281,7 @@ fonkonline.nl##.carrousel-wrapper
 motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
+weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 tameteo.nl##.creatividad
 veronicasuperguide.nl##.css-12wfacz
 veronicasuperguide.nl##.css-1t8ljyq
