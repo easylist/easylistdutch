@@ -431,7 +431,7 @@ rtlnieuws.nl##.six_articles_with_ad__ad
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
-maaslandradio.nl##.slides
+hyc.be,maaslandradio.nl##.slides
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 spidersolitairespelen.nl##.spel_b1
