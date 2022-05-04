@@ -16,6 +16,7 @@
 ||partner.bol.com^$third-party
 ||pexi.nl/dpos/widget-$domain=intermediair.nl
 ||pornokartel.nl^$image,third-party
+||pubble.nl/Content.svc/getAdCollection?
 ||recreatief.nl/kerstarrangementen.gif
 ||search-result.com^*/klokad2.js
 ||seks.com/img/bnr.gif
