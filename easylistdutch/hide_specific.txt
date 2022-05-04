@@ -175,6 +175,7 @@ iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 telegraaf.nl##.SectionPage__bannerWrapper
+onsoranje.nl##.SponsorBar
 knvb.nl##.SponsorBar-list
 telegraaf.nl##.SportScoreboardPage__banner
 buzzbie.nl##.TS_Banner_Spot
