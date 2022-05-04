@@ -56,6 +56,8 @@ rtvalbrandswaard.com###custom_html-6
 nljug.org###custom_html-7
 vroom.be###divBanneringSlot
 oops.nl###dropinboxv2cover
+cryptoclan.nl###elementor-popup-modal-40065
+cryptoclan.nl###elementor-popup-modal-40079
 androidplanet.nl,iphoned.nl###featured-header
 alkmaarguardians.nl###footer
 nieuws.nl###footer-banner
