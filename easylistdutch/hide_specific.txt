@@ -320,7 +320,7 @@ uecl-voetbal.nl,uel-voetbal.nl##.footerderden
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
 unitednews.sr##.fullwidthbanner-container
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,sleutelstad.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,regioinbedrijf.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
