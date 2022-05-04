@@ -389,6 +389,8 @@ ajax.nl##.page-footer__partners-block
 klokradio.nl##.panel-grid.rslides-content
 atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
 qmusic.nl##.partner
+sc-heerenveen.nl##.partner-grid
+sc-heerenveen.nl##.partnerlink
 clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be##.partners
 golf.be##.partners-holder
 weespernieuws.nl##.pbph
