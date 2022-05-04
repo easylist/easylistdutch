@@ -16,7 +16,7 @@ omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl,bloovi.be###advertising
 agconnect.nl###ag_article_related_partner_logos
 ciaotutti.nl###b_searchboxInc
-belgiancycling.be###banner
+belgiancycling.be,zoekhulp.nl###banner
 autowereld.nl###banner-detail-top
 autowereld.nl###banner-lister-top
 2dehands.be,marktplaats.nl###banner-top-dt-container
