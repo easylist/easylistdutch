@@ -543,6 +543,7 @@ nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 gids.tv##a[href^="https://www.autodoc.be/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
+ijshockeynederland.nl##a[href^="https://www.trexrubber.com/"]
 edelmetaal-info.nl##a[onclick^="javascript:pageTracker._trackPageview"]
 gostreaming.nl,tennisplaza.be##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
