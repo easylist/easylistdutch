@@ -2,10 +2,12 @@
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=radioluisteren.fm
 @@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=vtm.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailybuzz.nl|skoften.net|sportnieuws.nl|vtm.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailybuzz.nl|goplay.be|skoften.net|sportnieuws.nl|vtm.be
 @@||improvedigital.com/pbw/headerlift.min.js$domain=spelletjes.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
 @@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
+@@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
+@@||sdk.privacy-center.org^$script,domain=goplay.be
 @@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
