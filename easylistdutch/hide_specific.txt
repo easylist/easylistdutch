@@ -139,6 +139,7 @@ radiozuidrand.be###text-15
 edelmetaal-info.nl###text-16
 edelmetaal-info.nl,loemedia.nl###text-17
 edelmetaal-info.nl###text-19
+omrekenen.org###text-2
 edelmetaal-info.nl###text-20
 messianieuws.nl###text-24
 edelmetaal-info.nl###text-3
@@ -543,6 +544,7 @@ nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 gids.tv##a[href^="https://www.autodoc.be/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
+omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 ijshockeynederland.nl##a[href^="https://www.trexrubber.com/"]
 edelmetaal-info.nl##a[onclick^="javascript:pageTracker._trackPageview"]
 gostreaming.nl,tennisplaza.be##a[rel*="sponsored"]
