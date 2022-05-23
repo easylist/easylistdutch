@@ -441,6 +441,7 @@ proshop.nl​##.site-home-banner
 proshop.nl​##.site-top-banner
 rtlnieuws.nl##.six_articles_with_ad__ad
 geenstijl.nl##.slajeslag
+infinance.nl##.slickcarousel
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 hyc.be,maaslandradio.nl##.slides
@@ -514,6 +515,7 @@ nieuws.nl##.widget_add_widget
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
+infinance.nl##.widget_links_widget
 schuttevaer.nl##.widget_minisites
 vlootschouw.nl##.widget_miw_widget_multiple_images
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
