@@ -269,7 +269,7 @@ tpo.nl##.bol_pml_box
 autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
-xgn.nl​##.bs
+xgn.nl##.bs
 tzum.info##.bzrwfrm
 tijd.be##.c-articleteaser--sponsored
 flaironline.nl##.c-commerical_banner
@@ -438,9 +438,9 @@ baanwacht.nl##.shailan_banner_widget
 wijlimburg.nl##.sidebar-partners
 fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_top
-proshop.nl​##.site-background-banner
-proshop.nl​##.site-home-banner
-proshop.nl​##.site-top-banner
+proshop.nl##.site-background-banner
+proshop.nl##.site-home-banner
+proshop.nl##.site-top-banner
 rtlnieuws.nl##.six_articles_with_ad__ad
 geenstijl.nl##.slajeslag
 infinance.nl##.slickcarousel
