@@ -313,6 +313,7 @@ biflatie.nl##.elementor-location-popup
 biflatie.nl##.elementor-popup-modal
 radiocontinu.nl##.eskimo-carousel-container
 noordkopcentraal.nl##.ewic-slider-pro-widget
+musicmeter.nl##.external
 heracles.nl##.fixed-ads
 ml5.nl##.fl-module-uabb-image-carousel
 heracles.nl##.footer-blocks
