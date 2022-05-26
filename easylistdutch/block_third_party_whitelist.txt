@@ -1,3 +1,4 @@
+@@||advertising-module.api.dpgmedia.cloud/video/$xmlhttprequest,domain=sportnieuws.nl
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=radioluisteren.fm
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=radioluisteren.fm
 @@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
