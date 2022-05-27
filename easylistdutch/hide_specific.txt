@@ -233,6 +233,7 @@ ewmagazine.nl##.banner-leaderboard
 marktplaats.nl##.banner-row
 maarkelsnieuws.nl##.banner-secondary-sidebar
 nnieuws.be##.banner-silver
+radioviainternet.be##.banner-size-leaderbord
 speeleiland.nl##.banner-sky
 dolcevia.com##.banner-style
 maarkelsnieuws.nl##.banner-widget
