@@ -97,6 +97,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
+||mandelnieuws.be^*/Sponsors/
 ||mannennieuws.nl/wp-content/uploads/*-banner.
 ||meerdangewenst.nl^*/sponsors/
 ||metalfan.nl/banners/
