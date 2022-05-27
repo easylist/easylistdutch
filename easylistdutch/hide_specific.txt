@@ -439,6 +439,7 @@ baanwacht.nl##.shailan_banner_widget
 wijlimburg.nl##.sidebar-partners
 fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_top
+radiobingo.be##.single-partners
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
