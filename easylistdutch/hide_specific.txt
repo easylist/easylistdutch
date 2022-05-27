@@ -427,6 +427,7 @@ girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 simone.nl##.qt-sponsor
+rbsradio.be##.qt-sponsors
 wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
