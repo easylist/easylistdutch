@@ -47,7 +47,7 @@ grandprixradio.nl###custom_html-10
 cryptosjop.nl,grandprixradio.nl###custom_html-13
 grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
-omroepeemsdelta.nl###custom_html-2
+omroepeemsdelta.nl,wereldreizigers.nl###custom_html-2
 arrowcaz.nl,messianieuws.nl###custom_html-3
 historiek.net###custom_html-38
 messianieuws.nl###custom_html-4
