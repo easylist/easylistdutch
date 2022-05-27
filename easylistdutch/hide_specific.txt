@@ -276,6 +276,7 @@ bnr.nl##.branded
 classic.nl##.brievenbus
 xgn.nl##.bs
 tzum.info##.bzrwfrm
+wradio.be##.c-advertiser-logos
 tijd.be##.c-articleteaser--sponsored
 flaironline.nl##.c-commerical_banner
 ngf.nl##.c-footer-sponsors
