@@ -635,6 +635,7 @@ radiocaramba.nl##table[width="120"][height="600"]
 ! Advanced element hiding rules for Adblock Plus
 autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"])
 businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Beleggen))
+fcupdate.nl#?#p:-abp-has(a[href^="https://fcupdate.nl/jacks?"])
 geenstijl.nl#?#.article.row.no-image:-abp-has(.row.compost-warn:-abp-contains(- ingezonden mededeling -))
 gezondheidsnet.nl#?#.block-views:-abp-has(.view-gnet_gesponsorde_koppeling-display-block)
 hardware.info#?#:-abp-properties(content: "Advertentie";)
