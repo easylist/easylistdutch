@@ -633,6 +633,7 @@ basketballbelgium.be##img[width="970"][height="250"]
 landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px solid; width: 100%; margin-bottom: 10px;"]
 radiocaramba.nl##table[width="120"][height="600"]
 ! Advanced element hiding rules for Adblock Plus
+feijenoordnieuws.nl##.cv-table-left > a:not([target="_blank"]):not([rel="nofollow"]):not(a[href^="https://feijenoordnieuws.nl/"])
 autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"])
 businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Beleggen))
 fcupdate.nl#?#p:-abp-has(a[href^="https://fcupdate.nl/jacks?"])
