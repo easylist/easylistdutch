@@ -116,6 +116,7 @@ sexpower.nl###pre-footer-banners
 tpo.nl###r89-desktop-halfpage-home
 tpo.nl###r89-desktop-middle-home
 tpo.nl###r89-desktop-rectangle-home
+skoften.net###r89-desktop-takeover-1-wrapper
 tpo.nl###r89-desktop-top-home
 tpo.nl###r89-mobile-bottom-home
 tpo.nl###r89-mobile-middle-home
