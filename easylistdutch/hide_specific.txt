@@ -425,6 +425,7 @@ synoniemen.net##.promoblok
 skoften.net##.promoted
 skoften.net##.promoted-entry-in-content
 oneworld.nl##.promotion-block
+guidinc.nl##.promotion_link
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
