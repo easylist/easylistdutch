@@ -397,6 +397,7 @@ marktplaats.nl##.mp-adsense-header
 financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner
 edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
+qassa.nl##.muurpapier
 schie.nu##.my-5
 iex.nl##.nativeblock
 iex.nl##.network:nth-of-type(2)
