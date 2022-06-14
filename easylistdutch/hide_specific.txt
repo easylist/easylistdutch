@@ -202,7 +202,7 @@ bruzz.be,omroepflevoland.nl,pu.nl,sportuitslagen.org,trendalert.nl##.ad-containe
 voetbal.com##.adbox
 sozio.nl##.adchannel
 nieuwsmotor.nl##.add-background
-voetbalvandaag.be##.adds
+vlaamskijken.nl,voetbalvandaag.be##.adds
 westerwoldeactueel.nl##.adr-wrapper
 cinenews.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl,wegdamnieuws.nl##.ads
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal
@@ -404,6 +404,7 @@ iex.nl##.nativeblock
 iex.nl##.network:nth-of-type(2)
 nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
+vlaamskijken.nl##.order-book
 hardware.info##.overview-item--success
 classicstogo.nl##.owl-carousel
 ajax.nl##.page-footer__partners-block
