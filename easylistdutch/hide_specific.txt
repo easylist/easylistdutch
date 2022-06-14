@@ -276,6 +276,7 @@ autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
 xgn.nl##.bs
+mijnserie.nl##.buyThis
 tzum.info##.bzrwfrm
 wradio.be##.c-advertiser-logos
 tijd.be##.c-articleteaser--sponsored
