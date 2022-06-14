@@ -472,7 +472,7 @@ computable.be##.sponsorartikelen
 amsterdamtigers.com##.sponsorbanner
 nevobo.nl##.sponsorbar
 businessinsider.nl,computable.nl##.sponsored
-az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,trappers.nl,volleybelgium.be##.sponsors
+az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,mijnserie.nl,nec-nijmegen.nl,trappers.nl,volleybelgium.be##.sponsors
 fleet-mobility.nl##.spotlight
 atv.be,robtv.be,tvl.be,tvoost.be##.squareWrap
 nos.nl##.ster-banner
