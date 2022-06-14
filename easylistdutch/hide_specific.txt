@@ -435,6 +435,8 @@ europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 simone.nl##.qt-sponsor
 rbsradio.be##.qt-sponsors
+tvblik.nl##.r89-desktop-outstream
+tvblik.nl##.r89-desktop-rectangle-atf
 wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
