@@ -543,6 +543,7 @@ spreekbuis.nl##.widget_spreekbuis_partners
 wielerflits.be,wielerflits.nl##.wielerflits_ros_bravo_rectangle-halfpage
 telegraaf.nl##.withBanners
 indebuurt.nl##.woty-banner
+streamwijzer.nl##.wp-block-buttons
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 regionoordkop.nl##[id^="regio-"]
