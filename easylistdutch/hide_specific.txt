@@ -136,6 +136,11 @@ top40.nl###sky3
 top40.nl###sky4
 geelfm.be###slider
 jammfm.nl###slider_32982_slide01
+dartfreakz.nl###soliloquy-container-326831
+dartfreakz.nl###soliloquy-container-326835
+dartfreakz.nl###soliloquy-container-334175
+dartfreakz.nl###soliloquy-container-334186
+dartfreakz.nl###soliloquy-container-334192
 sciencelink.net###sponsored-content_280
 zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl,goldfm.be###sponsors-carousel
@@ -194,7 +199,7 @@ buzzbie.nl##.TS_Banner_Spot
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
-thehike.nl##.a-single
+dartfreakz.nl,thehike.nl##.a-single
 rtveen.nl##.aas_zone
 autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,tellows.nl,tradeidee.nl,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,wijlimburg.nl,xgn.nl##.ad
 filmtotaal.nl##.ad-centering
@@ -341,7 +346,7 @@ uecl-voetbal.nl,uel-voetbal.nl##.footerderden
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
 unitednews.sr##.fullwidthbanner-container
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,regioinbedrijf.nl,shespot.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,despirituelewereld.be,dewereldmorgen.be,regioinbedrijf.nl,shespot.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
@@ -515,6 +520,7 @@ nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.us_custom_7370a357
 beursgorilla.nl##.ut--rectangle
 gaynews.nl##.va500
+dartfreakz.nl##.vc_btn3
 linuxmag.nl##.vc_custom_1589883706945
 linuxmag.nl##.vc_custom_1590576060705
 jammfm.nl##.vc_custom_1597392476135
@@ -621,8 +627,10 @@ oisterwijknieuws.nl##img[alt="banner"]
 camping-frankrijk.nl##img[style*="234px; height: 60px"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 crimesite.nl##img[width="120"][height="240"]
+dartfreakz.nl##img[width="120"][height="600"]
 gratis.nl##img[width="160"][height="600"]
 prewarcar.nl##img[width="160"][height="92"]
+dartfreakz.nl##img[width="250"][height="250"]
 creditexpo.nl,dagbladdewest.com,dagelijksestandaard.nl,fiets.nl,luister.nl,ninefornews.nl,omroeprsh.nl,ucl-voetbal.nl##img[width="300"]
 regio-voetbal.nl##img[width="300"][height="100"]
 advocatie.nl,goedkoopstekeukensduitsland.nl,lflmagazine.nl,mannennieuws.nl,streamwijzer.be,teqnation.com,thatsgaming.nl,yourlittleblackbook.me##img[width="300"][height="250"]
