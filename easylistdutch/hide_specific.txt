@@ -315,8 +315,11 @@ turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 biflatie.nl##.elementor-element-3f47075
+dartsactueel.nl##.elementor-element-4a0fad5
 domstadradio.nl##.elementor-element-a6b9134
+dartsactueel.nl##.elementor-element-b29a928
 radio182.nl##.elementor-element-bf3ae4f
+dartsactueel.nl##.elementor-element-cda7c32
 mr-online.nl##.elementor-element-da14229
 biflatie.nl##.elementor-location-popup
 biflatie.nl##.elementor-popup-modal
