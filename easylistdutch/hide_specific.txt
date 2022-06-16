@@ -446,6 +446,7 @@ zeelandnet.nl##.row--bnr-between
 gamer.nl##.rs-banner
 racesport.nl##.rs_sponsorbanners_widget
 oisterwijknieuws.nl##.sam-container
+androidworld.nl##.sda
 scholieren.com##.searchvertorial
 ewmagazine.nl,fotografie.nl##.section-partners
 uitzendinggemist.net##.serie_info_adbox
