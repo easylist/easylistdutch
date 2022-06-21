@@ -533,6 +533,7 @@ rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
 osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
+tweakers.net##.widebnr
 basketballbelgium.be##.widget-aoclubs-sponsors
 handbalstartpunt.nl##.widget-banner
 onderwijsland.com##.widget-partners
