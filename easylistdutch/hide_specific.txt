@@ -85,7 +85,7 @@ made-in.be###leaderboard_row
 autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 autowereld.nl###mainbanner
-messianieuws.nl###media_image-10
+messianieuws.nl,palnws.be###media_image-10
 spreekbuis.nl###media_image-11
 palnws.be###media_image-12
 bol-an.nl###media_image-13
