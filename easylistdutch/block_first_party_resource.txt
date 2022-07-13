@@ -17,6 +17,7 @@
 ||bol-an.nl/wp-content/uploads/*/Adv_
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/uploads/banners/
+||cdn-webcam-harlingen.nl/adv/
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||christelijknieuws.nl^*/banner/
