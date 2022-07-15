@@ -268,6 +268,7 @@ bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
 gamer.nl,rtlnieuws.nl##.billboard
 iex.nl##.billboardwrap
+iex.nl##.billboardwrapdown
 cryptosjop.nl##.bitvavo-widget
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors--psv
@@ -442,11 +443,13 @@ guidinc.nl##.promotion_link
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
+iex.nl##.publisher-sh-spot
 simone.nl##.qt-sponsor
 rbsradio.be##.qt-sponsors
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
 wasmachines.nl##.rectangle
+iex.nl##.rectanglemid
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
@@ -492,6 +495,7 @@ atv.be,robtv.be,tvl.be,tvoost.be##.squareWrap
 nos.nl##.ster-banner
 ninefornews.nl##.stream-item
 despirituelewereld.be##.stream-item-widget
+iex.nl##.strossle-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
 koken.vtm.be##.taxonomy-dedicated-header
