@@ -293,6 +293,7 @@ financialinvestigator.nl##.c-newsList__story--partnernieuws
 ditjesendatjes.nl##.c-partners
 farmaline.be##.c-sidebar-banner-wrapper
 knltb.nl,tennis.nl##.c-site-footer__partners
+lekkercryptisch.nl##.c-sponsoredBy
 golf.nl,qmusic.nl##.c-sponsors
 binnenlandsbestuur.nl##.c-teaser--partner
 volleybal.nl##.card-banner
@@ -418,6 +419,7 @@ tijd.be##.o-hpgrid__row-sponsoredcombo
 vlaamskijken.nl##.order-book
 hardware.info##.overview-item--success
 classicstogo.nl##.owl-carousel
+lekkercryptisch.nl##.p-footer__randomPartner
 ajax.nl##.page-footer__partners-block
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
