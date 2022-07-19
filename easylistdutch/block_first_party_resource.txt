@@ -100,6 +100,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||mandelnieuws.be^*/Sponsors/
 ||mannennieuws.nl/wp-content/uploads/*-banner.
+||marktplaats.nl/*/api/complementary-listings?
 ||meerdangewenst.nl^*/sponsors/
 ||metalfan.nl/banners/
 ||midvliet.nl/images/advertenties-
