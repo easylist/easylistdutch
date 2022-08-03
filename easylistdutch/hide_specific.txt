@@ -326,8 +326,8 @@ biflatie.nl##.elementor-element-3f47075
 dartsactueel.nl##.elementor-element-4a0fad5
 domstadradio.nl##.elementor-element-a6b9134
 dartsactueel.nl##.elementor-element-b29a928
-radio182.nl##.elementor-element-bf3ae4f
 mr-online.nl##.elementor-element-b8e990e
+radio182.nl##.elementor-element-bf3ae4f
 dartsactueel.nl##.elementor-element-cda7c32
 mr-online.nl##.elementor-element-da14229
 biflatie.nl##.elementor-location-popup
@@ -480,6 +480,7 @@ infinance.nl##.slickcarousel
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 hyc.be,maaslandradio.nl##.slides
+funnygames.nl##.slot-container
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 spidersolitairespelen.nl##.spel_b1
