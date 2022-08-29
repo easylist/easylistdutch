@@ -675,6 +675,7 @@ linda.nl#?#.article-row_article:-abp-has(.article-row_category.category-label_la
 mnm.be#?#.grid-item.grid-item-pebble:-abp-has(#pebble-label:-abp-contains(Advertentie))
 nieuwslog.nl#?#.wp-block-genesis-blocks-gb-columns:-abp-has(a[href*="/go/www.bet365.nl/"])
 nieuwsopbeeld.nl#?#.td_module_wrap:-abp-has(.td-post-category:-abp-contains(Gesponsord))
+rtlnieuws.nl#?#.autoscalable-block-wrapper:-abp-has(.entity-block-title:-abp-contains(Van onze partners))
 srnieuws.com#?#.mb-10.p-10.card-view:-abp-has(a[target="_blank"][rel="noopener"])
 streamwijzer.be#?#.wp-block-group__inner-container:-abp-has(a[rel="noreferrer noopener"][target="_blank"])
 tijd.be#?#.o-hpgrid__row-tijdconnect:-abp-has(h2:-abp-contains(Gesponsorde inhoud))
