@@ -417,7 +417,7 @@ iex.nl##.network:nth-of-type(2)
 nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
 vlaamskijken.nl##.order-book
-autoscout24.nl##.osa-as24-placeholder
+autoscout24.be,autoscout24.nl##.osa-as24-placeholder
 hardware.info##.overview-item--success
 classicstogo.nl##.owl-carousel
 lekkercryptisch.nl##.p-footer__randomPartner
