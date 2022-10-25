@@ -427,7 +427,7 @@ atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
 qmusic.nl##.partner
 sc-heerenveen.nl##.partner-grid
 sc-heerenveen.nl##.partnerlink
-clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be##.partners
+clubbrugge.be,feyenoord.nl,ftm.nl,royalantwerpfc.be,voetbalindebollenstreek.nl##.partners
 golf.be##.partners-holder
 weespernieuws.nl##.pbph
 denachtvlinders.nl##.plek-boven-artikel
