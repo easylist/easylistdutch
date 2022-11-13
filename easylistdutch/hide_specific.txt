@@ -356,7 +356,7 @@ radiovisie.eu##.gmollik
 srherald.com##.gsrhera
 ninefornews.nl##.gyehnsh
 noordkopcentraal.nl##.headbanner
-televizier.nl,tvblik.nl##.header-banner
+televizier.nl,tvblik.nl,voetbalnieuws.be##.header-banner
 hardware.info##.header-navigation__truelogo
 schaatsen.nl##.header-partners-logo
 wos.nl##.header-right
