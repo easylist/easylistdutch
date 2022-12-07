@@ -185,6 +185,7 @@ marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
 guruwatch.nl##.Billboard
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
+telegraaf.nl##.ComponentRotation
 iex.nl##.ContentPartner
 guruwatch.nl##.LargeRectangle
 iexgeld.nl##.LeaderboardContainer
