@@ -405,6 +405,7 @@ mediacourant.nl##.mc-adv
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
 wegdamnieuws.nl##.mk-sponsorlink
+wordfeudwoorden.nl##.mobblue
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-Listing--cas
 marktplaats.nl##.mp-Listings__admarktTitle
