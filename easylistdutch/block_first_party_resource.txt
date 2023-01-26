@@ -279,6 +279,7 @@
 ||webcamvlieland.nl/media/banners/
 ||webcamvlieland.nl/media/banners2/
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
+||wieringernieuws.nl/gfx/ads/
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
