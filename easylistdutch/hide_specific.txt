@@ -223,7 +223,7 @@ juf-milou.nl##.adverteerdersblok
 autoweek.nl##.advertise
 1twente.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,kieskeurig.nl,tvgids.tv,zijaanzij.nl##.advertisement
 goodbye.be,sporza.be##.advertising
-voorburgsdagblad.nl##.advrow
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.advrow
 wielerflits.be,wielerflits.nl##.affiliate_links
 gfcnieuws.com,historiek.net##.ai-viewport-1
 rtvkrimpenerwaard.nl##.art-positioncontrol
@@ -317,7 +317,7 @@ voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 voetbaluitslagen.com##.cta__toplist
 kekmama.nl##.cts-row-wrapper
-voorburgsdagblad.nl##.ddbad_wrapper
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
 radionl.fm##.desktop_mobile
 touretappe.nl##.desktopad
 flashscore.nl##.detailLeaderboard
