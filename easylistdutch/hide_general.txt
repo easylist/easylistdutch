@@ -5,7 +5,6 @@
 ##.advertentie-2-container
 ##.advertentie_226
 ##.advertentie_links
-##.advrow
 ##.content-rechts-ad
 ##.gamereel_featured-ad
 ##.gesponsord_blokje
