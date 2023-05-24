@@ -477,6 +477,7 @@ racesport.nl##.rs_sponsorbanners_widget
 oisterwijknieuws.nl##.sam-container
 androidworld.nl,dagelijksestandaard.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 scholieren.com##.searchvertorial
+deondernemer.nl##.section-branded
 ewmagazine.nl,fotografie.nl##.section-partners
 uitzendinggemist.net##.serie_info_adbox
 baanwacht.nl##.shailan_banner_widget
