@@ -448,6 +448,7 @@ agraaf.nl##.partners-carousel
 golf.be##.partners-holder
 weespernieuws.nl##.pbph
 denachtvlinders.nl##.plek-boven-artikel
+watersport-tv.nl##.pos16
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 marktplaats.nl##.premium-content
