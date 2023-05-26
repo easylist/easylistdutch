@@ -233,6 +233,7 @@ motocrossplanet.nl##.artikel-banners
 zeelandnet.nl##.as__bottom-banner
 nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
+yachtfocus.com##.av
 salvora.nl##.avia-content-slider1
 hookers.nl##.axd-container
 stadszaken.nl##.b-side
