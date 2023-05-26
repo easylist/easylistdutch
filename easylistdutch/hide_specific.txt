@@ -244,6 +244,7 @@ feyenoord.nl##.banner-carousel
 deliciousmagazine.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
 prewarcar.nl##.banner-holder
+yachtfocus.com##.banner-item
 ewmagazine.nl##.banner-leaderboard
 freeones.nl##.banner-placeholder
 marktplaats.nl##.banner-row
