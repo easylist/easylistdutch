@@ -522,7 +522,7 @@ iex.nl##.strossle-widget
 dagbladdewest.com##.swiper-wrapper
 iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
-hoekschnieuws.nl,katholiek.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
+boottesten.nl,hoekschnieuws.nl,katholiek.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
