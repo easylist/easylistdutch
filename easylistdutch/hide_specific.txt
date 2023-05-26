@@ -405,6 +405,7 @@ atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
 roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 businessinsider.nl##.ll_partnerexpert
+motorboot.com##.logo
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 greenkeeper.nl##.logoblok
