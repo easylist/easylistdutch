@@ -467,8 +467,11 @@ gocar.be##.pub-leaderboard-top
 iex.nl##.publisher-sh-spot
 simone.nl##.qt-sponsor
 rbsradio.be##.qt-sponsors
+looopings.nl##.r89-desktop-InContent
+looopings.nl##.r89-desktop-leaderboard-btf
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
+looopings.nl##.r89-outstream-video
 wasmachines.nl##.rectangle
 iex.nl##.rectanglemid
 iex.nl##.rectanglewrap
