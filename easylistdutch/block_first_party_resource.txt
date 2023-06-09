@@ -121,6 +121,7 @@
 ||omroeppenm.nl^*/banner/
 ||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
+||onlinecorrectie.nl/cnc/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/
