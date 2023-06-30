@@ -280,6 +280,7 @@
 ||webcamschiermonnikoog.nl/media/banners2/
 ||webcamvlieland.nl/media/banners/
 ||webcamvlieland.nl/media/banners2/
+||webstick.nl/images/images-ads/
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
 ||wieringernieuws.nl/gfx/ads/
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
