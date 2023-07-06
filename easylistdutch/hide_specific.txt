@@ -186,13 +186,13 @@ telegraaf.nl##.ArticlePageWrapper__banner
 marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
 guruwatch.nl##.Billboard
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 telegraaf.nl##.ComponentRotation
 iex.nl##.ContentPartner
 guruwatch.nl##.LargeRectangle
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 telegraaf.nl##.SectionPage__bannerWrapper
 onsoranje.nl##.SponsorBar
 knvb.nl##.SponsorBar-list
