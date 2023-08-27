@@ -694,6 +694,7 @@ landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px so
 radiocaramba.nl##table[width="120"][height="600"]
 ! Advanced element hiding rules for Adblock Plus
 feijenoordnieuws.nl##.cv-table-left > a:not([target="_blank"]):not([rel="nofollow"]):not(a[href^="https://feijenoordnieuws.nl/"])
+2dehands.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-priority:-abp-contains(Topadvertentie))
 ah.nl#?#.product-card-portrait_root__ZiRpZ:-abp-has(.promotion_root__pAAlu)
 autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"])
 buienradar.nl#?#.linklist:-abp-has(h1:-abp-contains(Lekker Dichtbij Deals))
