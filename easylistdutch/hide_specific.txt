@@ -49,7 +49,7 @@ topvolleybelgium.be###contacts3-5
 almere-nieuws.nl###containerx
 looopings.nl###contentBillboard
 grandprixradio.nl###custom_html-10
-cryptosjop.nl,grandprixradio.nl###custom_html-13
+cryptosjop.nl,ecobioliving.eu,grandprixradio.nl###custom_html-13
 grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
 minimumloon.nl,omroepeemsdelta.nl,wereldreizigers.nl###custom_html-2
