@@ -11,6 +11,7 @@
 ##.gesponsord_blokje_wrap
 ##.hoofdAd2
 ##.massarius-dfp-unit
+##a[href^="https://partner.bol.com/click/"]
 ##a[href^="https://xltube.nl/click/"]
 !
 ###advertentieblokjeid
