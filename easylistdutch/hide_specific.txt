@@ -3,6 +3,7 @@ immo.vlan.be###TopCompareBox
 hoekschnieuws.nl###\36 050c52fcf1d8-2
 gaynews.nl###abri
 gaynews.nl###abri1
+menselijklichaam.nl###ad1
 filmtotaal.nl###adf-autonative
 filmtotaal.nl###adf-autonative-2
 filmtotaal.nl,lonelyplanet.nl###adf-billboard
