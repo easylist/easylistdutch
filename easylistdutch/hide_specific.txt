@@ -548,6 +548,7 @@ topgear.nl##.theme-advertorial
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 willem-ii.nl##.top-bar-logos
+wijwedden.net##.top-bookmaker-widget
 live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
