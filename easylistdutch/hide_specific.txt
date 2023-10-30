@@ -321,6 +321,7 @@ motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 rd.nl##.codalt-container
 juf-milou.nl##.content_blok_reclame
+iex.nl##.contentwidget
 weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 tameteo.nl##.creatividad
 veronicasuperguide.nl##.css-12wfacz
