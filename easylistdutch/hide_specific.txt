@@ -183,6 +183,7 @@ culturescope.nl###widget_sp_image-4
 broadcastmagazine.nl##.Advertisement
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
+telegraaf.nl##.Banner
 2dehands.be,marktplaats.nl##.BannerBottom-root
 marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
