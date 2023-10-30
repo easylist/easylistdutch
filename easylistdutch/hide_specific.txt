@@ -291,6 +291,7 @@ feyenoordpings.nl,twentefans.nl##.bn__wrapper
 podcastluisteren.nl,zeelandnet.nl##.bnr
 bodylifebenelux.nl##.bnrrow
 tpo.nl##.bol_pml_box
+wijwedden.net##.bookies
 autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
