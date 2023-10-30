@@ -215,6 +215,7 @@ voetbal.com##.adbox
 sozio.nl##.adchannel
 nieuwsmotor.nl##.add-background
 vlaamskijken.nl,voetbalvandaag.be##.adds
+beurs.nl##.addslot
 westerwoldeactueel.nl##.adr-wrapper
 cinenews.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl,wegdamnieuws.nl##.ads
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal
@@ -607,6 +608,7 @@ indebuurt.nl##.woty-banner
 streamwijzer.nl##.wp-block-buttons
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
+beurs.nl##.wrapper--topbanner
 indeleiderstrui.nl##[data-ub-carousel]
 regionoordkop.nl##[id^="regio-"]
 geenstijl.nl##a[data-ga-event^="link-tip"]
