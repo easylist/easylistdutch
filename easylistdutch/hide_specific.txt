@@ -563,6 +563,7 @@ meerdangewenst.nl##.tg-site-footer-section-1
 topgear.nl##.theme-advertorial
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
+startpagina.nl##.top-banner
 willem-ii.nl##.top-bar-logos
 wijwedden.net##.top-bookmaker-widget
 live-voetbal.com##.top-match
