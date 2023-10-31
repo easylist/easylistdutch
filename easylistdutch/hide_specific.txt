@@ -618,6 +618,7 @@ streamwijzer.nl##.wp-block-buttons
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
 beurs.nl##.wrapper--topbanner
+voetbalprimeur.nl##[class^="Ad_"]
 indeleiderstrui.nl##[data-ub-carousel]
 regionoordkop.nl##[id^="regio-"]
 geenstijl.nl##a[data-ga-event^="link-tip"]
