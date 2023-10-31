@@ -318,6 +318,8 @@ knltb.nl,tennis.nl##.c-site-footer__partners
 lekkercryptisch.nl##.c-sponsoredBy
 golf.nl,qmusic.nl##.c-sponsors
 binnenlandsbestuur.nl##.c-teaser--partner
+hockey.nl##.card--leaderboard
+hockey.nl##.card--partners
 volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
 rkcwaalwijk.nl,webcam-harlingen.nl,webcam-maastricht.nl##.carousel
