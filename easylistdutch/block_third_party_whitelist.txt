@@ -9,6 +9,7 @@
 @@||improvedigital.com/pbw/headerlift.min.js$domain=spelletjes.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
 @@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
+@@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
 @@||s0.2mdn.net/instream/html5/ima3.js$script,domain=autoblog.bbvms.com
 @@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
