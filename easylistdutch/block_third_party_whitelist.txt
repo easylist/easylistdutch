@@ -1,4 +1,4 @@
-@@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
+@@||2mdn.net/instream/html5/ima3.js$script,domain=autoblog.bbvms.com|omroepbrabant.nl
 @@||advertising-module.api.dpgmedia.cloud/video/$xmlhttprequest,domain=sportnieuws.nl
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=radioluisteren.fm
 @@||cdn.bluebillywig.com/scripts/prebid/*/bluebillywig_pbjs.js$script,domain=autoblog.bbvms.com
@@ -10,7 +10,6 @@
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=radioluisteren.fm
 @@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
-@@||s0.2mdn.net/instream/html5/ima3.js$script,domain=autoblog.bbvms.com
 @@||search.spotxchange.com/js/spotx.js$script,domain=radioluisteren.fm
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
