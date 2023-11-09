@@ -1,5 +1,6 @@
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||adcdn.ster.nl^$third-party
+||ads.nextday.media^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising-module.api.dpgmedia.cloud^
 ||bnpparibasmarkets.nl/widget/$third-party
