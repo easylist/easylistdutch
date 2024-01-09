@@ -12,6 +12,7 @@
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||feenstra-internetservices.nl/?_dnid=$third-party
 ||fx.nl/_ext/widget/$third-party
+||go2.go2cloud.org^
 ||infotalia.com/worktalia_promo_
 ||jobat.be/extra/trackuityhn/ticker_new.html$third-party
 ||mmcdn.nl/tags/
@@ -29,6 +30,7 @@
 ||strafrechtadvocaten.nl/media/banner/$third-party
 ||swpportal.com/upload/squarebanners/
 ||t.bazarow.com^$third-party
+||traffic.12flirt.com^
 ||viralize.tv/display/$domain=startpagina.nl
 ||widget.vpnnederland.nl^$domain=nzbserver.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
