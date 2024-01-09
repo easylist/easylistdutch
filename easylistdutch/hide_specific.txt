@@ -396,8 +396,8 @@ zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
 srherald.com##.gsrhera
 ninefornews.nl##.gyehnsh
-sextube.nl##.happy-player-beside
-sextube.nl##.happy-section
+porntube.nl,sextube.nl##.happy-player-beside
+porntube.nl,sextube.nl##.happy-section
 noordkopcentraal.nl##.headbanner
 televizier.nl,tvblik.nl,voetbalnieuws.be##.header-banner
 hardware.info##.header-navigation__truelogo
