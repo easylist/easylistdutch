@@ -6,6 +6,7 @@
 ||affiliateprogramma.eu^$third-party
 ||believe-the-hype.be^$third-party
 ||botndm.nl^$third-party
+||cashpartners.eu^$third-party
 ||crnsgngrpj.nl^
 ||dntblckmpls.nl^
 ||ds1.nl^$third-party
