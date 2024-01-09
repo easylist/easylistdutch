@@ -268,6 +268,7 @@ dolcevia.com##.banner-style
 maarkelsnieuws.nl##.banner-widget
 deblueskrant.nl,nieuweoogst.nl##.banner-wrap
 autowereld.nl,sexjobs.nl##.banner-wrapper
+opwindend.net##.banner468x60
 motocrossplanet.nl##.banner540
 rtvdordrecht.nl##.bannerContainer
 iexprofs.nl##.banner__article

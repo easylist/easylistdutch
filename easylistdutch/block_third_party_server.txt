@@ -19,6 +19,7 @@
 ||optoutadvertising.com^$third-party
 ||sponsorkliks.com^$third-party
 ||static-dscn.net^$third-party
+||tools-affil2.com^$third-party
 ||tools.islive.nl^$third-party
 ||travelads.be^$third-party
 ||viadata.store^
