@@ -182,6 +182,7 @@ escort46.nl###top_image_div
 hollandskroonnieuws.nl,radio-minerva.be,wieringernieuws.nl###topbanner
 voetbal-vandaag.nl###topbox
 hotradiohits.nl###tpl_banners
+gratissextube.be###tracking-url
 tweakers.net###true
 omroepalmere.nl###widget_carousel_slider-3
 culturescope.nl###widget_sp_image-2
