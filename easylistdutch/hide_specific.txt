@@ -383,6 +383,7 @@ webcam-aalsmeer.nl,webcam-airport.nl,webcam-binnenvaart.nl,webcam-blokzijl.nl,we
 bdsm-vrienden.nl##.floatLeft.marginTop.resizeImages
 heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
+bekijkporno.nl##.footer-margin
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
 anoniem-surfen.nl##.footer-widget-1
@@ -549,7 +550,7 @@ live-voetbal.com##.special-offer
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 niburu.co##.sponsers
-sc-heerenveen.nl##.sponsor
+bekijkporno.nl,sc-heerenveen.nl##.sponsor
 omroephouten.nl##.sponsor-carousel
 sc-heerenveen.nl##.sponsor-grid
 radio0511.com##.sponsorImg
@@ -566,6 +567,7 @@ despirituelewereld.be##.stream-item-widget
 iex.nl##.strossle-widget
 123video.nl##.stunt-wide
 dagbladdewest.com##.swiper-wrapper
+bekijkporno.nl##.table
 iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
 boottesten.nl,hoekschnieuws.nl,katholiek.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
