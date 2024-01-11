@@ -511,6 +511,7 @@ looopings.nl##.r89-desktop-leaderboard-btf
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
 looopings.nl##.r89-outstream-video
+belegger.nl,debeurs.nl,eurobench.com##.recommendbanner
 wasmachines.nl##.rectangle
 iex.nl##.rectanglemid
 iex.nl##.rectanglewrap
