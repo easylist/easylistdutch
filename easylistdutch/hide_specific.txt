@@ -751,6 +751,7 @@ indebuurt.nl##.list-item.list-item--aagje:has(.list-item__sponsor)
 welingelichtekringen.nl##.post:has(a[href*="/partnerposting/"])
 ah.nl##.product-card-portrait_root__ZiRpZ:has(.promotion_root__pAAlu)
 tvgids.nl##.square-item:has( > .banner)
+krefel.be#?#div[class^="Flex-styled__StyledFlex-"]:has(h3:-abp-contains(Gesponsorde producten))
 ! Advanced element hiding rules for Adblock Plus
 feijenoordnieuws.nl##.cv-table-left > a:not([target="_blank"]):not([rel="nofollow"]):not(a[href^="https://feijenoordnieuws.nl/"])
 2dehands.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-priority:-abp-contains(Topadvertentie))
