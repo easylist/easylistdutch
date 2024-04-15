@@ -644,6 +644,7 @@ beurs.nl##.wrapper--topbanner
 voetbalprimeur.nl##[class^="Ad_"]
 bright.nl##[class^="Ad_ad_"]
 indeleiderstrui.nl##[data-ub-carousel]
+delhaize.be##[id*="sponsored_products"]
 regionoordkop.nl##[id^="regio-"]
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[data-type="advertorial"]
