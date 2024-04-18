@@ -492,6 +492,7 @@ twentefans.nl##.powered-by-footer
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 marktplaats.nl##.premium-content
+blokker.nl##.product-tile__column--criteo
 fhm500.nl##.profileh_tabac
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 openingsurengids.be##.promSB
