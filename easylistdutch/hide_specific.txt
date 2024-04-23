@@ -636,7 +636,7 @@ infinance.nl##.widget_links_widget
 daemesenheeren.nl,tiener-sexverhalen.nl##.widget_media_image
 schuttevaer.nl##.widget_minisites
 vlootschouw.nl##.widget_miw_widget_multiple_images
-automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
+automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 rtvideaal.nl##.widget_random_banner_widget
 tubelight.nl##.widget_sp_image-image-link
 123geldzaken.nl##.widget_sponsor
