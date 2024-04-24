@@ -146,6 +146,7 @@
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*_banner-
 ||rd.nl/deliver.js
+||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
 ||retaildetail.be/sites/default/files/banner/
 ||retaildetail.nl/sites/default/files/banner/
 ||rickfm.nl/cwm/fm/userfiles/banner/
