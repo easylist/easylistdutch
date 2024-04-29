@@ -690,6 +690,7 @@ hartvannederland.nl,shownieuws.nl,vandaaginside.nl##div[class*="-bannerTopWrappe
 hartvannederland.nl,shownieuws.nl,vandaaginside.nl##div[class*="-bannerWrapper-"]
 meteovista.be##div[class*="AdWrapper"]
 omroepbrabant.nl##div[class^="ad-"]
+deondernemer.nl##div[class^="adBlock_"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 zoom.nl##div[class^="display-ad_container"]
 klimaatinfo.nl##div[class^="space_"]
