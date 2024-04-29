@@ -257,6 +257,7 @@ afkortingen.nu,agf.nl,bpnieuws.nl,dutchitchannel.nl,executive-people.nl,filmladd
 nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
+sportnieuws.nl##.banner-centered
 deliciousmagazine.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
 prewarcar.nl##.banner-holder
