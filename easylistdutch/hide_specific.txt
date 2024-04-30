@@ -631,7 +631,7 @@ indebuurt.nl##.widget-tabs--partner
 indebuurt.nl##.widget-tabs--partners
 autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
-ecobioliving.eu,tiener-sexverhalen.nl##.widget_custom_html
+ecobioliving.eu,iculture.nl,tiener-sexverhalen.nl##.widget_custom_html
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
