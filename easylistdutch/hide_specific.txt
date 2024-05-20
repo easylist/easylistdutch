@@ -293,6 +293,7 @@ iex.nl,tostrams.nl##.billboardwrap
 tostrams.nl##.billboardwrap-bottom
 iex.nl##.billboardwrapdown
 cryptosjop.nl##.bitvavo-widget
+hagelandactueel.be,leuvenactueel.be##.block-banner-block
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors--psv
 psv.nl##.block-sponsors-desktop
