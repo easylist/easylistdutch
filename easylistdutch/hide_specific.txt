@@ -445,6 +445,7 @@ nieuweoogst.nl##.logolinks-wrapper
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
+want.nl##.mha_container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
