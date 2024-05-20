@@ -12,6 +12,8 @@
 ||autosport.nl/images/banners/
 ||baarsclassicrock.nl/wp-content/uploads/*/banner_
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+||bdsmgirl.nl/banners/
+||bdsmgirl.nl^*/banner/
 ||belgiancycling.be^*/Banners/
 ||belgiancycling.be^*/Logo%27s%20partners/
 ||bloovi.be/frontend/files/banners/
