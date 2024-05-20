@@ -445,6 +445,7 @@ sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 greenkeeper.nl##.logoblok
 nieuweoogst.nl##.logolinks-wrapper
+techpulse.be##.magazine-sidebar-block
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
