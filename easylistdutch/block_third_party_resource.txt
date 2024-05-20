@@ -24,6 +24,7 @@
 ||recreatief.nl/kerstarrangementen.gif
 ||search-result.com^*/klokad2.js
 ||seks.com/img/bnr.gif
+||seksbuddy.nl/img/frontend/banners/
 ||sociaaldigitaal.nl/img/Banner-$third-party
 ||sp.dpgmedia.net^$third-party
 ||stepstone.be/*?event=widgettool.$third-party
