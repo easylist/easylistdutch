@@ -661,6 +661,7 @@ tennisplaza.be##a[href^="https://ds1.nl/"]
 bestetop5.nl,ecobioliving.eu,nailtalk.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
 nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 zeelandnet.nl##a[href^="https://prf.hn/"]
+opwindend.net##a[href^="https://spannendsexcontact.nl/"]
 doorbraak.be##a[href^="https://vnz.be"] > .w-full.object-contain.mb-2
 gids.tv##a[href^="https://www.autodoc.be/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
