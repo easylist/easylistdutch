@@ -279,7 +279,7 @@ iexprofs.nl##.banner__wrap
 iexprofs.nl##.banner__wrapbottom
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
-zwaremetalen.com##.banner_wrapper
+abcsuriname.com,zwaremetalen.com##.banner_wrapper
 abcsuriname.com,antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 puurnaturisme.nl##.banneritem
 gic.nl,kbradio.nl##.banners
@@ -742,10 +742,12 @@ creditexpo.nl,dagbladdewest.com,dagelijksestandaard.nl,fiets.nl,luister.nl,neger
 regio-voetbal.nl##img[width="300"][height="100"]
 advocatie.nl,goedkoopstekeukensduitsland.nl,lflmagazine.nl,mannennieuws.nl,streamwijzer.be,teqnation.com,thatsgaming.nl,yourlittleblackbook.me##img[width="300"][height="250"]
 racexpress.nl##img[width="310"][height="200"]
+abcsuriname.com##img[width="320"]
 vives.nl##img[width="330"][height="520"]
 nauticlink.com##img[width="336"]
 advocatie.nl##img[width="336"][height="280"]
 minimumloon.nl##img[width="350"][height="350"]
+abcsuriname.com##img[width="420"]
 dutchcryptotalk.com##img[width="468"][height="60"]
 climaximaal.nl##img[width="500"]
 streamwijzer.be##img[width="500"][height="500"]
