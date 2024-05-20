@@ -18,6 +18,8 @@
 ||belgiancycling.be^*/Logo%27s%20partners/
 ||bloovi.be/frontend/files/banners/
 ||bodemvondstenwereld.nl/images/banners/
+||boek9.nl/sites/default/files/advertisements/
+||boek9.nl/sites/default/files/rotating-banners/
 ||bol-an.nl/wp-content/uploads/*/Adv_
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/uploads/banners/
