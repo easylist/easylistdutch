@@ -477,6 +477,7 @@ autoreview.nl##.my-12.py-6.relative.border-y.border-slate-300.sm\:flex.sm\:justi
 schie.nu##.my-5
 iex.nl##.nativeblock
 iex.nl##.network:nth-of-type(2)
+partyflock.nl##.nice-thing
 nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
 twentefans.nl##.odd-wrapper
@@ -743,6 +744,8 @@ camping-frankrijk.nl##img[style*="234px; height: 60px"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 crimesite.nl##img[width="120"][height="240"]
 dartfreakz.nl##img[width="120"][height="600"]
+partyflock.nl##img[width="140"]
+partyflock.nl##img[width="160"]
 gratis.nl##img[width="160"][height="600"]
 prewarcar.nl##img[width="160"][height="92"]
 climaximaal.nl##img[width="200"]
