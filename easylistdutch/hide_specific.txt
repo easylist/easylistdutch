@@ -554,7 +554,7 @@ unitednews.sr##.slider-container
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 hyc.be,maaslandradio.nl##.slides
-funnygames.be,funnygames.nl##.slot-container
+funnygames.be,funnygames.nl,spele.be,spele.nl##.slot-container
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 spidersolitairespelen.nl##.spel_b1
