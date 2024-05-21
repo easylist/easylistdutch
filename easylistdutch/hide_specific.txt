@@ -518,7 +518,7 @@ europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 nedporno.com##.publ11s-b0ttom
 iex.nl##.publisher-sh-spot
-simone.nl##.qt-sponsor
+simone.nl,wfm.be##.qt-sponsor
 rbsradio.be##.qt-sponsors
 nedporno.com##.r11ght-pl4yer-169
 belegger.nl,debeurs.nl,eurobench.com##.recommendbanner
