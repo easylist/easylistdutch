@@ -148,6 +148,7 @@
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_
+||radiostadmontfoort.nl/cms/img/ads/
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*_banner-
 ||rd.nl/deliver.js
