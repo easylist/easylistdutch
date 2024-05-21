@@ -550,6 +550,7 @@ proshop.nl##.site-top-banner
 rtlnieuws.nl##.six_articles_with_ad__ad
 geenstijl.nl##.slajeslag
 infinance.nl##.slickcarousel
+unitednews.sr##.slider-container
 omroepwest.nl##.slider-wrapper
 volleyvlaanderen.be##.slider5
 hyc.be,maaslandradio.nl##.slides
