@@ -95,6 +95,7 @@
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
 ||klokradio.nl/wp-content/uploads/*/adv-
+||kranenwebsite.nl/banners/
 ||landenweb.nl/imgBoeking/
 ||linqmedia.nl/cwm/fm/userfiles/banner/
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-

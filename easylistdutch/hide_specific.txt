@@ -25,6 +25,7 @@ autowereld.nl###banner-lister-top
 dwtonline.com###banner1
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
+kranenwebsite.nl###bannerdiv
 a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 historiek.net###before-header
 bol-an.nl###block-10
