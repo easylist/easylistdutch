@@ -273,6 +273,7 @@ maarkelsnieuws.nl##.banner-secondary-sidebar
 nnieuws.be##.banner-silver
 radioviainternet.be##.banner-size-leaderbord
 speeleiland.nl##.banner-sky
+nieuwsuitnijmegen.nl,wijchensnieuws.nl##.banner-slider-item
 dolcevia.com##.banner-style
 maarkelsnieuws.nl##.banner-widget
 deblueskrant.nl,nieuweoogst.nl##.banner-wrap
@@ -675,7 +676,7 @@ focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 emerce.nl##a[href^="https://bit.ly/"]
 playboy.nl##a[href^="https://casinoscout.nl/"]
 tennisplaza.be##a[href^="https://ds1.nl/"]
-bestetop5.nl,ecobioliving.eu,nailtalk.nl,radiozenders.fm,wereldstopcontacten.nl##a[href^="https://partner.bol.com/"]
+bestetop5.nl,ecobioliving.eu,nailtalk.nl,nieuwsuitnijmegen.nl,radiozenders.fm,wereldstopcontacten.nl,wijchensnieuws.nl##a[href^="https://partner.bol.com/"]
 nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 zeelandnet.nl##a[href^="https://prf.hn/"]
 opwindend.net##a[href^="https://spannendsexcontact.nl/"]

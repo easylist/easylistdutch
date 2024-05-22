@@ -122,6 +122,7 @@
 ||niburu.co/images/banners/
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||nieuwsuitnijmegen.nl/gfx/banners/
+||nieuwsuitnijmegen.nl/uploads/banners/
 ||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||nrc.nl/tag/tag.js
@@ -294,6 +295,7 @@
 ||webstick.nl/images/images-ads/
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-nl.jpg
 ||wieringernieuws.nl/gfx/ads/
+||wijchensnieuws.nl/uploads/banners/
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_

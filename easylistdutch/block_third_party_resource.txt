@@ -3,6 +3,7 @@
 ||ads.nextday.media^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising-module.api.dpgmedia.cloud^
+||bannersimages.s-bol.com^$third-party
 ||bnpparibasmarkets.nl/widget/$third-party
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/
