@@ -1,6 +1,6 @@
 immo.vlan.be###ProvidersBox
 immo.vlan.be###TopCompareBox
-autobahn.eu###WB_VIDEO_PLAYER_TARGET
+autobahn.eu,dingenvoorvrouwen.nl,playboy.nl###WB_VIDEO_PLAYER_TARGET
 hoekschnieuws.nl###\36 050c52fcf1d8-2
 gaynews.nl###abri
 gaynews.nl###abri1
@@ -635,7 +635,7 @@ mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
-autobahn.eu##.wb-label
+autobahn.eu,dingenvoorvrouwen.nl,playboy.nl##.wb-label
 osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
 tweakers.net##.widebnr
