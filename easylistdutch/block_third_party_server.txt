@@ -13,6 +13,7 @@
 ||dt51.net^$third-party
 ||dt71.net^$third-party
 ||gratis-neuken.com^$third-party
+||mt67.net^
 ||nojazz.eu^
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
