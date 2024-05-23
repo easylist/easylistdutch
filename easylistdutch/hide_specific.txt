@@ -548,6 +548,7 @@ tvgids.nl##.section-banner
 deondernemer.nl##.section-branded
 ewmagazine.nl,fotografie.nl##.section-partners
 uitzendinggemist.net##.serie_info_adbox
+baanwacht.nl##.shailanOFF_banner_widget
 baanwacht.nl##.shailan_banner_widget
 indeleiderstrui.nl##.shopsuite-widget
 wijlimburg.nl##.sidebar-partners
