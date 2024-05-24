@@ -173,7 +173,7 @@ goedkoopstekeukensduitsland.nl###text-5
 feyenoordreport.nl###text-50
 psvreport.nl###text-57
 psvreport.nl###text-58
-duurzaamnieuws.nl,goedkoopstekeukensduitsland.nl###text-6
+duurzaamnieuws.nl,goedkoopstekeukensduitsland.nl,voetbalnotering.nl###text-6
 voetbalsnafu.nl###text-64
 voetbalsnafu.nl###text-65
 voetbalsnafu.nl###text-66
