@@ -159,6 +159,7 @@
 ||retaildetail.be/sites/default/files/banner/
 ||retaildetail.nl/sites/default/files/banner/
 ||rickfm.nl/cwm/fm/userfiles/banner/
+||rivierenland-radio.nl/banners/
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/
 ||rtveen.nl/wp-content/uploads/*-Banner-
 ||rtveen.nl/wp-content/uploads/*/banner-
