@@ -653,7 +653,8 @@ mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
 infinance.nl##.widget_links_widget
-daemesenheeren.nl,radionova.be,tiener-sexverhalen.nl##.widget_media_image
+daemesenheeren.nl,noordkopcentraal.nl,radionova.be,tiener-sexverhalen.nl##.widget_media_image
+noordkopcentraal.nl##.widget_metaslider_widget
 schuttevaer.nl##.widget_minisites
 vlootschouw.nl##.widget_miw_widget_multiple_images
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
