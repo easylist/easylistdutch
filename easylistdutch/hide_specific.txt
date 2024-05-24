@@ -652,7 +652,7 @@ nieuws.nl##.widget_add_widget
 christelijknieuws.nl,ecobioliving.eu,groningerkrant.nl,iculture.nl,klapjes.nl,tiener-sexverhalen.nl##.widget_custom_html
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
-ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,psvreport.nl,voetbalsnafu.nl##.widget_links
+ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,psvreport.nl,voetbalsnafu.nl##.widget_links
 infinance.nl##.widget_links_widget
 daemesenheeren.nl,noordkopcentraal.nl,radionova.be,tiener-sexverhalen.nl##.widget_media_image
 noordkopcentraal.nl##.widget_metaslider_widget
