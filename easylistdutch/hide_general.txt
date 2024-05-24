@@ -10,6 +10,7 @@
 ##.gesponsord_blokje
 ##.gesponsord_blokje_wrap
 ##.hoofdAd2
+##.kwebler-ad-minimal
 ##.massarius-dfp-unit
 ##a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://mt67.net/"]
