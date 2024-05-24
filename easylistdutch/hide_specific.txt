@@ -547,6 +547,7 @@ halstadcentraal.nl##.respbanners
 zeelandnet.nl##.row--bnr-between
 gamer.nl##.rs-banner
 racesport.nl##.rs_sponsorbanners_widget
+motorblog.nl##.sale
 oisterwijknieuws.nl##.sam-container
 androidworld.nl,dagelijksestandaard.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 scholieren.com##.searchvertorial
