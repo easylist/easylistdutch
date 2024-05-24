@@ -156,6 +156,7 @@ dartfreakz.nl###soliloquy-container-334192
 sciencelink.net###sponsored-content_280
 zwartewaterfm.nl###sponsorenBtmCntr
 easyfm.nl,goldfm.be###sponsors-carousel
+adodenhaag.nl###sponsors-normal
 itwm.nl###tdi_37
 h20.gg,livestreamvandaag.be###text-14
 radiozuidrand.be###text-15
