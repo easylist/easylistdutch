@@ -30,6 +30,7 @@ afkortingen.nu###banner_top
 kranenwebsite.nl###bannerdiv
 a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 historiek.net###before-header
+bierdopje.com###billboards
 bol-an.nl###block-10
 bol-an.nl###block-11
 groningerkrant.nl###block-2
