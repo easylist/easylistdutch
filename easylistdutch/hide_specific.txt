@@ -441,6 +441,8 @@ funda.nl##.home-billboard
 eurogamer.nl##.homepage-billboard-container
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
+autosport.nl##.horizontal
+autosport.nl##.horizontal-logo
 retailtrends.nl##.href-a-b
 racesport.nl##.hthb-notification
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,voetbalkrant.com,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
