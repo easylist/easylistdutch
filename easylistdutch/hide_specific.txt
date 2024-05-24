@@ -595,7 +595,7 @@ dagbladdewest.com##.swiper-wrapper
 bekijkporno.nl##.table
 iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
-boottesten.nl,hoekschnieuws.nl,katholiek.nl,newspower.nu,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,waterkant.net##.td-a-rec
+boottesten.nl,hoekschnieuws.nl,katholiek.nl,newspower.nu,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,transport-online.nl,waterkant.net##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
@@ -650,7 +650,7 @@ indebuurt.nl##.widget-tabs--partner
 indebuurt.nl##.widget-tabs--partners
 autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
-christelijknieuws.nl,ecobioliving.eu,groningerkrant.nl,iculture.nl,klapjes.nl,tiener-sexverhalen.nl##.widget_custom_html
+christelijknieuws.nl,ecobioliving.eu,groningerkrant.nl,iculture.nl,klapjes.nl,tiener-sexverhalen.nl,transport-online.nl##.widget_custom_html
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,psvreport.nl,voetbal4u.com,voetbalsnafu.nl##.widget_links
