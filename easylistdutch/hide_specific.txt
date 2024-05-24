@@ -230,6 +230,7 @@ sozio.nl##.adchannel
 nieuwsmotor.nl##.add-background
 vlaamskijken.nl,voetbalvandaag.be##.adds
 beurs.nl##.addslot
+loemedia.nl##.adlead
 westerwoldeactueel.nl##.adr-wrapper
 cinenews.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl,wegdamnieuws.nl##.ads
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal
