@@ -20,6 +20,7 @@
 ||mmcdn.nl/tags/
 ||ouders.nl/uploads/alt/$domain=viafora.nl
 ||partner.bol.com^$third-party
+||partnerprogramma.bol.com^$third-party
 ||pexi.nl/dpos/widget-$domain=intermediair.nl
 ||pornokartel.nl^$image,third-party
 ||pubble.nl/Content.svc/getAdCollection?
