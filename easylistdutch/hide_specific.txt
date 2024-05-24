@@ -162,7 +162,7 @@ h20.gg,livestreamvandaag.be###text-14
 radiozuidrand.be###text-15
 edelmetaal-info.nl###text-16
 edelmetaal-info.nl,loemedia.nl###text-17
-edelmetaal-info.nl###text-19
+edelmetaal-info.nl,voetbalweddenrss.nl###text-19
 omrekenen.org###text-2
 edelmetaal-info.nl###text-20
 messianieuws.nl###text-24
