@@ -323,6 +323,7 @@ scholieren.com##.blockvertorial
 escortgirls.be,sexguide.nl,topescort.nl##.blogBanners
 feyenoordpings.nl,kantinepraat.nl,twentefans.nl,voetbalverslaafd.nl##.bn__wrapper
 podcastluisteren.nl,zeelandnet.nl##.bnr
+bnr.nl##.bnr-message
 bodylifebenelux.nl##.bnrrow
 tpo.nl##.bol_pml_box
 wijwedden.net##.bookies
