@@ -391,6 +391,7 @@ dartsactueel.nl##.elementor-element-cda7c32
 mr-online.nl##.elementor-element-da14229
 biflatie.nl##.elementor-location-popup
 biflatie.nl##.elementor-popup-modal
+motorrijder.be##.elementor-widget-container > a > img
 radiocontinu.nl##.eskimo-carousel-container
 noordkopcentraal.nl##.ewic-slider-pro-widget
 pornoplekje.nl##.exitpopup-modal-window
@@ -739,7 +740,7 @@ meerradio.nl##div[id="pristineslider.12"]
 motokicx.com##div[id^="adtemplate"]
 alblasserdamsnieuws.nl##div[id^="albla-"]
 sexjobs.nl##div[id^="banner-"]
-motokicx.com##div[id^="bannerhome"]
+motokicx.com,motorrijder.be##div[id^="bannerhome"]
 gewoonvoorhem.nl##div[id^="below-article-"]
 trosfm.be##div[id^="dries-"]
 dutchcryptotalk.com##div[id^="dutch-"]
