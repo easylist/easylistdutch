@@ -417,7 +417,7 @@ uecl-voetbal.nl,uel-voetbal.nl##.footerderden
 kanaalxxx.nl##.fpbnr
 motorrijdenexpert.nl##.full-row.relative-row.no-padding-bottom.title-txt-btn.flat-theme.flat-theme-content
 unitednews.sr##.fullwidthbanner-container
-amateursexstart.nl,binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dehavengids.nl,despirituelewereld.be,dewereldmorgen.be,regioinbedrijf.nl,seksmet.nl,sekswebsite.nl,shespot.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
+amateursexstart.nl,binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dehavengids.nl,despirituelewereld.be,dewereldmorgen.be,noordernieuws.nl,regioinbedrijf.nl,seksmet.nl,sekswebsite.nl,shespot.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 zozwanger.nl##.g-single
 zeelandnet.nl##.g_banner
 radiovisie.eu##.gmollik
