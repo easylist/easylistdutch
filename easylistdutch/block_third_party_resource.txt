@@ -18,6 +18,7 @@
 ||jobat.be/extra/trackuityhn/ticker_new.html$third-party
 ||jobfish.nl/widget/$third-party
 ||mmcdn.nl/tags/
+||nextdaymedia-ads.s3.amazonaws.com^
 ||ouders.nl/uploads/alt/$domain=viafora.nl
 ||partner.bol.com^$third-party
 ||partnerprogramma.bol.com^$third-party
