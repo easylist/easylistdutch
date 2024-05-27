@@ -326,6 +326,7 @@ podcastluisteren.nl,zeelandnet.nl##.bnr
 bodylifebenelux.nl##.bnrrow
 tpo.nl##.bol_pml_box
 wijwedden.net##.bookies
+voetbalvandaag.nl##.bookmaker-banner
 autoreview.nl##.bottom-bannuring
 bnr.nl##.branded
 classic.nl##.brievenbus
