@@ -183,6 +183,7 @@
 ||srherald.com/wp-content/banners/
 ||streamwijzer.be/wp-content/uploads/*-banner.
 ||te-les-koop.nl/images/B_
+||techgaming.nl/image_uploads/sponsored/
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-
