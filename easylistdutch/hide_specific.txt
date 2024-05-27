@@ -612,6 +612,7 @@ iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
 boottesten.nl,hoekschnieuws.nl,katholiek.nl,newspower.nu,nieuwsopbeeld.nl,railhobby.nl,regioonline.nl,rtvpapendrecht.nl,transport-online.nl,waterkant.net##.td-a-rec
 techpulse.be##.td-banner-wrap-full
+sportamerika.nl##.tdi_133
 bollenstreekomroep.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
 elegance.nl##.tdi_58
