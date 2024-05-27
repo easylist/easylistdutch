@@ -306,6 +306,7 @@ twentefm.nl##.bannerzone_728x90
 dutchitchannel.nl##.bannner
 fcupdate.nl##.bet365
 feyenoordpings.nl,twentefans.nl##.betcity-intro-wrapper
+voetbalnieuws.nl##.betting-article-insert
 vi.nl##.betting-provider-row
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
@@ -527,6 +528,7 @@ blokker.nl##.product-tile__column--criteo
 fhm500.nl##.profileh_tabac
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 openingsurengids.be##.promSB
+voetbalnieuws.nl##.promo-element
 fondsnieuws.nl##.promo-wrapper
 synoniemen.net##.promoblok
 skoften.net##.promoted
