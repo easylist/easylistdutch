@@ -514,6 +514,7 @@ hardware.info##.overview-item--success
 classicstogo.nl##.owl-carousel
 lekkercryptisch.nl##.p-footer__randomPartner
 ajax.nl##.page-footer__partners-block
+nd.nl##.page-header__inner__ad
 123video.nl##.page-load-switch
 klokradio.nl##.panel-grid.rslides-content
 atv.be,robtv.be,tvl.be,tvoost.be##.parallaxBnnr
