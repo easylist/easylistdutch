@@ -505,6 +505,7 @@ escortgirls.be,sexguide.nl,topescort.nl##.newbottom-fbanners
 partyflock.nl##.nice-thing
 nieuws.nl##.nieuws-banner
 tijd.be##.o-hpgrid__row-sponsoredcombo
+tijd.be##.o-hpgrid__row-tijdconnect
 twentefans.nl##.odd-wrapper
 flashscore.nl##.oddsPlacement
 vlaamskijken.nl##.order-book
