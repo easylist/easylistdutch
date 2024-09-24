@@ -40,6 +40,7 @@
 ||t.bazarow.com^$third-party
 ||traffic.12flirt.com^
 ||viralize.tv/display/$domain=startpagina.nl
+||wertuipsertj34.azurewebsites.net^$xmlhttprequest,domain=npo.nl
 ||widget.vpnnederland.nl^$domain=nzbserver.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||windows.net/banners/$domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
