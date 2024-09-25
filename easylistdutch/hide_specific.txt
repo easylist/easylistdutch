@@ -663,6 +663,7 @@ mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners
 rubenweytjens.be##.view-weather-ads-view
 2dehands.be,marktplaats.nl##.vip-banner-top-sticky-container
+wordfeudhelp.nl##.w-full.my-6.text-center.hoog
 autobahn.eu,dingenvoorvrouwen.nl,playboy.nl##.wb-label
 osuradio.nl##.wdslider
 baarsclassicrock.nl,tweakers.net##.widebanner
