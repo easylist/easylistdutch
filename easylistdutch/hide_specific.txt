@@ -18,7 +18,7 @@ rtveen.nl###advertenties
 omroeppenm.nl,rickfm.nl###advertisement
 alle-tests.nl,bloovi.be###advertising
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_1
-demorgen.be,humo.be,libelle.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
+demorgen.be,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_6
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_9
 autobahn.eu###avantisTarget
@@ -487,7 +487,7 @@ live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
 metronieuws.nl,want.nl##.mha_container
-demorgen.be,humo.be,libelle.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
+demorgen.be,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 mijn-tv-gids.be##.midzone
 autobahn.eu##.min-h-280.min-h-md-250
 scholieren.com##.min-h-90
@@ -640,7 +640,7 @@ startpagina.nl##.top-banner
 willem-ii.nl##.top-bar-logos
 wijwedden.net##.top-bookmaker-widget
 live-voetbal.com##.top-match
-demorgen.be,humo.be,libelle.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
+demorgen.be,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 escortgirls.be,sexguide.nl,topescort.nl##.topBanners
 negerin.nl##.topban
 feyenoord.nl##.totoOdds
