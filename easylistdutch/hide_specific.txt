@@ -684,6 +684,7 @@ handbalstartpunt.nl##.widget-banner
 onderwijsland.com##.widget-partners
 indebuurt.nl##.widget-tabs--partner
 indebuurt.nl##.widget-tabs--partners
+wos.nl##.widget.rounded-lg.lg\:rounded-2xl.p-1.lg\:p-4.border.overflow-visible.lg\:w-full.lg\:max-w-\[754px\].\!mx-auto
 autoblog.nl##.widget_ab_sidebar
 nieuws.nl##.widget_add_widget
 christelijknieuws.nl,ecobioliving.eu,groningerkrant.nl,iculture.nl,klapjes.nl,nljug.org,tiener-sexverhalen.nl,transport-online.nl##.widget_custom_html
