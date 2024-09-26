@@ -189,6 +189,7 @@ ajaxreport.nl###text-88
 ajaxreport.nl###text-91
 sexpower.nl###top-banner
 marktplaats.nl###top-banner-wrapper
+onderwijsnieuwsdienst.nl###topAdvertisement
 escort46.nl###top_image_div
 hollandskroonnieuws.nl,radio-minerva.be,wieringernieuws.nl###topbanner
 voetbal-vandaag.nl###topbox
@@ -337,6 +338,7 @@ tpo.nl##.bol_pml_box
 wijwedden.net##.bookies
 voetbalvandaag.nl##.bookmaker-banner
 autoreview.nl##.bottom-bannuring
+onderwijsnieuwsdienst.nl##.bottomSpace
 bnr.nl##.branded
 classic.nl##.brievenbus
 xgn.nl##.bs
