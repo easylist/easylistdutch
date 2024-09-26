@@ -139,6 +139,7 @@ rtvkrimpenerwaard.nl###pg-1407-8
 meteoalblasserdam.nl###pic_446
 sexpower.nl###pre-footer-banners
 bdsmgirl.nl###product_banner
+boerderij.nl###rb_logolink_box
 mnm.be,stubru.be###reclameblok-wrapper
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
