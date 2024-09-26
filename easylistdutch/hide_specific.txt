@@ -361,6 +361,7 @@ halstadcentraal.nl##.carouselbanner_left
 fonkonline.nl##.carrousel-wrapper
 motorfietsblog.nl##.cbcontent
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
+bitcoinmagazine.nl##.clickout-relative
 rd.nl##.codalt-container
 techgaming.nl##.code-block
 bol.com##.consideration-display
