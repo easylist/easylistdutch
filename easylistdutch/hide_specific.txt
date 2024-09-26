@@ -557,7 +557,7 @@ girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 nedporno.com##.publ11s-b0ttom
-iex.nl##.publisher-sh-spot
+iex.nl,tostrams.nl##.publisher-sh-spot
 gamer.nl##.px-\[24px\].bg-backgroundLighter.w-full.md\:w-fit.rounded-\[8px\].md\:mb-0.mb-\[16px\]
 simone.nl,wfm.be##.qt-sponsor
 rbsradio.be##.qt-sponsors
