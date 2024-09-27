@@ -365,6 +365,7 @@ halstadcentraal.nl##.carouselbanner_left
 fonkonline.nl##.carrousel-wrapper
 motorfietsblog.nl##.cbcontent
 monitor.iex.nl##.centerbanner
+techzine.nl##.chimney
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 bitcoinmagazine.nl##.clickout-relative
 rd.nl##.codalt-container
