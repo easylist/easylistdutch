@@ -566,6 +566,7 @@ gamer.nl##.px-\[24px\].bg-backgroundLighter.w-full.md\:w-fit.rounded-\[8px\].md\
 simone.nl,wfm.be##.qt-sponsor
 rbsradio.be##.qt-sponsors
 nedporno.com##.r11ght-pl4yer-169
+viraal.nl##.raw-html-component
 belegger.nl,debeurs.nl,eurobench.com##.recommendbanner
 wasmachines.nl##.rectangle
 iex.nl##.rectanglemid
