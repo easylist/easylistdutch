@@ -575,6 +575,7 @@ iex.nl##.rectanglemid
 iex.nl##.rectanglewrap
 nnieuws.be##.region-banner-diamond
 halstadcentraal.nl##.respbanners
+id.nl##.richtext_richtext-cta__ldQ3j
 2dehands.be,marktplaats.nl##.right-banner-root-container
 zeelandnet.nl##.row--bnr-between
 gamer.nl##.rs-banner
