@@ -38,6 +38,7 @@
 ||strafrechtadvocaten.nl/media/banner/$third-party
 ||swpportal.com/upload/squarebanners/
 ||t.bazarow.com^$third-party
+||tags.refinery89.com^
 ||traffic.12flirt.com^
 ||viralize.tv/display/$domain=startpagina.nl
 ||wertuipsertj34.azurewebsites.net^$xmlhttprequest
