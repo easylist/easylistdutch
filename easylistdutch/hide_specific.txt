@@ -141,6 +141,7 @@ meteoalblasserdam.nl###pic_446
 sexpower.nl###pre-footer-banners
 bdsmgirl.nl###product_banner
 boerderij.nl###rb_logolink_box
+fcutrecht.net###reclame
 mnm.be,stubru.be###reclameblok-wrapper
 nashvilletv.nl###ribbon
 rtlnieuws.nl###rtln-ad-advertorial
