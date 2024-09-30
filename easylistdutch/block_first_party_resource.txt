@@ -83,6 +83,7 @@
 ||gratissextube.be/banners/
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
+||groentennieuws.nl^*/banners/
 ||halstadcentraal.nl/images/banners/
 ||handbalstartpunt.nl/content/schoonkapje.gif
 ||handbalstartpunt.nl/images/mizuno-small.jpg
