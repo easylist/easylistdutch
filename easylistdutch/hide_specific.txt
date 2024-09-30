@@ -419,6 +419,7 @@ pornoplekje.nl##.exitpopup-modal-window
 crypto-insiders.nl##.exp-google-ad
 musicmeter.nl##.external
 escortgirls.be,sexguide.nl,topescort.nl##.fBanners
+voetbalzone.nl##.fco-openweb-ad
 fd.nl##.fd-message
 heracles.nl##.fixed-ads
 ml5.nl##.fl-module-uabb-image-carousel
