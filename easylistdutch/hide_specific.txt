@@ -236,6 +236,7 @@ filmtotaal.nl##.ad-centering
 babybytes.nl,bruzz.be,omroepflevoland.nl,pu.nl,sportuitslagen.org,trendalert.nl##.ad-container
 voetbal.com##.adbox
 sozio.nl##.adchannel
+faillissementsdossier.nl##.adcontainer
 nieuwsmotor.nl##.add-background
 vlaamskijken.nl,voetbalvandaag.be##.adds
 beurs.nl##.addslot
@@ -244,6 +245,7 @@ westerwoldeactueel.nl##.adr-wrapper
 cinenews.be,clint.be,handbal.nl,openrotterdam.nl,viamichelin.be,viamichelin.nl,vkmag.com,wegdamnieuws.nl##.ads
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal
 treinreiziger.nl##.ads-adsense-treinreiziger-horizontaal-5
+faillissementsdossier.nl##.adsbybinq
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 adodenhaag.nl,spelletje.nl##.adv
 nuus.be##.adv-link
@@ -320,7 +322,7 @@ voetbalnieuws.nl##.betting-article-insert
 vi.nl##.betting-provider-row
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
-gamer.nl##.billboard
+faillissementsdossier.nl,gamer.nl##.billboard
 iex.nl,tostrams.nl##.billboardwrap
 tostrams.nl##.billboardwrap-bottom
 iex.nl##.billboardwrapdown
