@@ -4,6 +4,7 @@ autobahn.eu,dingenvoorvrouwen.nl,playboy.nl###WB_VIDEO_PLAYER_TARGET
 hoekschnieuws.nl###\36 050c52fcf1d8-2
 gaynews.nl###abri
 gaynews.nl###abri1
+voetbalkrant.com###ad-intro-text
 welklidwoord.nl###ad-takeover
 menselijklichaam.nl###ad1
 filmtotaal.nl###adf-autonative
