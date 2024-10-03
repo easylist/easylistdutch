@@ -503,7 +503,7 @@ techpulse.be##.magazine-sidebar-block
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 mediacourant.nl##.mc-adv
-culy.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
+culy.nl,famme.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
 demorgen.be,flair.nl,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 mijn-tv-gids.be##.midzone
 autobahn.eu##.min-h-280.min-h-md-250
