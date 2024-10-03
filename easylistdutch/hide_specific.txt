@@ -367,6 +367,7 @@ volleybal.nl##.card-banner-large
 rkcwaalwijk.nl,webcam-harlingen.nl,webcam-maastricht.nl##.carousel
 halstadcentraal.nl##.carouselbanner_left
 fonkonline.nl##.carrousel-wrapper
+gva.be,hbvl.be,nieuwsblad.be,standaard.be##.cba_container_grid
 motorfietsblog.nl##.cbcontent
 monitor.iex.nl##.centerbanner
 techzine.nl##.chimney
