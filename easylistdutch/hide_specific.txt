@@ -482,6 +482,7 @@ dansendeberen.be##.inhype-bb-block-header
 radiopros.be##.inside-left-sidebar
 dolcevia.com##.ira-container.ira-format-block > .bookingaff
 reformatorischeomroep.nl##.item-banner
+defeijenoorder.nl##.jet-banner
 beursgorilla.nl##.js--billboard
 beursgorilla.nl##.js--rect
 iex.nl##.js-banner
