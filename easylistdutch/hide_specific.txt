@@ -438,6 +438,7 @@ handbal.be##.footer-top
 anoniem-surfen.nl##.footer-widget-1
 ajax1.nl##.footer__footer-fat
 feyenoordpings.nl,twentefans.nl##.footer__partners
+voetbalverslaafd.nl##.footer__partners-wrapper
 rtvgo.nl##.footeradd
 burggolf.nl##.footercontent
 uecl-voetbal.nl,uel-voetbal.nl##.footerderden
