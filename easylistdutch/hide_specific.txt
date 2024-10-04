@@ -459,6 +459,7 @@ schaatsen.nl##.header-partners-logo
 wos.nl##.header-right
 anoniem-surfen.nl##.header-widget-region
 golf.be##.header__bottom
+4gamers.be##.header__combell
 ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 arenalokaal.nl##.header_banner
