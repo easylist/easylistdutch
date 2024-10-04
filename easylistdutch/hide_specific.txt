@@ -405,6 +405,7 @@ androidplanet.nl,iphoned.nl##.dynamic-content-native
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
+cryptobenelux.com##.elementor-element-3839f8f
 biflatie.nl##.elementor-element-3f47075
 dartsactueel.nl##.elementor-element-4a0fad5
 domstadradio.nl##.elementor-element-a6b9134
