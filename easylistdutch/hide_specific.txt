@@ -849,7 +849,7 @@ nieuwsopbeeld.nl##img[width="640"][height="640"]
 volleyvlaanderen.be##img[width="670"][height="80"]
 webstick.nl##img[width="680"]
 wildfm.nl##img[width="699"][height="90"]
-pokeren.nl,ucl-voetbal.nl##img[width="728"][height="90"]
+cryptobenelux.com,pokeren.nl,ucl-voetbal.nl##img[width="728"][height="90"]
 basketballbelgium.be##img[width="970"][height="250"]
 bol.com##li.js_item_root:has(.dsa__list-padding)
 bol.com##section.js_slot-sponsored-products
