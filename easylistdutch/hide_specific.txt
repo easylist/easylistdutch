@@ -12,7 +12,7 @@ filmtotaal.nl###adf-autonative-2
 filmtotaal.nl,lonelyplanet.nl###adf-billboard
 lonelyplanet.nl###adf-billboard-2
 filmtotaal.nl###adf-rectangle
-apintie.sr###ads
+112brabant.nl,112nederland.nl,apintie.sr,gelrenieuws.nl,noordernieuws.nl###ads
 openingstijden.com###adsense_CSA
 veto.be###advert-campaign
 rtveen.nl###advertenties
