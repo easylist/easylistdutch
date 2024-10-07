@@ -217,6 +217,7 @@
 ||vtm.be^*-header-$domain=koken.vtm.be
 ||waarzo.nl/imagestore/banners/
 ||waarzo.nl/imagestore/site-banners/
+||waldnet.nl/images/ac/
 ||wanttoknow.nl^*Banner
 ||watersport-tv.nl/content/31400/pages/clnt/
 ||webcam-aalsmeer.nl/media/banners/

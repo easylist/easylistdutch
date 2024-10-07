@@ -668,6 +668,8 @@ live-voetbal.com##.top-match
 demorgen.be,flair.nl,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 escortgirls.be,sexguide.nl,topescort.nl##.topBanners
 negerin.nl##.topban
+waldnet.nl##.topdesk
+waldnet.nl##.topmob
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 computable.be,computable.nl##.true-logo
