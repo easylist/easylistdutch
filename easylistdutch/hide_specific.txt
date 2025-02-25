@@ -697,6 +697,7 @@ moviemeter.nl##.vod-widget-container
 wordfeudhelp.nl##.w-full.my-6.text-center.hoog
 autobahn.eu,dingenvoorvrouwen.nl,playboy.nl##.wb-label
 osuradio.nl##.wdslider
+isgeschiedenis.nl##.webads
 baarsclassicrock.nl,tweakers.net##.widebanner
 tweakers.net##.widebnr
 basketballbelgium.be##.widget-aoclubs-sponsors
