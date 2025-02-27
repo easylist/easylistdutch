@@ -196,6 +196,7 @@
 ||tpo.nl/broodplank/
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-
+||tvvisie.be/textads/textads.js
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
