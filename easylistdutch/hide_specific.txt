@@ -890,6 +890,7 @@ autobahn.eu#?#.d-none.d-md-block.mb-3:-abp-has(a[target="_blank"][rel="noopener"
 buienradar.nl#?#.linklist:-abp-has(h1:-abp-contains(Lekker Dichtbij Deals))
 businessinsider.nl#?#.widget_custom_html:-abp-has(h2:-abp-contains(Beter Beleggen))
 mediamarkt.be,mediamarkt.nl##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
+duurzaamnieuws.nl#?#.avia_codeblock_section:-abp-contains(Duurzaamnieuws wordt mede mogelijk gemaakt door:)
 fonq.nl#?#[data-cy="plp-tile-container"]:-abp-contains(Gesponsord)
 fonq.nl#?#li:-abp-contains(Gesponsord)
 geenstijl.nl#?#.article.row.no-image:-abp-has(.row.compost-warn:-abp-contains(- ingezonden mededeling -))
