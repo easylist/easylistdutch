@@ -375,6 +375,9 @@ monitor.iex.nl##.centerbanner
 techzine.nl##.chimney
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 bitcoinmagazine.nl##.clickout-relative
+skoften.net##.cls-placeholder-160-600
+skoften.net##.cls-placeholder-300-600
+skoften.net##.cls-placeholder-970-250
 rd.nl##.codalt-container
 gfcnieuws.com,techgaming.nl##.code-block
 bol.com##.consideration-display
