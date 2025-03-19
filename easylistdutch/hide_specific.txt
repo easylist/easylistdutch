@@ -606,7 +606,7 @@ zeelandnet.nl##.row--bnr-between
 racesport.nl##.rs_sponsorbanners_widget
 motorblog.nl##.sale
 oisterwijknieuws.nl##.sam-container
-ajaxshowtime.com,androidworld.be,androidworld.nl,dagelijksestandaard.nl,dartfreakz.nl,dartsnieuws.com,f1maximaal.nl,fr12.nl,indeleiderstrui.nl,twenteinsite.nl,vechtsportinfo.nl,vkmag.com##.sda
+ajaxshowtime.com,androidworld.be,androidworld.nl,dagelijksestandaard.nl,dartfreakz.nl,dartsnieuws.com,f1maximaal.nl,fr12.nl,indeleiderstrui.nl,loesoe.nl,twenteinsite.nl,vechtsportinfo.nl,vkmag.com##.sda
 scholieren.com##.searchvertorial
 dutchcowboys.nl##.section-a-dvertise
 tvgids.nl##.section-banner
