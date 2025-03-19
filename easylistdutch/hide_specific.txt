@@ -743,6 +743,7 @@ indebuurt.nl##.woty-banner
 streamwijzer.nl##.wp-block-buttons
 debestevpn.nl##.wpsm_promobox
 iphoned.nl##.wrap.hidden.lg\:flex.mt-8
+androidworld.nl##.wrap.overflow-hidden.relative.pt-5.z-30.sm\:h-\[90px\].sm\:pt-0
 beurs.nl##.wrapper--topbanner
 voetbalprimeur.nl##[class^="Ad_"]
 bright.nl##[class^="Ad_ad_"]
