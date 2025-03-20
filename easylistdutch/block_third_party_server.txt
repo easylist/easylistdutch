@@ -25,6 +25,7 @@
 ||tools-affil2.com^$third-party
 ||tools.islive.nl^$third-party
 ||travelads.be^$third-party
+||trickyrock.com^
 ||viadata.store^
 ||vpscash.nl^$third-party
 ||xpartners.nl^$third-party

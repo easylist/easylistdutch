@@ -5,6 +5,7 @@ gaynews.nl###abri
 gaynews.nl###abri1
 voetbal24.be###ad-desktop-incontent
 voetbalkrant.com###ad-intro-text
+voetbal24.be###ad-mobile-home-rectangle
 voetbal24.be###ad-mobile-incontent
 voetbal24.be###ad-mobile-outstream
 welklidwoord.nl###ad-takeover
