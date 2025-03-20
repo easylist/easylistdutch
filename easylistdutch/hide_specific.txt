@@ -212,6 +212,7 @@ telegraaf.nl##.Banner
 2dehands.be,marktplaats.nl##.BannerBottom-root
 marktplaats.nl##.BannerRight-root
 marktplaats.nl##.Banners-bannerFeedItem
+telegraaf.nl##.BasicTeaser__sponsored
 guruwatch.nl##.Billboard
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 telegraaf.nl##.ComponentRotation
