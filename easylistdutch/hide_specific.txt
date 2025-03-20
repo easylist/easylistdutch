@@ -3,7 +3,10 @@ immo.vlan.be###TopCompareBox
 autobahn.eu,dingenvoorvrouwen.nl,playboy.nl###WB_VIDEO_PLAYER_TARGET
 gaynews.nl###abri
 gaynews.nl###abri1
+voetbal24.be###ad-desktop-incontent
 voetbalkrant.com###ad-intro-text
+voetbal24.be###ad-mobile-incontent
+voetbal24.be###ad-mobile-outstream
 welklidwoord.nl###ad-takeover
 menselijklichaam.nl###ad1
 filmtotaal.nl###adf-autonative
