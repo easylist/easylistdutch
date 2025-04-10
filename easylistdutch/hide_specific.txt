@@ -473,6 +473,7 @@ hardware.info##.header-navigation__truelogo
 schaatsen.nl##.header-partners-logo
 wos.nl##.header-right
 anoniem-surfen.nl##.header-widget-region
+gratisoptehalen.nl##.headerAdWrap
 golf.be##.header__bottom
 4gamers.be##.header__combell
 ajax.nl##.header__partner-link
