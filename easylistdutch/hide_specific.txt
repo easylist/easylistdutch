@@ -269,6 +269,8 @@ albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goud
 geenstijl.nl##.afctr-wrapper
 wielerflits.be,wielerflits.nl##.affiliate_links
 gfcnieuws.com,historiek.net##.ai-viewport-1
+voedingswaardetabel.nl##.amgrayB
+voedingswaardetabel.nl##.amgrayT
 autoreview.nl##.ar_300_600_mid
 autoreview.nl##.ar_300_600_top
 autoreview.nl##.ar_970_250
