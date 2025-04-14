@@ -899,6 +899,7 @@ bol.com##section.js_slot-sponsored-products
 landenweb.nl##table[style="margin-left: auto; margin-right: auto; border: 1px solid; width: 100%; margin-bottom: 10px;"]
 radiocaramba.nl##table[width="120"][height="600"]
 ! :has()
+fok.nl##.col-1.h4:has(.sponsorsTxt)
 androidplanet.nl##.group.relative.flex-shrink-0.lg\:flex-shrink.lg\:first\:col-span-2.lg\:first\:row-span-2.w-\[300px\].lg\:w-auto.flex:has(div[data-name="sponsor-logo"])
 investmentofficer.nl##.io-tape-card__wrap:has(.io-tape-card__label__sponsored)
 weer.nl##.items-center.w-full.justify-center:has(div[data-advert-placeholder-collapses])
