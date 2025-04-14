@@ -20,6 +20,7 @@
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
 ||optoutadvertising.com^$third-party
+||publize.net^
 ||sponsorkliks.com^$third-party
 ||static-dscn.net^$third-party
 ||tools-affil2.com^$third-party
