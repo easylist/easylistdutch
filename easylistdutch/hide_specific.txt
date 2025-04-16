@@ -387,6 +387,7 @@ skoften.net##.cls-placeholder-300-600
 skoften.net##.cls-placeholder-970-250
 rd.nl##.codalt-container
 gfcnieuws.com,techgaming.nl##.code-block
+achterhoeknieuwswinterswijk.nl##.component__pubble-banner
 bol.com##.consideration-display
 twentefans.nl##.content-action
 juf-milou.nl##.content_blok_reclame
