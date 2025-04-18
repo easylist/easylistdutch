@@ -73,6 +73,7 @@ grandprixradio.nl###custom_html-17
 grandprixradio.nl###custom_html-18
 minimumloon.nl,omroepeemsdelta.nl,wereldreizigers.nl###custom_html-2
 arrowcaz.nl,messianieuws.nl###custom_html-3
+exxact.nl###custom_html-31
 historiek.net###custom_html-38
 messianieuws.nl###custom_html-4
 huisvlijt.com,messianieuws.nl###custom_html-5
@@ -170,7 +171,7 @@ adodenhaag.nl###sponsors-normal
 itwm.nl###tdi_37
 voetbal4u.be###text-11
 h20.gg,livestreamvandaag.be###text-14
-radiozuidrand.be###text-15
+exxact.nl,radiozuidrand.be###text-15
 edelmetaal-info.nl###text-16
 edelmetaal-info.nl,loemedia.nl###text-17
 edelmetaal-info.nl,voetbalweddenrss.nl###text-19
