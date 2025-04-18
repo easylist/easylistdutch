@@ -759,6 +759,7 @@ androidworld.nl##.wrap.overflow-hidden.relative.pt-5.z-30.sm\:h-\[90px\].sm\:pt-
 beurs.nl##.wrapper--topbanner
 voetbalprimeur.nl##[class^="Ad_"]
 bright.nl##[class^="Ad_ad_"]
+at5.nl##[class^="Advertisement_"]
 gamer.nl##[component-export="Ad"]
 androidplanet.nl##[data-name="featured-header"]
 9292.nl##[data-testid^="gpt-ad"]
