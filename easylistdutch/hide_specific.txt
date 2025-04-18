@@ -433,6 +433,7 @@ mr-online.nl##.elementor-element-da14229
 biflatie.nl##.elementor-location-popup
 biflatie.nl##.elementor-popup-modal
 motorrijder.be##.elementor-widget-container > a > img
+aalsmeervandaag.nl##.elementor-widget-media-carousel
 radiocontinu.nl##.eskimo-carousel-container
 noordkopcentraal.nl##.ewic-slider-pro-widget
 pornoplekje.nl##.exitpopup-modal-window
@@ -534,7 +535,7 @@ demorgen.be,flair.nl,humo.be,libelle.nl,margriet.nl,parool.nl,trouw.nl,volkskran
 mijn-tv-gids.be##.midzone
 autobahn.eu##.min-h-280.min-h-md-250
 scholieren.com##.min-h-90
-wegdamnieuws.nl##.mk-sponsorlink
+aalsmeervandaag.nl,wegdamnieuws.nl##.mk-sponsorlink
 wordfeudwoorden.nl##.mobblue
 radioeenhoorn.nl##.module_round_box
 marktplaats.nl##.mp-Listing--cas
@@ -662,7 +663,7 @@ ninefornews.nl##.stream-item
 despirituelewereld.be##.stream-item-widget
 iex.nl##.strossle-widget
 123video.nl##.stunt-wide
-dagbladdewest.com##.swiper-wrapper
+aalsmeervandaag.nl,dagbladdewest.com##.swiper-wrapper
 bekijkporno.nl##.table
 iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
