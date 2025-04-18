@@ -670,7 +670,8 @@ iexprofs.nl##.tagwrapper
 koken.vtm.be##.taxonomy-dedicated-header
 techpulse.be##.td-banner-wrap-full
 sportamerika.nl##.tdi_133
-bollenstreekomroep.nl##.tdi_36
+rtvpapendrecht.nl##.tdi_14
+bollenstreekomroep.nl,rtvpapendrecht.nl##.tdi_36
 omroepspakenburg.nl##.tdi_48
 elegance.nl##.tdi_58
 waterkant.net##.tdi_68
