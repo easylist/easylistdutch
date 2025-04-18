@@ -437,6 +437,8 @@ biflatie.nl##.elementor-popup-modal
 motorrijder.be##.elementor-widget-container > a > img
 aalsmeervandaag.nl##.elementor-widget-media-carousel
 radiocontinu.nl##.eskimo-carousel-container
+sol2.nl##.et_pb_image_0
+sol2.nl##.et_pb_slider
 noordkopcentraal.nl##.ewic-slider-pro-widget
 pornoplekje.nl##.exitpopup-modal-window
 crypto-insiders.nl##.exp-google-ad
