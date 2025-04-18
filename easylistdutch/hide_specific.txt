@@ -739,7 +739,7 @@ mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,psvreport.nl,voetbal4u.com,voetbalsnafu.nl##.widget_links
 infinance.nl##.widget_links_widget
-daemesenheeren.nl,eindtijdklok.org,nljug.org,noordkopcentraal.nl,radionova.be,sliedrecht24.nl,tiener-sexverhalen.nl##.widget_media_image
+daemesenheeren.nl,eindtijdklok.org,nljug.org,noordkopcentraal.nl,radionova.be,rtveen.nl,sliedrecht24.nl,tiener-sexverhalen.nl##.widget_media_image
 noordkopcentraal.nl##.widget_metaslider_widget
 schuttevaer.nl##.widget_minisites
 vlootschouw.nl##.widget_miw_widget_multiple_images
