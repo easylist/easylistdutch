@@ -551,6 +551,7 @@ edestad.nl##.mtb-0.ptb-15.mb-30.text-center.bg-grey
 qassa.nl##.muurpapier
 autoreview.nl##.my-12.py-6.relative.border-y.border-slate-300.sm\:flex.sm\:justify-between
 schie.nu##.my-5
+dmgdeurne.nl##.n2-section-smartslider
 iex.nl##.nativeblock
 scientias.nl##.ndm-desktop-only
 scientias.nl##.ndm-mobile-header-only
