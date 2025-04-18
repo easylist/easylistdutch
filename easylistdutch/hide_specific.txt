@@ -311,6 +311,7 @@ autowereld.nl,sexjobs.nl##.banner-wrapper
 opwindend.net##.banner468x60
 motocrossplanet.nl##.banner540
 rtvdordrecht.nl##.bannerContainer
+meetingmagazine.nl##.bannerLine
 iexprofs.nl##.banner__article
 tostrams.nl##.banner__articleside
 tostrams.nl##.banner__homeside
