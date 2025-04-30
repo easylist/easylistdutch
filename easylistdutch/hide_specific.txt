@@ -392,6 +392,7 @@ rd.nl##.codalt-container
 gfcnieuws.com,techgaming.nl##.code-block
 achterhoeknieuwswinterswijk.nl##.component__pubble-banner
 bol.com##.consideration-display
+deaandeelhouder.be,deaandeelhouder.nl##.container-commercial
 jumbo.com##.container.sponsored
 twentefans.nl##.content-action
 juf-milou.nl##.content_blok_reclame
