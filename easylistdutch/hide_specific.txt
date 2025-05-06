@@ -610,7 +610,7 @@ guruwatch.nl##.publisher-sh-spot1
 simone.nl,wfm.be##.qt-sponsor
 rbsradio.be##.qt-sponsors
 nedporno.com##.r11ght-pl4yer-169
-dagelijksestandaard.nl,sportbookies.nl,viraal.nl,wielrennenuptodate.nl##.raw-html-component
+dagelijksestandaard.nl,puna.nl,sportbookies.nl,viraal.nl,wielrennenuptodate.nl##.raw-html-component
 hoekschnieuws.nl##.rbct > a > img
 belegger.nl,debeurs.nl,eurobench.com##.recommendbanner
 wasmachines.nl##.rectangle
