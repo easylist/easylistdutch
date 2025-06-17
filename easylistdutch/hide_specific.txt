@@ -75,7 +75,7 @@ minimumloon.nl,omroepeemsdelta.nl,wereldreizigers.nl###custom_html-2
 arrowcaz.nl,messianieuws.nl###custom_html-3
 exxact.nl###custom_html-31
 historiek.net###custom_html-38
-messianieuws.nl###custom_html-4
+heelhollandkijkt.nl,messianieuws.nl###custom_html-4
 huisvlijt.com,messianieuws.nl###custom_html-5
 rtvalbrandswaard.com###custom_html-6
 nljug.org###custom_html-7
