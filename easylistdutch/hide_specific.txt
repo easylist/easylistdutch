@@ -556,6 +556,7 @@ schie.nu##.my-5
 dmgdeurne.nl##.n2-section-smartslider
 iex.nl##.nativeblock
 scientias.nl##.ndm-desktop-only
+autoblog.nl##.ndm-min-normal
 scientias.nl##.ndm-mobile-header-only
 iex.nl##.network:nth-of-type(2)
 escortgirls.be,sexguide.nl,topescort.nl##.newbottom-fbanners
