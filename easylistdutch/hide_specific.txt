@@ -43,6 +43,7 @@ bol-an.nl###block-11
 groningerkrant.nl###block-2
 spreekbuis.nl###block-3
 tiener-sexverhalen.nl###block-6
+scientias.nl###block-7
 bol-an.nl###block-9
 luchtvaartnieuws.nl###block-block-191
 blikopnieuws.nl###block-block-38
