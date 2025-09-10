@@ -12,6 +12,7 @@
 ##.hoofdAd2
 ##.kwebler-ad-minimal
 ##.massarius-dfp-unit
+##.rmn-advert
 ##a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://mt67.net/"]
 ##a[href^="https://www.2k19.nl/"]
