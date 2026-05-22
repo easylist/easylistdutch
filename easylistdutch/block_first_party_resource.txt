@@ -25,7 +25,7 @@
 ||bol-an.nl/wp-content/uploads/*/Adv_
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/uploads/banners/
-||cdn-ster-nl.akamaized.net/*.mp4$rewrite=abp-resource:blank-mp4,domain=npo.nl
+||cdn-ster-nl.akamaized.net/*.mp4$rewrite=abp-resource:blank-mp4,domain=nos.nl|npo.nl
 ||cdn-tmo.nl^*/banners/
 ||cdn-webcam-harlingen.nl/adv/
 ||chatmetvreemden.be/static/html/
